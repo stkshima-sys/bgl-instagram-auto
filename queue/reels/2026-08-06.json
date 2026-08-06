@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-06",
+  "category": "推し活動画",
+  "title": "推しユニ姿で全力応援！野球女子のエモい推し活ナイト",
+  "scene": "夕暮れのES CON FIELD HOKKAIDO、観客席でユニフォーム姿の2人組がタオルやうちわを掲げて応援。スタンドの熱気やワクワク感をスマホで自撮り＆撮り合い。ライトに照らされる笑顔と『推し活』の楽しさに包まれる映像。",
+  "caption": "「推しのユニフォーム、みんな着ていくの勇気いるかも…」そんな風に思ってたけど、いざ着てみると一気にテンションUP⤴️✨スタンドは同じ推し活女子がいっぱいで、初対面でもタオル掲げて目が合うだけで「分かる！」ってニコニコしちゃう。それだけで一気に距離が縮まって、野球観戦がもっと楽しくなっちゃうんだよね。応援グッズを持って、スタンドで盛り上がる自分がちょっと好きになるかも🥰一人でも、誰かとでも、推し活ナイトは最高！『自分だけの推し活スタイル』、みんなはどんな応援してる？気軽にコメントで教えてね！動画は保存して、次の観戦のイメトレにもぜひ📲",
+  "hashtags": [
+    "#野球女子",
+    "#推し活",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#一人観戦",
+    "#エスコンフィールド",
+    "#応援グッズ",
+    "#推しユニ",
+    "#観戦初心者",
+    "#ファイターズ女子"
+  ],
+  "prompts": {
+    "kling": "At ES CON FIELD HOKKAIDO during an evening game, two stylish Japanese women in their 20s wearing pastel-themed baseball uniforms take videos and selfies using their smartphones. They energetically wave towels and fans (uchiwa) supporting their team, capturing candid smiles and excitement. The crowded stands and stadium lights create a vibrant, emotional atmosphere. Soft pastel colors, handheld mobile shooting, no visible AI artifacts.",
+    "veo": "0-5s: Wide shot of the stands at ES CON FIELD as the sun sets, focusing on two Japanese women in pastel baseball uniforms finding their seats; 5-10s: Close-up as they wave towels and uchiwa towards the camera, cheering and laughing, capturing selfies and short videos with their phones; 10-15s: Over-the-shoulder shot capturing the glowing stadium lights and the joy on their faces as they share an emotional, authentic fan moment. Soft pastel tones and natural handheld motion throughout.",
+    "higgsfield": "Handheld camera follows two Japanese women in their 20s in pastel uniforms as they walk into the colorful stands at ES CON FIELD, panning as they sit and raise towels toward the field. Gentle push-in as one films a close-up selfie moment, then slow pan to capture the smiling friends and surrounding fan excitement, all in soft pastel color grading and natural movement."
+  },
+  "videoFile": "videos/2026-08-06.mp4"
+}
