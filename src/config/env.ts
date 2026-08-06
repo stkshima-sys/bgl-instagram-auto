@@ -19,7 +19,8 @@ export const env = {
   draftUrl: process.env.DRAFT_URL ?? "https://draft-match.com/?utm_source=instagram&utm_medium=bgl",
 };
 
-export const GRAPH_API = "https://graph.facebook.com/v23.0";
+// Instagramログイン方式（Facebookページ不要）。graph.facebook.com ではなく graph.instagram.com を使う
+export const GRAPH_API = "https://graph.instagram.com/v23.0";
 
 /** JSTの今日の日付 YYYY-MM-DD */
 export function todayJST(): string {

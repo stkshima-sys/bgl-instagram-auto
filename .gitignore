@@ -3,4 +3,5 @@ dist/
 .env
 service_account.json
 token_input.txt
+.token_cache.json
 *.log

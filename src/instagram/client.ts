@@ -117,12 +117,12 @@ export async function getMediaInsights(mediaId: string): Promise<Record<string, 
   return out;
 }
 
-/** アカウント基本情報（フォロワー数など） */
+/** アカウント基本情報（フォロワー数など）。Instagramログイン方式では /me を使う */
 export async function getAccountSnapshot(): Promise<{ followers: number; follows: number; mediaCount: number }> {
-  const r = await graph<{ followers_count: number; follows_count: number; media_count: number }>(
-    IG(), { fields: "followers_count,follows_count,media_count" },
+  const r = await graph<{ followers_count?: number; follows_count?: number; media_count?: number }>(
+    "me", { fields: "followers_count,follows_count,media_count" },
   );
-  return { followers: r.followers_count, follows: r.follows_count, mediaCount: r.media_count };
+  return { followers: r.followers_count ?? 0, follows: r.follows_count ?? 0, mediaCount: r.media_count ?? 0 };
 }
 
 /** アカウント単位の日次インサイト（プロフィール閲覧・サイトクリック・リーチ） */
