@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-07",
+  "slot": "noon",
+  "category": "初心者ガイド",
+  "title": "初観戦ガイド7選｜困らないための基本リスト",
+  "slides": [
+    {
+      "heading": "1. チケットの買い方",
+      "body": "公式サイトやアプリ、コンビニ端末からも買えるよ✨\n人気カードは早めの購入が安心。\n座席の種類もいろいろあるので、推し活や一人観戦、友達と…目的で選んでみて！"
+    },
+    {
+      "heading": "2. 座席の選び方",
+      "body": "内野席・外野席で雰囲気が全然違う！\n最初はバックネット裏や内野指定がおすすめ。\n推し選手を近くで見たい人は、その選手の守備位置側もチェックしてね👀"
+    },
+    {
+      "heading": "3. 野球の簡単ルール",
+      "body": "9人vs9人、点を多く取った方が勝ち！\n基本は「投げて、打って、走る」。\n細かいルールは知らなくても大丈夫、一緒に盛り上がろう！"
+    },
+    {
+      "heading": "4. 観戦マナー",
+      "body": "席を離れるときは周りに一声かけると◎\n大きな荷物や帽子で後ろの人の視界をふさがないように気をつけて。\nゴミは分別して持ち帰る球場も多いよ🍀"
+    },
+    {
+      "heading": "5. 必須の持ち物リスト",
+      "body": "チケット・現金（球場は現金オンリーも）・ミニバッグ・羽織や日焼け止め。\n双眼鏡や応援グッズもあると楽しい！\n季節によっては飲み物や冷感グッズも忘れずに🌿"
+    },
+    {
+      "heading": "6. 服装＆観戦コーデ",
+      "body": "動きやすくて温度調節しやすいものが◎\n球団Tやキャップ、ワンピ＋スニーカーも可愛い！\n昼間は日焼け・夜は冷えに注意してね。"
+    },
+    {
+      "heading": "7. 初心者でも大丈夫！",
+      "body": "最初はわからないことだらけでOK。\nみんな初めてがあるから、自分らしく楽しんで💐\n不安なことや体験談も、ぜひコメントでシェアしてね！"
+    }
+  ],
+  "caption": "「野球観戦したいけど、何を準備すればいいの？」\nそんな初心者さんの“あるある”な悩みをまとめてみました！球場って独特の雰囲気だし、初めてだと迷うことも多いけど、チケットの買い方から持ち物リスト、服装のポイントまで知っておけば安心度が全然違うんです☺️\nみんなの「これ持ってって良かった！」や「ここで戸惑った！」エピソードも、ぜひコメントで教えてね。保存しておくと今度の観戦前にサッと見返せるのでおすすめです♡",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#観戦初心者",
+    "#球場グルメ",
+    "#一人観戦",
+    "#推し活",
+    "#野球観戦デビュー",
+    "#観戦マナー",
+    "#持ち物リスト",
+    "#野球好きさんと繋がりたい"
+  ],
+  "coverImagePrompt": "Japanese baseball stadium, 20s Japanese women enjoy watching a baseball game, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, natural lighting, photorealistic, no text",
+  "images": [
+    "media/carousel/2026-08-07_noon/01_cover.jpg",
+    "media/carousel/2026-08-07_noon/02_slide.jpg",
+    "media/carousel/2026-08-07_noon/03_slide.jpg",
+    "media/carousel/2026-08-07_noon/04_slide.jpg",
+    "media/carousel/2026-08-07_noon/05_slide.jpg",
+    "media/carousel/2026-08-07_noon/06_slide.jpg",
+    "media/carousel/2026-08-07_noon/07_slide.jpg",
+    "media/carousel/2026-08-07_noon/08_slide.jpg",
+    "media/carousel/2026-08-07_noon/09_cta.jpg"
+  ]
+}
