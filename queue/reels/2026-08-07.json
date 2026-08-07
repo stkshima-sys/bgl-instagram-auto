@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-07",
+  "category": "一人観戦Vlog風",
+  "title": "神宮ソロ観戦の余韻Vlog 5シーン",
+  "scene": "明治神宮球場のゲートを一人でくぐるところからスタート。売店でグルメを選んで座席に着き、冷たいドリンクで乾杯する。試合後、夕暮れの外苑並木道を余韻に浸りながら歩く。",
+  "caption": "『一人で球場行くのって少し緊張しない？』実は私も最初はそうだったけど、神宮なら大丈夫。ふらっと入場して、今日のご褒美に球場グルメを選ぶ時間が最高に自由。おしゃれな観戦コーデで写真を撮るもよし、冷たいドリンクで一人乾杯してホッとするのもよし。試合の盛り上がりも、静かな外苑の帰り道も全部自分だけの大切な思い出になる。一人でも、こんなにエモい時間があるんだって、気づけた日。『一人で観戦したことある？』感想や体験、コメントで教えてね！保存もぜひ🩷",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#一人観戦",
+    "#明治神宮球場",
+    "#推し活",
+    "#野球観戦",
+    "#週末の過ごし方",
+    "#神宮ナイター",
+    "#エモい日常"
+  ],
+  "prompts": {
+    "kling": "A vertical 9:16, 10-15s photorealistic reel showing a Japanese woman in her twenties entering Meiji Jingu Stadium alone with a relaxed, excited face, casually filming herself with her phone. She walks through the stadium concourse, stops at a stylish food stall to select ballpark snacks, then moves to her pastel-colored seat at twilight. She smiles and clinks a cold drink to the camera in a candid, handheld shot, pastel pink and blue color grading. Finally, the camera follows her quietly walking under the glowing evening sky through the tree-lined avenue, enjoying the afterglow. No text overlays, no AI artifacts, natural handheld motion, soft lighting.",
+    "veo": "0-5s: Japanese woman in her twenties enters Meiji Jingu Stadium, filmed from her smartphone's POV, with soft pastel tones and an excited, gentle mood; 5-10s: She chooses a stylish snack at a ballpark food stall, then sits down in pastel-accented seats, raising a cold drink for a solo cheers, natural handheld movement; 10-15s: After the game, she strolls slowly along the tree-lined avenue outside, bathed in soft evening light, quietly savoring the solo experience. Photorealistic, vertical 9:16, no text overlays, no visible AI artifacts.",
+    "higgsfield": "Vertical 9:16. Natural handheld camera, starting with a gentle push-in as a Japanese woman in her twenties enters Meiji Jingu Stadium alone. Short pan across the food stall as she selects snacks. Handheld close-up as she sits and clinks a drink toward the camera, pastel lights in the background. Slow dolly-back and steady handheld as she walks alone along the twilight avenue after the game. Soft pastel color grading. No AI artifacts."
+  },
+  "videoFile": "videos/2026-08-07.mp4"
+}
