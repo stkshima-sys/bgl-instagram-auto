@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-08",
+  "slot": "evening",
+  "category": "一人観戦",
+  "title": "初めての一人観戦7つのヒント",
+  "slides": [
+    {
+      "heading": "一人観戦って、実は楽しい！",
+      "body": "「一人だと浮いちゃうかな？」って不安、わかる！\nでも行ってみると、自分のペースで楽しめて意外と快適なんだよね🎈"
+    },
+    {
+      "heading": "おすすめは“ベンチ上”席",
+      "body": "人の出入りも多いから、一人でも目立たない！\n選手も近くて、推しのプレーをすぐ目の前で見られるのもポイント⚾️"
+    },
+    {
+      "heading": "推し活グッズは軽めでOK",
+      "body": "応援タオルやミニうちわがあれば十分！\n荷物が少ないと、移動もラクだし気分も軽やかに☁️"
+    },
+    {
+      "heading": "球場グルメをじっくり満喫",
+      "body": "一人だからこそ、並ぶのも自由！\n食べたいものを好きな順番で選べるの、地味に最高なんだよね🍦"
+    },
+    {
+      "heading": "「一人観戦仲間」意外といる！",
+      "body": "同じように一人で来てる人、結構見かけるかも。\nSNSで感想をシェアするのも楽しいし、共通の話題で友達が増えることも👭"
+    },
+    {
+      "heading": "自分時間を大切にできる",
+      "body": "マイペースに過ごせるから、野球以外の景色や\n周りの雰囲気も味わいやすい！気づきも増えるかも🌱"
+    },
+    {
+      "heading": "帰り道も、ちょっと余裕",
+      "body": "自分のタイミングで帰れるから、混雑回避もできる！\n明日も頑張ろうって思える、気持ち良い一日になるよ✨"
+    }
+  ],
+  "caption": "「一人で野球観戦って、やっぱり勇気いるよね…」そんな気持ち、すごくわかる！でも意外と、一人だからこそ自由に楽しめる魅力がいっぱいなんだよ。おすすめの座席や、軽めの応援グッズ、気楽な過ごし方…。一人観戦って“寂しい”よりも“自分らしい”が勝つ時間かも。\n\n「一人で行ったことあるよ！」って人も、「ちょっと気になる…」って人も、コメントで一人観戦あるあるや、やってみたいこと教えてね📝\n\n一人観戦のハードル、少し下がったら嬉しいな。気になったら保存してみて！",
+  "hashtags": [
+    "#野球女子",
+    "#一人観戦",
+    "#観戦コーデ",
+    "#推し活",
+    "#球場グルメ",
+    "#観戦初心者",
+    "#野球観戦",
+    "#今日の球場",
+    "#野球好きさんと繋がりたい",
+    "#自分時間"
+  ],
+  "coverImagePrompt": "Japanese baseball stadium, 20s Japanese woman enjoying solo baseball game, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, natural smiles, daytime or early evening, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-08-08_evening/01_cover.jpg",
+    "media/carousel/2026-08-08_evening/02_slide.jpg",
+    "media/carousel/2026-08-08_evening/03_slide.jpg",
+    "media/carousel/2026-08-08_evening/04_slide.jpg",
+    "media/carousel/2026-08-08_evening/05_slide.jpg",
+    "media/carousel/2026-08-08_evening/06_slide.jpg",
+    "media/carousel/2026-08-08_evening/07_slide.jpg",
+    "media/carousel/2026-08-08_evening/08_slide.jpg",
+    "media/carousel/2026-08-08_evening/09_cta.jpg"
+  ]
+}
