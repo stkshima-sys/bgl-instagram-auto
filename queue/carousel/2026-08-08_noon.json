@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-08",
+  "slot": "noon",
+  "category": "球場グルメ",
+  "title": "横浜スタジアム映えグルメ7選",
+  "slides": [
+    {
+      "heading": "1. 青星寮カレー",
+      "body": "ベイスターズ選手も大好きな定番メニュー！\nスパイシーだけど食べやすい味が魅力だよ🍛\n三塁側『BAYSTORE』横で購入可"
+    },
+    {
+      "heading": "2. シウマイカレー弁当",
+      "body": "崎陽軒の名物シウマイ×カレーは贅沢すぎ…！\nお弁当スタイルでピクニック気分も味わえるよ🥟\n場内ワゴンで見つけてね"
+    },
+    {
+      "heading": "3. レモンポップコーン",
+      "body": "爽やかで映え感バッチリ🍋\nカップも可愛いからSNSに載せたくなる！\nライトスタンド付近売店でGET"
+    },
+    {
+      "heading": "4. クラフトビール＆唐揚げ",
+      "body": "横浜BAYBEERとカリカリ唐揚げは最強コンビ🥤\n飲み歩きも映えるから、友達とシェアも◎"
+    },
+    {
+      "heading": "5. パステルカラーアイス",
+      "body": "球場限定フレーバーが毎年登場！\n暑い日はこれでひんやり休憩しよ🍦\n一塁側『YOKOHAMA SWEETS』"
+    },
+    {
+      "heading": "6. 大盛りバターしょうゆコーン",
+      "body": "香ばしいにおいに絶対つられるやつ！\n手で食べやすくて、観戦中のおやつにぴったり🌽"
+    },
+    {
+      "heading": "7. 選手推しパン",
+      "body": "推し選手の顔がプリントされたパンは食べるのがもったいない可愛さ…🥰\n1塁側販売エリア限定！"
+    }
+  ],
+  "caption": "「球場グルメ、何食べるか毎回迷う...」ってならない？横浜スタジアムは、映えて美味しい＆お腹も心も大満足のメニューがたくさん！今回は特に女子に人気のグルメを7つ、売店の場所や頼み方と一緒にまとめてみたよ🍋🥟 カレーやシウマイなどの鉄板系も、爽やか系スイーツや限定パンも全部魅力的。\n\n友達とシェアしても楽しいし、一人観戦でもテンション上がるグルメばかり。みんなの“推しグルメ”もぜひ教えてほしいな！コメントでシェアしてくれると嬉しいです🌟「次に何食べるか」迷ったら、この投稿を見返してね！保存も忘れずに🧡",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#横浜スタジアム",
+    "#グルメ巡り",
+    "#推し活女子",
+    "#一人観戦",
+    "#映えメニュー",
+    "#スタジアム飯",
+    "#野球観戦初心者"
+  ],
+  "coverImagePrompt": "Photorealistic, natural lighting, Japanese baseball stadium scene during daytime, featuring stylish Japanese women in their 20s enjoying unique stadium food, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-08-08_noon/01_cover.jpg",
+    "media/carousel/2026-08-08_noon/02_slide.jpg",
+    "media/carousel/2026-08-08_noon/03_slide.jpg",
+    "media/carousel/2026-08-08_noon/04_slide.jpg",
+    "media/carousel/2026-08-08_noon/05_slide.jpg",
+    "media/carousel/2026-08-08_noon/06_slide.jpg",
+    "media/carousel/2026-08-08_noon/07_slide.jpg",
+    "media/carousel/2026-08-08_noon/08_slide.jpg",
+    "media/carousel/2026-08-08_noon/09_cta.jpg"
+  ]
+}
