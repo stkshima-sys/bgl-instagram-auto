@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-08",
+  "category": "一人観戦Vlog風",
+  "title": "ひとり観戦の幸せルーティン5シーン【横浜スタジアムVlog】",
+  "scene": "横浜スタジアムの入口でチケットを片手にドキドキしながら入場。売店で悩みながら球場グルメを選び、座席に座って乾杯。野球の熱気に包まれながら観戦を楽しみ、試合後は夕暮れの球場外を余韻に浸りながら歩く。",
+  "caption": "『一人で球場って不安…』そう思ってたけど、意外とハマるかも。チケット片手に横浜スタジアムを歩くこのワクワク感、売店で好きなグルメをゆっくり選ぶ時間、座席に着いて乾杯する瞬間、全部が自分だけの特別なご褒美タイム。応援の歓声に包まれると、一人なのに寂しくなくて、不思議と勇気がもらえる気がする。帰り道の余韻も、BGMは今日の思い出。『一人観戦どうだった？』って、ぜひコメントで教えてほしいな。忘れたくないから保存もおすすめです☺️",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#ひとり観戦",
+    "#横浜スタジアム",
+    "#推し活女子",
+    "#休日の過ごし方",
+    "#初心者観戦",
+    "#おしゃれ女子",
+    "#暮らしを楽しむ"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look with soft pastel color grading. A Japanese woman in her 20s, natural makeup and casual cute outfit, walking toward the entrance of Yokohama Stadium holding a ticket with slight nervous excitement. Next, handheld close ups as she browses and picks a snack at a stadium food stand. Cut to her at her seat, raising a drink for a solo toast, smiling at the game unfolding before her. Finish with an over-the-shoulder shot as she walks alone, slowly and reflectively, through the softly-lit concourse at dusk, city lights twinkling, expressing contentment and subtle nostalgia.",
+    "veo": "Vertical 9:16, 10-15s, photorealistic, smartphone-style, pastel color grading. 0-5s: A natural Japanese woman in her 20s enters Yokohama Stadium, pausing at the gate, showing her ticket, expressive with a hint of excitement. 5-10s: She walks through a lively concourse, then picks out a cute stadium meal at the food stall, capturing her thoughtful selection. 10-15s: She sits comfortably in her stadium seat, toasts the camera with a drink, then after the game, slowly exits, enjoying the afterglow with the stadium in the background, all shots handheld and intimate.",
+    "higgsfield": "Vertical 9:16, photorealistic, soft pastel color grading, natural light. Handheld camera follows a Japanese woman in her 20s entering Yokohama Stadium, slightly shaky movements to feel casual and real. Pan through the food stand as she chooses a snack. Handheld push-in as she sits and raises her drink for a solo toast, smiling. Slowly pull-back handheld as she walks alone through the stadium concourse at dusk, blending city and stadium lights for an emotional lingering end."
+  },
+  "videoFile": "videos/2026-08-08.mp4"
+}
