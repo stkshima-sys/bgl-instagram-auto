@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-09",
+  "category": "一人観戦Vlog風",
+  "title": "一人観戦が最高に楽しい理由3つ｜Tokyo Dome Vlog",
+  "scene": "1. スマホで自撮りしながらTokyo Domeに入場し、ワクワク感いっぱいの表情。2. 売店で迷いながら球場グルメを選ぶ手元と目線、座席で乾杯。3. 試合終了後の余韻でドーム外を歩きながら、夜風と光に包まれる横顔。",
+  "caption": "一人で球場ってちょっとハードル高い？実は、一人観戦だからこその特別な楽しさがあるんだよね☺️好きな時に好きなだけグルメを選んだり、推しのプレーに思いきりドキドキしたり…誰にも気を遣わず、自分だけのペースでTokyo Domeを満喫できるのが最高すぎ✨試合後の余韻を感じながら、夜風にあたって家路につく瞬間も、一人観戦ならではのご褒美かも。『一人でも全然楽しい』って思えた瞬間、次はもっと気軽に行けるはず！一人観戦デビューの思い出、みんなはどうしてる？ぜひコメントで教えてね♡保存も忘れずに！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#一人観戦",
+    "#東京ドーム",
+    "#観戦コーデ",
+    "#推し活",
+    "#野球観戦",
+    "#女子のひとり時間",
+    "#おひとりさま",
+    "#大人女子"
+  ],
+  "prompts": {
+    "kling": "A 20-something Japanese woman stylishly dressed, natural makeup, walks into Tokyo Dome alone, filming herself on her phone with a soft smile. She browses the food stalls, looks at menus, and chooses a pastel drink. She finds her seat, takes a selfie, and raises her drink in a solo 'cheers', with gentle stadium lighting. After the game, she slowly walks outside under sparkling night lights, soaking in the atmosphere, wind in her hair, close-up of her contented expression. Vertical 9:16, photorealistic, soft pastel color grading, natural handheld smartphone feel, no text overlays, no visible AI artifacts.",
+    "veo": "0-5s: A close-up of a Japanese woman in her 20s walking into Tokyo Dome, holding her smartphone at chest-level, capturing her anticipation and excitement. 5-10s: She stands at the concession area, browsing food options, then chooses a pastel beverage and a snack, smiles at her phone, and heads to her seat. 10-15s: Seated with the stadium gently lit around her, she clinks her drink to the camera in a solo toast, then, post-game, walks outside in the softly lit night, wind brushing her hair, content and relaxed. Vertical 9:16, photorealistic, pastel color tone, natural handheld motion, no overlays or AI artifacts.",
+    "higgsfield": "Vertical 9:16, photorealistic. Start: handheld tracking shot as the woman enters Tokyo Dome, slight push-in on her happy expression. Pan across the concession area as she selects food, gentle hand-held close-up on her drink. Seated, a steady hand-held medium shot as she smiles and raises her drink. In the ending, handheld tracking as she walks outside under stadium lights, with a slow pan to capture her enjoying the night air. Soft pastel color grading, natural movement, no text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-08-09.mp4"
+}
