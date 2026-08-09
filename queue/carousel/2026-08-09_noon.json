@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-09",
+  "slot": "noon",
+  "category": "球場グルメ",
+  "title": "東京ドーム映えグルメ7選",
+  "slides": [
+    {
+      "heading": "1. ジャイアンツドッグ🌭",
+      "body": "東京ドームといえばこれ！ボリューム満点のホットドッグは映え度◎。\n売店は1階コンコース南側、850円。片手で食べやすいので野球女子に人気だよ♪"
+    },
+    {
+      "heading": "2. いちごパフェ🍓",
+      "body": "スイーツ好き必見！たっぷりいちごと濃厚ソフトクリームがかわいすぎる…！\n3ゲート近く、売店「D’s sweets」で750円。昼観戦のおやつにピッタリ。"
+    },
+    {
+      "heading": "3. 唐揚げバケツ🐔",
+      "body": "グループ観戦の定番。食べ応え抜群でみんなとシェアしやすいよ。\n1階・2階どちらでも購入OK。1,200円。塩味と醤油味が選べるのが嬉しい！"
+    },
+    {
+      "heading": "4. バターチキンカレー🍛",
+      "body": "スパイスがきいてて意外と本格派！？\n「TOKYO KITCHEN」売店（1階13通路近く）で1,000円。ごはんものが欲しい時におすすめだよ。"
+    },
+    {
+      "heading": "5. たっぷりチーズポテト🧀",
+      "body": "とろけるチーズがたまらない♡カリカリのポテトと相性バツグン！\n2階スタンド、売店「球場キッチン」で650円。写真映えもばっちり。"
+    },
+    {
+      "heading": "6. フルーツサワー🍹",
+      "body": "カラフルでSNS映えするドリンクも！\n1階14通路付近。800円で季節のフルーツ入り。ノンアルコールもあるから安心して楽しめるよ。"
+    },
+    {
+      "heading": "7. 球場限定プリン🍮",
+      "body": "東京ドームだけの限定スイーツ。クリーミーでなめらかな味わいが癖になる！\n1階「スイーツファクトリー」売店で500円。\nお土産にもおすすめ♪"
+    }
+  ],
+  "caption": "東京ドームって、何を食べるか悩むくらいグルメ天国だよね🍦\n昼観戦や一人観戦の日も「これなら絶対ハズさない！」って思える名物・映えメニューをまとめました。野球初心者さんも“食”から楽しむのが一番簡単だし、推し活女子や友達とシェアするのも最高♡\nどのグルメが気になる？みんなのおすすめ球場グルメもぜひコメントで教えてほしいな！\n保存しておけば次の観戦の参考になること間違いなしです🎀",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#東京ドームグルメ",
+    "#推し活女子",
+    "#野球観戦初心者",
+    "#女子野球部",
+    "#一人観戦デビュー",
+    "#推し活ごはん",
+    "#野球好きな人と繋がりたい"
+  ],
+  "coverImagePrompt": "A photorealistic natural photo of a group of Japanese women in their twenties enjoying food at a Japanese baseball stadium (like Tokyo Dome). Soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, outdoor sunlight, smiling, no text.",
+  "images": [
+    "media/carousel/2026-08-09_noon/01_cover.jpg",
+    "media/carousel/2026-08-09_noon/02_slide.jpg",
+    "media/carousel/2026-08-09_noon/03_slide.jpg",
+    "media/carousel/2026-08-09_noon/04_slide.jpg",
+    "media/carousel/2026-08-09_noon/05_slide.jpg",
+    "media/carousel/2026-08-09_noon/06_slide.jpg",
+    "media/carousel/2026-08-09_noon/07_slide.jpg",
+    "media/carousel/2026-08-09_noon/08_slide.jpg",
+    "media/carousel/2026-08-09_noon/09_cta.jpg"
+  ]
+}
