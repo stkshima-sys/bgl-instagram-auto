@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-10",
+  "slot": "evening",
+  "category": "球場グルメ",
+  "title": "行列必至！映え球場グルメ7選",
+  "slides": [
+    {
+      "heading": "1. 神宮名物「ソーセージ盛り」",
+      "body": "神宮球場で大人気のソーセージ盛り🍖\nビール片手に盛り上がるには絶対必須！\n売店は1塁側スタンド付近でGETできるよ"
+    },
+    {
+      "heading": "2. 甲子園「甲子園カツサンド」",
+      "body": "阪神ファンなら一度は食べたいカツサンド🥪\nちょっとリッチな気分で観戦気分UP！\n3塁側コンコースの売店が穴場"
+    },
+    {
+      "heading": "3. ZOZOの「メロンパンアイス」",
+      "body": "メロンパン×冷たいアイスが最高♡\n季節問わず食べ歩きにも映え確定🧊\n外野グルメストリートで販売中"
+    },
+    {
+      "heading": "4. 東京ドーム「ジャビットまん」",
+      "body": "インスタでよく見るあの“うさぎ”まん🐰\n写真撮ってから食べるのはお約束♪\n場内コンコース各所で発見できるよ"
+    },
+    {
+      "heading": "5. PayPay「ホークスデザート」",
+      "body": "かわいいホークスコラボスイーツが豊富！🍰\n限定プリンやパフェは要チェック\n1塁側カフェスタンドがおすすめ"
+    },
+    {
+      "heading": "6. 横浜「ベイスターズドッグ」",
+      "body": "長いソーセージがインパクト大！🌭\n推しカラーのコーラと一緒に写真撮りたい\n内野3塁側売店で見つかるよ"
+    },
+    {
+      "heading": "7. 食べる順番のコツ",
+      "body": "まずは撮影用に映えグルメ→塩系おかず\n→最後に甘いスイーツで締めるのが鉄板♪\n混雑回避は3回表あたりが狙い目！"
+    }
+  ],
+  "caption": "「球場グルメって何から食べればいいか迷うよね！」\n毎回列ができる映えグルメだけ集めてみました♡\nソーセージ盛りやメロンパンアイスなど人気メニューを、買える場所・おすすめの食べる順も紹介。スタジアム観戦はグルメも楽しみのひとつ。みんなの“推し球場グルメ”もコメントで教えてね！\n保存しておけば、次の観戦前に迷わずチョイスできるはず🍴✨",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#映えグルメ",
+    "#スタジアムごはん",
+    "#推し活女子",
+    "#球場スイーツ",
+    "#野球観戦初心者",
+    "#おすすめスポット",
+    "#保存したい投稿"
+  ],
+  "coverImagePrompt": "Japanese women in their 20s enjoying baseball at a Japanese stadium, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-08-10_evening/01_cover.jpg",
+    "media/carousel/2026-08-10_evening/02_slide.jpg",
+    "media/carousel/2026-08-10_evening/03_slide.jpg",
+    "media/carousel/2026-08-10_evening/04_slide.jpg",
+    "media/carousel/2026-08-10_evening/05_slide.jpg",
+    "media/carousel/2026-08-10_evening/06_slide.jpg",
+    "media/carousel/2026-08-10_evening/07_slide.jpg",
+    "media/carousel/2026-08-10_evening/08_slide.jpg",
+    "media/carousel/2026-08-10_evening/09_cta.jpg"
+  ]
+}
