@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-10",
+  "category": "一人観戦Vlog風",
+  "title": "一人観戦Vlog｜YOKOHAMA夜の余韻",
+  "scene": "横浜スタジアムの正面ゲート前でチケットを握りしめて入場。売店でピンク色のドリンクを手に選手タオルとグッズをゲット。座席に着いて明るい球場を見渡す、乾杯・歓声・そして試合後の余韻に浸る帰り道まで、一人目線で記録。",
+  "caption": "『一人で球場に行くのって、最初はちょっとドキドキ。でも、一歩足を踏み入れたときのワクワクって、誰かと一緒じゃなくても味わえるんだなって思った🍹✨\n今日は横浜スタジアムで一人観戦デビュー。売店で迷いながら買ったピンク色のドリンク、推しタオルをバッグに忍ばせて…ふとした瞬間に聞こえる歓声や、ライトに照らされるグラウンドのきらめき。気づいたら、自然に笑顔になってた。帰り道はまだ心が熱くて、そっと余韻を持ち帰る。実は一人観戦、ちょっとクセになりそう…！\n一人で観戦したことある人、どんな過ごし方してる？コメントで教えてもらえたらうれしいな💡保存して、次の観戦のヒントにもどうぞ！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#一人観戦",
+    "#横浜スタジアム",
+    "#推し活女子",
+    "#スタグル",
+    "#ベイスターズ女子",
+    "#大人の趣味",
+    "#エモい日常"
+  ],
+  "prompts": {
+    "kling": "A young Japanese woman in her 20s, natural makeup and stylish casual wear, walks alone toward the entrance of Yokohama Stadium at dusk, holding a ticket. Handheld smartphone POV as she enters the stadium with a soft smile, browses bright stadium shops for pastel-themed food and drinks, then sits in a pastel blue and white seat. She raises a pink drink in a quiet toast, the stadium lights glowing and crowds around. Final scene: slow walk out of the stadium, city night lights in background, her relaxed and happy expression captured, all shot with natural handheld movement and soft pastel color grade.",
+    "veo": "0-5s: A stylish Japanese woman in her 20s films herself walking into Yokohama Stadium at sunset, ticket in hand, excited and a little nervous, with gentle camera shakes; 5-10s: She browses the colorful stadium shops, chooses a pastel pink drink and a soft towel, then walks up the steps to her seat; 10-15s: Sitting in the stands, she lifts her drink for a solo toast, smiles at the game in the bright field, before slowly leaving the stadium, city lights glowing in the background. All scenes have a soft, cafe-style pastel look and smartphone-shot feel.",
+    "higgsfield": "Handheld, vertical 9:16; slow pan following the woman walking into the stadium; gentle walk-through shot at the shop with push-in on her choosing a pink drink; handheld push-in as she sits in her seat and raises her drink, then slow handheld tracking shot as she walks out, surrounded by soft city lights and stadium glow. Soft lighting, pastel colors, and natural movements throughout. No text overlays, no visible AI artifacts."
+  },
+  "videoFile": "videos/2026-08-10.mp4"
+}
