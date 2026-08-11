@@ -1,0 +1,51 @@
+{
+  "date": "2026-08-11",
+  "slot": "evening",
+  "category": "観戦コーデ",
+  "title": "夏の球場観戦コーデ5選",
+  "slides": [
+    {
+      "heading": "1. 涼しげワンピで楽ちん可愛く",
+      "body": "風通しの良いコットンワンピなら、座っていても楽ちん！\n動きやすさも可愛さも欲張りたい人におすすめ👗\nスタジアムで映えるカラーが推し活にも◎"
+    },
+    {
+      "heading": "2. キャップ＆Tシャツで推し感UP",
+      "body": "推しカラーのTシャツ×デニムにキャップを合わせてカジュアルに！\n日焼け＆髪ボサ防止にもなるから一石二鳥🧢\n球場メニューの食べこぼしも気にならない！"
+    },
+    {
+      "heading": "3. サマーカーデは温度調節の味方",
+      "body": "夜のナイターやドームの冷房対策に、薄手カーデをバッグにIN。\n肩掛けでもかわいいし、冷え対策にもなるよ🌙\n急な天気の変化にも安心。"
+    },
+    {
+      "heading": "4. バッグの中身は何入れる？",
+      "body": "ミニバッグ＋エコバッグのW使いが最近の定番！\n除菌シートやミニ扇風機、ペットボトルも忘れずに🍹\n荷物は軽めが観戦の鉄則だよ。"
+    },
+    {
+      "heading": "5. NGはヒール＆厚着！？",
+      "body": "ヒールだと階段でつらいし、厚着は汗だくになるから要注意！\nスニーカーやサンダルが楽ちんだし、Tシャツ＋羽織りが最強。\nラフだけど女子っぽさも忘れずにね✨"
+    }
+  ],
+  "caption": "「球場コーデ、毎回悩むよね…😅」\n夏の観戦って暑いけど、可愛さも快適さも大事！そこで今回は、女子が実際にやってる夏の球場コーデを5つまとめてみました🌿ワンピやTシャツ、カーデを使った王道＆リアルなコーデから、バッグの中身ややりがちなNG例まで…。\n自分の観戦スタイルや推しに合わせて、参考になったら嬉しいです！「このコーデ真似したい」や「私はこれ持っていく派！」など、コメントで教えてくれたらすごくうれしいです🙌\nあとで見返したい人は、ぜひ保存してね！",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#夏コーデ",
+    "#球場ファッション",
+    "#推し活",
+    "#一人観戦",
+    "#球場女子",
+    "#帽子コーデ",
+    "#カジュアルコーデ",
+    "#夏のおしゃれ"
+  ],
+  "coverImagePrompt": "Japanese women in their 20s enjoying a baseball game at a Japanese stadium, wearing stylish and casual summer clothes, photorealistic, natural lighting, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, no text",
+  "images": [
+    "media/carousel/2026-08-11_evening/01_cover.jpg",
+    "media/carousel/2026-08-11_evening/02_slide.jpg",
+    "media/carousel/2026-08-11_evening/03_slide.jpg",
+    "media/carousel/2026-08-11_evening/04_slide.jpg",
+    "media/carousel/2026-08-11_evening/05_slide.jpg",
+    "media/carousel/2026-08-11_evening/06_slide.jpg",
+    "media/carousel/2026-08-11_evening/07_cta.jpg"
+  ]
+}
