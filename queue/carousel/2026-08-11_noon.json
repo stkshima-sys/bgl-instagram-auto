@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-11",
+  "slot": "noon",
+  "category": "一人観戦",
+  "title": "一人観戦が楽しくなる7つのコツ",
+  "slides": [
+    {
+      "heading": "一人観戦、実は楽しい！",
+      "body": "「一人で行くのちょっと不安…」そんな人も多いはず。でも実は、自由度MAXでめちゃくちゃ楽しいんです🥰"
+    },
+    {
+      "heading": "おすすめの座席は？",
+      "body": "内野席は落ち着いて観戦できるから初心者にもぴったり！\n外野席は応援したい時に◎\n好きな雰囲気で選ぶのがおすすめです⚾"
+    },
+    {
+      "heading": "持っていくと安心な持ち物",
+      "body": "モバイルバッテリー、飲みもの、帽子、日焼け止めは必須！\n雨の日は折りたたみ傘もお忘れなく☂️"
+    },
+    {
+      "heading": "現地での過ごし方アイデア",
+      "body": "グルメをゆっくり味わったり、写真を撮ったり。\n自分だけの「推し活」タイムを満喫できるよ🍧📸"
+    },
+    {
+      "heading": "トイレ・グッズ購入も楽々",
+      "body": "誰かを待たせる心配ナシ！自分のペースで動けるのが一人観戦のいいところ。\n「ちょっと寄り道」も気ままに楽しもう✌️"
+    },
+    {
+      "heading": "意外と一人女子多いかも？",
+      "body": "実は1人で観戦してる女性、最近すごく増えてます！\nみんなも「なんだ、案外平気！」って思ってるかも☺️"
+    },
+    {
+      "heading": "ちょっと勇気出してみて",
+      "body": "最初はドキドキだけど、行ってみたらきっと新しい楽しさが見つかるはず。\n一人観戦デビュー、一緒に楽しもう♡"
+    }
+  ],
+  "caption": "「一人で球場行くの、実はちょっと怖い…」って思ったことありませんか？私も最初はめっちゃ緊張したけど、行ってみたら「こんなに楽なんだ！」ってびっくりしました。おすすめの座席、持ち物リスト、過ごし方のコツをギュッとまとめたので、これを見れば一人観戦のハードルがぐっと下がるはず。実は一人観戦してる女子、今すごく増えてます。自分だけのペースで、グルメも推し活も全部楽しめるから最高ですよ♡「私もやってみたい！」って思ったら、ぜひ保存しておいてね。あなたの一人観戦エピソードや気になることもコメントで教えてください😆",
+  "hashtags": [
+    "#野球女子",
+    "#一人観戦",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#スタジアムデビュー",
+    "#推し活女子",
+    "#ひとり時間",
+    "#趣味活",
+    "#スポーツ観戦好き",
+    "#野球観戦初心者"
+  ],
+  "coverImagePrompt": "a photorealistic, natural lighting image of a stylish Japanese woman in her 20s at a baseball stadium in Japan, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, enjoying the game with a relaxed and happy expression, soft background, no text",
+  "images": [
+    "media/carousel/2026-08-11_noon/01_cover.jpg",
+    "media/carousel/2026-08-11_noon/02_slide.jpg",
+    "media/carousel/2026-08-11_noon/03_slide.jpg",
+    "media/carousel/2026-08-11_noon/04_slide.jpg",
+    "media/carousel/2026-08-11_noon/05_slide.jpg",
+    "media/carousel/2026-08-11_noon/06_slide.jpg",
+    "media/carousel/2026-08-11_noon/07_slide.jpg",
+    "media/carousel/2026-08-11_noon/08_slide.jpg",
+    "media/carousel/2026-08-11_noon/09_cta.jpg"
+  ]
+}
