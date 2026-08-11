@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-11",
+  "category": "推し活動画",
+  "title": "推しユニ姿でTokyo Dome応援デビュー",
+  "scene": "1人または2人の20代女性がパステルカラーの推しユニフォームを着てTokyo Domeのスタンドに到着。タオルやうちわを笑顔で掲げて応援し、まわりの熱気や一体感にワクワクしている様子。夕暮れのナイター照明がキラキラと差し込む中、友達同士や一人でも楽しめる瞬間を切り取る。",
+  "caption": "一人で球場行くのって、最初はちょっとドキドキ。でも推しのユニフォームを着て、自分なりにおしゃれして行くと、不思議と自信が湧いてくるんだよね。今日はTokyo Domeで、好きな選手のタオルやうちわを持って、思いきり応援！気づけば、まわりの『推し活』女子たちと自然に目が合ってニコッ。スタンドの熱気に包まれて『ここに来てよかった』って何度も思っちゃう。野球観戦、まだ一人で行ったことない人も、まずはお気に入りのユニから始めてみて。あなたはどんな推し活してる？保存して、次のお出かけの参考にしてみてね🩵",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#推し活女子",
+    "#東京ドーム",
+    "#一人観戦デビュー",
+    "#推し活のある暮らし",
+    "#ナイター観戦",
+    "#野球観戦初心者",
+    "#うちわ応援"
+  ],
+  "prompts": {
+    "kling": "A photorealistic, vertical 9:16, 10-15s, smartphone-shot style video of one or two Japanese women in their 20s, wearing pastel-toned baseball jerseys, standing in the stands at Tokyo Dome. They joyfully hold up towels and wave fan uchiwa, surrounded by excited fans. Shot during sunset or under stadium night lights, the girls laugh and cheer, with soft pastel color grading and natural handheld motion, no text overlays, no AI artifacts.",
+    "veo": "vertical 9:16, photorealistic, smartphone-shot look, 10-15s. \n0-5s: A Japanese woman in her 20s wearing a pastel baseball jersey walks up the Tokyo Dome steps, hand-held POV, excitement on her face. \n5-10s: She stands with a friend, both waving towels and uchiwa, cheering, stadium lights softly illuminating them, crowd energy evident. \n10-15s: Close-up of her smiling, looking around at the lively stands, capturing the moment on her phone, pastel color grading, no text overlays, no AI artifacts.",
+    "higgsfield": "vertical 9:16, photorealistic, smartphone-captured look, Japanese women in their 20s at Tokyo Dome. Start with a handheld walking shot following a woman in a pastel jersey approaching her seat (handheld pan). Cut to a push-in as she raises a towel and cheers, friend beside her, fans in background. End with a handheld close-up, panning slightly left to right as she smiles at the atmosphere around her. Soft pastel color grading, no overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-08-11.mp4"
+}
