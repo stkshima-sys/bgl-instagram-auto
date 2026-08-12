@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-12",
+  "category": "球場グルメ紹介",
+  "title": "神宮球場グルメで乾杯リール",
+  "scene": "夕暮れの明治神宮野球場。20代の女性2人が観客席で名物グルメを手に持ち、笑顔で『乾杯！』。一口食べて幸せそうに目を合わせる姿に、球場ならではの特別感が漂う。",
+  "caption": "球場に来ると、つい食べたくなるのが神宮名物のグルメたち🍔🍺 友達と『乾杯！』しながら食べる熱々フード、もう最高だよね。ナイターのちょっと涼しい風、ライトに照らされるスタンド、思わず写真を撮りたくなっちゃうかわいさもポイント。ひとりで来ても席でパシャッと撮れば気分あがるし、グルメ目当てで球場に行くのもありかも！みんなの好きな球場グルメも教えてほしいな♡ あとでお店探せるように、ぜひ保存しておいてね！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#神宮球場",
+    "#推し活女子",
+    "#カフェ風グルメ",
+    "#スタジアムフード",
+    "#ナイター観戦",
+    "#リアル観戦",
+    "#グルメ旅"
+  ],
+  "prompts": {
+    "kling": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Two stylish Japanese women in their 20s with natural makeup, sitting in the stands of Meiji Jingu Stadium during an evening baseball game. They hold hot dogs and plastic cups of beer, smile brightly, and toast each other. One takes a joyful bite of her food, the other laughs. The stadium lights softly illuminate their faces. The background is softly blurred, pastel tones (white, beige, pastel pink, light blue). No text overlays, no AI artifacts.",
+    "veo": "vertical 9:16, photorealistic, smartphone-shot, pastel color grading, Japanese women in their 20s, Meiji Jingu Stadium. 0-5s: Smooth push-in handheld shot of two women in pastel-toned casual fashion, sitting together in the evening stands, holding colorful stadium food and drinks, exchanging excited looks. 5-10s: One woman says 'Kanpai!' and they gently clink plastic cups, smiling and laughing. 10-15s: Close-up shot as they each take a bite, close eyes in happiness, then look at each other surrounded by softly glowing stadium lights.",
+    "higgsfield": "vertical 9:16, photorealistic, smartphone-shot, soft pastel color grading. Start with a handheld pan from the stadium view to two Japanese women in their 20s, casual and stylish, sitting in the stands at dusk. Push-in as they raise their food and drinks, clink cups with a 'Kanpai' gesture. Subtle handheld shake as they take a bite and share a natural, joyful moment. No text overlays, crowd in soft focus, natural ambient stadium lighting."
+  },
+  "videoFile": "videos/2026-08-12.mp4"
+}
