@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-13",
+  "slot": "noon",
+  "category": "一人観戦",
+  "title": "はじめての一人観戦7つのコツ",
+  "slides": [
+    {
+      "heading": "一人観戦、実は楽しい？",
+      "body": "「一緒に行く人がいない…」って悩むけど、一人で行くと自分ペースで観戦できて、意外と快適なんだよね🌿友達ができるきっかけにもなるかも。"
+    },
+    {
+      "heading": "おすすめ座席はどこ？",
+      "body": "まずは通路側か、端っこの席が安心！トイレも行きやすいし、周りを気にせず観戦できるよ。女性専用エリアがある球場もチェックしてみて。"
+    },
+    {
+      "heading": "一人時間の過ごし方",
+      "body": "試合だけじゃなく、球場内をお散歩したりグルメ巡りも楽しい🍦写真を撮ったり、ゆっくり推し選手の応援ができるのが一人観戦の特権！"
+    },
+    {
+      "heading": "持っていくと安心なもの",
+      "body": "最小限なら、スマホ・現金・ICカード・水分・ハンカチ・日焼け止めがあればOK！推しグッズで気分もUP✨カバンは小さめがおすすめ。"
+    },
+    {
+      "heading": "一人観戦って、意外と平気！",
+      "body": "「変じゃないかな…」って心配しがちだけど、実際は一人の女性もたくさん！周囲も誰も気にしていないから、思いきって楽しもう💙"
+    },
+    {
+      "heading": "一人観戦女子のリアル",
+      "body": "「ハマると抜け出せない！」「自分だけの推し活ができる」など、経験者の声もたくさん。自分らしい観戦スタイル、見つけてみてね🍃"
+    },
+    {
+      "heading": "困ったときはスタッフさん！",
+      "body": "困った時は球場スタッフに声をかけてみて。みんな親切だし、案内やトイレの場所も教えてくれるから、不安なく過ごせるよ😊"
+    }
+  ],
+  "caption": "「一人で球場行くのって勇気がいる…」って思ってたけど、実は一回行くと「もっと早く来ればよかった！」ってなる人、結構多いんだよね😊\n\nおすすめ座席や持ち物、一人時間の楽しみ方をまとめてみました！誰にも気を使わず自分のペースでグルメや推し活を楽しめるのが最高ポイント。意外と一人の女の子も多くて、全然変な目で見られません💙\n\nみんなの一人観戦エピソードや、こんな時どうしてる？っていう疑問もぜひコメントで教えてね！この投稿は保存して、気が向いたときふらっと球場に行ける参考にしてみて🍃",
+  "hashtags": [
+    "#野球女子",
+    "#一人観戦",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#推し活",
+    "#球場デビュー",
+    "#野球観戦初心者",
+    "#女の子のひとり時間",
+    "#推し活女子",
+    "#スタジアムライフ"
+  ],
+  "coverImagePrompt": "A photorealistic, natural lighting photo of a Japanese woman in her 20s enjoying a baseball game alone at a Japanese stadium, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-08-13_noon/01_cover.jpg",
+    "media/carousel/2026-08-13_noon/02_slide.jpg",
+    "media/carousel/2026-08-13_noon/03_slide.jpg",
+    "media/carousel/2026-08-13_noon/04_slide.jpg",
+    "media/carousel/2026-08-13_noon/05_slide.jpg",
+    "media/carousel/2026-08-13_noon/06_slide.jpg",
+    "media/carousel/2026-08-13_noon/07_slide.jpg",
+    "media/carousel/2026-08-13_noon/08_slide.jpg",
+    "media/carousel/2026-08-13_noon/09_cta.jpg"
+  ]
+}
