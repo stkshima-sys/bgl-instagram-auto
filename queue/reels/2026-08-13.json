@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-13",
+  "category": "初心者の一日",
+  "title": "初めてのPayPayドーム観戦、ドキドキから感動の1日",
+  "scene": "球場に着き、緊張しつつもワクワクしている表情の女性。コンコースでグルメを選びながら笑顔になるシーン。ナイターの眩しい照明と歓声に包まれて「来てよかった」と思う夜のエモーショナルな表情。",
+  "caption": "一人で野球観戦、実はずっと勇気が出なかったけど、思い切ってPayPayドームへ。最初は緊張したけど、席に座った瞬間からワクワクが止まらなくて…グルメを選んでいるときも、自然と笑顔になってた！ナイターの光に包まれて、知らない人とも一緒に盛り上がれるあの雰囲気、めっちゃ感動。『また来たい』そんな気持ちになった初観戦の一日。これから野球女子デビューしたい人、きっと大丈夫だよ。みんなの初観戦エピソードもぜひコメントで教えてね♡ 保存して次の観戦の参考にも！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#一人観戦",
+    "#PayPayドーム",
+    "#初観戦",
+    "#推し活女子",
+    "#野球観戦初心者",
+    "#ナイター",
+    "#野球のある暮らし"
+  ],
+  "prompts": {
+    "kling": "A photorealistic 15-second vertical video, smartphone-shot look, of one or two stylish Japanese women in their 20s at PayPay Dome in Fukuoka. Scene opens with the woman standing at the entrance, taking a deep breath and looking slightly nervous but excited. She walks through the bright, airy concourse, glancing around curiously, then smiles while choosing ballpark food at a pastel-toned food stall. The video ends with her sitting in the stands at night, illuminated by soft stadium lights, looking emotional and happy as the crowd cheers around her. Cinematic handheld camera, soft pastels (white, beige, pink, light blue), natural motion, no AI artifacts.",
+    "veo": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, Japanese women in their 20s at a baseball stadium (PayPay Dome Fukuoka), soft pastel color grading. 0-5s: Close-up of a young Japanese woman arriving at the stadium entrance, pausing, taking a deep breath, and showing a nervous yet excited facial expression. 5-10s: She walks through the stadium concourse, pauses to look at and select food at a cute pastel-colored food concession, smiling naturally. 10-15s: She sits in the stands at night, glowing in gentle stadium lights, visibly moved as she joins the crowd's energy, capturing a genuine, emotional moment. No text overlays, natural handheld camera movement.",
+    "higgsfield": "vertical 9:16, photorealistic, natural smartphone-shot look, soft pastel colors. Scene 1: handheld camera (slightly shaky), starts with a push-in on the woman at the stadium entrance, capturing her hesitant smile. Scene 2: gentle pan as she walks through the concourse and stops at a pastel-toned food stall, picking her snack. Scene 3: slow push-in and hold on her face in the stands at night, stadium lights softly illuminating her emotional, happy expression, surrounded by cheering fans. No AI distortions, no text."
+  },
+  "videoFile": "videos/2026-08-13.mp4"
+}
