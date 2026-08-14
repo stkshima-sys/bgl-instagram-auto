@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-14",
+  "category": "初心者の一日",
+  "title": "初めての甲子園観戦・ドキドキ1日密着",
+  "scene": "駅から甲子園まで歩きながらワクワクしている女性。スタンドの自分席に座り、最初は緊張ぎみ。グルメや応援でどんどん表情が明るくなり、試合の終盤には思わず笑顔＆『また来たい』とほほえむ。",
+  "caption": "「一人で野球観戦、ちょっとハードル高いかも…」そう思ってた私が、今日はじめて甲子園に行ってきました。最初はドキドキで、周りのみんながユニフォーム着てるのも、応援の声も、全部新鮮。でも球場の空気やグルメ、気さくなファンのお姉さんたちのおかげで自然と笑顔に☺️最後には『また来たい！』って心から思えたよ。誰かとじゃなくても、こんなに楽しい時間が過ごせるんだって自分にびっくり。勇気を出して一歩踏み出した今日を、きっと忘れない。初めての観戦エピソード、みんなはどんなだった？コメントで教えてね！野球観戦デビューの勇気、後で見返したくなったら保存もおすすめです⚾️✨",
+  "hashtags": [
+    "#野球女子",
+    "#初観戦",
+    "#球場グルメ",
+    "#甲子園",
+    "#観戦コーデ",
+    "#一人観戦",
+    "#推し活初心者",
+    "#野球好きな人と繋がりたい",
+    "#球場デビュー",
+    "#BaseballGirlsLIFE"
+  ],
+  "prompts": {
+    "kling": "A photorealistic handheld vertical video, 10–15 seconds, showing a stylish Japanese woman in her 20s with natural makeup walking from the station towards Koshien Stadium, visibly excited. She finds her seat alone in the stands, initially looking a bit nervous as she glances around. Next, the camera captures her trying a pastel-colored drink and ballpark food, her smile growing. In the evening’s soft stadium lights, she beams with joy and makes a small peace sign to the camera. Soft pastel color grading, beautiful bokeh and gentle sunlight, no overlays, no AI hints.",
+    "veo": "vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, natural handheld motion, Japanese woman in her 20s, natural makeup and casual cute fashion, at Koshien Stadium. 0-5s: POV walking from the station to the stadium, excited glances and deep breaths. 5-10s: Takes a seat in the stands, looks around nervously, then tries colorful ballpark food and smiles. 10-15s: Evening stadium lights, she laughs and gestures 'peace' at the camera, visibly happy. Soft pastel color grading throughout, no text overlays, no AI artifacts.",
+    "higgsfield": "Handheld vertical smartphone camera, slow walking pan from station towards Koshien Stadium; gentle push-in as the woman sits in her seat and soaks in the stadium atmosphere; another handheld close-up as she tastes ballpark food and her smile grows; soft ambient lighting, subtle pastel grading, shallow depth of field, no overlays or AI signs."
+  },
+  "videoFile": "videos/2026-08-14.mp4"
+}
