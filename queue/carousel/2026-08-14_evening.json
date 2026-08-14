@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-14",
+  "slot": "evening",
+  "category": "観戦コーデ",
+  "title": "夏の球場観戦コーデ6選【涼しさ×可愛さ】",
+  "slides": [
+    {
+      "heading": "1. 昼観戦は白T×デニム",
+      "body": "迷ったら爽やか白Tとデニム！\n汗が目立たず動きやすさも抜群。\n麦わら帽子で紫外線対策もバッチリ☀️"
+    },
+    {
+      "heading": "2. ナイターはカーデが正解",
+      "body": "夜は意外と冷える球場も…\n薄手カーディガンを羽織るだけで温度差も安心。\n膝掛け代わりにも活躍するよ！"
+    },
+    {
+      "heading": "3. 推しカラーでリンクコーデ",
+      "body": "推しのチーム色やグッズを1点投入。\nキャップやミニバッグでさりげなく推しアピール🧢\n写真映えもUP！"
+    },
+    {
+      "heading": "4. バッグはリュックor斜めがけ",
+      "body": "両手が空くリュックや小さめショルダーがおすすめ！\n飲み物やタオル、うちわもサッと出し入れできるよ。"
+    },
+    {
+      "heading": "5. バッグの中身これだけでOK",
+      "body": "現地でよく使うものはコレ！\n・日焼け止め\n・ハンディ扇風機\n・ウェットティッシュ\n・小さい保冷ボトルも忘れずに💡"
+    },
+    {
+      "heading": "6. NGコーデやんわり紹介",
+      "body": "ヒールや厚底サンダルは段差や移動で危険！\n大きすぎるバッグは座席で困るかも。\nカジュアル＆身軽が鉄則だよ。"
+    }
+  ],
+  "caption": "「何着ていけばいいか毎回迷う…」そんな野球女子、けっこう多いよね！\n今回は夏の球場観戦コーデを、可愛さも涼しさも両立できるポイントと一緒にまとめてみたよ。\n昼夜の温度差や紫外線、意外と多い移動…実際に現地で「これで助かった！」って思えたコーデだけを厳選。\nバッグの中身や、やりがちだけど避けたいNG例もそっと紹介しています。\n\n「推しカラーコーデ」や「便利アイテム」、みんなの観戦コーデもぜひコメントで教えてほしいな！\n友達にも送りたくなる情報は保存しておくのがおすすめ◎",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#球場ファッション",
+    "#夏コーデ",
+    "#推し活コーデ",
+    "#球場観戦",
+    "#一人観戦デビュー",
+    "#ナイター女子",
+    "#今日のコーデ記録",
+    "#おしゃれさんと繋がりたい"
+  ],
+  "coverImagePrompt": "Japanese women in their 20s enjoying a baseball game at a stadium in Japan, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-08-14_evening/01_cover.jpg",
+    "media/carousel/2026-08-14_evening/02_slide.jpg",
+    "media/carousel/2026-08-14_evening/03_slide.jpg",
+    "media/carousel/2026-08-14_evening/04_slide.jpg",
+    "media/carousel/2026-08-14_evening/05_slide.jpg",
+    "media/carousel/2026-08-14_evening/06_slide.jpg",
+    "media/carousel/2026-08-14_evening/07_slide.jpg",
+    "media/carousel/2026-08-14_evening/08_cta.jpg"
+  ]
+}
