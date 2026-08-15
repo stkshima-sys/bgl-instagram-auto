@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-15",
+  "category": "一人観戦Vlog風",
+  "title": "一人で楽しむ東京ドーム観戦Vlog",
+  "scene": "一人で東京ドームに入り、ワクワクしながら売店でフードを選ぶ。観客席で球場グルメとドリンクで乾杯、試合の高揚感を感じながら一人の時間を満喫。帰り道、余韻に包まれながら歩く姿で締める。",
+  "caption": "「一人で野球観戦、実はすごく楽しいって知ってた？」\n友達や家族と行くのも最高だけど、今日は自分のペースで東京ドームへ。一人なら自分の好きなタイミングで売店に寄ったり、気になるグルメを選んだり、推しの登場に思いっきりテンション上げたりできるのが魅力。最初はちょっと緊張するけど、座席に座った瞬間のあのワクワク感、球場全体の空気、試合中の一体感…全部をじっくり味わえる特別な時間。終わった後、ドームからの帰り道は胸いっぱいの余韻で歩くのが密かな幸せだったりする。一人で球場デビューしてみたい人、こんな風に楽しめるかも♡\n一人観戦派さんや、やってみたいけど不安な方、コメントで感想や質問ぜひ教えてください！保存して後で見返しても◎",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#一人観戦デビュー",
+    "#東京ドーム",
+    "#推し活女子",
+    "#ナイターのある暮らし",
+    "#野球観戦vlog",
+    "#週末のおでかけ",
+    "#野球好きと繋がりたい"
+  ],
+  "prompts": {
+    "kling": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Japanese woman in her mid-20s, natural makeup, casual but stylish clothing. Scene 1: She walks through the Tokyo Dome entrance, excitement in her expression. Scene 2: Browsing the food stalls, she picks a drink and stadium food, smiling at the camera. Scene 3: In the stands at dusk, lit by warm stadium lights, she toasts her drink alone, softly laughing, soaking up the atmosphere. Scene 4: Walking out of the stadium at night, illuminated by gentle city lights, looking a little名残惜しいけど満たされている様子。Soft pastel color grading in white, beige, pink, and light blue, no text overlays, no AI artifacts.",
+    "veo": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, Japanese woman in her 20s at Tokyo Dome, soft pastel color grading, no AI artifacts. 0-5s: POV entering Tokyo Dome, quick cuts of ticket, escalator, bright lights, her eyes sparkling; 5-10s: At a brightly-lit food stall, she selects a snack and drink, smiles, cut to taking a seat and holding up her drink towards the camera for a solo 'cheers', stadium crowds in soft focus; 10-15s: After the game, walking alone under the evening sky, city and dome lights in background, her expression relaxed and happy, soft wind moving her hair. No text overlays.",
+    "higgsfield": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, Japanese woman in her 20s, Tokyo Dome, soft pastel color grading. Start with a handheld, slightly shaky shot following her entering the stadium (push-in); transition to a gentle pan as she looks at food stalls; over-the-shoulder, handheld as she sits and holds up her drink (cheers, close-up); finish with a slow pull-back tracking shot as she walks away from the dome at dusk, lights glowing softly. No text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-08-15.mp4"
+}
