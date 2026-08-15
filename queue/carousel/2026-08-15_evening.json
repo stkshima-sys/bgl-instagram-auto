@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-15",
+  "slot": "evening",
+  "category": "初心者ガイド",
+  "title": "初観戦ガールの安心ガイド7選",
+  "slides": [
+    {
+      "heading": "まずはチケットの買い方",
+      "body": "公式サイトやアプリで簡単に購入できるよ♪\nおすすめは電子チケット！紙忘れの心配なし。\n早めの購入でいい席をゲットしよう"
+    },
+    {
+      "heading": "自分にぴったりの座席選び",
+      "body": "内野席はグラウンド全体が見やすい！\n外野席は応援が盛り上がる場所。\nゆっくり観たいならバックネット裏も◎"
+    },
+    {
+      "heading": "知っておきたい観戦ルール",
+      "body": "細かいルールは正直知らなくても大丈夫！\n「アウト＝攻守交代」など基本だけ覚えればOK。\n応援や拍手も自由に楽しんでみて"
+    },
+    {
+      "heading": "観戦マナーも大事に",
+      "body": "大声での私語や席での自撮り連発はNG😭\n他のお客さんへの配慮が大切。\n飲食OKだけど、ゴミの持ち帰りも忘れずに！"
+    },
+    {
+      "heading": "持ち物リストまとめ",
+      "body": "スマホ＆チケット、可愛いタオル、飲み物、\n羽織りや帽子、観戦グッズ…忘れずチェック👌\n推しカラーのおしゃれも楽しもう"
+    },
+    {
+      "heading": "あるある！現地で困りがち",
+      "body": "トイレや売店は混みがちなので、\n早めに行動が安心💡\n日焼け＆寒さ対策もお忘れなく"
+    },
+    {
+      "heading": "ひとり観戦も大丈夫",
+      "body": "一人でも全然浮かないよ！\nみんな野球に夢中だから、心配せず楽しもう。\n推し活デビューの日にぴったり✨"
+    }
+  ],
+  "caption": "「チケットの買い方や座席、何を持っていけばいいの？実は最初めっちゃ迷ったよね…！」\n\n野球観戦デビューってちょっと緊張するけど、基本さえ押さえれば大丈夫！電子チケットや座席の違い、持ち物やマナーまで、初心者さんの「これが知りたかった！」をまとめました。私も最初は右も左も分からなかったけど、振り返れば全部楽しかった思い出☺️ 野球場って自分のペースで楽しめる場所だから、ひとり観戦も全然平気！\n\nみんなの“初観戦エピソード”や「これ持ってってよかった！」ってアイテムがあればぜひコメントで教えてね♡ 保存しておけば、明日の観戦前に見返せるよ！",
+  "hashtags": [
+    "#野球女子",
+    "#観戦初心者",
+    "#観戦コーデ",
+    "#一人観戦",
+    "#球場グルメ",
+    "#野球観戦デビュー",
+    "#推し活女子",
+    "#スタジアムライフ",
+    "#観戦マナー",
+    "#持ち物リスト"
+  ],
+  "coverImagePrompt": "young Japanese woman watching baseball at a modern Japanese stadium, casual feminine outfit, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-08-15_evening/01_cover.jpg",
+    "media/carousel/2026-08-15_evening/02_slide.jpg",
+    "media/carousel/2026-08-15_evening/03_slide.jpg",
+    "media/carousel/2026-08-15_evening/04_slide.jpg",
+    "media/carousel/2026-08-15_evening/05_slide.jpg",
+    "media/carousel/2026-08-15_evening/06_slide.jpg",
+    "media/carousel/2026-08-15_evening/07_slide.jpg",
+    "media/carousel/2026-08-15_evening/08_slide.jpg",
+    "media/carousel/2026-08-15_evening/09_cta.jpg"
+  ]
+}
