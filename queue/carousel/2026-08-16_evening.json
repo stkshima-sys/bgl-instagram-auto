@@ -1,0 +1,51 @@
+{
+  "date": "2026-08-16",
+  "slot": "evening",
+  "category": "一人観戦",
+  "title": "一人観戦のハードルを下げる5つのコツ",
+  "slides": [
+    {
+      "heading": "一人観戦、意外と大丈夫！",
+      "body": "「一人だと浮くかな？」って思ってたけど、実は周りも一人観戦女子が多いんだって✨\n思いきって行ってみると楽しくて、クセになるかも！"
+    },
+    {
+      "heading": "おすすめ座席選び",
+      "body": "迷ったら通路側や前後に人が少ない席が安心。\nグループ席より1〜2人用がリラックスしやすいよ。\n座席図で位置も要チェック！"
+    },
+    {
+      "heading": "ひとり時間の過ごし方",
+      "body": "グルメや推し撮影、ひとり応援も思いのまま。\n好きなタイミングでトイレや売店にも行けるし、自由度高め☺️"
+    },
+    {
+      "heading": "一人観戦女子の持ち物リスト",
+      "body": "小さめバッグ・帽子・日焼け止め・モバイルバッテリーはマスト！\n推しグッズでさりげなく気分もアップ💖"
+    },
+    {
+      "heading": "「一人観戦って…意外と平気！」",
+      "body": "最初はドキドキだけど、始まっちゃえば周りも野球に夢中だから気にならない！\n自分のペースで楽しめるのが一番の魅力。"
+    }
+  ],
+  "caption": "「一人で野球観戦行くの、ちょっと勇気いるよね？」そんな声が多いけど、実は一人観戦女子、意外とたくさんいるんです！初心者さんにおすすめの座席や、ソロならではの過ごし方、便利な持ち物まで、一人観戦のハードルをグッと下げるコツをまとめました。最初はドキドキしても、始まれば周りも試合に集中していて全然平気。自分のペースでグルメや推し活を楽しめるソロ観戦、一度チャレンジしてみては？\n\n「私はこうやって一人観戦楽しんでるよ！」など、体験談もぜひコメントで教えてください🧢\n\n気になる方は、後で見返せるように保存推奨です🌸",
+  "hashtags": [
+    "#野球女子",
+    "#一人観戦",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活女子",
+    "#初観戦",
+    "#球場ライフ",
+    "#野球観戦記録",
+    "#観戦初心者",
+    "#おひとりさまスポーツ"
+  ],
+  "coverImagePrompt": "photorealistic, natural lighting, 20s Japanese woman enjoying baseball game alone at a Japanese baseball stadium, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, no text",
+  "images": [
+    "media/carousel/2026-08-16_evening/01_cover.jpg",
+    "media/carousel/2026-08-16_evening/02_slide.jpg",
+    "media/carousel/2026-08-16_evening/03_slide.jpg",
+    "media/carousel/2026-08-16_evening/04_slide.jpg",
+    "media/carousel/2026-08-16_evening/05_slide.jpg",
+    "media/carousel/2026-08-16_evening/06_slide.jpg",
+    "media/carousel/2026-08-16_evening/07_cta.jpg"
+  ]
+}
