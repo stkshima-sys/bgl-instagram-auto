@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-16",
+  "category": "推し活動画",
+  "title": "推しのユニ姿で“最高の瞬間”を応援",
+  "scene": "夕暮れの横浜スタジアム。推しのユニフォームを着た20代女性が友達と笑顔でスタンドに座る。推し選手のタオルを掲げて、うちわを振りながらワクワクした表情で周りの熱気に包まれる。",
+  "caption": "今日は横浜スタジアムで推し活DAY！推しのユニフォームをまとって、タオルやうちわを片手に、友達と一緒にスタンドで盛り上がる野球観戦って本当に特別な時間だよね。球場の熱気や、一体感に包まれて、大声じゃなくても『好き！』の気持ちが届く気がする。夕暮れに照らされたグラウンドと、カラフルな応援グッズが並ぶスタンドの景色は、写真じゃ伝わらないくらいエモい瞬間。初心者でも、推しがいればワクワクして足を運べるのが野球場の魅力だと思う。みんなはどんな応援グッズを使ってる？コメントでぜひ教えてね♡この動画、推し活の参考になったら保存してもらえると嬉しいな！",
+  "hashtags": [
+    "#野球女子",
+    "#推し活",
+    "#観戦コーデ",
+    "#横浜スタジアム",
+    "#うちわ応援",
+    "#球場ライフ",
+    "#スタジアムグルメ",
+    "#エモい瞬間",
+    "#ベースボール女子",
+    "#推しグッズ"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, natural handheld smartphone look. Two Japanese women in their 20s wearing pastel-toned baseball uniforms and casual summer clothes, sitting together in the Yokohama Stadium stands in the evening. Camera starts with a close-up of their hands holding colorful towels and fan-printed uchiwa, then pans up to capture their smiling faces as they cheer and wave. In the background, soft stadium lighting and a cozy crowd with pastel colors. No AI artifacts, no overlays.",
+    "veo": "Vertical 9:16. 0-5s: Close-up on two Japanese women in their 20s sitting in the stands with pastel-colored uniforms, focusing on their hands raising towels and uchiwa. 5-10s: Medium shot of both women laughing and waving to the field, capturing the sunset or stadium lights, with soft pastel color grading. 10-15s: Wide shot pulls back to show the energetic crowd around them, highlighting the sense of unity and excitement in the stadium, all with a photorealistic, handheld, smartphone-captured feel.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic. Handheld camera starts with a gentle push-in on two 20-something Japanese women in pastel baseball uniforms and casual clothes, sitting in Yokohama Stadium stands. The camera pans left as they raise towels and wave uchiwa, then steadies to capture their bright smiles and the surrounding crowd’s energy in the soft stadium dusk. Natural color grading with white, beige, pastel pink, and blue tones. No overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-08-16.mp4"
+}
