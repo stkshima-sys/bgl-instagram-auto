@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-17",
+  "category": "初心者の一日",
+  "title": "はじめてのエスコン観戦デビュー、一日のドキドキ記録",
+  "scene": "Es Con Field Hokkaidoの入口で緊張ぎみにスマホを持つ女の子。座席に着くと周りの雰囲気にワクワクが高まってくる。ナイターの照明とともに笑顔で手を振る姿で締める。",
+  "caption": "はじめての野球観戦、ちょっとドキドキしながらエスコンフィールドに到着。入口でチケットを確認する手も、実は小さく震えてたんだよね。でも、球場の広さや、みんなの応援する声を聞いてるうちに「私もその中の一人なんだ」と思えて、不安がワクワクに変わっていった🌱座席に座って目の前に広がるグラウンドを見た瞬間、思わず「すごい…！」ってスマホでパシャリ。ナイターの明かりや夕焼けが優しく照らす球場の雰囲気、“ここに来てよかった”って感じさせてくれたよ✨一人観戦って勇気いるけど、最初の一歩を踏み出してみると意外と楽しめちゃうかも。みんなの初観戦の思い出もぜひコメントで教えてね！「また行きたい！」って思った自分を、後で思い出せるように保存もしてみて🕊️",
+  "hashtags": [
+    "#野球女子",
+    "#初心者観戦",
+    "#エスコンフィールド",
+    "#観戦コーデ",
+    "#一人観戦",
+    "#野球観戦デビュー",
+    "#球場グルメ",
+    "#推し活女子",
+    "#札幌おでかけ",
+    "#球場ライフ"
+  ],
+  "prompts": {
+    "kling": "A Japanese woman in her 20s, stylish and natural, enters Es Con Field Hokkaido for her first baseball game, holding her phone nervously at the stadium entrance. Handheld footage follows her as she walks through the concourse, wide-eyed and smiling shyly at the stands. She sits alone in a soft pastel outfit, taking a deep breath, capturing the glowing field and fans around her. As the night lighting rises, her face lights up with joy, waving towards the camera, surrounded by pastel lights and cozy crowds. Photorealistic, 9:16, handheld, soft pastel color grading, natural smartphone-shot look, no overlays or AI artifacts.",
+    "veo": "0-5s: Close-up on a stylish Japanese woman in her 20s entering Es Con Field Hokkaido, looking nervous but curious as she checks her phone and ticket at the entrance, ambient stadium sounds in the background. 5-10s: She walks through the concourse, smiling softly, taking in the sights, before finding her seat and gazing at the field in awe, pastel pink and beige tones in her outfit and surroundings. 10-15s: Night falls and the stadium lights glow; she beams with happiness, waves at the camera, the scene ending with an emotional, soft-lit shot of her and the vibrant ballpark atmosphere. Vertical, photorealistic, natural handheld motion, no text or AI artifacts.",
+    "higgsfield": "Handheld close-up as a Japanese woman in her 20s walks into Es Con Field Hokkaido, camera gently panning and following her motion. Push-in as she sits in the stands, capturing her face as emotions shift from nervousness to joy. Slow handheld movement around her as stadium lights come on, soft pastel color palette, ending with a pullback shot of her waving, surrounded by the lively night game atmosphere. 9:16 vertical, photorealistic, natural smartphone vibe, no overlays or AI look."
+  },
+  "videoFile": "videos/2026-08-17.mp4"
+}
