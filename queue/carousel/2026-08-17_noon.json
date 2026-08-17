@@ -1,0 +1,51 @@
+{
+  "date": "2026-08-17",
+  "slot": "noon",
+  "category": "観戦コーデ",
+  "title": "夏の球場観戦コーデ5選",
+  "slides": [
+    {
+      "heading": "神宮球場コーデ",
+      "body": "夜風が気持ちいい神宮は、\nTシャツ＋カーデで温度調整が正解！\n推しカラーのスニーカーで歩きやすさも◎"
+    },
+    {
+      "heading": "東京ドームコーデ",
+      "body": "室内は冷房しっかり！\nワンピ＋デニムジャケットで冷え対策＆可愛さ両立。\n大容量バッグも忘れずに👜"
+    },
+    {
+      "heading": "ZOZOマリンは暑さ対策",
+      "body": "海風＋直射日光で意外と焼ける…\nロングスリーブ＋キャップでUVカット。\n冷たいお茶も必須だよ🥤"
+    },
+    {
+      "heading": "バッグの中身これだけは",
+      "body": "コンパクト扇風機、\n日焼け止め、飲み物、マスクは鉄板！\n現金・タオルもあると安心だよ。"
+    },
+    {
+      "heading": "やっちゃいがちNG例",
+      "body": "ヒールや厚底は階段で危険！\n肩出しトップスも冷房で冷えがち。\nカジュアル＆動きやすさ優先で🎀"
+    }
+  ],
+  "caption": "「何着て行けばいいかわかんない…」ってよく思わない？野球観戦って、屋外・屋内で温度も雰囲気も全然違うから、コーデ迷子になりがちだよね。\n\n今回は、夏の主要球場別に“可愛さ&快適さ”両立コーデをまとめたよ！夜なら薄手カーデやジャケットが安心だし、ZOZOマリンみたいな海沿いなら日焼け＆風対策が必須。バッグの中身も実用重視で、推しカラーの小物を入れると気分も上がる♪\n\n逆に、厚底や肩出しは一見可愛いけど、球場だと困ることも…。\n\nみんなの観戦コーデのこだわりも教えてほしいな！「この球場はこれ便利だった！」とかコメント欄でシェアしてくれたら嬉しい✨\n\n今回は保存して、次の観戦の服選びに使ってね♡",
+  "hashtags": [
+    "#観戦コーデ",
+    "#野球女子",
+    "#球場グルメ",
+    "#神宮球場",
+    "#東京ドーム",
+    "#ZOZOマリン",
+    "#夏コーデ",
+    "#初心者向け",
+    "#推し活",
+    "#保存必須"
+  ],
+  "coverImagePrompt": "A group of Japanese women in their 20s enjoying a baseball game at a Japanese stadium in summer, wearing stylish soft pastel fashion (white, beige, pastel pink, light blue). Natural smiles, some holding drinks and tote bags, seats and stadium visible. Soft pastel tones, feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text.",
+  "images": [
+    "media/carousel/2026-08-17_noon/01_cover.jpg",
+    "media/carousel/2026-08-17_noon/02_slide.jpg",
+    "media/carousel/2026-08-17_noon/03_slide.jpg",
+    "media/carousel/2026-08-17_noon/04_slide.jpg",
+    "media/carousel/2026-08-17_noon/05_slide.jpg",
+    "media/carousel/2026-08-17_noon/06_slide.jpg",
+    "media/carousel/2026-08-17_noon/07_cta.jpg"
+  ]
+}
