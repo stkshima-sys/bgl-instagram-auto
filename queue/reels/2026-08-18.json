@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-18",
+  "category": "初心者の一日",
+  "title": "初めての神宮野球観戦、一日のエモストーリー",
+  "scene": "友達と待ち合わせて神宮球場の外観を背景にセルフィー。初めての観戦でドキドキしながらチケットを見せて球場内へ。試合が始まり、夕暮れの観客席で笑顔とワクワクした表情を見せる。",
+  "caption": "「一人で球場って、ちょっと不安…」そんな私が勇気を出して神宮球場へ！入口でワクワク＆ドキドキ、スタンドから見える綺麗なグラウンドや、まわりの盛り上がりに自然と気持ちも高まった🌸初めてなのに、応援の拍手や声に混ざるのも楽しいし、売店で買ったグルメもめちゃ美味しかった！実は、初観戦の帰り道ってすっごく満たされた気分になるんだと気づいた。誰かと行くのもいいけど、たまには自分のペースで新しい世界を楽しむのもアリかも。初めて行った日の思い出、みんなはどんなだった？ぜひコメントで教えてね☺️ 後でまた見返したくなる人は保存も◎",
+  "hashtags": [
+    "#野球女子",
+    "#観戦初心者",
+    "#神宮球場",
+    "#一人観戦",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#エモ動画",
+    "#推し活",
+    "#青春の1ページ",
+    "#東京おでかけ"
+  ],
+  "prompts": {
+    "kling": "A photorealistic, vertical 9:16, 10-15 second video shot on a smartphone, showing two fashionable Japanese women in their 20s waiting and laughing in front of Meiji Jingu Stadium's iconic stone entrance in soft pastel shades, then handing colorful paper tickets to the staff, then walking through the busy concourse while glancing around curiously and smiling, then sitting together in the stands as the sun sets, illuminated by gentle stadium lights and surrounded by cheering fans, camera handheld and capturing spontaneous, natural moments with close-up shots on their excited faces.",
+    "veo": "vertical 9:16, photorealistic, smartphone-shot look, soft pastel color grading, no text overlays. 0-5s: Two stylish Japanese women in their 20s, laughing and taking selfies in front of Meiji Jingu Stadium's main entrance, natural street sound. 5-10s: They show their tickets at the gate and walk through the busy concourse, browsing food stalls, glancing around with curiosity and excitement. 10-15s: Sitting side by side in the stands as the sun sets, they watch the game start, their faces lit by stadium lights, sharing smiles and capturing the energy of the moment, handheld camera with smooth pans.",
+    "higgsfield": "Handheld vertical 9:16 camera, soft pastel grading. Start with a slow pan as two Japanese women in their 20s meet at Jingu Stadium entrance. Gentle push-in as they show their tickets and walk through the concourse area, passing by food stalls and excited fans. Final push-in and slight tilt as they sit in the stands at sunset, smiling and soaking up the stadium atmosphere, capturing intimate and candid expressions."
+  },
+  "videoFile": "videos/2026-08-18.mp4"
+}
