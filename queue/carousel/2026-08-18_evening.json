@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-18",
+  "slot": "evening",
+  "category": "球場紹介",
+  "title": "東京ドーム推しポイント7選",
+  "slides": [
+    {
+      "heading": "駅から直結で超ラク！",
+      "body": "天候を気にせず楽しめる全天候型♪\n最寄り駅から直結だから、ヒールでも安心して行けちゃうのが嬉しいポイントだよ。"
+    },
+    {
+      "heading": "迷わない座席選び",
+      "body": "1塁・3塁どっちが推し？\n初めてでも座席案内が多いから迷わないし、推し選手の近くで応援したい人にもおすすめ💡"
+    },
+    {
+      "heading": "東京ドーム限定グルメ",
+      "body": "ふわふわのシフォンケーキやタピオカなど、女子ウケ間違いなしのグルメがたくさん！\nSNS映えもバッチリ📸"
+    },
+    {
+      "heading": "周辺カフェも充実",
+      "body": "観戦前後のカフェタイムにはラクーアのカフェや定番チェーンも。\n友達とゆっくりおしゃべりできるのが魅力☕"
+    },
+    {
+      "heading": "一人観戦も安心",
+      "body": "スタッフが多くて明るい雰囲気だから、初めての一人観戦でも不安ゼロ！\n女子トイレも広くてキレイ✨"
+    },
+    {
+      "heading": "推し活スポットも♡",
+      "body": "選手パネルや限定グッズ売り場など、推し活したい女子は迷わずチェック。\n観戦の前後もワクワクが止まらない！"
+    },
+    {
+      "heading": "リピートしたくなる理由",
+      "body": "アクセス・グルメ・安心感、全部そろってるから、何度でも通いたくなっちゃう球場なんだよね☺"
+    }
+  ],
+  "caption": "「明日、東京ドーム行こうかな」ってつい思っちゃう理由。\n推し活もしやすいし、何より女子にやさしいポイントがたくさん！\nアクセスも良くて天気も気にしなくてOKだし、推しカラーのコーデで写真も映えるから行くだけでテンション上がる。\n周辺にはカフェやショッピングできる施設もあるから、試合前後も1日中楽しめるよ。初めての一人観戦も、スタッフや案内が多くて安心なのが嬉しいよね。\n「ここ行きたい！」「わかる〜！」って思ったら、ぜひコメントで気になるポイントを教えてほしいな。\n後から見返したくなったら、保存もしておいてね🩵",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#東京ドーム",
+    "#一人観戦",
+    "#推し活女子",
+    "#野球観戦初心者",
+    "#球場紹介",
+    "#推し活スポット",
+    "#東京カフェ巡り"
+  ],
+  "coverImagePrompt": "A group of Japanese women in their 20s enjoying a baseball game at Tokyo Dome, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-08-18_evening/01_cover.jpg",
+    "media/carousel/2026-08-18_evening/02_slide.jpg",
+    "media/carousel/2026-08-18_evening/03_slide.jpg",
+    "media/carousel/2026-08-18_evening/04_slide.jpg",
+    "media/carousel/2026-08-18_evening/05_slide.jpg",
+    "media/carousel/2026-08-18_evening/06_slide.jpg",
+    "media/carousel/2026-08-18_evening/07_slide.jpg",
+    "media/carousel/2026-08-18_evening/08_slide.jpg",
+    "media/carousel/2026-08-18_evening/09_cta.jpg"
+  ]
+}
