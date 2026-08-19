@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-19",
+  "category": "観戦コーデ",
+  "title": "野球女子の夏観戦コーデ in Es Con Field",
+  "scene": "1人の20代女性がEs Con Field Hokkaidoのエントランスで軽く手を振りながら登場。コンコースの売店前で全身コーデをおしゃれに見せるカット。夕方の観客席に移動し、球場を背景に笑顔でポーズ。",
+  "caption": "「何着ていけばいいか迷う…」って毎回悩まない？私は今日、白T×ベージュワイドパンツ＋淡いピンクのキャップで涼しげ観戦コーデにしてみたよ。球場はたくさん歩くから、歩きやすいスニーカー＆小さめショルダーがマスト。Es Con Fieldのコンコースは広いから、ちょっと大人っぽいワンポイントアクセも映えるよ。夕暮れの球場で、友達と写真を撮っても絶対盛れる👗✨観戦初心者さんも『一人でも大丈夫？』って不安にならなくてOK！この動画、後でコーデ参考にしたい人はぜひ保存しておいてね♡みんなの野球観戦コーデもコメントで教えてほしいな。",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#EsConField",
+    "#球場ファッション",
+    "#推し活女子",
+    "#おしゃれさんと繋がりたい",
+    "#一人観戦デビュー",
+    "#夏コーデ",
+    "#ベージュコーデ",
+    "#球場おでかけ"
+  ],
+  "prompts": {
+    "kling": "A photorealistic, handheld vertical video showing a stylish Japanese woman in her 20s at Es Con Field Hokkaido, Hokkaido. She enters the stadium entrance with a casual wave, wearing a white T-shirt, beige wide pants, pastel pink cap, simple gold earrings, white sneakers, and a small beige shoulder bag. The camera moves with her as she walks along the bright concourse, stopping by a food stand to show her full outfit with a casual pose. Scene transitions to her in the outdoor seating area at sunset, lights coming on, smiling and posing naturally with the stadium in the background. The overall look is soft, pastel, magazine-inspired, with natural skin, hair, and makeup, warm and inviting atmosphere, no obvious digital artifacts or overlays.",
+    "veo": "0-5s: A Japanese woman in her 20s in natural makeup and casual-chic outfit (white T-shirt, beige wide pants, pastel pink cap, small beige bag) waves as she walks through the Es Con Field Hokkaido entrance, filmed in natural sunlight with pastel, soft color grading. 5-10s: She strolls the airy concourse, sunlight filtering in, pausing in front of a food stand; camera pans to show her full outfit, close-up on her accessories. 10-15s: She sits in the stadium seating at sunset, glancing back with a relaxed smile, the field and night lights softly glowing behind her, handheld shot, all scenes realistically lit, magazine-like but smartphone casual.",
+    "higgsfield": "Vertical 9:16 format, handheld camera, slight walking motion as subject moves through stadium entrance (push-in), then gentle pan and slight tilt up to reveal her full-body outfit in the concourse; moves to a soft, over-the-shoulder pan with shallow depth of field as she sits and looks out at the field, with background bokeh from stadium lights at sunset. Natural realistic lighting, pastel soft color tones, and subtle magazine editorial feel."
+  },
+  "videoFile": "videos/2026-08-19.mp4"
+}
