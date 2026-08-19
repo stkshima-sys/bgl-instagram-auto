@@ -1,0 +1,51 @@
+{
+  "date": "2026-08-19",
+  "slot": "evening",
+  "category": "球場紹介",
+  "title": "関東おすすめ球場5選＆映えスポット",
+  "slides": [
+    {
+      "heading": "①東京ドームの魅力",
+      "body": "都心からアクセス抜群！\n駅直結で雨でも安心だよ☂️\n巨人戦だけじゃなくイベントも豊富で、初心者にもおすすめ。"
+    },
+    {
+      "heading": "②横浜スタジアム周辺",
+      "body": "横浜公園に囲まれてて季節のお花も楽しめる🌸\n元町中華街やみなとみらいも近いから、観戦後のカフェ巡りも◎"
+    },
+    {
+      "heading": "③ZOZOマリンなら海風体験",
+      "body": "海の近くで、夏は潮風が気持ちいいよ🌊\nアウトドア気分でレジャーシート観戦も人気！\n周辺のアウトレットやカフェも寄り道してみて。"
+    },
+    {
+      "heading": "④神宮球場でピクニック気分",
+      "body": "外野芝生席はピクニックみたいにくつろげる♪\n表参道や原宿も近く、観戦前後のショッピングも楽しめるよ。"
+    },
+    {
+      "heading": "⑤西武ドームで自然を満喫",
+      "body": "ドームなのに外の空気感！\n森の中にあるから、都会の喧騒を忘れられるよ🍃\n西武園ゆうえんちもすぐ近く。"
+    }
+  ],
+  "caption": "「次の観戦、どこに行こう？」って迷ったことない？関東の人気球場を、女子目線でまとめてみたよ！それぞれの球場ごとに、アクセスのしやすさ・観戦の雰囲気・周辺のおすすめスポットも添えてみたから、次の推し活やおでかけの参考になれば嬉しいな☺️\n\n東京ドームはやっぱりアクセス重視派に人気。横浜スタジアムは観戦前後にカフェ巡りもできて女子会感覚でも◎。ZOZOマリンのアウトドア感も楽しいし、神宮球場の芝生席はピクニック気分でゆるっと見たい人におすすめ！西武ドームは自然が好きな子にもぴったり。\n\nみんなはどの球場推し？行ってみたい球場や、好きな周辺エリアがあればぜひ教えてね！「保存して、今度のお出かけの予定リストに入れてみてね💡」",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#球場紹介",
+    "#推し活女子",
+    "#東京ドーム",
+    "#横浜スタジアム",
+    "#ZOZOマリン",
+    "#神宮球場",
+    "#西武ドーム"
+  ],
+  "coverImagePrompt": "photorealistic, natural lighting, Japanese women in their 20s enjoying a baseball game at a stadium in Japan, surrounded by soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, candid smiles, relaxed atmosphere, no text",
+  "images": [
+    "media/carousel/2026-08-19_evening/01_cover.jpg",
+    "media/carousel/2026-08-19_evening/02_slide.jpg",
+    "media/carousel/2026-08-19_evening/03_slide.jpg",
+    "media/carousel/2026-08-19_evening/04_slide.jpg",
+    "media/carousel/2026-08-19_evening/05_slide.jpg",
+    "media/carousel/2026-08-19_evening/06_slide.jpg",
+    "media/carousel/2026-08-19_evening/07_cta.jpg"
+  ]
+}
