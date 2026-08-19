@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-19",
+  "slot": "noon",
+  "category": "球場紹介",
+  "title": "都内おすすめ球場5選＆周辺カフェ",
+  "slides": [
+    {
+      "heading": "1. 東京ドーム",
+      "body": "JR水道橋駅からすぐ！アクセス抜群で初心者さんにも安心。\n近くにおしゃれなカフェもいっぱい☕\n野球観戦デビューにもぴったりだよ。"
+    },
+    {
+      "heading": "2. 神宮球場",
+      "body": "青山にある開放感たっぷりの球場！\n原宿・表参道エリアのカフェ巡りも楽しめちゃう。\n夜はライトアップがおしゃれ✨"
+    },
+    {
+      "heading": "3. 横浜スタジアム",
+      "body": "桜木町駅から徒歩圏内！\n港町らしい雰囲気に気分もアガる♪\n観戦前後は山下公園や中華街でおさんぽもおすすめ。"
+    },
+    {
+      "heading": "4. ZOZOマリンスタジアム",
+      "body": "海の近くで潮風を感じられる開放的なスタジアム。\n幕張イオンや海浜公園でグルメやショッピングも楽しめるよ🐚"
+    },
+    {
+      "heading": "5. 西武ドーム（ベルーナドーム）",
+      "body": "自然に囲まれたユニークな球場。\n西所沢から西武球場前まで電車一本！\n帰りは西武園ゆうえんちもあるから1日満喫できるよ。"
+    },
+    {
+      "heading": "球場周辺おすすめカフェ",
+      "body": "東京ドーム→METoAカフェ、神宮球場→ブルーボトル青山、\n横浜→カフェドミラノ、ZOZO→カフェソラーレ、\n西武ドーム→カフェポワソン。\n観戦前後のひとやすみにぜひ☕"
+    }
+  ],
+  "caption": "「一緒に行く人がいなくても、球場選びに悩んでる…」そんな時に保存してほしい都内＆近郊のおすすめ球場5選🌸アクセスや周辺のカフェも合わせてご紹介！東京ドームは初心者さんにも人気だし、神宮や横浜はおしゃれなカフェ巡りもできちゃう。ZOZOや西武ドームは自然や海の近くで開放感も抜群☺️球場によって雰囲気もガラッと変わるから、気分で選ぶのもアリだよ！「ここのカフェ行ってみたい」「この球場気になってた！」など、気になるスポットがあればコメントで教えてね💕今後の投稿の参考にするよ◎後で見返したい方は保存もお忘れなく！",
+  "hashtags": [
+    "#野球女子",
+    "#球場紹介",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#一人観戦",
+    "#初心者観戦",
+    "#都内スポット",
+    "#おしゃれカフェ",
+    "#推し活女子",
+    "#野球観戦デート"
+  ],
+  "coverImagePrompt": "Japanese women in their 20s enjoying a baseball game at a Tokyo stadium, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, casual, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-08-19_noon/01_cover.jpg",
+    "media/carousel/2026-08-19_noon/02_slide.jpg",
+    "media/carousel/2026-08-19_noon/03_slide.jpg",
+    "media/carousel/2026-08-19_noon/04_slide.jpg",
+    "media/carousel/2026-08-19_noon/05_slide.jpg",
+    "media/carousel/2026-08-19_noon/06_slide.jpg",
+    "media/carousel/2026-08-19_noon/07_slide.jpg",
+    "media/carousel/2026-08-19_noon/08_cta.jpg"
+  ]
+}
