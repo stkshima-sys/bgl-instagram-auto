@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-20",
+  "category": "初心者の一日",
+  "title": "初めての甲子園、一人観戦デビューのドキドキとワクワク",
+  "scene": "甲子園スタジアム入口でドキドキしながらチケットを手にする20代女性。コンコースでグルメ片手に嬉しそうに歩く。夕暮れの観客席で試合を眺め、笑顔で『また来たい』とつぶやく。",
+  "caption": "『一人で野球観戦って、ちょっとハードル高そう…』って思ってたけど、実は全然そんなことなかったかも。甲子園の入口でちょっと緊張しながらチケットを手にして、コンコースを歩いてるとワクワクが止まらなくて、気づいたら売店のたこ焼きとレモネードを片手ににっこり。夕暮れのスタンドで、同じ景色を見てる人がたくさんいるのも、なんだか心強かった。初観戦のドキドキも、気がつけば楽しい思い出に変わるから不思議。野球が分からなくても大丈夫。たまにはこういう『ひとり時間』もアリだよね。初めての一人観戦、勇気出してみてよかったなって思います☺️ こういうお出かけ、みんなはどんな瞬間にワクワクする？気になったらぜひ保存かコメントしてね！",
+  "hashtags": [
+    "#野球女子",
+    "#初観戦",
+    "#甲子園",
+    "#一人観戦",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#野球観戦デビュー",
+    "#推し活女子",
+    "#趣味時間",
+    "#スタジアムライフ"
+  ],
+  "prompts": {
+    "kling": "A photorealistic, vertical 9:16, 10-15 second smartphone-shot style video showing a Japanese woman in her 20s, with natural makeup and stylish, magazine-like fashion, standing at the entrance of Koshien Stadium holding a baseball ticket with a slightly nervous expression; then, walking through the stadium concourse with pastel-colored food and drink in hand, smiling happily; finally, seated in the stands at sunset, softly lit by evening lights, watching the game and gently smiling with relaxed shoulders. Soft pastel color grading in white, beige, pastel pink, and light blue. Camera movement is natural and handheld, creating an authentic, real-life atmosphere. No text overlays or AI artifacts.",
+    "veo": "0-5s: A Japanese woman in her 20s stands in front of Koshien Stadium, holding her ticket, looking both nervous and excited. Soft, handheld shots emphasize her anticipation. 5-10s: She strolls through the stadium concourse, holding pastel-toned stadium food (like takoyaki and lemonade), glancing around, and smiling with growing confidence. 10-15s: She sits in the stands at dusk, bathed in gentle ballpark lights, smiles as she takes in the atmosphere, the camera lingering on her peaceful expression and the pastel sunset sky. All scenes are photorealistic, smartphone vertical, with soft pastel color grading and a natural, magazine-style vibe.",
+    "higgsfield": "vertical video, 10-15 seconds. Natural handheld camera, starting with a slow push-in on a Japanese woman in her 20s—fashionable, softly-lit—standing at Koshien Stadium's entrance holding a ticket. Handheld pan as she walks through the stadium concourse, holding pastel-colored snacks. Push-in and slight tilt as she sits in the stands at sunset, looking around and softly smiling. Soft pastel color grading throughout. No overlays or AI glitches."
+  },
+  "videoFile": "videos/2026-08-20.mp4"
+}
