@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-20",
+  "slot": "noon",
+  "category": "球場グルメ",
+  "title": "神宮球場グルメ7選🍴迷ったらコレ！",
+  "slides": [
+    {
+      "heading": "1. もっちもちのカツサンド",
+      "body": "神宮といえばカツサンドはマスト🥪\nお肉が分厚くて意外とボリューミー！\n1個で大満足だからシェアもおすすめ。"
+    },
+    {
+      "heading": "2. インスタ映え！青空ビール",
+      "body": "神宮グルメの定番といえば生ビール🍺\n青空の下で飲む一杯は、写真に残したくなる可愛さ。\n売店もたくさんで迷っちゃう！"
+    },
+    {
+      "heading": "3. 野球名物チュロス",
+      "body": "球場スイーツ派はチュロス一択！\nシナモンやチョコなど種類も豊富で、\n片手で食べやすい定番おやつだよ。"
+    },
+    {
+      "heading": "4. クラフトソーセージドッグ",
+      "body": "ジューシーなソーセージがパンからはみ出るサイズ🌭\n片手で食べやすく、野球観戦にぴったり！\nタレやソースで味変も楽しい。"
+    },
+    {
+      "heading": "5. マストバイ！焼きたて牛串",
+      "body": "1本から買える焼きたて牛串は、\nお肉がジューシーで塩加減も絶妙！\n売店は3塁側が空いてるかも。"
+    },
+    {
+      "heading": "6. ヤクルトスワローズアイス",
+      "body": "限定パッケージが可愛すぎる💙\n応援しながらひんやりアイスは夏の神宮ならでは。\n売店で見つけたら即ゲット！"
+    },
+    {
+      "heading": "7. 食べる順番のおすすめ",
+      "body": "最初はサンドやドッグ系でお腹を満たして、\n途中でお肉系→デザートでしめ！\nシェアしながら色々食べてみてね🍦"
+    }
+  ],
+  "caption": "「神宮のグルメ、何にしよう…」って毎回迷っちゃう人、結構多いよね😂\n今日は友だちとシェアしても楽しい、神宮球場の映えグルメを7つまとめたよ！売店の場所や、ボリューム感・食べやすさも考えてリストアップ。球場限定グルメや可愛いスイーツなど、食べる順番も参考にしてね。\nおすすめグルメや“これ食べてみた！”の報告もぜひコメントで教えてほしいな🥰\nランチや観戦計画の保存にも使ってね♪",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#神宮球場",
+    "#推し活女子",
+    "#スタジアムグルメ",
+    "#球場スイーツ",
+    "#おしゃれ女子",
+    "#インスタ映え",
+    "#スポーツ観戦"
+  ],
+  "coverImagePrompt": "Japanese women in their 20s enjoying baseball at Jingu Stadium, smiling, holding stadium food (like sandwiches, churros, ice cream), soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-08-20_noon/01_cover.jpg",
+    "media/carousel/2026-08-20_noon/02_slide.jpg",
+    "media/carousel/2026-08-20_noon/03_slide.jpg",
+    "media/carousel/2026-08-20_noon/04_slide.jpg",
+    "media/carousel/2026-08-20_noon/05_slide.jpg",
+    "media/carousel/2026-08-20_noon/06_slide.jpg",
+    "media/carousel/2026-08-20_noon/07_slide.jpg",
+    "media/carousel/2026-08-20_noon/08_slide.jpg",
+    "media/carousel/2026-08-20_noon/09_cta.jpg"
+  ]
+}
