@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-20",
+  "slot": "evening",
+  "category": "球場紹介",
+  "title": "首都圏おすすめ球場5選と楽しみ方",
+  "slides": [
+    {
+      "heading": "🍀 東京ドームの魅力",
+      "body": "屋根付きだから雨の日も安心！\nドーム内はキラキラ感満載で、球場グルメも豊富。\n周辺はカフェやラクーアで観戦前後も楽しめるよ☺️"
+    },
+    {
+      "heading": "神宮球場で夜風観戦",
+      "body": "都心なのに開放感たっぷり。\n外野席は推し活女子も多め！\n青山や原宿のカフェ巡りもセットでどう？🌿"
+    },
+    {
+      "heading": "初めてさんにも◎ 横浜スタジアム",
+      "body": "スタジアムグルメが神レベル🍔\n座席からはみなとみらいの夜景も。\n観戦前の赤レンガ倉庫デートもおすすめ！"
+    },
+    {
+      "heading": "個性派！ZOZOマリン",
+      "body": "海風を感じながら観戦できちゃう！\nスタジアムの外には映えスポットも。\n潮風に合うさっぱりグルメも必見だよ。"
+    },
+    {
+      "heading": "気軽に行けるベルーナドーム",
+      "body": "まあるい屋根が特徴のおしゃれ球場。\n西武池袋線で1本だから女子だけでも安心。\n自然に囲まれてピクニック気分も味わえる！"
+    },
+    {
+      "heading": "アクセス・楽しみ方まとめ",
+      "body": "各球場、最寄駅から徒歩10分前後が多いよ。\n行きやすさも大事だよね！\n周辺カフェやショッピングも合わせて、\n自分だけの観戦デートを組んでみて🍦"
+    }
+  ],
+  "caption": "球場って意外と「どこがいいの？」って迷うよね。\n今日は首都圏で野球観戦デビューにもぴったりな5球場を、推し活や周辺スポットとセットで紹介するよ！\nそれぞれの球場の雰囲気やアクセス、グルメ、周辺カフェの情報までギュッとまとめたから、次の観戦計画に役立つはず。\nみんなの「推し球場」や「この球場での思い出」もぜひコメントで教えてね！\nお友達とのお出かけや一人観戦の参考に、後から見返したい人は保存をおすすめします🧸",
+  "hashtags": [
+    "#野球女子",
+    "#球場紹介",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#野球観戦デート",
+    "#神宮球場",
+    "#東京ドーム",
+    "#横浜スタジアム",
+    "#一人観戦女子",
+    "#推し活女子"
+  ],
+  "coverImagePrompt": "Young Japanese women in their 20s enjoying a baseball game at a Japanese stadium, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-08-20_evening/01_cover.jpg",
+    "media/carousel/2026-08-20_evening/02_slide.jpg",
+    "media/carousel/2026-08-20_evening/03_slide.jpg",
+    "media/carousel/2026-08-20_evening/04_slide.jpg",
+    "media/carousel/2026-08-20_evening/05_slide.jpg",
+    "media/carousel/2026-08-20_evening/06_slide.jpg",
+    "media/carousel/2026-08-20_evening/07_slide.jpg",
+    "media/carousel/2026-08-20_evening/08_cta.jpg"
+  ]
+}
