@@ -1,0 +1,51 @@
+{
+  "date": "2026-08-21",
+  "slot": "noon",
+  "category": "観戦コーデ",
+  "title": "夏の球場別観戦コーデ5選",
+  "slides": [
+    {
+      "heading": "①ドーム球場は冷房対策を！",
+      "body": "意外と肌寒いドーム球場。さらっと羽織れるカーデやパーカーが便利だよ🎽\nひざ掛けもバッグに忍ばせておくと安心！"
+    },
+    {
+      "heading": "②屋外球場は日焼け＆暑さ対策",
+      "body": "ナイターでも油断禁物☀️日焼け止め＋帽子＆サングラスでUVブロック。\n白やパステルの涼しげワンピもおすすめ！"
+    },
+    {
+      "heading": "③バッグの中身はミニマム派？",
+      "body": "両手が空くリュックやサコッシュが人気！\n水筒、タオル、モバイルバッテリー、うちわ…“絶対いるもの”は忘れずに👜"
+    },
+    {
+      "heading": "④NGコーデに注意！",
+      "body": "ヒールや厚底サンダルは階段に危険。\nミニスカorショーパンは椅子や移動で気になることも。\n“動きやすさ重視”がコツだよ！"
+    },
+    {
+      "heading": "⑤推しカラーで可愛さUP♡",
+      "body": "好きな選手や球団のカラーを小物やネイルにIN。\n普段着に溶け込む推し活コーデで気分もUPしちゃお！🎀"
+    }
+  ],
+  "caption": "「球場って何着て行けばいいの？」夏の観戦、実は迷うよね。\n\nドームは冷房で意外と肌寒かったり、屋外は暑さ＆日焼け対策が必須だったり…場所によってベストな服装は全然違うんです！\n\nバッグの中身や、やりがちなNG例もまとめたから、もう服選びで朝バタバタしなくて大丈夫🙆‍♀️\n\n「みんなの観戦コーデ、どんなのが多い？」気になる人はぜひコメントで教えてね！\n\n気になった人は“あとで見返す用”に保存もしてみて🧢✨",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#球場ファッション",
+    "#ドーム観戦",
+    "#夏コーデ",
+    "#推し活",
+    "#球場あるある",
+    "#観戦初心者",
+    "#一人観戦",
+    "#観戦準備"
+  ],
+  "coverImagePrompt": "Japanese baseball stadium in summer, a stylish Japanese woman in her 20s wearing natural feminine pastel-colored clothes, holding a small bag and cap, photorealistic, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-08-21_noon/01_cover.jpg",
+    "media/carousel/2026-08-21_noon/02_slide.jpg",
+    "media/carousel/2026-08-21_noon/03_slide.jpg",
+    "media/carousel/2026-08-21_noon/04_slide.jpg",
+    "media/carousel/2026-08-21_noon/05_slide.jpg",
+    "media/carousel/2026-08-21_noon/06_slide.jpg",
+    "media/carousel/2026-08-21_noon/07_cta.jpg"
+  ]
+}
