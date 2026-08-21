@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-21",
+  "category": "一人観戦Vlog風",
+  "title": "Es Con Field 一人観戦Vlog｜ときめく自分時間",
+  "scene": "夕方のEs Con Field Hokkaido。改札をくぐるときのワクワク、売店で迷いながらグルメを選ぶ姿、座席に着いて夕焼けを背景に乾杯。観戦後は、帰り道を心地よく歩きながら今日の余韻にひたる一人時間。",
+  "caption": "一人で野球観戦に行くの、なんだか緊張する…って思ってたけど、実際に行ってみると想像以上に心地いい時間でした。今日は仕事終わりにふらっとEs Con Fieldへ。入場ゲートをくぐった瞬間から、どこか非日常な空気に包まれて、売店で迷いながら選んだ球場フードもご褒美みたい。夕暮れの観客席でひとり乾杯した瞬間、『この瞬間を独り占めできてる！』って、ちょっと大人になった気分でした。ひとりだからこそ、自分の好きなペースで過ごせるのも魅力。観戦後はちょっと余韻に浸りながら、ゆっくりスタジアムを後に。『ひとり観戦、全然アリかも？』って思えた日。皆さんは一人でどこか行くの、好きですか？コメントで教えてもらえたら嬉しいです☺️気になった人は保存もどうぞ。",
+  "hashtags": [
+    "#野球女子",
+    "#一人観戦",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#エスコンフィールド",
+    "#推し活",
+    "#スタジアムVlog",
+    "#自分時間",
+    "#ナイター観戦",
+    "#北海道おでかけ"
+  ],
+  "prompts": {
+    "kling": "A photorealistic 9:16 smartphone-shot video of a Japanese woman in her 20s, soft natural makeup, casual feminine style (light beige and pastel pink accents), entering Es Con Field Hokkaido alone in the early evening. She films her hand scanning the ticket, walks along the concourse with gentle excitement, browses colorful food stands, orders a pastel drink and ballpark snack, and walks up to her seat as the stadium glows under sunset and lights. She sits, smiling, and toasts herself in the stands, capturing the cozy solo vibe. The video ends with her walking out, dreamy expression, in soft pastel color grading. Handheld camera, gentle natural movement, real-life ambiance, no overlays or AI artifacts.",
+    "veo": "0-5s: POV shot of a young Japanese woman (20s) entering Es Con Field Hokkaido alone, scanning her ticket and walking down the concourse, soft evening light, excited mood. 5-10s: She stops at a stylish food stand, ponders the menu, orders a pastel-colored drink and ballpark snack, quick cut to her carrying food, then finding her seat in the stands, sunset casting warm tones. 10-15s: She does a casual self-toast with her drink, smiling in the golden stadium light, then shows her relaxed walk home on the evening-lit pathway, reflecting on the experience. Soft pastel color grading, 9:16 vertical, photorealistic, handheld smartphoen style, no text overlays.",
+    "higgsfield": "Vertical 9:16, photorealistic, handheld camera throughout. Start with a gentle forward push-in as the woman scans her ticket and steps into the stadium, slight pans as she browses the food stalls, quick handheld cut as she buys food and walks to her seat. Subtle pivot as she sits, followed by a slight zoom-in when she raises her drink for a solo toast, capturing her smile and the sunset-lit stands. Ending with a slow handheld tracking shot from behind as she walks out along the softly lit concourse. Soft pastel color palette, no text, natural ambient stadium sound, no AI artifacts."
+  },
+  "videoFile": "videos/2026-08-21.mp4"
+}
