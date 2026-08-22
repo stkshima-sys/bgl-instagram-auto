@@ -1,0 +1,51 @@
+{
+  "date": "2026-08-22",
+  "slot": "noon",
+  "category": "観戦コーデ",
+  "title": "夏の球場別観戦コーデ5選",
+  "slides": [
+    {
+      "heading": "神宮球場コーデ🌸",
+      "body": "夕方からのナイターは、通気性バツグンのワンピ＋カーデが正解！\n足元はスニーカーで動きやすさも◎。\n推しカラーのキャップをプラスして可愛く♡"
+    },
+    {
+      "heading": "東京ドームは冷房注意！",
+      "body": "ドームの冷房、意外と寒いかも…\n薄手のパーカーやストールは必須アイテム。\nバッグには折りたたみブランケットもINして安心🍀"
+    },
+    {
+      "heading": "ZOZOマリンは風対策！",
+      "body": "海の近くは風が強め！\nショートパンツ派も、ひざ掛けをバッグに忍ばせて。\n髪はまとめ髪スタイルにも挑戦しよ♪"
+    },
+    {
+      "heading": "バッグの中身チェック👜",
+      "body": "日焼け止め・飲み物・ミニ扇風機は夏観戦の三種の神器！\nウェットティッシュや予備マスクもあると安心。\n小分けポーチで整理しておしゃれ感アップ"
+    },
+    {
+      "heading": "やんわりNGコーデ例",
+      "body": "厚底サンダルやヒールは階段で危ないので避けて正解。\n露出しすぎは日焼け＆虫刺されが心配💦\nカジュアル＆動きやすさ大事にしよ！"
+    }
+  ],
+  "caption": "「何着て行こう…？」って毎回悩む野球観戦コーデ。\n球場ごとの気候や雰囲気に合わせて選ぶと、快適＆推し活ももっと楽しめる！\n今回は夏の球場別おすすめコーデと、バッグの中身・NG例もまとめてみました。\n神宮の夕方はカーディガン必須、ドームは冷房対策、ZOZOは風対策と、それぞれポイントが違うんだよね。\nちなみに持ち物は油断しがちだから、直前に確認するのが安心だよ🍹\n「私の球場コーデこれだったよ！」とか「この持ち物便利だった！」なんてコメントで教えてくれると嬉しいな。\n保存しておくと、次の観戦前に絶対役立つからおすすめだよ♡",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#夏コーデ",
+    "#推し活",
+    "#一人観戦",
+    "#神宮球場",
+    "#東京ドーム",
+    "#ZOZOマリン",
+    "#女子野球ファッション"
+  ],
+  "coverImagePrompt": "A photorealistic image of a group of Japanese women in their 20s enjoying a baseball game at a Japanese stadium, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-08-22_noon/01_cover.jpg",
+    "media/carousel/2026-08-22_noon/02_slide.jpg",
+    "media/carousel/2026-08-22_noon/03_slide.jpg",
+    "media/carousel/2026-08-22_noon/04_slide.jpg",
+    "media/carousel/2026-08-22_noon/05_slide.jpg",
+    "media/carousel/2026-08-22_noon/06_slide.jpg",
+    "media/carousel/2026-08-22_noon/07_cta.jpg"
+  ]
+}
