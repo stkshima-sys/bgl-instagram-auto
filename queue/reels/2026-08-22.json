@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-22",
+  "category": "球場グルメ紹介",
+  "title": "ナゴヤドーム映えグルメで乾杯リール",
+  "scene": "球場のコンコースでグルメを受け取る女性。観客席でホットドッグや唐揚げ、ビールを持って笑顔で見せ合い、乾杯。夕暮れのライトが差し込むスタンドで頬張る幸せな一瞬。",
+  "caption": "ナゴヤドームで野球観戦してると、やっぱりグルメは外せないよね！🍻球場に行くたび、ついつい新しいメニューにチャレンジしたくなるのが本音。今日は友達と絶対食べたい名物ホットドッグと、熱々の唐揚げをゲット。試合前のこの時間って、ワクワクと美味しさで幸せ2倍かも。夕暮れのスタンドで乾杯しながら食べると、普通のごはんより何倍も特別に感じるんだよね。皆のおすすめ球場グルメも教えてほしい！コメントでシェアしてね。気になる人は保存して次の観戦の参考に♡",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#バンテリンドーム",
+    "#ホットドッグ",
+    "#唐揚げ部",
+    "#ビール女子",
+    "#推し活女子",
+    "#一人観戦デビュー",
+    "#ナイター女子"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Two stylish Japanese women in their 20s, casual pastel outfits, soft makeup, receive hot dogs and fried chicken at a brightly-lit Nagoya Dome food stand. They walk to spectator seats, laugh, clink beers, and enjoy food together. Sunlight filters in from evening stadium lights, creating a cozy, dreamy mood. Soft pastel colors (white, beige, pastel pink, light blue), no text overlays, no visible AI artifacts.",
+    "veo": "vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot natural look, Japanese women in their 20s at a baseball stadium, soft pastel color grading. 0–5s: Scene opens on a cheerful woman receiving a hot dog and fried chicken at the Nagoya Dome food counter, close-up of hands taking food. 5–10s: She joins her friend in the stands, both smiling and holding their food up for the camera, laughing. 10–15s: The two do a gentle cheers with beer, then take a bite, looking happy; background is softly lit evening stadium, with pastel-toned lights. No text overlays, no AI look.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look. Camera starts handheld following behind a Japanese woman (20s, soft casual outfit) as she picks up food at the stadium stand (push-in). Quick pan to her and友達 walking through the aisle. Cut to handheld close-up of both smiling, holding food and beers for the camera. Gentle push-in as they clink glasses and enjoy food, with pastel evening light in the background. Soft, natural color tones, no overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-08-22.mp4"
+}
