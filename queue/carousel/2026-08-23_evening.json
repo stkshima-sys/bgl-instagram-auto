@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-23",
+  "slot": "evening",
+  "category": "球場グルメ",
+  "title": "球場グルメ女子の推し7選",
+  "slides": [
+    {
+      "heading": "1. ジャイアンツプリンパフェ",
+      "body": "東京ドーム限定の王道映えスイーツ！\nクリームたっぷりで写真も可愛いので\nデザートはまずこれからスタート♡"
+    },
+    {
+      "heading": "2. 甲子園名物・牛すじ煮込み",
+      "body": "甘辛な味付けでリピする人多数！\n3塁側スタンドの売店が定番スポット。\nひとりでもペロりと食べられちゃうよ🍲"
+    },
+    {
+      "heading": "3. 神宮のチーズドッグ",
+      "body": "外はカリカリ中はとろ～り。\n2階売店の列は覚悟だけど、\nわざわざ並ぶ価値アリのボリューム✨"
+    },
+    {
+      "heading": "4. ベイスターズのレモン唐揚げ",
+      "body": "横浜スタジアムといえばコレ！\nさっぱりレモン×ジューシー唐揚げ。\n屋台っぽい雰囲気も楽しいからおすすめ"
+    },
+    {
+      "heading": "5. みんな大好き！球場ラーメン",
+      "body": "どこの球場でも定番メニュー。\n寒い日のナイターや推しが活躍した後の\n嬉しい〆にぴったり🍜"
+    },
+    {
+      "heading": "6. 札幌限定・ジンギスカン串",
+      "body": "北海道ならではのご当地肉グルメ！\nビールとの相性抜群。\n球場の外周グルメエリアを探してみてね"
+    },
+    {
+      "heading": "7. 食べる順番のコツ",
+      "body": "映え→メイン→〆が鉄則！先に\nデザート系をGETして、その後にしょっぱい系。\n意外と売り切れ多いので要チェックだよ！"
+    }
+  ],
+  "caption": "『球場グルメって、どれも気になるけど何から食べればいいの!?』そんな悩み、あるよね🥺笑\n今日の投稿は、野球女子に人気の“映え＆美味しい”球場グルメ7選をピックアップ。東京ドームや甲子園、神宮、横浜など有名球場の定番から、地元グルメまで盛りだくさん！どの売店にあるかや、食べる順番までまとめてるから、次の観戦プランも立てやすいはず。\n「これ気になる！」「食べたことある！」など、コメントで推しグルメ教えてくれると嬉しいな。\n後で見返したくなったら、ぜひ保存して使ってね♡",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#映えグルメ",
+    "#スタジアムフード",
+    "#推し活女子",
+    "#東京ドームグルメ",
+    "#甲子園グルメ",
+    "#神宮球場",
+    "#横浜スタジアム"
+  ],
+  "coverImagePrompt": "Japanese stadium night, soft pastel tones (white, beige, pastel pink, light blue), 20s Japanese women enjoying baseball food, feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-08-23_evening/01_cover.jpg",
+    "media/carousel/2026-08-23_evening/02_slide.jpg",
+    "media/carousel/2026-08-23_evening/03_slide.jpg",
+    "media/carousel/2026-08-23_evening/04_slide.jpg",
+    "media/carousel/2026-08-23_evening/05_slide.jpg",
+    "media/carousel/2026-08-23_evening/06_slide.jpg",
+    "media/carousel/2026-08-23_evening/07_slide.jpg",
+    "media/carousel/2026-08-23_evening/08_slide.jpg",
+    "media/carousel/2026-08-23_evening/09_cta.jpg"
+  ]
+}
