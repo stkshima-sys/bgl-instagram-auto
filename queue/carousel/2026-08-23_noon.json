@@ -1,0 +1,51 @@
+{
+  "date": "2026-08-23",
+  "slot": "noon",
+  "category": "観戦コーデ",
+  "title": "夏の野球観戦コーデ5選【保存版】",
+  "slides": [
+    {
+      "heading": "1.ドーム観戦は涼しげワンピ",
+      "body": "冷房対策に薄手のカーデ必須。\n明るめワンピで写真映えも◎\nバッグはリュックが便利だよ👜"
+    },
+    {
+      "heading": "2.屋外球場は通気トップス",
+      "body": "通気性の良いTシャツ＋デニムが定番！\n帽子＆UVカットグッズも忘れずに☀️\nおしゃれサンダルもおすすめ。"
+    },
+    {
+      "heading": "3.ナイターは羽織りが主役",
+      "body": "日没後は思ったより冷えるから、\nデニムジャケットやパーカーで調整。\n膝掛けをバッグに忍ばせておくと安心！"
+    },
+    {
+      "heading": "4.バッグの中身はこれ！",
+      "body": "現金・タオル・ウェットティッシュ・\nモバイルバッテリーはマスト。\nリップや日焼け止めもコンパクト派に◎"
+    },
+    {
+      "heading": "5.NG例もやんわり紹介",
+      "body": "厚底すぎる靴や、\n座席で広がるスカートは△。\n球場の階段は意外と急なので歩きやすさ重視で！"
+    }
+  ],
+  "caption": "「野球観戦、何着たら浮かない？」って地味に悩むよね。自分らしく可愛く、でも暑さ＆冷房も気になる…そんなこの季節のおすすめコーデを球場別にまとめてみたよ！\n\nドームならワンピ＋カーデ、屋外なら涼しさ＆紫外線対策を先にチェック。ナイターや夜観戦は、実は冷えるから羽織りがあると超安心。バッグの中身は、意外と「現金」と「タオル」が大事（キャッシュレス決済が使えない球場もあるから要注意！）。\n\nあと、動きやすさと座りやすさは大事なポイント。階段が多いから、歩きやすい靴を選ぶのがおすすめだよ◎\n\n他にも「これは外せない！」ってアイテムや、逆に「これ失敗した〜」みたいなエピソードもぜひコメント欄で教えてほしいな。\n\n後からゆっくり見返したい人は、保存してね🌱",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#スタジアムファッション",
+    "#夏コーデ",
+    "#ドーム観戦",
+    "#推し活女子",
+    "#一人観戦デビュー",
+    "#初心者ガイド",
+    "#観戦あるある"
+  ],
+  "coverImagePrompt": "photorealistic, natural lighting, no text, a group of stylish Japanese women in their 20s enjoying a baseball game in a Japanese stadium, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic",
+  "images": [
+    "media/carousel/2026-08-23_noon/01_cover.jpg",
+    "media/carousel/2026-08-23_noon/02_slide.jpg",
+    "media/carousel/2026-08-23_noon/03_slide.jpg",
+    "media/carousel/2026-08-23_noon/04_slide.jpg",
+    "media/carousel/2026-08-23_noon/05_slide.jpg",
+    "media/carousel/2026-08-23_noon/06_slide.jpg",
+    "media/carousel/2026-08-23_noon/07_cta.jpg"
+  ]
+}
