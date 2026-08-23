@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-23",
+  "category": "一人観戦Vlog風",
+  "title": "一人で楽しむTokyo Dome観戦Vlog",
+  "scene": "1. スマホを片手にTokyo Domeのゲート前でワクワクしながら入場。2. 売店でカラフルなドリンクとフードを選び、スタンドに向かう。3. ナイター照明と歓声の中、席で自撮りしながら乾杯。帰り道、余韻に浸る歩く後ろ姿。",
+  "caption": "「一人野球観戦、ちょっと勇気いるかも…？」そんな気持ち、私も最初はあったけど、実はひとりだからこそ楽しめる瞬間がたくさんあったんだ。推しのプレーをしっかり自分のペースで味わえたり、売店で“今日はこれ！”って迷い放題だったり、座席で好きなだけ写真を撮ったり。みんなの熱気にちょっと包まれながら、だけど自分だけの時間もたっぷり感じられる…それが一人観戦のいいところかも。帰り道、今日の余韻をスマホで振り返ってニヤニヤしちゃった。また一人で来ようって思ったよ。みんなも、もしちょっとでも気になってたら、ぜひ一度チャレンジしてみてほしいな！一人観戦派さん、どんな楽しみ方してる？コメントで教えてね🧢✨ #一人観戦 #保存しておきたい思い出",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#一人観戦",
+    "#TokyoDome",
+    "#推し活女子",
+    "#野球観戦Vlog",
+    "#ナイター観戦",
+    "#女子の休日",
+    "#週末の過ごし方"
+  ],
+  "prompts": {
+    "kling": "A photorealistic vertical smartphone-shot style video, 10-15 seconds, showing a stylish Japanese woman in her 20s entering the Tokyo Dome solo at sunset, holding her ticket. She browses the stadium food stalls, buys a pastel-colored drink and snack, then walks up to her seat in the stands, surrounded by softly glowing night lights. She sits, raises her drink for a solo cheers, smiles gently, and films the glowing field and crowd. On the way home, she walks slowly through the illuminated concourse, soft bokeh city lights in the background. Camera is handheld with gentle, natural motion, pastel whites, soft pinks, and blues dominate the color palette. No text or AI artifacts.",
+    "veo": "0-5s: Handheld smartphone shot of a stylish Japanese woman in her 20s, walking toward and entering the gates of Tokyo Dome, evening sky glowing softly. 5-10s: She browses a bright stadium food stall, selects a pastel drink and snack, then makes her way to her seat, surrounded by gentle stadium lighting. 10-15s: Sitting in her seat, she smiles, raises her drink towards the camera in a solo cheers, then a quick cut to her walking away from the stadium at night, soft city lights and gentle bokeh behind her. All in photorealistic, natural smartphone style, vertical 9:16.",
+    "higgsfield": "Handheld vertical 9:16 camera, slow walking motion following a Japanese woman in her 20s as she enters Tokyo Dome, pans to her hands as she chooses colorful food and drink at a stadium stall, gentle push-in as she smiles and sits in her stadium seat, raises her drink for a solo cheers, then pans to the glowing field. Final shot: handheld tracking as she walks out through softly lit concourses, pastel pink and blue color palette, soft, natural lighting, subtle bokeh, no text or AI artifacts."
+  },
+  "videoFile": "videos/2026-08-23.mp4"
+}
