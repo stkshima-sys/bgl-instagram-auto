@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-24",
+  "category": "推し活動画",
+  "title": "推しタオルとユニで夏ナイター応援！エモ球場推し活リール",
+  "scene": "Yokohama Stadiumの観客席でナイター照明に包まれながら、20代女性2人がベイスターズのユニフォーム姿でタオルやうちわを楽しそうに掲げ、スマホで自撮りしながら熱狂のスタンドを背景に声援を送る。試合の合間にお揃いの観戦グッズやかわいいおやつを見せ合う、夕暮れのやわらかい光と人の熱気が伝わるエモい推し活シーン。",
+  "caption": "ユニフォームに袖を通すと、もうそれだけでテンションが上がる♡ ナイターのライトに照らされてスタンドに集まる人たちの熱気も、推しカラーのタオルやうちわを掲げる手の動きも、全部“推し活”の特別な空気。一緒に来てくれる友達がいない日も、同じ空間で応援する人たちと自然に一体感が生まれるのが球場の魅力だよね。実は一人観戦でも、推しグッズがあると勇気が出たりするかも！ 今日は夕焼け色のYokohama Stadiumで、好きな選手に思いきりエールを送ってきたよ。あなたの推し活スタイルも教えてほしいな。動画が参考になったら、ぜひ保存＆コメントでシェアしてね⚾️✨",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#推し活",
+    "#横浜スタジアム",
+    "#ナイター観戦",
+    "#野球観戦女子",
+    "#観戦グッズ",
+    "#推しカラー",
+    "#スタンドの熱気",
+    "#一人観戦デビュー"
+  ],
+  "prompts": {
+    "kling": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion, Japanese women in their 20s at Yokohama Stadium at night, two women wearing team uniforms and holding colorful towels and fan uchiwa, energetically cheering in the stands, the crowd lively in the background under soft ballpark lights, one woman waves a towel above her head, both laughing and filming selfies, pastel pink and light blue hues, occasional glimpses of snacks and matching cheering goods, gentle evening glow, no text overlays, no AI artifacts",
+    "veo": "vertical 9:16, photorealistic, smartphone-shot style, Cut 1 (0-5s): Two Japanese women in their 20s, wearing team uniforms, joyfully walking up stadium steps, pastel pink and blue towels draped over their shoulders, stadium lights coming on. Cut 2 (5-10s): In the stands, both women waving towels and uchiwa, cheering towards the field, crowd excitement and illuminated backdrop, softly laughing and doing a quick side-by-side selfie. Cut 3 (10-15s): Closeup on their hands with team pins and snacks, pulling back to show the evening crowd and the girls exchanging glances, soft colors and lively atmosphere, no text overlays, no AI look.",
+    "higgsfield": "vertical 9:16, 10-15s, photorealistic, natural handheld camera with gentle panning and occasional push-in, following two Japanese women in their 20s wearing team uniforms at Yokohama Stadium. Camera moves from walking beside the girls, pans up to their faces as they hold up towels and uchiwa, then push-in to a selfie angle as they laugh. Handheld closeup on pastel accessories and snacks, camera gently pulls out to capture the evening-lit stands full of excitement. Soft pastel color grading, realistic energy, no overlays or AI feel."
+  },
+  "videoFile": "videos/2026-08-24.mp4"
+}
