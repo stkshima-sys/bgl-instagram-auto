@@ -1,0 +1,51 @@
+{
+  "date": "2026-08-25",
+  "slot": "evening",
+  "category": "観戦コーデ",
+  "title": "夏の球場観戦コーデ5選：可愛さ×涼しさの両立アイデア",
+  "slides": [
+    {
+      "heading": "カジュアルT×デニムスカート",
+      "body": "推しチームTシャツにデニムスカートは王道！\n動きやすくて写真映えも◎\nスニーカーで歩きやすさも忘れずに👟"
+    },
+    {
+      "heading": "ワンピ×カーデで寒暖差対策",
+      "body": "球場の冷房やナイターの夜風対策に\n薄手カーデをひと巻き。\nワンピースなら座りっぱなしでも楽ちん🎀"
+    },
+    {
+      "heading": "クリアバッグの中身は？",
+      "body": "必需品はミニタオル、日焼け止め、\nペットボトル、ポータブル扇風機。\nクリアバッグで中身も可愛く見せて👜"
+    },
+    {
+      "heading": "NG例：ヒールや厚着は避けて",
+      "body": "ヒールは階段移動が辛いかも…\n分厚い服は汗だくになりやすいから注意！\n涼しく＆動きやすくを意識してみてね🌿"
+    },
+    {
+      "heading": "推しカラーアクセで気分UP",
+      "body": "ヘアピンやネイル、小物で推し色を仕込むと\n一気に気分も上がる！\nさりげない“推しコーデ”もおすすめ💖"
+    }
+  ],
+  "caption": "「野球観戦って、どんな服で行けばいいの？」実は毎回なやみがち…。\n夏の球場って蒸し暑いし、ナイターだと夜は思ったより肌寒いことも。友達と写真を撮るなら可愛さも大事にしたいし、座ったり歩いたりを考えると動きやすさも捨てがたいよね😂\n\n今回は、涼しさと“かわいい”を両立できる観戦コーデを5つまとめました！バッグの中身＆やんわりNG例もチラ見せ。推しカラー小物を取り入れるプチテクも紹介してるので、次の観戦の参考になればうれしいです♡\n\nみんなの観戦コーデや、お気に入り球場のおすすめアイテムもぜひコメントで教えてね！保存して、次の観戦前に見返してみて📝",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#球場ファッション",
+    "#夏コーデ",
+    "#推し活",
+    "#球場女子",
+    "#デートコーデ",
+    "#スポーツ観戦",
+    "#クリアバッグ",
+    "#一人観戦"
+  ],
+  "coverImagePrompt": "photorealistic, natural lighting, no text, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, stylish 20s Japanese woman enjoying baseball game at a Japanese stadium, relaxed and happy, summer mood, showing natural and cute stadium outfit",
+  "images": [
+    "media/carousel/2026-08-25_evening/01_cover.jpg",
+    "media/carousel/2026-08-25_evening/02_slide.jpg",
+    "media/carousel/2026-08-25_evening/03_slide.jpg",
+    "media/carousel/2026-08-25_evening/04_slide.jpg",
+    "media/carousel/2026-08-25_evening/05_slide.jpg",
+    "media/carousel/2026-08-25_evening/06_slide.jpg",
+    "media/carousel/2026-08-25_evening/07_cta.jpg"
+  ]
+}
