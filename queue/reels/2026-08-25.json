@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-25",
+  "category": "初心者の一日",
+  "title": "甲子園・初観戦女子のエモい1日",
+  "scene": "友だちと待ち合わせてドキドキしながら甲子園の前に到着。観客席でワクワク感を感じながら試合開始、球場の歓声や雰囲気に包まれる。最後はナイター照明の下で「また来たいね」と笑い合う感動的な瞬間で締め。",
+  "caption": "一緒に行く人がいない…なんて思ってたけど、勇気を出して友だちと初めての甲子園⚾️。最初は『浮かないかな？』『コーデ大丈夫？』って不安だらけ。でもチケットも意外とかんたんだし、球場のワクワク感に自然と気持ちが上がる！スタンドに座った瞬間、フィールドの近さとみんなの一体感にウルっとくる…。売店のグルメも美味しくて、どの瞬間も“特別”。気づいたら夢中で応援してた自分にびっくり。帰り道、夕焼けの球場がキラキラで「また来ようね」って二人で約束。初めての野球観戦、意外と勇気いらないかも。#野球女子 あるある、他にも聞かせてほしいな🧢 コメントで初観戦の思い出を教えてね！保存して次の観戦デビュー日に使っても◎",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#甲子園観戦",
+    "#一人観戦デビュー",
+    "#推し活女子",
+    "#ナイター観戦",
+    "#初観戦の思い出",
+    "#女子旅スポット",
+    "#青春の1ページ"
+  ],
+  "prompts": {
+    "kling": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Two Japanese women in their 20s, naturally styled, walk together outside Koshien Stadium, laughing nervously. Cut to them grabbing snacks at a stadium food stand, filming each other with their phones. Then, handheld closeup as they sit in the stands during sunset, reacting emotionally to the game, with pastel tones and soft lighting. No visible text overlays or AI artifacts.",
+    "veo": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld camera, soft pastel color grading. 0-5s: Two Japanese women in their 20s walk toward Koshien Stadium entrance, looking excited and a bit nervous, sun-drenched in pastel pink and beige outfits. 5-10s: Closeup of hands holding stadium snacks, then a reaction shot as they watch the field from the seats, blending crowd energy and gentle smiles. 10-15s: The friends are illuminated by stadium night lights, sharing a soft laugh, then turning to capture the glowing field together, capturing an emotional, magazine-like atmosphere.",
+    "higgsfield": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, soft pastel color grading. Start with handheld pan as two Japanese women in their 20s approach Koshien Stadium, transition to gentle push-in on one of them holding stadium food, then handheld closeups of their faces reacting to the game, ending with a slow handheld pullback from the friends in the stands as the night lights come on. No visible text overlays or AI artifacts."
+  },
+  "videoFile": "videos/2026-08-25.mp4"
+}
