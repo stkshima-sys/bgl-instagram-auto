@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-26",
+  "category": "一人観戦Vlog風",
+  "title": "一人でも大丈夫！甲子園一人観戦Vlog",
+  "scene": "甲子園のゲートをくぐり、ワクワクしながらコンコースを歩く。売店でドリンクを買って、座席で球場全体を見下ろしながら乾杯。帰り道、夕焼けに照らされる球場をバックに余韻を楽しむ。",
+  "caption": "『一人で球場行くのってちょっと勇気いるよね。でも、思いきって足を運んでみたら…小さなドキドキも全部特別な思い出になった！甲子園のゲートをくぐる瞬間、売店で好きなドリンクを選ぶ時間、ふわっと広がる夜風の中で一人乾杯したあの一杯。気づいたら『一人観戦って、結構いいかも』って思えてきた。誰かと一緒もいいけど、自分だけのペースで楽しむ贅沢さも、たまにはいいよね。帰り道の夕焼けが、ちょっと大人な気分にさせてくれました🍹\n\n一人観戦の楽しみ方、あなたならどんな瞬間感じる？ぜひ保存して、次の観戦プランの参考にしてみてね！#一人観戦の思い出もコメントで教えて〜！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#一人観戦",
+    "#甲子園",
+    "#推し活女子",
+    "#スタジアム女子",
+    "#観戦Vlog",
+    "#スポーツ観戦",
+    "#野球観戦デビュー"
+  ],
+  "prompts": {
+    "kling": "A photorealistic 9:16 video, 10-15 seconds, with a natural smartphone feel. The camera follows a Japanese woman in her 20s, casually and stylishly dressed, as she enters Koshien Stadium through the main gate at dusk, looking around with a gentle smile. She walks through the soft-lit concourse, handheld camera panning slightly, stops at a pastel-accented drink stand, buys a drink, and then continues to her seat. Sitting solo in the stands, she raises her cup for a small, contented cheers, framed by the pastel evening sky and stadium lights. The final shot lingers on her quietly walking beside the glowing stadium on her way home, soft breeze gently moving her hair.",
+    "veo": "vertical 9:16, photorealistic, natural handheld, no AI artifacts, Japanese woman in her 20s at Koshien Stadium, soft pastel color grading. 0-5s: POV walking through the main gate of Koshien Stadium, the excitement of arriving alone, with pastel banners and evening sunlight. 5-10s: Shot over her shoulder walking in the stadium's concourse, stopping at a pastel-pink themed drink stand, and buying a drink with a smile. 10-15s: Sits in the stands, raises her drink for a solo cheers, the field and lights in soft focus; ends with a dreamy walk home along the softly lit stadium exterior at sunset.",
+    "higgsfield": "vertical 9:16, photorealistic, smartphone-shot look, handheld camera follows a Japanese woman in her 20s entering Koshien Stadium (push-in motion toward gate), subtle handheld panning as she walks through the concourse, gentle tilt and push-in as she buys a drink at the stand, handheld shot as she settles in and lifts her drink for a cheer, ends with a slow handheld tracking shot along the stadium exterior at sunset, pastel color grading"
+  },
+  "videoFile": "videos/2026-08-26.mp4"
+}
