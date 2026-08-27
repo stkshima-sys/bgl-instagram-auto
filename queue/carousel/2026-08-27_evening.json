@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-27",
+  "slot": "evening",
+  "category": "観戦コーデ",
+  "title": "夏の球場観戦コーデ5選",
+  "slides": [
+    {
+      "heading": "涼しさ重視のワンピコーデ",
+      "body": "暑い日のナイターには、サラッと着られるワンピースがおすすめ🎐\n座りっぱなしでもしんどくないし、可愛い写真も撮れちゃう！"
+    },
+    {
+      "heading": "推しカラーで気分UP",
+      "body": "推しチームや選手のカラー小物をバッグやキャップにプラス。\nさりげない“推しアピ”が気分を上げてくれるよ💙"
+    },
+    {
+      "heading": "バッグの中身は3つだけ",
+      "body": "・日焼け止め\n・ハンディファン\n・折りたたみエコバッグ\nこれだけで快適観戦OK！\n身軽が一番✨"
+    },
+    {
+      "heading": "スタンド席NGコーデ例",
+      "body": "ヒール、白い服、厚手のニットは避けて🙅‍♀️\n階段が多い＆飲み物も飛びがちなので、汚れやすい服は要注意だよ。"
+    },
+    {
+      "heading": "昼夜の温度差にご用心",
+      "body": "夏でもスタジアムの夜は時々肌寒いかも…\n薄手カーデやストールをバッグに忍ばせておけば安心🌙"
+    },
+    {
+      "heading": "友達とリンクコーデも♡",
+      "body": "みんなでおそろいキャップやTシャツも楽しい！\n写真映えもバッチリで、観戦気分が一層盛り上がるよ📸"
+    }
+  ],
+  "caption": "「何着て行けばいいか毎回悩む！」…野球観戦あるあるだよね。夏の球場コーデは、涼しさと可愛さのバランスが重要！今回は、推しカラーのワンポイントやバッグの中身、持っててよかった薄手カーデまで、スタジアムならではの“快適＆可愛い”コーデ術をまとめてみたよ🥰急な飲み物の飛びや温度差で失敗しないコツも紹介。友達とのリンクコーデアイデアもあるから、次の観戦の参考にしてね。みんなの「観戦コーデ失敗談」や「これ持ってって正解だった！」エピソード、ぜひコメントで教えてほしいな💌気になったら保存して、明日の観戦準備に役立ててみて！",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#夏のおしゃれ",
+    "#推し活女子",
+    "#球場ファッション",
+    "#一人観戦デビュー",
+    "#初観戦",
+    "#リンクコーデ",
+    "#推しカラー"
+  ],
+  "coverImagePrompt": "photorealistic Japanese baseball stadium, 20s Japanese women enjoying the game, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-08-27_evening/01_cover.jpg",
+    "media/carousel/2026-08-27_evening/02_slide.jpg",
+    "media/carousel/2026-08-27_evening/03_slide.jpg",
+    "media/carousel/2026-08-27_evening/04_slide.jpg",
+    "media/carousel/2026-08-27_evening/05_slide.jpg",
+    "media/carousel/2026-08-27_evening/06_slide.jpg",
+    "media/carousel/2026-08-27_evening/07_slide.jpg",
+    "media/carousel/2026-08-27_evening/08_cta.jpg"
+  ]
+}
