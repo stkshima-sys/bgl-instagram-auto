@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-28",
+  "slot": "evening",
+  "category": "初心者ガイド",
+  "title": "初観戦のための持ち物リスト7選",
+  "slides": [
+    {
+      "heading": "1. チケットは紙とスマホ両方で",
+      "body": "現地で迷わないように、発券した紙チケットとスマホ画面の両方を準備しておくのが安心だよ✨\n突然の電池切れもこれで怖くない…！"
+    },
+    {
+      "heading": "2. 日焼け&暑さ対策グッズ",
+      "body": "帽子や日焼け止め、扇子やハンディファンは夏の球場の必需品！\nおしゃれも楽しみつつ、しっかり自分を守ろう☀️"
+    },
+    {
+      "heading": "3. 小さめバッグ＋貴重品ポーチ",
+      "body": "荷物は最小限が基本！\nスタンドの下にすっと置けるトートや斜めがけがおすすめ。\n貴重品は別ポーチで安心感アップ🎒"
+    },
+    {
+      "heading": "4. 応援グッズで推し活気分UP",
+      "body": "推しのタオルやユニフォーム、うちわがあるだけでテンションUP！\n初心者さんも遠慮せず持っていってOKだよ⚾️"
+    },
+    {
+      "heading": "5. 充電器＆ウェットティッシュ",
+      "body": "写真いっぱい撮ったり、グルメを楽しんだりすると意外と必須。\nUSB充電器とウェットティッシュはお助けアイテム🌸"
+    },
+    {
+      "heading": "6. 羽織りもの＆カーディガン",
+      "body": "夜は思った以上に涼しくなることも。\n肩掛けカーデや薄手のパーカーがあるとリラックスして観戦できるよ🧥"
+    },
+    {
+      "heading": "7. ミニブランケットやレジャーシート",
+      "body": "観戦中のお尻や足元の冷え対策に。\n持ってると周りの女の子から「それ便利！」って言われることも♡"
+    }
+  ],
+  "caption": "「球場って何を持っていけばいいの？」初めてだと迷うよね。\n今回は、野球観戦ビギナーさんに向けて、実際にみんなが持っていってよかった！と思った持ち物を7つまとめてみたよ。\n私も最初は荷物が多すぎて失敗したけど、これだけあれば快適＆安心！\n\n特に日焼け止めや羽織りものは春夏秋冬いつ行っても重宝。\n推しグッズやおしゃれバッグで気分も上がるし、ちょっとした心配りが観戦の思い出をもっと素敵にしてくれるはず。\n\nみんなは野球観戦に必ず持っていくものある？コメント欄で教えてね！\nこのリスト、保存してじっくり準備してみて♡",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#野球観戦",
+    "#球場初心者",
+    "#球場グルメ",
+    "#推し活女子",
+    "#ひとり観戦",
+    "#おすすめ持ち物",
+    "#観戦アイテム",
+    "#球場マナー"
+  ],
+  "coverImagePrompt": "A photorealistic, natural lighting photo of a stylish Japanese woman in her 20s enjoying a baseball game at a Japanese stadium. Soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, high-end & natural, smiling, no text.",
+  "images": [
+    "media/carousel/2026-08-28_evening/01_cover.jpg",
+    "media/carousel/2026-08-28_evening/02_slide.jpg",
+    "media/carousel/2026-08-28_evening/03_slide.jpg",
+    "media/carousel/2026-08-28_evening/04_slide.jpg",
+    "media/carousel/2026-08-28_evening/05_slide.jpg",
+    "media/carousel/2026-08-28_evening/06_slide.jpg",
+    "media/carousel/2026-08-28_evening/07_slide.jpg",
+    "media/carousel/2026-08-28_evening/08_slide.jpg",
+    "media/carousel/2026-08-28_evening/09_cta.jpg"
+  ]
+}
