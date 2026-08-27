@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-28",
+  "category": "球場グルメ紹介",
+  "title": "エスコン名物グルメで乾杯リール",
+  "scene": "エスコンフィールドのスタンドで、女性2人が球場グルメを手に笑顔。人気ホットドッグを分け合いながら、ハイボールで乾杯。夕焼けの球場を背景に、幸せそうに一口目を味わう。",
+  "caption": "「球場グルメの誘惑って、止まらないよね🍔」友達とエスコンフィールド北海道に来たら、絶対外せないのが名物グルメ！今回は人気のホットドッグと、すっきりハイボールで乾杯してきました。野球観戦って、応援するだけじゃなくてごはんやドリンクも大事な楽しみのひとつ。球場でしか味わえない限定メニューを、友達と笑いながら食べる時間…この瞬間だけでまた行きたくなるかも。1人観戦の時も、グルメでちょっとご褒美気分になれるからおすすめです。みんなの“推し球場グルメ”もぜひ教えてね！この投稿、あとで見返したい人は保存も忘れずに🍟",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#エスコンフィールド",
+    "#北海道グルメ",
+    "#推し活女子",
+    "#一人観戦デビュー",
+    "#グルメ旅",
+    "#球場ごはん",
+    "#ナイター女子"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16 video, 12 seconds, photorealistic, shot with a smartphone. Two Japanese women in their 20s wearing casual, stylish outfits with natural makeup are at Es Con Field Hokkaido baseball stadium. Scene starts in the stands during sunset, with pastel pink and soft blue light. One woman holds a juicy hot dog, the other a pastel-colored drink. They smile at the camera, make a toast with highballs, take a cheerful bite of the hot dog, and share a natural laugh. Camera moves handheld, capturing their emotions and the lively but cozy stadium background. Soft, natural color grading, no overlays, no AI artifacts.",
+    "veo": "Vertical video, 9:16, 12 seconds, photorealistic, smartphone style. 0-5s: Two Japanese women in their 20s stand in the Es Con Field Hokkaido stands at sunset, holding a hot dog and highball, looking at each other and smiling. 5-10s: They do a 'kanpai' (cheers) gesture, then both take a satisfying bite of the hot dog, showing enjoyment. 10-12s: The camera pans slightly to reveal the glowing stadium behind them as they share a happy glance, capturing the soft pastel sunset and stadium lights. Natural handheld movements, soft bright colors, no text overlays.",
+    "higgsfield": "Vertical 9:16, photorealistic, soft pastel color grading. Handheld camera, gentle push-in from midshot to close-up of two Japanese women in their 20s with natural makeup at Es Con Field Hokkaido during sunset. The camera tracks their hands as they toast their drinks, then gently tilts up to capture their delighted expressions as they taste the hot dog. Background shows softly lit stadium and audience. No overlays, no visible AI artifacts, looks like casual smartphone footage."
+  },
+  "videoFile": "videos/2026-08-28.mp4"
+}
