@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-29",
+  "category": "球場グルメ紹介",
+  "title": "バンテリンドーム名古屋・映え球場グルメで乾杯リール",
+  "scene": "20代女性がバンテリンドーム名古屋の観客席で人気グルメ（味噌カツサンドとビール）を手に持ち、友達と笑顔で乾杯。ひとくち食べて“おいしい！”とリアクション。夕暮れの球場照明と柔らかいパステルトーン、スマホで撮った自然な雰囲気。",
+  "caption": "一緒に球場行く人いないな…って思ってたけど、最近は一人でもふらっと来てみるのが新しい楽しみになってます。バンテリンドーム名古屋の味噌カツサンドは絶対食べてほしい！ジューシーでボリュームあって、片手でパクッと食べれるから、試合が盛り上がる中でもこぼさず安心。冷たいビールで乾杯する瞬間って、なんだか日常を忘れて思いっきりリフレッシュできる気がするんです。観戦初心者さんも、『美味しいもの×野球』でまずは気軽に球場デビューしてみてほしい。あなたの推し球場グルメ教えてくれたらうれしいです🍴💗みんなのおすすめも知りたいので、ぜひコメントでシェアしてね！ #保存して次行くときの参考に",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#バンテリンドーム",
+    "#味噌カツサンド",
+    "#野球観戦デビュー",
+    "#一人観戦女子",
+    "#ビール女子",
+    "#推し活",
+    "#野球好きな人と繋がりたい"
+  ],
+  "prompts": {
+    "kling": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. At Vantelin Dome Nagoya, two stylish Japanese women in their 20s, natural makeup, casual cute outfits with pastel tones, sitting in the stands at sunset. Both hold signature stadium food (miso katsu sandwich) and cold beer cups. Closeup as they smile, cheerfully bump beers, take a bite of the sandwich, and laugh. Soft pastel lighting, beige and pink accents. Lively stadium background, no visible text, completely natural, no AI artifacts.",
+    "veo": "vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, soft pastel lighting, natural handheld movement, Japanese women in their 20s at Vantelin Dome Nagoya. 0-5s: Closeup of two women in pastel-colored casual outfits, holding miso katsu sandwiches and beers in the stadium stands; one smiles at the camera, the other glances at her friend. 5-10s: They clink their beer cups with a cheerful 'cheers' gesture; focus on laughter and shimmering stadium lights in the background. 10-15s: One woman takes a bite of the sandwich and mouths 'delicious' while the other grins, soaking in the sunset baseball atmosphere. No text or digital overlays, natural crowd ambiance.",
+    "higgsfield": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, handheld camera. Start with a slow push-in to two Japanese women in their 20s at Vantelin Dome Nagoya, pastel clothes, natural makeup, holding miso katsu sandwiches and beers. Handheld tracking as they laugh and make a small toast. Quick focus pull to a closeup bite of the sandwich, then soft pan to their happy faces, stadium lights softly glowing in the background. Natural, soft pastel color palette, no overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-08-29.mp4"
+}
