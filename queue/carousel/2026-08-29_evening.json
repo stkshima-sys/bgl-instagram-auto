@@ -1,0 +1,51 @@
+{
+  "date": "2026-08-29",
+  "slot": "evening",
+  "category": "観戦コーデ",
+  "title": "夏の球場観戦コーデ5選〜可愛く涼しい工夫集",
+  "slides": [
+    {
+      "heading": "1. ナイターの涼しさ重視コーデ",
+      "body": "夕方からのナイターは風が気持ちいいけど、半袖ワンピに薄手カーデがおすすめ！\n肌寒い時の羽織りは必須だよ。🧢"
+    },
+    {
+      "heading": "2. デイゲームは日焼け＆汗対策",
+      "body": "日中は日差しが強いから、キャップ＆UVカットの長袖が鉄板。\n淡いカラーで涼しげにまとめるとおしゃれ感UP☀️"
+    },
+    {
+      "heading": "3. バッグの中身はこれ！",
+      "body": "ポーチには汗拭きシートやミスト、日焼け止めをIN。\n荷物は軽めだけど、モバイルバッテリーもあると安心。"
+    },
+    {
+      "heading": "4. ドーム球場は温度差に注意",
+      "body": "冷房が効いてて意外と寒いことも！\n薄手のパーカーやストールがあると快適。膝掛け代わりにも◎"
+    },
+    {
+      "heading": "5. みんなやりがちNGコーデ",
+      "body": "高めヒールや大きすぎるバッグ、厚着しすぎは要注意。\n階段の上り下りや座席の狭さに困ることも…"
+    }
+  ],
+  "caption": "「球場観戦って、何着て行けばいいの？」と毎回迷うよね。夏の観戦は日差しや冷房、汗対策など心配ポイントがいっぱい。\nでも実は、ちょっとした“工夫”で可愛さも快適さも叶うんです！\n今回は【夜と昼・屋外とドーム】の違いに合わせて、おすすめの観戦コーデや、バッグの中身、やりがちNGパターンまでまとめました。\n自分にぴったりのスタイルを見つけて、推し活も思いっきり楽しもう💙\n「これ真似したい！」や「私の球場コーデはこうしてる」など、ぜひコメントで教えてね。\n気になったら保存＆友達にもシェアがおすすめです☺️",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活女子",
+    "#一人観戦",
+    "#夏のコーデ",
+    "#初心者さんと繋がりたい",
+    "#ドーム球場",
+    "#日焼け対策",
+    "#球場ファッション"
+  ],
+  "coverImagePrompt": "A 20-something Japanese woman enjoying a baseball game in a Japanese stadium, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-08-29_evening/01_cover.jpg",
+    "media/carousel/2026-08-29_evening/02_slide.jpg",
+    "media/carousel/2026-08-29_evening/03_slide.jpg",
+    "media/carousel/2026-08-29_evening/04_slide.jpg",
+    "media/carousel/2026-08-29_evening/05_slide.jpg",
+    "media/carousel/2026-08-29_evening/06_slide.jpg",
+    "media/carousel/2026-08-29_evening/07_cta.jpg"
+  ]
+}
