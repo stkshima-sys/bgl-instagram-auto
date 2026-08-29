@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-30",
+  "category": "一人観戦Vlog風",
+  "title": "一人観戦Vlog：横浜スタジアムナイト",
+  "scene": "夕暮れの横浜スタジアムを一人で入場。売店でドリンクや限定おつまみを購入し、観客席に座って乾杯。試合後、夜風を感じながら帰り道の余韻を味わう。",
+  "caption": "『一人で球場って、ちょっと勇気がいるかも…？』そんな気持ち、私もよくわかります。でも実際に来てみると、夕暮れのスタジアムが少しずつ明るくなっていく瞬間とか、売店で迷うワクワクとか、座席に座って「推し選手カッコイイ！」と心の中で叫ぶ時間とか…全部が自分だけの特別な思い出になります。誰かと一緒も楽しいけど、たまには“自分だけの野球時間”を過ごしてみるのも悪くないかも。今日も一人乾杯でリフレッシュ🍹　みんなは一人観戦、挑戦したことある？コメントで教えてね！迷った時の保存もぜひ☺️",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#一人観戦デビュー",
+    "#横浜スタジアム",
+    "#推し活女子",
+    "#ナイトゲーム",
+    "#大人女子の趣味",
+    "#女子ひとり旅",
+    "#保存したくなる"
+  ],
+  "prompts": {
+    "kling": "A photorealistic vertical 9:16 video, shot handheld on a smartphone. Opens with a Japanese woman in her 20s walking alone towards Yokohama Stadium at dusk, pastel pink and beige tones in the sky. She buys a pastel-colored drink and cute snack at a stylish food stand, smiling shyly. Cut to her from behind as she finds her seat among a crowd, then close-up as she holds up her drink for a solo 'cheers' with the illuminated field in the background. Ends with her walking out of the stadium slowly, city lights and night air behind, smiling contentedly. Natural motion, no text overlays, soft pastel color grading, no AI artifacts.",
+    "veo": "0-5s: Handheld, the camera follows a 20-something Japanese woman entering Yokohama Stadium at dusk, atmospheric pastel sky, stadium lights flickering on. 5-10s: She browses a food stand, orders a cute drink/snack, then walks to find her seat with a soft smile, blending into the friendly crowd. 10-15s: Seated solo, she lifts her pastel drink for a quiet cheers, stadium glowing; finally, a gentle walking away shot down a softly-lit aisle, city lights in the night behind her. All scenes with soft pastel and beige color grading, smartphone-shot look, no overlays or AI artifacts.",
+    "higgsfield": "Handheld camera, vertical 9:16. Start with a steady push-in as the woman approaches Yokohama Stadium at sunset, then a gentle pan as she browses the food stands, picking up a pastel beverage. Follow her with smooth handheld steps to her seat. Push-in for a soft focus close-up as she raises her drink for a quiet cheers, stadium lights in the background. End with a gentle dolly-out as she walks through the exit, night city lights softly blurred. Natural ambient lighting, pastel pink and beige tones, no text or digital artifacts."
+  },
+  "videoFile": "videos/2026-08-30.mp4"
+}
