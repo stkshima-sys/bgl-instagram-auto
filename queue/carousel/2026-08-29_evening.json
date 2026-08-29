@@ -1,52 +1,44 @@
 {
   "date": "2026-08-29",
   "slot": "evening",
-  "category": "推し活",
-  "title": "推し活がもっと楽しくなる♡応援グッズ7選",
+  "category": "球場紹介",
+  "title": "首都圏おすすめ球場5選",
   "slides": [
     {
-      "heading": "推し活ってどうしてる？",
-      "body": "推し選手を応援したいけど、何を準備したらいいか迷うことない？\n自分らしい推し活を楽しむコツ、まとめてみたよ♡"
+      "heading": "東京ドームは雨も安心☔️",
+      "body": "全天候型だから、天気を気にせず予定が立てやすいよ！\n駅直結＆カフェも多くて、女子同士や一人観戦にもピッタリ。"
     },
     {
-      "heading": "ユニフォームアレンジ術",
-      "body": "推しのユニフォームは、ちょっとした工夫で可愛く大変身！\nTシャツワンピ風や肩掛けスタイルでおしゃれ度アップ✨"
+      "heading": "神宮球場は夜風が最高🌙",
+      "body": "開放感バツグンで夏はナイターが気持ちいい！\n外苑前のカフェ巡りや、話題のグルメも楽しめるよ。"
     },
     {
-      "heading": "うちわ＆ボード自作アイデア",
-      "body": "市販のうちわにリボンや\nハートをデコるだけで簡単カスタム！\n友達とおそろいで作っても楽しいよ😊"
+      "heading": "横浜スタジアムで海×野球⚾️",
+      "body": "ベイスターズカラーの観戦コーデが映える！\nみなとみらい周辺で推し活スイーツもGETできちゃう。"
     },
     {
-      "heading": "応援タオルの持ち方",
-      "body": "タオルはバッグに結んだり、首元にふわっとかけるのもおすすめ。\n応援グッズもコーデの一部になるから、写真映えバッチリ📸"
+      "heading": "ZOZOマリンは海風が気持ちいい🌊",
+      "body": "潮風を感じながらの観戦は非日常！\n海浜幕張のオシャレカフェやショッピングも楽しみ。"
     },
     {
-      "heading": "グッズ収納は“見せる収納”で",
-      "body": "推しグッズは可愛いカゴやクリアBOXにIN。\nお部屋にインテリア風に飾れば、毎日推しを感じられるよ♪"
-    },
-    {
-      "heading": "推しカラーを意識しよう",
-      "body": "コーデやネイル、アイテムに推しカラーを取り入れると\n気分も盛り上がる！\nさりげなく推し愛をアピールしてみてね🌸"
-    },
-    {
-      "heading": "プチプラ活用テク",
-      "body": "100均や雑貨屋さんのアイテムで、推しグッズがぐっと可愛く♡\n自分だけの“推しセット”を作って、球場での時間を楽しもう！"
+      "heading": "西武ドームは緑の中の癒し空間🍃",
+      "body": "森に囲まれた独特な雰囲気でリラックス。\n所沢駅近くの焼き菓子カフェや公園も穴場スポット！"
     }
   ],
-  "caption": "推し活、実は自分だけ浮いてるかも…と不安になることない？でも大丈夫！みんな最初は何を持ったらいいか、どんな風にアピールしようか迷うもの。今回は、私が実際にやってみて「これ保存したい！」と思った推し活グッズのアイデアをまとめてみました♡ユニフォームの着こなしから、簡単にできるボードのアレンジ、持ってて楽しいタオルや“見せる収納”テクまで。どれも明日すぐにできるものばかりだから、少しだけ勇気を出して自分の推しをアピールしてみてね！推しカラーコーデやプチプラグッズ使いもこれからの季節にぴったり。推し活の工夫や、みんなのグッズ見せて！気になったらぜひコメントで教えてね♡いいなと思ったら保存も忘れずに🌟",
+  "caption": "「どの球場からデビューしよう…？」って迷っちゃうことない？😊\n球場によって雰囲気が全然違うから、行くだけでリフレッシュできるんだよね。首都圏にはアクセスしやすい＆女子向けスポットが揃った球場がたくさん。推し球場が見つかれば、週末の楽しみがもっと増えるかも…！\nあなたが一番好きな球場はどこ？初めて行った思い出もぜひコメントで教えてね。\n保存して、次のお出かけプランの参考にしてみてね🌟",
   "hashtags": [
     "#野球女子",
-    "#推し活",
+    "#球場グルメ",
     "#観戦コーデ",
-    "#応援グッズ",
-    "#ユニフォームアレンジ",
-    "#球場ファッション",
-    "#うちわデコ",
-    "#グッズ収納",
-    "#推しカラー",
-    "#女子野球部"
+    "#一人観戦デビュー",
+    "#神宮球場",
+    "#東京ドーム",
+    "#横浜スタジアム",
+    "#ZOZOマリン",
+    "#野球観戦初心者",
+    "#推し球場"
   ],
-  "coverImagePrompt": "Japanese baseball stadium, 20-something Japanese women enjoying the game, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "coverImagePrompt": "Photorealistic, natural lighting, no text. Soft pastel tones (white, beige, pastel pink, light blue). 20-something Japanese women enjoying a baseball game in a Japanese stadium, feminine Japanese fashion magazine aesthetic, groups of friends and solo, casual and stylish outfits, cheerful atmosphere.",
   "images": [
     "media/carousel/2026-08-29_evening/01_cover.jpg",
     "media/carousel/2026-08-29_evening/02_slide.jpg",
@@ -54,8 +46,6 @@
     "media/carousel/2026-08-29_evening/04_slide.jpg",
     "media/carousel/2026-08-29_evening/05_slide.jpg",
     "media/carousel/2026-08-29_evening/06_slide.jpg",
-    "media/carousel/2026-08-29_evening/07_slide.jpg",
-    "media/carousel/2026-08-29_evening/08_slide.jpg",
-    "media/carousel/2026-08-29_evening/09_cta.jpg"
+    "media/carousel/2026-08-29_evening/07_cta.jpg"
   ]
 }
