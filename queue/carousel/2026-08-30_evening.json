@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-30",
+  "slot": "evening",
+  "category": "球場グルメ",
+  "title": "インスタ映え球場グルメ7選",
+  "slides": [
+    {
+      "heading": "1. 神宮やきとりは外せない！",
+      "body": "神宮球場といえばやきとり🍢\n焼きたての香ばしさと甘いタレが絶妙。\nスタンドBゲート近くの売店が穴場だよ。"
+    },
+    {
+      "heading": "2. 札幌ドームのロングポテト",
+      "body": "顔より長いロングポテトはSNS映え間違いなし🍟\n気軽につまめるから友達とシェアもおすすめ。"
+    },
+    {
+      "heading": "3. 京セラのふわふわたまごサンド",
+      "body": "ふんわり食感のたまごサンド🥚\n軽い朝ごはんや小腹満たしにぴったり！\n1塁側のカフェ売店でGETできるよ。"
+    },
+    {
+      "heading": "4. PayPayドームのいちごクレープ",
+      "body": "ピンク色が可愛い、いちごたっぷりクレープ🍓\n見た目も味も大満足。\nスイーツ好きにはたまらない！"
+    },
+    {
+      "heading": "5. マリンの千葉ロッテバーガー",
+      "body": "ボリューム満点のご当地バーガー！\n食べ応えバツグンで推し活も盛り上がる🎉\n1塁側スタンド入口付近で見つかるよ。"
+    },
+    {
+      "heading": "6. バンテリンドームの味噌カツ丼",
+      "body": "名古屋名物が球場で味わえる贅沢感。\nがっつり食べたい時にぴったり！\n内野コンコースの売店で販売中。"
+    },
+    {
+      "heading": "7. 食べる順で楽しむコツ",
+      "body": "最初は軽めのスナック、後半はしっかり系で小腹対策。\nデザートは5回裏くらいがベスト⏰\n球場グルメの食べ歩きも観戦の楽しみだよ！"
+    }
+  ],
+  "caption": "「球場に行ったら何食べる？」ってめっちゃ悩むよね🍡\n今日は女子目線で“映える&美味しい”球場グルメを7つまとめたよ！神宮のやきとりや札幌のロングポテト、そしてピンクが可愛いクレープまで…どれも写真を撮りたくなるものばかり🎀休日の野球観戦は、推し活もグルメも全力で楽しもう！\nみんなのおすすめ球場グルメもぜひコメントで教えてね💬「これ食べてみたい！」って思ったら保存も忘れずに♡",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#インスタ映えグルメ",
+    "#女子野球部",
+    "#一人観戦",
+    "#神宮球場",
+    "#スイーツ好きな人と繋がりたい",
+    "#推し活女子",
+    "#週末おでかけ"
+  ],
+  "coverImagePrompt": "A group of Japanese women in their twenties enjoying baseball at a Japanese stadium, holding colorful gourmet foods like yakitori and crepes, laughing together, natural sunlight, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-08-30_evening/01_cover.jpg",
+    "media/carousel/2026-08-30_evening/02_slide.jpg",
+    "media/carousel/2026-08-30_evening/03_slide.jpg",
+    "media/carousel/2026-08-30_evening/04_slide.jpg",
+    "media/carousel/2026-08-30_evening/05_slide.jpg",
+    "media/carousel/2026-08-30_evening/06_slide.jpg",
+    "media/carousel/2026-08-30_evening/07_slide.jpg",
+    "media/carousel/2026-08-30_evening/08_slide.jpg",
+    "media/carousel/2026-08-30_evening/09_cta.jpg"
+  ]
+}
