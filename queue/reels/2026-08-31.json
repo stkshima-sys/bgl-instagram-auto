@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-31",
+  "category": "球場の景色",
+  "title": "夕暮れナイターのエモ球場散歩",
+  "scene": "Es Con Field Hokkaidoの夕方、ナイターが灯る中を20代女性が友達と歩く。スタンドで空を見上げて微笑むふたり。ライトに照らされたベンチに座り、ゆっくりと深呼吸するシーン。",
+  "caption": "夕暮れの球場って、なんだか特別な空気が流れてて好き。試合が始まる前の少しドキドキした感じ、ナイターの明かりがじわっと灯って、空とスタンドがグラデーションに染まる瞬間って最高にエモくない？今日も友達と「明日も頑張ろうね」なんて話しながら、好きな選手のユニでゆるっとお散歩。ひとり観戦も楽しいけど、誰かとこの景色を分け合える時間もすごく大切に思える。野球って観るだけじゃなくて、こんな雰囲気も楽しめるのがいいんだよね。みんなはどんな瞬間が好き？この景色、保存して思い出したくなる夜が絶対くるから、ぜひお気に入りにしてね。",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#ナイター観戦",
+    "#エスコンフィールド",
+    "#野球好きな人と繋がりたい",
+    "#推し活女子",
+    "#球場散歩",
+    "#夕暮れマジック",
+    "#保存したくなる景色"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Two Japanese women in their 20s, casual stylish outfits, walking slowly through the stands and concourse of Es Con Field Hokkaido during sunset as stadium lights begin to glow. Soft pastel color grading (white, beige, pastel pink, light blue). Smiling, pausing to look up at the sky, sitting together on a bench under the night lights, relaxed atmosphere. No text, no AI artifacts.",
+    "veo": "Vertical 9:16, 10-15s, photorealistic, natural smartphone look, pastel color grading. 0-5s: Two Japanese women in their 20s walk side by side through Es Con Field Hokkaido’s concourse at sunset, chatting and laughing, the sky turning pink and blue. 5-10s: They pause at the stands, look up at the glowing stadium lights and the sky, smiling and savoring the moment. 10-15s: Both sit closely on a bench, illuminated by soft night lighting, sharing a peaceful, intimate scene. No text overlays, no AI look.",
+    "higgsfield": "Vertical 9:16, 10-15s, handheld camera motion throughout. Start with a gentle pan following two Japanese women in their 20s as they stroll past Es Con Field Hokkaido’s concourse at sunset, pastel lighting. Push-in as they reach the stands, focusing on their faces as they gaze at the sky and stadium lights. Slow handheld push as they sit on a bench in the softly lit seating area, capturing relaxed, candid moments. Soft pastel tones, no AI artifacts, no text."
+  },
+  "videoFile": "videos/2026-08-31.mp4"
+}
