@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-01",
+  "category": "球場グルメ紹介",
+  "title": "PayPayドーム映えグルメ＆乾杯リール",
+  "scene": "夕暮れのPayPayドーム観客席で、20代女子2人が球場グルメ片手に自撮り。人気のホークス焼きとビールを近づけて乾杯して笑い合い、ひとくち食べて幸せそうな表情をアップで映す。最後はスマホで球場全体や友だちを撮り合うナチュラルな空気。",
+  "caption": "ひと口で幸せになる球場グルメ、PayPayドームで一緒に食べない？野球観戦の日って、グルメと乾杯の時間も特別だよね。今日は友達とホークス焼き＆冷えたビールで乾杯🍺💕席でゆるく撮り合う動画、意外と後で見返すとエモい…！ナイターのライトとグルメで、普段の女子会とはちょっと違う開放感。野球好きじゃなくても、こういう瞬間って絶対ワクワクするはず。みんなの“球場グルメの推し”もぜひコメントで教えてね！次の観戦のアイデアに保存もおすすめ🌷",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#PayPayドーム",
+    "#一人観戦初心者",
+    "#推し活女子",
+    "#インスタ映えグルメ",
+    "#福岡カフェ巡り",
+    "#ナイター女子会",
+    "#ホークス観戦"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Two stylish Japanese women in their 20s, natural makeup and soft casual fashion, sitting in the stands at PayPay Dome Fukuoka during sunset. One holds a 'Hawks-yaki' snack, the other a pastel-colored beer cup. They laugh, clink their snacks and drinks together in a casual cheers, then take an authentic bite, savoring the taste with a soft smile. Camera captures close-ups of their hands, faces, and the glowing stadium lights behind, with a cozy, soft pastel color grading. No text overlays, no AI artifacts.",
+    "veo": "vertical 9:16, photorealistic, smartphone-shot look. 0-5s: Two Japanese women in their 20s walk through the PayPay Dome concourse, picking out 'Hawks-yaki' and beer, illuminated by sunset and stadium lights. 5-10s: Close-up of them in the seats, holding up food and drinks, laughing, and clinking for an Instagrammable cheers. 10-15s: One takes a bite, the other films her, both enjoying the taste, then wide shot of them capturing memories on their phones with the pastel-lit baseball field in the background.",
+    "higgsfield": "Vertical 9:16, photorealistic, natural smartphone feel. Start with a handheld pan of the concourse as the girls pick up their snacks, then a gentle push-in to the girls in the seats as they toast their 'Hawks-yaki' and drinks. Follow with a handheld close-up of the food and their happy reactions, ending with a slow pull-back showing the stadium lights and the girls filming each other. Soft pastel color grading throughout, no overlays."
+  },
+  "videoFile": "videos/2026-09-01.mp4"
+}
