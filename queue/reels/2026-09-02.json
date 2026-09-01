@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-02",
+  "category": "推し活動画",
+  "title": "推しユニでエモく応援！横浜スタジアム推し活リール",
+  "scene": "夕暮れの横浜スタジアム。20代女性が推し選手のユニフォームで観客席に座り、タオルやうちわを持って笑顔で応援。スタンドの熱気や友達とハイタッチする様子、ピンクや水色が映えるふんわりした画作り。",
+  "caption": "「一人で応援なんて勇気いるな…」って迷ってたけど、推しのユニフォームに袖を通した瞬間、不思議と気持ちが上がる。ライトに照らされたスタンドは、どこか特別な空間で、隣に座った女の子同士、推しの名前で自然と盛り上がっちゃう。今日はタオルを高く掲げて、全力でうちわを振って、心から『楽しい！』って思えた夜。推し活って、自分だけのドキドキやワクワクに出会えるんだよね。次はどんな自分に会えるか、今からちょっと楽しみかも。あなたの推し活エピソードもぜひコメントで教えてね💙保存して次の観戦の参考にしてね！",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#推し活",
+    "#横浜スタジアム",
+    "#一人観戦デビュー",
+    "#球場のある生活",
+    "#球場ファッション",
+    "#野球観戦",
+    "#エモい夜",
+    "#うちわ応援"
+  ],
+  "prompts": {
+    "kling": "A photorealistic 9:16 video, 10-15s, handheld smartphone style: Two Japanese women in their 20s sitting together in the stands at Yokohama Stadium during sunset, wearing stylish pastel-colored baseball uniforms and soft makeup. One girl raises a team towel high, the other waves a decorated uchiwa fan. They cheer, smile, and do a joyful high-touch. The stands glow with soft stadium lights, pink and light blue tones stand out. Camera gently pans and handheldly captures their fun and emotional reactions, blending crowd excitement in the background. No visible text, no AI artifacts.",
+    "veo": "vertical 9:16, photorealistic, smartphone-shot look, Japanese women in their 20s at a Japanese baseball stadium, pastel soft color grading, natural handheld motion. 0-5s: Close-up of a woman putting on her pastel baseball uniform and adjusting her hair in the stadium stands, with evening light. 5-10s: Camera pulls back to show two friends side by side holding up towels and waving uchiwa, smiling and laughing, surrounded by cheering fans. 10-15s: They high-five, the camera pans to capture the glowing stadium lights and the energetic summer night atmosphere, focusing on their joyful faces.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot, soft pastel color palette. Start with a gentle handheld push-in as a woman puts on her pastel-colored baseball jersey. Handheld side pan as she joins her friend; natural moments as they raise towels and wave uchiwa fans. Subtle camera shake as they cheer and high-five. Final soft pan to the stadium lights and crowd, capturing an emotional, lively ambiance. No text, no AI artifacts."
+  },
+  "videoFile": "videos/2026-09-02.mp4"
+}
