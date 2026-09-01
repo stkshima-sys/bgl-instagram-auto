@@ -1,52 +1,44 @@
 {
   "date": "2026-09-01",
   "slot": "evening",
-  "category": "球場グルメ",
-  "title": "インスタ映え球場グルメ7選",
+  "category": "一人観戦",
+  "title": "一人観戦のハードル下げる5つのコツ",
   "slides": [
     {
-      "heading": "1. 神宮名物いちご氷",
-      "body": "ひんやり甘い！夏の神宮といえばコレ🍓\n屋台「いちご氷」で購入できるよ。\n屋外エリア中央付近で見つかるはず。"
+      "heading": "一人観戦、意外と平気！",
+      "body": "「ひとりで球場って浮くかな？」とドキドキしがち…だけど実は一人観戦女子、多いんだよ✨\n気軽に楽しめるから、一度行くとハマっちゃうかも！"
     },
     {
-      "heading": "2. 東京ドームのピンクソーダ",
-      "body": "映えドリンク代表♡\n「PINK SODA」はドーム内売店（2階席近く）で買えるよ。\nシュワっと爽やかで写真映え確実！"
+      "heading": "おすすめ座席は？",
+      "body": "迷ったら通路側や上段のシートが◎。\n出入りしやすいし、開放感も♪\n推しチームのベンチ近くもおすすめ！"
     },
     {
-      "heading": "3. 甲子園のレモン唐揚げ",
-      "body": "カリッ&ジューシーな唐揚げにレモンを絞って🍋\n3塁側売店「KOSHIEN KITCHEN」で\nサクッと食べられるよ。"
+      "heading": "持っていくと安心なもの",
+      "body": "サコッシュや小さめバッグに、ウェットティッシュ、モバイルバッテリー、日焼け止めはマスト🌸\n好きな飲み物も忘れずに！"
     },
     {
-      "heading": "4. ZOZOのチュロスパフェ",
-      "body": "千葉ファン女子に大人気✨\nパステルピンクのチュロス×ソフトクリーム！\n「ZOZOチュロス」ブースでどうぞ。"
+      "heading": "ひとり時間の楽しみ方",
+      "body": "ボールパークをお散歩したり、推しグルメを食べ歩きしたり…\n誰にも気を遣わず、自分のペースでゆるっと楽しもう☺️"
     },
     {
-      "heading": "5. バンテリンドームの台湾まぜそば",
-      "body": "名古屋ならではのご当地麺！\n「台湾まぜそば」専門売店は1塁側コンコース。\nピリ辛だけどハマるおいしさ♪"
-    },
-    {
-      "heading": "6. メットライフのうなぎ弁当",
-      "body": "ちょっぴり贅沢な球場グルメといえばこれ！\n売店「狭山茶屋」で買えるよ。\n甘辛だれで元気チャージ。"
-    },
-    {
-      "heading": "7. PayPayドームのみるくパン",
-      "body": "福岡でふわふわ食感のしあわせ♡\n「みるくパン」はグッズ売店近くのカフェで。\n観戦のお供にぴったりだよ。"
+      "heading": "一人観戦は自分へのご褒美",
+      "body": "緊張するのは最初だけ。\n好きなコーデで、好きな推しを思いっきり応援！\n新しい自分と出会える時間かも。"
     }
   ],
-  "caption": "「球場グルメって写真映えするもの多すぎない？」\n行くたびに新しいメニューに出会えて、つい写真フォルダが充実しちゃう…！今回は、野球観戦をもっと楽しくしてくれる“推し映えグルメ”を7つまとめました🍓🍔\nどれも実際に球場で買えるリアルなおすすめばかり。「次どれ食べる？」なんて友達と話すのもワクワクするよね！\n推し球場のグルメ、あなたのイチオシは何？コメントで教えてください✨\nグルメ巡り派の人は、ぜひこの投稿を保存しておいてね！",
+  "caption": "一人で野球観戦って、なんだかハードル高そう…実は私も最初はちょっと不安でした😳\nでも、いざ行ってみたら「え、意外と平気！」と驚くこともたくさん。一人観戦だからこそ自分だけの楽しみ方ができるし、推しに全力集中もできる☺️\n座席選びや、あると安心な持ち物、おすすめの過ごし方まで、一度経験したらきっとリピートしたくなるはず！\nみんなは一人観戦、挑戦してみたい？既に行ったことある人は、どんな座席やアイテムが便利だったか教えてほしいな！\nこの投稿が「行ってみたい！」のきっかけになったら、ぜひ保存して後でチェックしてね💡",
   "hashtags": [
     "#野球女子",
-    "#球場グルメ",
-    "#観戦コーデ",
-    "#球場巡り",
-    "#推し活女子",
-    "#球場スイーツ",
-    "#映えグルメ",
-    "#グルメ好きな人と繋がりたい",
     "#一人観戦",
-    "#プロ野球観戦"
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し活",
+    "#初心者ガイド",
+    "#球場ライフ",
+    "#おひとりさま",
+    "#野球観戦デビュー",
+    "#女子の推し活"
   ],
-  "coverImagePrompt": "a group of Japanese women in their 20s enjoying baseball at a Japanese stadium, smiling, holding colorful food and drinks, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "coverImagePrompt": "A photorealistic image of a 20s Japanese woman enjoying baseball at a Japanese stadium, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, natural lighting, no text",
   "images": [
     "media/carousel/2026-09-01_evening/01_cover.jpg",
     "media/carousel/2026-09-01_evening/02_slide.jpg",
@@ -54,8 +46,6 @@
     "media/carousel/2026-09-01_evening/04_slide.jpg",
     "media/carousel/2026-09-01_evening/05_slide.jpg",
     "media/carousel/2026-09-01_evening/06_slide.jpg",
-    "media/carousel/2026-09-01_evening/07_slide.jpg",
-    "media/carousel/2026-09-01_evening/08_slide.jpg",
-    "media/carousel/2026-09-01_evening/09_cta.jpg"
+    "media/carousel/2026-09-01_evening/07_cta.jpg"
   ]
 }
