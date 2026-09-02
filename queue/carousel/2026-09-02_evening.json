@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-02",
+  "slot": "evening",
+  "category": "球場紹介",
+  "title": "首都圏おすすめ球場5選 女子目線ガイド",
+  "slides": [
+    {
+      "heading": "1. 東京ドームの魅力",
+      "body": "全天候型だから雨でも安心☔️\n駅直結で迷いにくく、初めてでも行きやすいのが嬉しい！\n限定グルメも多くて、推し活にもぴったり♪"
+    },
+    {
+      "heading": "2. 神宮球場で青空観戦",
+      "body": "外苑前駅からすぐでアクセス抜群！\nオープンな雰囲気だから一人でも気楽に楽しめるよ。\n試合後は原宿や表参道でカフェ巡りも◎"
+    },
+    {
+      "heading": "3. 横浜スタジアム女子旅",
+      "body": "海風を感じる開放感が最高♡\nかわいいグルメやフォトスポットも多め。\n観戦のあと中華街やみなとみらいでお散歩も楽しめるよ。"
+    },
+    {
+      "heading": "4. ZOZOマリンでリゾート気分",
+      "body": "海沿いでリゾート感たっぷり♪\n潮風は強めだけど、夕焼けに染まる球場も映えスポット！\n幕張のアウトレットもおすすめだよ。"
+    },
+    {
+      "heading": "5. 西武ドームで自然満喫",
+      "body": "緑と自然に囲まれていて癒し空間🌿\nドーム型でも風が感じられて気持ち良い♪\n西所沢駅近くのカフェも穴場かも。"
+    }
+  ],
+  "caption": "友達とでも一人でも、どの球場に行くか迷っちゃう！そんな“球場迷子”女子におすすめ、首都圏で楽しめる５つの球場をまとめてみたよ⚾︎ \n\nアクセスの便利さや周辺カフェ、おしゃれなグルメなど、女子目線で選んだポイントをご紹介！「ここ行ったことある」「推し球場はここ！」など、みんなの推し球場もコメントで教えてね。\n\n保存して、次の観戦プランの参考にしてもらえたら嬉しいな💡",
+  "hashtags": [
+    "#野球女子",
+    "#球場紹介",
+    "#観戦コーデ",
+    "#推し活",
+    "#球場グルメ",
+    "#東京ドーム",
+    "#神宮球場",
+    "#横浜スタジアム",
+    "#球場巡り",
+    "#野球観戦初心者"
+  ],
+  "coverImagePrompt": "A photorealistic, natural lighting photograph of a stylish Japanese woman in her 20s enjoying a baseball game at a Japanese stadium. The scene features soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic. She is casually dressed, smiling, holding a drink or snack, with a relaxed and fun atmosphere. Surrounding scene includes stadium seats and a gentle crowd, but main focus on her. No text. 'photorealistic, natural lighting, no text'",
+  "images": [
+    "media/carousel/2026-09-02_evening/01_cover.jpg",
+    "media/carousel/2026-09-02_evening/02_slide.jpg",
+    "media/carousel/2026-09-02_evening/03_slide.jpg",
+    "media/carousel/2026-09-02_evening/04_slide.jpg",
+    "media/carousel/2026-09-02_evening/05_slide.jpg",
+    "media/carousel/2026-09-02_evening/06_slide.jpg",
+    "media/carousel/2026-09-02_evening/07_cta.jpg"
+  ]
+}
