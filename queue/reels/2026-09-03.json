@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-03",
+  "category": "一人観戦Vlog風",
+  "title": "一人観戦のエモいVlog｜PayPayドームの余韻",
+  "scene": "PayPayドームのゲートをくぐる一人観戦女子の手元→売店でフードやドリンクを選ぶ横顔→座席で乾杯、試合や夕暮れのエモい景色と帰り道、静かな余韻をスマホで切り取る。",
+  "caption": "一人で野球観戦、ちょっと勇気いるけど…実はめちゃくちゃ楽しい時間になるんだよね。今日はPayPayドームで自分だけの野球時間を満喫！チケットを手にゲートをくぐる瞬間は、ちょっとドキドキ。でも売店でグルメを選んだり、ふと隣の席の人と目が合って会釈してみたり…『一人でも全然寂しくないかも』って思えたよ。座席に座って球場の熱気を感じながら飲む一杯は格別。スマホでパシャっと撮る夕焼けと球場のライト、試合の盛り上がりや帰り道の静けさ…全部が宝物みたいな思い出になる🐚\n\n一人観戦が不安な人も、意外と『自分時間』を存分に楽しめるからおすすめ！みんなはどの球場で一人観戦してみたい？コメントで教えてね♡ 保存もぜひ🫶",
+  "hashtags": [
+    "#野球女子",
+    "#一人観戦",
+    "#球場グルメ",
+    "#PayPayドーム",
+    "#観戦Vlog",
+    "#推し活女子",
+    "#球場コーデ",
+    "#スポーツ女子",
+    "#野球好きな人と繋がりたい",
+    "#福岡おでかけ"
+  ],
+  "prompts": {
+    "kling": "A Japanese woman in her 20s enters PayPay Dome alone, seen from her POV holding a ticket in her hand and pushing open the gate. She walks through the lively stadium concourse, stops at a pastel-toned food stall, and chooses a colorful drink and a snack, her face softly illuminated by stadium lights. She heads to her seat in the stands, sits down, and holds up her drink for a selfie-style cheers shot with the glowing field as background. As the game proceeds, she captures the sunset sky and sparkling crowd lights around her. Finally, she slowly walks out along the concourse with a gentle, content smile, the scene bathed in soft whites, beiges, pastel pinks, and blues. Everything is shot handheld in a photorealistic, smartphone-like, natural look.",
+    "veo": "0-5s: POV handheld shot of a Japanese woman in her 20s holding a baseball ticket, pushing open the gate and entering PayPay Dome, surrounded by the busy crowd. 5-10s: She walks through the stadium's pastel-toned food stands, selects a cute drink and snack, and smiles at the camera. Seated in the audience, she holds up her drink towards the lens for a one-person 'cheers', capturing a dreamy stadium backdrop. 10-15s: Wide handheld shot of her enjoying the game, the sunset flooding the stands with pastel colors, then a slow walk down the corridor at the end, her face relaxed and glowing in the evening light.",
+    "higgsfield": "Handheld camera following a Japanese woman in her 20s: starts with a slow pan following her hand as she holds a ticket and pushes open the stadium gate, gentle push-in through the lively concourse to the food stand, then a push-in as she picks a drink and glances at the camera. Cut to a selfie-style handheld shot as she does a one-person cheers in her seat, then a gentle pan capturing her smiling face, the pastel-lit stadium, and golden-hour sky. Final shot: handheld and slightly trailing as she walks along the concourse, softly backlit by the stadium exit lights."
+  },
+  "videoFile": "videos/2026-09-03.mp4"
+}
