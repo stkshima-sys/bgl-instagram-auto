@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-04",
+  "category": "球場の景色",
+  "title": "夕暮れのPayPayドームで感じる特別な時間",
+  "scene": "夕焼けが差し込むPayPayドームのスタンドで、20代の女性が笑顔で座りながら空を見上げる。ナイター照明が灯る瞬間、場内がほんのりオレンジ色に染まる。最後は観客席からグラウンドを眺め、ふと日常を忘れるような表情。",
+  "caption": "夕暮れ時のPayPayドーム、球場に吹く風と夕焼け色のスタンドがとてもエモくて、毎回ついカメラを向けちゃう。日が落ちてナイター照明が灯る瞬間、なんだか特別な日常に迷い込んだ気分☺️ 友達と来るのも楽しいけど、一人でゆっくりスタンドに腰かけて、野球の音やグラウンドを眺めてるだけで癒されるんだよね。『誰かといなくても、ここは私だけの秘密基地』みたいな安心感もあるかも。球場の景色って、写真や動画で残しておきたくなる瞬間がいっぱい。みんなは夕暮れの球場ってどんなふうに楽しんでる？コメントで教えてね♡ 気になったらぜひ保存して、次の観戦の参考にしてみて！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#球場の景色",
+    "#ナイター観戦",
+    "#PayPayドーム",
+    "#推し活",
+    "#一人観戦女子",
+    "#夕暮れスポット",
+    "#保存したくなる風景"
+  ],
+  "prompts": {
+    "kling": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion, two Japanese women in their 20s sitting in the PayPay Dome stands at sunset, soft pastel color grading with white, beige, pastel pink, and light blue tones, one woman smiles and looks up at the glowing sky, the stadium lights switch on, the scene bathes in an emotional orange glow, ending with a natural close-up of her peaceful expression as she gazes at the field, no text overlays, no AI artifacts.",
+    "veo": "vertical 9:16, photorealistic, smartphone-shot look, soft pastel color grading, Japanese women in their 20s at PayPay Dome. 0-5s: Handheld camera captures a woman sitting in the stadium stands, the golden sunset gently lighting her face as she looks up with a soft smile. 5-10s: Camera slowly pans to the stadium lights turning on, the surroundings filling with warm and emotional evening colors. 10-15s: Close-up from behind or side as she gazes over the field, subtle background crowd, capturing the feeling of peace and belonging, no text overlays, no AI artifacts.",
+    "higgsfield": "vertical 9:16, photorealistic, smartphone-shot look, Japanese women in their 20s at PayPay Dome at sunset, soft pastel color grading. Handheld camera starts with a pan across the stands, push-in on the woman as she tilts her head toward the glowing sky, then a gentle dolly move towards her as stadium lights turn on, lingering for a beat on her relaxed, thoughtful expression overlooking the field, no text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-09-04.mp4"
+}
