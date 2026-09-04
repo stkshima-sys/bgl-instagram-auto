@@ -1,52 +1,44 @@
 {
   "date": "2026-09-04",
   "slot": "evening",
-  "category": "球場グルメ",
-  "title": "映えすぎ！球場グルメ7選🍦",
+  "category": "球場紹介",
+  "title": "首都圏おすすめ球場5選",
   "slides": [
     {
-      "heading": "1. 神宮の「青空かき氷」",
-      "body": "見た目も味も最高なブルーハワイかき氷は、神宮球場の夏の風物詩🍧\n球場外野エリアで販売中。\n暑い日の観戦にぴったり！"
+      "heading": "1. 東京ドームの魅力",
+      "body": "雨でも安心の全天候型ドーム！アクセスも抜群で、周辺にはカフェやショッピングスポットも充実。\n初観戦や一人観戦デビューにもおすすめだよ☕️"
     },
     {
-      "heading": "2. 甲子園の「焼きとうもろこし」",
-      "body": "香ばしい香りがたまらない焼きとうもろこし🌽\n外野スタンド付近の屋台でGET。\n観戦のお供に、手軽に食べ歩きできるよ。"
+      "heading": "2. 神宮球場で夏を満喫",
+      "body": "青空の下、ビール片手に野球観戦は最高！\n外苑前駅から徒歩すぐ、観戦前後におしゃれカフェでひとやすみも◎\n女子の一人観戦にもぴったり🍃"
     },
     {
-      "heading": "3. 東京ドーム「ジャイアンツドッグ」",
-      "body": "長さ30cm！写真映え確実な超ロングホットドッグ🌭\n1塁側内野の売店で。\n友達とシェアしても楽しい！"
+      "heading": "3. 横浜スタジアムの夜景",
+      "body": "みなとみらいの夜景をバックにナイター観戦できる贅沢なロケーション。\n周辺の海沿いカフェやデートスポットも人気！"
     },
     {
-      "heading": "4. ZOZOの「勝利のチュロス」",
-      "body": "カラフルでかわいいチュロスは女子人気No.1✨\nZOZOマリンの2階コンコースで発見。\n野球と甘いもの、最高の組み合わせ♡"
+      "heading": "4. ZOZOマリンの海風",
+      "body": "海が近くてリゾート気分！風が気持ちいいスタジアム。\n球場グルメが豊富で、推し活やSNS映えにもおすすめだよ🌊"
     },
     {
-      "heading": "5. バンテリンドームの「みそカツ丼」",
-      "body": "名古屋名物のみそカツ丼は\nがっつり食べたい時におすすめ！🍚\n3塁側フードコートで売ってるよ。"
-    },
-    {
-      "heading": "6. PayPayドーム「明太チーズポテト」",
-      "body": "明太子＆チーズがとろけるポテト🥔\nスタンド前・売店「ドームキッチン」で♪\nおつまみや小腹満たしにも◎"
-    },
-    {
-      "heading": "7. 札幌ドーム「ホタテ串焼き」",
-      "body": "北海道の味覚ホタテ串は、札幌ドームで絶対食べてほしいグルメ！\nメインゲート近くの屋台で販売中🐚"
+      "heading": "5. ベルーナドームの森カフェ",
+      "body": "自然に囲まれたドーム球場。木の香りと緑に癒やされる空間で、\nカフェ併設エリアやインスタ映えスポットもたくさん！"
     }
   ],
-  "caption": "球場に行くと、ついつい食べたくなる“映えグルメ”って絶対あるよね🍦\n今日は全国の球場で味わえる「美味しい＆写真映え」グルメを7つまとめてみたよ。\nどれも球場ごとの特別メニューだから、遠征や推し活で何食べるか迷う時の参考にもなるはず！\n友達とシェアするのも、一人でじっくり味わうのも◎。\nみんなの推し球場グルメや、絶対外せないメニューがあったらコメントで教えてね💬\nぜんぶ保存して、次の観戦プランに役立ててみて！",
+  "caption": "「どの球場に行こう？」って迷ったことない？首都圏には、それぞれ魅力たっぷりの球場がいろいろ。雨の日でも安心な東京ドーム、青空が気持ちいい神宮、夜景が映える横浜、海風が最高なZOZO、そして緑に癒やされるベルーナ。どこもアクセスが良くて、女子の一人観戦や友だち観戦にぴったりのスポットばかりだよ。\n\nあなたの“推し球場”はどこ？コメントで教えてね！この投稿が「次どこ行きたいか」考えるヒントになったら嬉しいな。\n\nお気に入りはぜひ保存して、次の観戦の参考にしてね☺️",
   "hashtags": [
     "#野球女子",
     "#球場グルメ",
     "#観戦コーデ",
-    "#推し活女子",
-    "#映えグルメ",
-    "#初観戦",
-    "#一人観戦デビュー",
-    "#球場めし",
-    "#推し球場",
-    "#スタジアムグルメ"
+    "#神宮球場",
+    "#横浜スタジアム",
+    "#東京ドーム",
+    "#ZOZOマリン",
+    "#ベルーナドーム",
+    "#一人観戦",
+    "#推し活"
   ],
-  "coverImagePrompt": "photorealistic, natural lighting, no text, Japanese baseball stadium setting, a group of stylish Japanese women in their 20s enjoying food and taking photos, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic",
+  "coverImagePrompt": "A group of Japanese women in their 20s enjoying a baseball game at a Japanese stadium, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
   "images": [
     "media/carousel/2026-09-04_evening/01_cover.jpg",
     "media/carousel/2026-09-04_evening/02_slide.jpg",
@@ -54,8 +46,6 @@
     "media/carousel/2026-09-04_evening/04_slide.jpg",
     "media/carousel/2026-09-04_evening/05_slide.jpg",
     "media/carousel/2026-09-04_evening/06_slide.jpg",
-    "media/carousel/2026-09-04_evening/07_slide.jpg",
-    "media/carousel/2026-09-04_evening/08_slide.jpg",
-    "media/carousel/2026-09-04_evening/09_cta.jpg"
+    "media/carousel/2026-09-04_evening/07_cta.jpg"
   ]
 }
