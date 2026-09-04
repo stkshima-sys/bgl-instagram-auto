@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-04",
+  "slot": "evening",
+  "category": "球場グルメ",
+  "title": "映えすぎ！球場グルメ7選🍦",
+  "slides": [
+    {
+      "heading": "1. 神宮の「青空かき氷」",
+      "body": "見た目も味も最高なブルーハワイかき氷は、神宮球場の夏の風物詩🍧\n球場外野エリアで販売中。\n暑い日の観戦にぴったり！"
+    },
+    {
+      "heading": "2. 甲子園の「焼きとうもろこし」",
+      "body": "香ばしい香りがたまらない焼きとうもろこし🌽\n外野スタンド付近の屋台でGET。\n観戦のお供に、手軽に食べ歩きできるよ。"
+    },
+    {
+      "heading": "3. 東京ドーム「ジャイアンツドッグ」",
+      "body": "長さ30cm！写真映え確実な超ロングホットドッグ🌭\n1塁側内野の売店で。\n友達とシェアしても楽しい！"
+    },
+    {
+      "heading": "4. ZOZOの「勝利のチュロス」",
+      "body": "カラフルでかわいいチュロスは女子人気No.1✨\nZOZOマリンの2階コンコースで発見。\n野球と甘いもの、最高の組み合わせ♡"
+    },
+    {
+      "heading": "5. バンテリンドームの「みそカツ丼」",
+      "body": "名古屋名物のみそカツ丼は\nがっつり食べたい時におすすめ！🍚\n3塁側フードコートで売ってるよ。"
+    },
+    {
+      "heading": "6. PayPayドーム「明太チーズポテト」",
+      "body": "明太子＆チーズがとろけるポテト🥔\nスタンド前・売店「ドームキッチン」で♪\nおつまみや小腹満たしにも◎"
+    },
+    {
+      "heading": "7. 札幌ドーム「ホタテ串焼き」",
+      "body": "北海道の味覚ホタテ串は、札幌ドームで絶対食べてほしいグルメ！\nメインゲート近くの屋台で販売中🐚"
+    }
+  ],
+  "caption": "球場に行くと、ついつい食べたくなる“映えグルメ”って絶対あるよね🍦\n今日は全国の球場で味わえる「美味しい＆写真映え」グルメを7つまとめてみたよ。\nどれも球場ごとの特別メニューだから、遠征や推し活で何食べるか迷う時の参考にもなるはず！\n友達とシェアするのも、一人でじっくり味わうのも◎。\nみんなの推し球場グルメや、絶対外せないメニューがあったらコメントで教えてね💬\nぜんぶ保存して、次の観戦プランに役立ててみて！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#推し活女子",
+    "#映えグルメ",
+    "#初観戦",
+    "#一人観戦デビュー",
+    "#球場めし",
+    "#推し球場",
+    "#スタジアムグルメ"
+  ],
+  "coverImagePrompt": "photorealistic, natural lighting, no text, Japanese baseball stadium setting, a group of stylish Japanese women in their 20s enjoying food and taking photos, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic",
+  "images": [
+    "media/carousel/2026-09-04_evening/01_cover.jpg",
+    "media/carousel/2026-09-04_evening/02_slide.jpg",
+    "media/carousel/2026-09-04_evening/03_slide.jpg",
+    "media/carousel/2026-09-04_evening/04_slide.jpg",
+    "media/carousel/2026-09-04_evening/05_slide.jpg",
+    "media/carousel/2026-09-04_evening/06_slide.jpg",
+    "media/carousel/2026-09-04_evening/07_slide.jpg",
+    "media/carousel/2026-09-04_evening/08_slide.jpg",
+    "media/carousel/2026-09-04_evening/09_cta.jpg"
+  ]
+}
