@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-05",
+  "category": "球場グルメ紹介",
+  "title": "バンテリンドームの推しグルメ&乾杯女子リール",
+  "scene": "1人or友達と一緒に、観客席で名物のどて煮丼や手羽先、カップビールを手に持って、カメラに向かって笑顔でピース。美味しそうにパクリと食べる瞬間や、ビールで乾杯するシーン。夕暮れのスタンドやナイター照明の柔らかな光の中、球場の高揚感と女の子の幸せな表情を切り取る。",
+  "caption": "球場グルメって、なんでこんなに特別なんだろう🍽️💓野球観戦の日は、つい名物グルメやビールも楽しみたくなっちゃう。今日はバンテリンドームの名物どて煮丼＆手羽先をゲットして、観客席で乾杯🥂ナイターのライトに照らされながら食べるグルメは、やっぱり最高かも。こういう時間があるから、また観戦に来たくなるよね。野球初心者さんや一人観戦デビューにもおすすめ！あなたの好きな球場グルメも教えてほしいな。保存して、次の観戦の参考にしてね！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#バンテリンドーム",
+    "#どて煮丼",
+    "#手羽先",
+    "#ナイター女子",
+    "#一人観戦デビュー",
+    "#ビール女子",
+    "#推し活"
+  ],
+  "prompts": {
+    "kling": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion, Japanese women in their 20s sitting in Vantelin Dome Nagoya baseball stadium stands, holding doteni-don and tebasaki, showing the food to the camera, smiling, then taking a bite, lightly toasting each other with plastic cups of draft beer, evening lighting with stadium lights glowing softly, casual summer fashion, pastel pinks, beiges and light blues, candid expressions, background filled with gentle crowd, no text overlays, no AI artifacts.",
+    "veo": "vertical 9:16, photorealistic, smartphone-shot look, soft pastel color grading, Japanese women in their 20s at Vantelin Dome Nagoya. 0-5s: Close-up of two women in pastel casual outfits holding doteni-don, showing food to camera with big smiles in stadium seating. 5-10s: One woman eats a bite, the other laughs, soft pan to include a hand-held cup of beer, the women clink cups in a gentle cheers. 10-15s: Pullback shot with both women sitting together, stadium lights glowing, slightly blurred background crowd, both enjoying food and the vibe, candidly laughing, no overlays, no AI artifacts.",
+    "higgsfield": "vertical 9:16, photorealistic, smartphone-shot aesthetic, natural handheld camera, gentle push-in as two Japanese women in their 20s present Vantelin Dome Nagoya stadium food (doteni-don, tebasaki), then pan left as they eat, followed by slight pull-back to capture a hand-held cheer with plastic beer cups, ambient evening lighting, soft pastel color tones, no overlays or AI artifacts."
+  },
+  "videoFile": "videos/2026-09-05.mp4"
+}
