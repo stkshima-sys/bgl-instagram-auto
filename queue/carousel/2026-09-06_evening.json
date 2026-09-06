@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-06",
+  "slot": "evening",
+  "category": "球場紹介",
+  "title": "関東女子が選ぶ♡推し球場5選",
+  "slides": [
+    {
+      "heading": "1. 神宮球場｜都心が近い",
+      "body": "青空と緑が気持ちいい人気球場。\n原宿・表参道もすぐ。観戦後にカフェ巡りできるのも魅力だよ☕️\nアクセスも抜群！"
+    },
+    {
+      "heading": "2. 東京ドーム｜雨でも安心",
+      "body": "屋根付きで天候の心配ゼロ！\n女性一人でも安心して観戦できる雰囲気だよ◎\n水道橋駅すぐ、遊園地やカフェも充実♪"
+    },
+    {
+      "heading": "3. 横浜スタジアム｜海風感じる",
+      "body": "みなとみらいが見える開放感♪\n観戦ついでに中華街や港エリアでカフェタイムもおすすめ。\n夜景もきれい✨"
+    },
+    {
+      "heading": "4. ZOZOマリン｜リゾート気分",
+      "body": "海の近くで夏は特に爽やか！\nグルメ屋台が多くて食べ歩きも楽しいよ。\nアウトレットモールも近いから寄り道も◎"
+    },
+    {
+      "heading": "5. ベルーナドーム｜森林の癒し",
+      "body": "ドーム型なのに森の中！\n涼しい風や鳥の声が心地いいよ。\nカフェやカラフルな座席もかわいいポイント♡"
+    },
+    {
+      "heading": "周辺カフェでひと息",
+      "body": "各球場の近くにはおしゃれカフェがたくさん。\n観戦だけじゃなく、推し活や友だちとのおしゃべりも楽しんでね☕️"
+    }
+  ],
+  "caption": "関東エリアだけでも、雰囲気やアクセスがぜんぜん違う球場がいっぱい！「推し球場」って言っても、みんなのお気に入りポイントもバラバラだったりするよね。都心で寄り道したい派も、リゾート気分で開放感を味わいたい派も、それぞれの楽しみ方が見つかるはず。\n\n観戦後に友だちとカフェでおしゃべりしたり、一人で贅沢に推し活したり。球場のまわりって意外と素敵なカフェやフォトスポットも多いから、ぜひ保存して次のお出かけの参考にしてね！\n\nあなたの推し球場のおすすめ理由も、気軽にコメントしてほしいな。保存すればいつでも見返せるよ♡",
+  "hashtags": [
+    "#野球女子",
+    "#球場紹介",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推し球場",
+    "#神宮球場",
+    "#横浜スタジアム",
+    "#東京ドーム",
+    "#カフェ巡り",
+    "#推し活女子"
+  ],
+  "coverImagePrompt": "A photorealistic photo of a group of Japanese women in their 20s enjoying a baseball game at a Japanese stadium, wearing stylish pastel-colored outfits. Soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic. Natural sunlight, relaxed and cheerful atmosphere, no text.",
+  "images": [
+    "media/carousel/2026-09-06_evening/01_cover.jpg",
+    "media/carousel/2026-09-06_evening/02_slide.jpg",
+    "media/carousel/2026-09-06_evening/03_slide.jpg",
+    "media/carousel/2026-09-06_evening/04_slide.jpg",
+    "media/carousel/2026-09-06_evening/05_slide.jpg",
+    "media/carousel/2026-09-06_evening/06_slide.jpg",
+    "media/carousel/2026-09-06_evening/07_slide.jpg",
+    "media/carousel/2026-09-06_evening/08_cta.jpg"
+  ]
+}
