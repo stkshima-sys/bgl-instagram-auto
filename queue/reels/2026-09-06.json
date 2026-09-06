@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-06",
+  "category": "球場グルメ紹介",
+  "title": "バンテリンドーム名古屋・エモ映え球場グルメ女子の15秒",
+  "scene": "ドームの観客席で20代女性が大きなホットドッグと生ビールを嬉しそうに手に持って自撮り風に映し出される。顔のアップで笑顔のまま一口パクリ＆ビールで乾杯。夕暮れにライトが灯る球場バックにナチュラルな表情で友達とアイコンタクト＆会話風カット。",
+  "caption": "野球観戦って、グルメもワクワクのひとつだよね。今日はバンテリンドーム名古屋の推しグルメを片手に、球場の雰囲気をめいっぱい楽しんできました🍺🌭夕暮れのライトアップや、席で食べるホットドッグの特別感…『ここでしか味わえない幸せ』がぎゅっと詰まってる感じ。友達と乾杯したり、一人でじっくり味わったり。ちょっとだけ勇気を出せば、女子一人でも大丈夫だなって思えた日かも。みんなの“推し球場グルメ”、コメントでぜひ教えてほしいな！この投稿、保存して次の観戦の参考にしてね☺️",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#バンテリンドーム",
+    "#グルメ映え",
+    "#ナゴヤドーム",
+    "#夏の思い出",
+    "#ビール女子",
+    "#推し活",
+    "#野球観戦初心者"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, natural smartphone-shot look, Japanese women in their 20s at Vantelin Dome Nagoya. Scene opens in stadium seats at dusk; one woman holds a hot dog and beer, smiling to camera, selfie angle, pastel pink and beige tones. She takes a cheerful bite, then gently cheers her beer toward camera as if with a friend. In the background, stadium lights glow against an evening sky. Closeup on happy, candid expressions, soft natural makeup, casual chic styling. Handheld camera, slight movements, natural ambient stadium noise, no text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, Japanese women in their 20s at a baseball stadium with pastel color grading. 0-5s: Woman sitting in Vantelin Dome Nagoya stands, holding a hot dog and beer, looking at phone camera, cheerful and excited. 5-10s: Close-up as she bites into the hot dog, laughing, then lifts her beer for a toast, pastel background with stadium lights beginning to glow. 10-15s: Wide shot showing her turning to friend for a quick smile and chat, softly lit, handheld camera, natural candid expressions. No overlays, no AI look.",
+    "higgsfield": "Vertical 9:16, 10-15 seconds, photorealistic, handheld camera motion for natural, smartphone-style look. Start with a gentle push-in on a 20s Japanese woman in Vantelin Dome Nagoya stands, holding hot dog and beer. Slow pan as she takes a bite and laughs, then another pan to include her friend for a brief moment, both casually styled and smiling. Finish with a slow push-out capturing the glowing stadium lights and soft pastel pink/blue hues in the background, maintaining a candid, magazine-style mood. No overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-09-06.mp4"
+}
