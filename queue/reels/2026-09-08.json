@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-08",
+  "category": "観戦コーデ",
+  "title": "1人でも可愛い！ナチュラル観戦コーデ@バンテリンドーム",
+  "scene": "夕方のバンテリンドーム名古屋、コンコースで20代女性が全身コーデをスマホ自撮り。ベージュ系ワイドパンツに水色カーディガン、推しカラーアクセでさりげなくおしゃれ。観客席を背景に、小さくピースや振り返りショットも交えて自然体の笑顔。",
+  "caption": "『球場に何着ていく？』って、毎回すごく悩むよね。今日はバンテリンドームで推し観戦♡ベージュのパンツに水色のカーデを羽織って、ゆるっとしたカフェコーデで来てみたよ。動きやすいし、推しカラーのシュシュをさりげなくつけるだけで一気に野球女子っぽくなるかも。照明がついた夕方のドームって、実は写真もすごく盛れるから、おしゃれして正解だったな〜って思う！周りの女の子たちのコーデ見るのも楽しいし、推しの応援もおしゃれもどっちも楽しみたい派。球場コーデ、みんなはどうしてる？気軽にコメントで教えてね。可愛いコーデはぜひ保存して、次の観戦の参考にしてみて！",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#バンテリンドーム",
+    "#推し活女子",
+    "#球場ファッション",
+    "#一人観戦女子",
+    "#名古屋ドーム",
+    "#カフェコーデ",
+    "#保存推奨",
+    "#野球観戦コーデ"
+  ],
+  "prompts": {
+    "kling": "A photorealistic, vertical 9:16, 10-15 second video shot with a smartphone, showing a Japanese woman in her 20s standing in the concourse of Vantelin Dome Nagoya. She wears beige wide pants, a soft pastel blue cardigan, and carries a small baseball-themed tote bag. The camera starts with a close-up of her adjusting a pastel hair tie, then pulls out for a full-body shot as she smiles naturally and gives a peace sign, with the softly lit modern stadium and fans in the background. Pastel pink, beige, and blue tones highlight a natural, effortless look. No overlays or AI artifacts. Natural handheld motion with casual, friend-like vibe.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot look, soft pastel grading. 0-5s: Japanese woman in her 20s, natural makeup, arranges her pastel blue cardigan and smiles towards the camera in the concourse of Vantelin Dome Nagoya, fans bustle in the background. 5-10s: Camera moves to a full-body shot of her posing with a beige outfit and a small bag, gently twirling and showing off her look. 10-15s: She turns slightly, does a small wave or peace sign, and walks toward the stands, the dome's evening lights softly glowing. No overlays, no AI artifacts, just a candid lifestyle feel.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-like handheld motion. Start with a subtle push-in as the Japanese woman fixes her hair tie, then pan down for a smooth full-body shot. Slight lateral dolly as she gently spins, then a relaxed handheld follow as she waves and heads toward the ballpark seats. Pastel color palette, natural lighting, lively yet soft stadium background. No overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-09-08.mp4"
+}
