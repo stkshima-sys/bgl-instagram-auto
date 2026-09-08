@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-09",
+  "category": "推し活動画",
+  "title": "神宮で推し活♡ユニフォーム女子のエモ観戦",
+  "scene": "夕暮れの神宮球場で、ピンクのユニフォームを着た2人の女性。笑顔でタオルやうちわを掲げて推し選手を応援し、周りのスタンドの熱気に包まれながらスマホで自撮り。最後はナイター照明が煌めくスタンドで、2人が笑顔でハイタッチ。",
+  "caption": "「ユニフォーム着て、タオル掲げて、推し活ってやっぱ最高♡」\n友達と神宮で推しカラーのコーデに身を包んで、大好きな選手を全力応援！野球のルールがわからなくても、推しを感じられるこの空気感がたまらないんだよね。夕焼けに包まれる球場、みんなの一体感、応援の声、スマホ越しでも伝わる熱気——日常のモヤモヤも全部吹き飛んじゃう！\n「一人だと不安…」って思ってたけど、実際来てみると推し活女子たちも多くて勇気が出たかも。初めての人もユニフォーム着て応援してみてほしいな。\nあなたの推しカラーや応援スタイルもコメントで教えてね！保存して、今度の観戦の参考にしてもらえたら嬉しいです♡",
+  "hashtags": [
+    "#野球女子",
+    "#推し活",
+    "#神宮球場",
+    "#観戦コーデ",
+    "#ユニフォーム女子",
+    "#球場ライフ",
+    "#応援グッズ",
+    "#ナイター観戦",
+    "#スタジアム体験",
+    "#野球好きな人と繋がりたい"
+  ],
+  "prompts": {
+    "kling": "A vertical 9:16 video, 10-15 seconds, photorealistic, smartphone-shot look, natural handheld motion. Scene: Two Japanese women in their 20s with natural makeup and stylish pastel-pink and white uniforms are standing in the stands at Meiji Jingu Stadium at dusk. They smile and wave team towels and decorated fans (uchiwa), cheerfully supporting their favorite player. Surrounded by a lively crowd, they do a selfie with their smartphones, capturing the warm, pastel-tinted atmosphere. The final shot features both girls smiling and high-fiving under the bright night stadium lights. Soft pastel color grading. No text overlays or AI artifacts.",
+    "veo": "Vertical 9:16 video, photorealistic, smartphone-shot look, Japanese women in their 20s in pastel-pink and white uniforms at Meiji Jingu Stadium. 0-5s: Sunset-lit stands, two women laughing and waving team towels and uchiwa as crowd noise surrounds them. 5-10s: Close-up selfie shot as both smile, showing the vibrant, soft pastel audience. 10-15s: Night stadium lights shine as the girls high-five, capturing the emotional connection and excitement. Soft, gentle color grading throughout, handheld natural motion.",
+    "higgsfield": "Vertical 9:16, photorealistic, handheld camera with smooth, gentle sway. Start with a medium handheld pan across the crowded dusk-lit stands, then push-in on two Japanese women in pastel uniforms waving towels and fans. Quick cut to an over-the-shoulder shot as they take a selfie, capturing their smiles and the pastel crowd behind. End with a handheld pull-back as they high-five under the glowing night stadium lights, soft pink and blue tones accentuating the emotional mood. No visible text or AI artifacts."
+  },
+  "videoFile": "videos/2026-09-09.mp4"
+}
