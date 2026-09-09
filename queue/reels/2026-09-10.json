@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-10",
+  "category": "推し活動画",
+  "title": "聖地・甲子園で推し活Day♡ユニ女子のリアル観戦",
+  "scene": "甲子園スタジアムのスタンドで、ユニフォーム姿の20代女性2人がワクワクしながら座る。推しのタオルを掲げて盛り上がり、手作りうちわを振って選手名を応援。夕暮れのナイター照明が点灯する幻想的な雰囲気に包まれ、2人が笑顔でハイタッチしながら推し活を楽しむ。",
+  "caption": "一度は本気で行ってみたかった“甲子園で推し活”。友達とユニフォームおそろいで、好きな選手のタオルやうちわを用意して…スタンドに座る瞬間からわくわくが止まらない！あの応援歌が響いて、推し選手が打席に立つたび、自然と声が出ちゃう。夕暮れの球場って、なんだかエモくて特別な時間。野球に詳しくなくても、みんなの熱気に包まれるだけで自然と一体感に。『1人でも大丈夫かな？』『どんなグッズを持っていけばいい？』って迷ってた私も、こうやって思いっきり楽しめたよ。 推し活のコツやおすすめグッズ、あなたなら何を持っていく？コメントで教えてね♡気になったら保存して、次の観戦プランの参考にしてみて！",
+  "hashtags": [
+    "#野球女子",
+    "#推し活",
+    "#球場コーデ",
+    "#甲子園",
+    "#うちわグッズ",
+    "#女子野球観戦",
+    "#エモい瞬間",
+    "#観戦デビュー",
+    "#ナイター女子",
+    "#野球好きな人と繋がりたい"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, Japanese women in their 20s (2 people) wearing cute baseball uniforms, sitting in the stands at Koshien Stadium. They are smiling, holding up towels and shaking hand-made fans with their favorite player's name. The scene includes natural handheld camera movement, focusing on their excited expressions, the vibrant crowd, and pastel-colored uniforms highlighted by soft sunset and night stadium lights. No text overlays. Natural, warm atmosphere, magazine-style aesthetic.",
+    "veo": "Vertical 9:16, photorealistic, natural smartphone-shot style. 0-5s: Two Japanese women in their 20s, wearing stylish baseball uniforms, walk up stadium steps and find their seats at Koshien, excitement on their faces. 5-10s: Sitting together, they hold up support towels and wave hand-made fans, reacting emotionally as the crowd cheers; close-ups of their smiles and the lively stands. 10-15s: Dramatic shift as stadium lights come on at sunset, with both women exchanging a joyful high-five and laughing as the camera gently pushes in to capture the magical, pastel-lit glow of the moment.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot look. Handheld camera follows two Japanese women in their 20s wearing pastel baseball uniforms through the crowd, panning to show their faces as they sit in the stands. Push-in shot on the women as they raise towels and wave fans. Gentle tilt-up as stadium lights turn on at sunset, finishing with a steady, close-up handheld shot of their emotional high-five and laughter. Soft, natural color grade with pastel pink and blue highlights."
+  },
+  "videoFile": "videos/2026-09-10.mp4"
+}
