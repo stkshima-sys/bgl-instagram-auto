@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-11",
+  "category": "推し活動画",
+  "title": "PayPayドームで推し活女子、ユニ姿で全力応援！",
+  "scene": "20代女子がパステルブルーのユニフォームを着てPayPayドームのスタンドへ。推し選手のタオルを高く掲げて歓声。夕暮れの球場で友達とうちわを振って、スタンドの熱気と笑顔が溢れる瞬間。",
+  "caption": "「この瞬間のために、1週間頑張った気がする！」🤍\n推しのユニフォームに袖を通して、初めてのPayPayドーム。最初はちょっと緊張したけど、席に座った瞬間スタンドの熱気に包まれて…自然と笑顔があふれちゃう。推しの登場BGMが流れるたび、タオルを掲げて叫ぶのも、うちわを振るのも全部、最高の思い出。\n\n野球観戦って一人でも友達とでも楽しいし、何より“自分の好き”を全力で楽しむことに遠慮はいらないなって思った夜。推し活は自分のペースでいいんだよね。\n\nみんなの推し活スタイル、ぜひコメントで教えてください！この動画が気になったら保存して、次の観戦の参考にしてね⚾️",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#推し活",
+    "#PayPayドーム",
+    "#推し活女子",
+    "#一人観戦",
+    "#うちわ応援",
+    "#球場の熱気",
+    "#スタンド女子",
+    "#球場ライフ"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, Japanese women in their 20s in soft pastel blue and white baseball uniforms at PayPay Dome Fukuoka, sitting and standing in the stadium seats during early evening. Camera follows their natural handheld gestures as they lift a player towel high, wave cute fans (uchiwa), and laugh together while surrounded by the warm stadium lights and cheering crowd. Soft, natural lighting, pastel color grading, focus on genuine emotion and lively atmosphere, no text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot. 0-5s: Camera pushes in from concourse to two Japanese women in their 20s walking up stadium steps in pastel baseball uniforms, excited and smiling. 5-10s: Close-up of one girl lifting a colorful towel and waving it, friend next to her waving a cute uchiwa fan, both animated and sharing a laugh, background full of enthusiastic crowd. 10-15s: Wide shot as the girls hug in celebration, bathed in soft evening light and glowing stadium atmosphere, pastel pink and blue hues emphasized. No text overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic, soft pastel color grading. Start with a smooth handheld tracking shot following two Japanese women in their 20s wearing pastel baseball uniforms walking into their seats at PayPay Dome; gentle push-in as they sit and join the excitement, then pan to capture them raising towels and uchiwa fans in synchronized cheering. Natural smiles and authentic reactions, lively audience in background; end with a handheld pull-back showing their joyful faces and the glowing stadium. No text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-09-11.mp4"
+}
