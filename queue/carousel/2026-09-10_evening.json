@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-10",
+  "slot": "evening",
+  "category": "球場グルメ",
+  "title": "インスタ映え球場グルメ7選",
+  "slides": [
+    {
+      "heading": "推し活必須！球場スイーツ",
+      "body": "カラフルなアイスやフルーツ盛りは思わず写真を撮りたくなる可愛さ🍦\n甘党女子におすすめ度No.1！\nどの球場にも映えスイーツが登場中。"
+    },
+    {
+      "heading": "神宮名物・チーズドッグ",
+      "body": "SNSで話題のビヨ〜ンと伸びるチーズドッグ🧀\n神宮球場3塁側「クラウンキッチン」でGET！\n熱々で大満足◎"
+    },
+    {
+      "heading": "東京ドームのいちごソフト",
+      "body": "ドーム限定・いちごがたっぷり乗ったソフトクリームは定番の映えメニュー🍓\n一塁側「プリンスキッチン」で見つかるよ。"
+    },
+    {
+      "heading": "横浜のカラフルポテト",
+      "body": "青やピンクのかわいいディップ付き！\n横浜スタジアムの「ベイカラポテト」は、映え度MAXでシェアも楽しい🥔\nみんなでシェアもおすすめ"
+    },
+    {
+      "heading": "ZOZOのメロンソーダフロート",
+      "body": "鮮やかなグリーンが写真映え✨\nメロンソーダフロートは夏の観戦にぴったり。\n1塁側「マリーンズカフェ」をチェックしてね。"
+    },
+    {
+      "heading": "見逃せないポイント",
+      "body": "売店の場所は公式マップで事前チェック、\n行列しやすいメニューは試合開始前や中盤が狙い目👌\n食べる順番まで考えて回ると失敗知らず！"
+    }
+  ],
+  "caption": "球場グルメって見るだけでテンション上がるよね🥤🍓今日は保存必須な「インスタ映えグルメ」を７つまとめたよ！スイーツ系はもちろん、カラーが可愛いメニューや、売店の場所・狙い目時間もこっそり紹介。球場ごとに個性があって、行くたびに新しい発見があるのも楽しみ。友達とシェアしたり、一人観戦で自分へのご褒美にしたり…。\n皆の推し球場グルメもぜひコメントで教えてね😊「今度このメニュー食べよう！」って思ったら忘れずに保存してね！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#インスタ映えグルメ",
+    "#神宮球場",
+    "#東京ドームグルメ",
+    "#横浜スタジアム",
+    "#ZOZOマリン",
+    "#スイーツ好きな人と繋がりたい",
+    "#野球観戦女子"
+  ],
+  "coverImagePrompt": "A photorealistic Japanese woman in her 20s enjoying a baseball game at a Japanese stadium, holding a pastel-colored dessert. Soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, natural lighting, photorealistic, no text.",
+  "images": [
+    "media/carousel/2026-09-10_evening/01_cover.jpg",
+    "media/carousel/2026-09-10_evening/02_slide.jpg",
+    "media/carousel/2026-09-10_evening/03_slide.jpg",
+    "media/carousel/2026-09-10_evening/04_slide.jpg",
+    "media/carousel/2026-09-10_evening/05_slide.jpg",
+    "media/carousel/2026-09-10_evening/06_slide.jpg",
+    "media/carousel/2026-09-10_evening/07_slide.jpg",
+    "media/carousel/2026-09-10_evening/08_cta.jpg"
+  ]
+}
