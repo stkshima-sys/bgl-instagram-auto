@@ -1,48 +1,52 @@
 {
   "date": "2026-09-10",
   "slot": "evening",
-  "category": "球場グルメ",
-  "title": "インスタ映え球場グルメ7選",
+  "category": "一人観戦",
+  "title": "一人観戦が楽しくなる7つのヒント",
   "slides": [
     {
-      "heading": "推し活必須！球場スイーツ",
-      "body": "カラフルなアイスやフルーツ盛りは思わず写真を撮りたくなる可愛さ🍦\n甘党女子におすすめ度No.1！\nどの球場にも映えスイーツが登場中。"
+      "heading": "実は一人観戦、めっちゃ平気！",
+      "body": "最初はドキドキするけど、意外と一人でも大丈夫。\n自分のペースで楽しめるのが一人観戦の魅力だよ🥰"
     },
     {
-      "heading": "神宮名物・チーズドッグ",
-      "body": "SNSで話題のビヨ〜ンと伸びるチーズドッグ🧀\n神宮球場3塁側「クラウンキッチン」でGET！\n熱々で大満足◎"
+      "heading": "おすすめは内野席💺",
+      "body": "初めてなら内野席が安心！\n女性1人でも周りは家族や友達連れが多いから、のんびり観戦できるよ。"
     },
     {
-      "heading": "東京ドームのいちごソフト",
-      "body": "ドーム限定・いちごがたっぷり乗ったソフトクリームは定番の映えメニュー🍓\n一塁側「プリンスキッチン」で見つかるよ。"
+      "heading": "持ち物はこれだけでOK",
+      "body": "チケット・スマホ・飲み物・ひざかけ。\n気張らず身軽がコツ！おしゃれバッグに\n推しグッズを忍ばせるのもアリ◎"
     },
     {
-      "heading": "横浜のカラフルポテト",
-      "body": "青やピンクのかわいいディップ付き！\n横浜スタジアムの「ベイカラポテト」は、映え度MAXでシェアも楽しい🥔\nみんなでシェアもおすすめ"
+      "heading": "困った時はスタッフさんに",
+      "body": "球場スタッフはみんな優しいから、分からないことがあればすぐ頼って大丈夫。\n迷子になりやすい人にもおすすめ。"
     },
     {
-      "heading": "ZOZOのメロンソーダフロート",
-      "body": "鮮やかなグリーンが写真映え✨\nメロンソーダフロートは夏の観戦にぴったり。\n1塁側「マリーンズカフェ」をチェックしてね。"
+      "heading": "一人だからできる楽しみ方",
+      "body": "グルメ片手に写真を撮ったり、好きな選手をじっくり観察したり。\n自分だけの楽しみ方を見つけてみて😉"
     },
     {
-      "heading": "見逃せないポイント",
-      "body": "売店の場所は公式マップで事前チェック、\n行列しやすいメニューは試合開始前や中盤が狙い目👌\n食べる順番まで考えて回ると失敗知らず！"
+      "heading": "一人観戦仲間も増えてる！",
+      "body": "最近は女性の一人観戦もよく見かけるよ。\nSNSで出会える仲間もいるから、勇気を出してみてね📷"
+    },
+    {
+      "heading": "一人観戦で自分も好きになる",
+      "body": "自分のための時間が増えて、自分自身も少し好きになれるかも。\nまずは気軽にチャレンジしてみて♪"
     }
   ],
-  "caption": "球場グルメって見るだけでテンション上がるよね🥤🍓今日は保存必須な「インスタ映えグルメ」を７つまとめたよ！スイーツ系はもちろん、カラーが可愛いメニューや、売店の場所・狙い目時間もこっそり紹介。球場ごとに個性があって、行くたびに新しい発見があるのも楽しみ。友達とシェアしたり、一人観戦で自分へのご褒美にしたり…。\n皆の推し球場グルメもぜひコメントで教えてね😊「今度このメニュー食べよう！」って思ったら忘れずに保存してね！",
+  "caption": "「一人で球場に行くのって緊張しそう…」そんな風に感じていた私も、いざ行ってみたら意外と快適で、むしろまた行きたくなるくらい楽しかったんです☺️\n\n実は一人観戦って自分のペースで楽しめるし、同じように一人で来ている女性も増えてるから、浮いたりしないのもポイント。\n\n座席選びや持ち物など、ちょっとしたコツを知っておくだけでもっと気楽に過ごせちゃいます。\n\nみんなの“ぼっち観戦あるある”やおすすめの過ごし方があれば、ぜひコメントでシェアしてね！保存しておけば、次のおひとり様観戦の参考にもなるよ🫶",
   "hashtags": [
     "#野球女子",
-    "#球場グルメ",
+    "#一人観戦",
     "#観戦コーデ",
-    "#インスタ映えグルメ",
-    "#神宮球場",
-    "#東京ドームグルメ",
-    "#横浜スタジアム",
-    "#ZOZOマリン",
-    "#スイーツ好きな人と繋がりたい",
-    "#野球観戦女子"
+    "#球場初心者",
+    "#ぼっち観戦",
+    "#球場ライフ",
+    "#推し活女子",
+    "#観戦デビュー",
+    "#野球観戦記録",
+    "#女子ひとり旅"
   ],
-  "coverImagePrompt": "A photorealistic Japanese woman in her 20s enjoying a baseball game at a Japanese stadium, holding a pastel-colored dessert. Soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, natural lighting, photorealistic, no text.",
+  "coverImagePrompt": "A photorealistic scene of a 20-something Japanese woman enjoying a baseball game alone at a stadium in Japan, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, natural lighting, no text",
   "images": [
     "media/carousel/2026-09-10_evening/01_cover.jpg",
     "media/carousel/2026-09-10_evening/02_slide.jpg",
@@ -51,6 +55,7 @@
     "media/carousel/2026-09-10_evening/05_slide.jpg",
     "media/carousel/2026-09-10_evening/06_slide.jpg",
     "media/carousel/2026-09-10_evening/07_slide.jpg",
-    "media/carousel/2026-09-10_evening/08_cta.jpg"
+    "media/carousel/2026-09-10_evening/08_slide.jpg",
+    "media/carousel/2026-09-10_evening/09_cta.jpg"
   ]
 }
