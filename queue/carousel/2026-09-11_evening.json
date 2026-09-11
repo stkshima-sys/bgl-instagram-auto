@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-11",
+  "slot": "evening",
+  "category": "球場紹介",
+  "title": "首都圏おすすめ球場5選",
+  "slides": [
+    {
+      "heading": "1. 東京ドームの魅力",
+      "body": "雨の日でも安心な屋内球場☔️\n定番グルメやオリジナルスイーツも充実してて、野球初心者さんにもやさしい雰囲気だよ！"
+    },
+    {
+      "heading": "2. 神宮球場で青春体験",
+      "body": "外苑前からすぐでアクセス抜群🚃\n青空の下、芝生が映える開放感は神宮ならでは。近くのおしゃれカフェも要チェック！"
+    },
+    {
+      "heading": "3. 横浜スタジアムで海風観戦",
+      "body": "みなとみらいの夜景＆海風を感じながら観戦できる最高のロケーション🌆\nインスタ映えグルメも揃ってます！"
+    },
+    {
+      "heading": "4. ZOZOマリンでリゾート気分",
+      "body": "千葉駅からバスでGO！\n海の近くでリゾート気分を楽しみつつ、オリジナルグッズや座席バリエも豊富✨"
+    },
+    {
+      "heading": "5. 西武ドームで森の中観戦",
+      "body": "緑に囲まれた自然派球場🌳\n屋根付きだから天候も安心。駅から直結＆アウトレットでお買い物もできちゃう♪"
+    }
+  ],
+  "caption": "どの球場から行こうか迷う…首都圏には初心者でも楽しめる球場がたくさん☺️東京ドームや神宮球場はもちろん、横浜・ZOZO・西武もそれぞれ雰囲気やグルメ、アクセスがぜんぜん違うんだよね。\n\n近くのおしゃれカフェや映えスポットも多いから、野球観戦＋推し活やおでかけ気分で楽しめる！自分好みのスタジアムを見つけてみて。\n\n「この球場行ってみたい！」って場所、コメントで教えてもらえたら嬉しいな💬保存して、お友達にもシェアしてね！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#球場紹介",
+    "#首都圏おでかけ",
+    "#一人観戦女子",
+    "#野球観戦初心者",
+    "#推し活好きと繋がりたい",
+    "#スポーツ女子",
+    "#おしゃれさんと繋がりたい"
+  ],
+  "coverImagePrompt": "A photorealistic image of a group of Japanese women in their 20s enjoying a baseball game at a stadium in Tokyo. Soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, natural lighting, happy and stylish, baseball stadium background, no text.",
+  "images": [
+    "media/carousel/2026-09-11_evening/01_cover.jpg",
+    "media/carousel/2026-09-11_evening/02_slide.jpg",
+    "media/carousel/2026-09-11_evening/03_slide.jpg",
+    "media/carousel/2026-09-11_evening/04_slide.jpg",
+    "media/carousel/2026-09-11_evening/05_slide.jpg",
+    "media/carousel/2026-09-11_evening/06_slide.jpg",
+    "media/carousel/2026-09-11_evening/07_cta.jpg"
+  ]
+}
