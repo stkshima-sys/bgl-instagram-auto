@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-12",
+  "category": "球場グルメ紹介",
+  "title": "神宮球場グルメ＆乾杯エモリール",
+  "scene": "夕暮れの明治神宮球場、20代女性が観客席で笑顔で球場グルメを手に持ちカメラに見せる。友達と『いただきます！』の瞬間に乾杯し、お互い笑い合う。ソーセージやポテトを頬張りながら野球の熱気と美味しさに浸る自然なひととき。",
+  "caption": "一人で来ても、友達と来ても、やっぱり球場グルメは最高！🍟\n神宮といえば定番のソーセージや、カリッと揚げたポテト、冷たいビールで乾杯。球場の夕日やナイターの光の中で食べると、なんでこんなに美味しいんだろう？野球のプレーに歓声が上がるたび、自然と手が伸びて…『これが観戦の幸せ』って感じちゃう。ちょっと勇気を出して一人観戦デビューもありかも！みんなの推しグルメもぜひ教えてね。\n保存して、次の観戦の参考にしちゃおう🍺",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#神宮球場",
+    "#グルメ好きな人と繋がりたい",
+    "#ナイター観戦",
+    "#推し活女子",
+    "#おしゃれ女子",
+    "#スポーツ観戦女子",
+    "#一人観戦デビュー"
+  ],
+  "prompts": {
+    "kling": "A photorealistic, vertical 9:16, 10-15s smartphone-shot video at Meiji Jingu Stadium in the evening. A stylish Japanese woman in her 20s with natural makeup, soft pastel clothes, sits in the stands with a friend. She smiles and shows delicious ballpark food (sausage, fries) to the camera, does a friendly beer cheers, and eats, glowing softly in the sunset or under night lights. The mood is relaxed, joyful, and authentic, with handheld natural camera movement and no visible AI artifacts.",
+    "veo": "0-5s: Close-up of a 20-something Japanese woman holding a tray of colorful ballpark food, grinning in the stands; 5-10s: Camera pulls back slightly as she cheers beers with a friend, their faces lit by soft dusk or night stadium lights; 10-15s: She takes a bite, smiles at her friend, glances at the field, and the camera pans gently to capture both their relaxed, happy expressions. All shot in a handheld, photorealistic, vertical 9:16, soft pastel color style.",
+    "higgsfield": "Vertical 9:16, photorealistic. Start with a handheld close-up on a Japanese woman's hands holding stadium food at Meiji Jingu. Quick pan up to her face as she smiles, then a natural handheld push-in as she and her friend clink beers. Camera wobbles softly as she eats and laughs, capturing the casual, authentic motion of a smartphone video. Soft pastel tones throughout, no text or visible AI effects."
+  },
+  "videoFile": "videos/2026-09-12.mp4"
+}
