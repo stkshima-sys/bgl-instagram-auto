@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-11",
+  "slot": "evening",
+  "category": "初心者ガイド",
+  "title": "初観戦で困らない持ち物リスト7選",
+  "slides": [
+    {
+      "heading": "1. チケット＆スマホ",
+      "body": "チケットは絶対に忘れちゃダメ！\n電子チケットならスマホの充電も必須。\n予備のモバイルバッテリーがあると安心だよ📱"
+    },
+    {
+      "heading": "2. 推しカラーのタオル",
+      "body": "応援の必需品！推しカラーなら気分もUP。\n夏は汗拭きにも大活躍。\n写真映えもバッチリだよ🌈"
+    },
+    {
+      "heading": "3. 飲み物＆軽食",
+      "body": "球場でも買えるけど、混雑時は持参で時短。\n自分のお気に入りのドリンクがあると\nリラックスしやすいよ🥤"
+    },
+    {
+      "heading": "4. 日焼け＆寒さ対策",
+      "body": "春は日焼け止め、夏は帽子やサングラス。\n夜観戦や秋は羽織るものも忘れずに。\n意外と寒暖差あり☀️🧥"
+    },
+    {
+      "heading": "5. ハンカチ・ウェットティッシュ",
+      "body": "座席や手を拭いたり、グルメの\n食べこぼしにも便利。\n1人観戦だと特に重宝するアイテム✨"
+    },
+    {
+      "heading": "6. ちょっとした現金",
+      "body": "キャッシュレス派でも、球場では\n現金オンリーの売店やロッカーも。\n小銭があると何かと安心だよ💰"
+    },
+    {
+      "heading": "7. 忘れがち！ポーチ＆エコバッグ",
+      "body": "買ったグッズやグルメで手がふさがるとき\n小さめエコバッグが超便利♡\n女子的にポーチもマストだよ👜"
+    }
+  ],
+  "caption": "初めての球場観戦って、持ち物に迷うよね…😌「あれ忘れた！」ってなりがちだから、今回は野球女子目線の“本当に役立つ持ち物リスト”をまとめました！推しカラーのタオルや日焼け・寒さ対策、意外と現金やエコバッグも大事。初心者さんはもちろん、何度も行ってる人もこのリストで再チェックしてみてね。\n\nみんなの「これ絶対持ってく！」グッズもぜひコメントで教えてほしいな♡\n保存して、次の観戦前に忘れ物チェックに使ってね。",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#初心者ガイド",
+    "#野球観戦",
+    "#推し活女子",
+    "#一人観戦デビュー",
+    "#初観戦",
+    "#球場持ち物",
+    "#観戦準備"
+  ],
+  "coverImagePrompt": "Japanese baseball stadium, 20-something Japanese women enjoying a baseball game, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-09-11_evening/01_cover.jpg",
+    "media/carousel/2026-09-11_evening/02_slide.jpg",
+    "media/carousel/2026-09-11_evening/03_slide.jpg",
+    "media/carousel/2026-09-11_evening/04_slide.jpg",
+    "media/carousel/2026-09-11_evening/05_slide.jpg",
+    "media/carousel/2026-09-11_evening/06_slide.jpg",
+    "media/carousel/2026-09-11_evening/07_slide.jpg",
+    "media/carousel/2026-09-11_evening/08_slide.jpg",
+    "media/carousel/2026-09-11_evening/09_cta.jpg"
+  ]
+}
