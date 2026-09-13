@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-13",
+  "slot": "evening",
+  "category": "推し活",
+  "title": "推し活がもっと楽しくなる7つのコツ",
+  "slides": [
+    {
+      "heading": "1. ユニフォームを自分流に",
+      "body": "推し選手のユニで観戦は定番だけど、スカートやデニムと合わせて自分らしいコーデに✨\n小物で色遊びしても可愛いよ！"
+    },
+    {
+      "heading": "2. オリジナルうちわで応援",
+      "body": "推しへの愛は手作りうちわで表現！\nシールやパステルカラーのペンでデコると、写真映えもばっちり📷"
+    },
+    {
+      "heading": "3. グッズ収納は見せる派？",
+      "body": "缶バやアクスタは100均の小物ケースを活用。\n透明ポーチやボードにディスプレイして、お部屋も可愛く推し活空間に♡"
+    },
+    {
+      "heading": "4. 一人観戦も推し活タイム",
+      "body": "一人だと最初はドキドキだけど、推しの活躍を全力で堪能できるのが最高！\n自分ペースで楽しめるから新しい発見があるかも🌸"
+    },
+    {
+      "heading": "5. 観戦前は推しSNSをチェック",
+      "body": "球場に向かう前に推しのSNSや公式情報で気分UP！\n最新グッズやフォトスポットも事前に調べておくとワクワクが倍増するよ"
+    },
+    {
+      "heading": "6. 友達と写真をたくさん撮ろう",
+      "body": "推しのボードや着こなし、グッズと一緒に思い出ショット♡\n後でアルバムを見返すと、もっと推し活が好きになる！"
+    },
+    {
+      "heading": "7. 推し活の思い出はノートに",
+      "body": "観戦日ごとにチケットや写真をまとめる推しノートもおすすめ！\n振り返るたびにワクワクがよみがえるよ📒"
+    }
+  ],
+  "caption": "推し活って、大好きな選手を応援するだけじゃなくて「自分らしく楽しむコツ」がいっぱい！ユニフォームをアレンジしたり、手作りうちわで気持ちを込めたり、ひとり観戦でも自分だけの時間が作れるよね。友達と写真を撮ったり、グッズの収納を工夫してお部屋も推し活仕様にしたり…みんなはどんな推し活してる？コメントで教えてもらえたら嬉しいな☺️推し活のアイデアはぜひ保存して、次の観戦の参考にしてね💖",
+  "hashtags": [
+    "#野球女子",
+    "#推し活",
+    "#観戦コーデ",
+    "#推しグッズ",
+    "#ユニフォームコーデ",
+    "#球場ファッション",
+    "#一人観戦",
+    "#うちわデコ",
+    "#グッズ収納術",
+    "#推しノート"
+  ],
+  "coverImagePrompt": "A realistic photo of a 20-something Japanese woman enjoying a baseball game at a Japanese stadium, dressed in soft pastel clothing (white, beige, pastel pink, light blue), smiling naturally, holding fan-made goods, soft pastel tones, feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-09-13_evening/01_cover.jpg",
+    "media/carousel/2026-09-13_evening/02_slide.jpg",
+    "media/carousel/2026-09-13_evening/03_slide.jpg",
+    "media/carousel/2026-09-13_evening/04_slide.jpg",
+    "media/carousel/2026-09-13_evening/05_slide.jpg",
+    "media/carousel/2026-09-13_evening/06_slide.jpg",
+    "media/carousel/2026-09-13_evening/07_slide.jpg",
+    "media/carousel/2026-09-13_evening/08_slide.jpg",
+    "media/carousel/2026-09-13_evening/09_cta.jpg"
+  ]
+}
