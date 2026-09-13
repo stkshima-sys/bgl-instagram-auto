@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-13",
+  "category": "推し活動画",
+  "title": "PayPayドームで推し活DAY！",
+  "scene": "PayPayドームのスタンドで20代女性2人がユニフォーム姿でにっこり。タオルを掲げて一生懸命応援したり、推しのうちわを振って盛り上がる。まわりの観客の熱気や夕暮れのドームの雰囲気も映るスマホ目線。",
+  "caption": "推しのユニフォームを着ると、それだけでテンションが上がるし、球場の空気も一気に特別なものになる😌💓PayPayドームのスタンドは同じ想いのファンでいっぱいだから、一人でもちょっと勇気が出るし、初めての推し活にもピッタリ。タオルやうちわを全力で振って応援してると、隣の友達とも、周りのファンとも、自然と心が繋がる気がするんだよね。夕暮れの光の中でユニの色がキラッと映える瞬間、何度でも思い出したくなる。あの熱気やワクワク、皆はどうやって推し活してる？💭この動画、保存して観戦のイメトレに使ってね！#推し活 でコメントも待ってます！",
+  "hashtags": [
+    "#野球女子",
+    "#推し活",
+    "#球場コーデ",
+    "#PayPayドーム",
+    "#うちわ応援",
+    "#球場デビュー",
+    "#観戦記録",
+    "#推しグッズ",
+    "#一人観戦デビュー",
+    "#野球観戦日和"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, two Japanese women in their 20s, fashionable with natural makeup and pastel accessories, stand together in the stands at PayPay Dome (Japanese baseball stadium), wearing pastel-colored team uniforms, holding up towels and shaking handmade fans (uchiwa) with their favorite player's name. The camera starts with them smiling and chatting, then captures them cheering and waving their towels enthusiastically. The background is filled with excited fans and soft evening light. The scene is filmed with slight handheld motion for a natural, candid feeling. No text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, soft pastel color grading. 0-5s: Two Japanese women in their 20s walk up to their seats in the PayPay Dome stands, both in pastel team uniforms and casual, stylish outfits, holding towels and uchiwa fans. 5-10s: They sit down, look at the camera, laugh, and raise their towels/fans to cheer, surrounded by lively fans. 10-15s: Close-up of them waving their towels in sync with the crowd, sunset/nighter stadium atmosphere, capturing authentic smiles and the collective excitement. No text overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, Japanese women in their 20s at PayPay Dome in team uniforms, soft pastel tones. Start with a handheld pan as they find their seats, then a gentle push-in as they sit and start cheering. Slight handheld sway as they wave towels and fans, then a close-up handheld shot capturing their happy, emotional reactions and the vibrant crowd behind. No text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-09-13.mp4"
+}
