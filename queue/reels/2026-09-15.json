@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-15",
+  "category": "球場グルメ紹介",
+  "title": "バンテリンドーム名古屋♡推し球場グルメで乾杯リール",
+  "scene": "バンテリンドーム名古屋の観客席で20代女性が球場グルメの唐揚げ＆名物きしめんを手に嬉しそうに見せる。友人とビールのカップでほほえみながら乾杯。グルメを頬張って幸せそうな表情、そのままグルメ越しに球場の眺め。",
+  "caption": "球場グルメって、なぜかいつも以上においしい気がしない？🍺⚾️ 今日はバンテリンドーム名古屋で、女子に人気の唐揚げと名物きしめんにトライ！友達とビールで乾杯しながら、野球観戦のワクワクをリアルに体感。『野球って、ひとりでも友達とでも、こういう小さな幸せが詰まってるんだな』って感じる瞬間でした。一人観戦も全然アリだし、グルメがお目当てでもぜんぜんOK。好きなものを好きな場所で楽しむって、最高じゃない？みんなは球場で何食べたい？コメントでおすすめ教えてね♡ 気になる人は保存して、次の観戦の参考にしてみて！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#バンテリンドーム名古屋",
+    "#推し活女子",
+    "#一人観戦デビュー",
+    "#球場スイーツ",
+    "#名古屋グルメ",
+    "#野球観戦日記",
+    "#友達と乾杯"
+  ],
+  "prompts": {
+    "kling": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Show 1-2 Japanese women in their 20s wearing casual, cute outfits, sitting in Vantelin Dome Nagoya stands, soft pastel color grading. Close-up of hands holding freshly bought fried chicken and a bowl of kishimen, smiling, showing food to the camera. Next, two women toast with plastic beer cups, gentle cheers. Finally, one takes a happy bite, beams, then briefly frames the food with the stadium view behind her. No text overlays, no AI artifacts.",
+    "veo": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, Japanese women in their 20s at Vantelin Dome Nagoya, soft pastel grading, natural and handheld. Scene breakdown: 0-5s: Closeup of hands holding fried chicken and kishimen, woman smiles to camera. 5-10s: Cut to two friends beaming and toasting with beer cups, sunlight or stadium lighting softly in background. 10-15s: One eats a bite, laughs with delight, holds food toward camera, pans to show friends and the lively stadium behind. No text overlays.",
+    "higgsfield": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, handheld camera. Start with a gentle push-in on a woman holding fried chicken and kishimen in the stands, natural lighting, pastel tones. Subtle pan as she turns to a friend for a soft-focus cheers with beer. Finish with a slow tilt and pull-back to reveal her taking a happy bite and the crowd ambiance of Vantelin Dome Nagoya. No text, no AI artifacts."
+  },
+  "videoFile": "videos/2026-09-15.mp4"
+}
