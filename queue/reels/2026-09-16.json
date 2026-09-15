@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-16",
+  "category": "球場の景色",
+  "title": "PayPayドームで感じる、夕暮れからナイターへの魔法",
+  "scene": "1人の20代女性がPayPayドームの観客席で、夕暮れに染まるグラウンドを見つめる。ナイター照明が灯り始め、幻想的な雰囲気に包まれていく。最後は携帯で球場を撮影しながら、微笑む横顔。",
+  "caption": "ナイター直前の球場って、なんだか特別な空気に包まれるよね。PayPayドームのライトがふわっと灯った瞬間、日常からふわっと離れた気持ちになるあの感じ、分かる人いるかな？1人観戦もちょっと勇気がいったけど、夕暮れのグラウンドを眺めてたら、なんとなく肩の力が抜けてきた。あの光と空の色が混ざる時間がすごく好き。この景色を見たら、きっとまた来たくなる…そんな夜。#野球女子 ならではの“推し活時間”、みんなはどんな瞬間が好き？気軽にコメントで教えてね🌙保存して、今度の観戦の参考にしてもらえたらうれしいな！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#PayPayドーム",
+    "#ナイター観戦",
+    "#推し活",
+    "#一人観戦デビュー",
+    "#ドームのある暮らし",
+    "#球場夕景",
+    "#おしゃれスポット"
+  ],
+  "prompts": {
+    "kling": "A photorealistic vertical 9:16 video, 10-15 seconds, with a natural handheld smartphone look. Scene: A Japanese woman in her 20s, casual yet stylish like a fashion magazine model, sits in the PayPay Dome stands at sunset. The soft pastel colors of the evening wash over the stadium; as stadium lights gradually turn on, she looks around with a gentle smile, occasionally filming the view with her phone. Camera follows her from behind, then captures her serene side profile against the glowing field. No text overlays, no visible AI artifacts.",
+    "veo": "0-5s: Wide shot of PayPay Dome stands at sunset, soft beige and pastel tones. Focus on a Japanese woman in her 20s sitting alone, gazing at the field, natural handheld camera. 5-10s: Lights begin to illuminate the stadium, close-up of the woman's thoughtful, relaxed expression—she pulls out her phone, gently recording the scenery. 10-15s: Push-in to her side as she smiles softly, capturing the glowing field and stands for social media. All shots are photorealistic, smartphone-shot, no text, vertical 9:16.",
+    "higgsfield": "Vertical 9:16, photorealistic, natural handheld motion. Start with a handheld pan over the sunset-lit stands of PayPay Dome, then a gentle push-in towards a casually stylish Japanese woman in her 20s sitting alone, looking at the field. Subtle rack focus from the lights coming on to her profile as she films with her smartphone, ending with a slight orbit around her as she smiles. Soft, pastel color grading, natural crowd ambiance, no overlays or AI artifacts."
+  },
+  "videoFile": "videos/2026-09-16.mp4"
+}
