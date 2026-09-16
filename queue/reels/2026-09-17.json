@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-17",
+  "category": "球場グルメ紹介",
+  "title": "神宮球場グルメで乾杯！友達と夏の思い出リール",
+  "scene": "夕暮れの明治神宮球場、20代女性2人が観客席で爽やかに微笑みながら球場グルメを一緒に手に持つ。ホットドッグやポテト、名物からあげを美味しそうに頬張る。ビールカップで乾杯しながらナイトゲームの雰囲気を満喫するエモーショナルな瞬間。",
+  "caption": "野球観戦の楽しみって、やっぱり球場グルメも外せないよね🍟\n神宮球場で友達と定番ホットドッグや名物からあげを並んでもぐもぐしてると、普段の週末より特別な気持ちになるのは私だけじゃないはず。夕暮れのスタジアムで過ごす時間って、なんか全部がエモく感じる…！\nちょっと大人なビールで乾杯しながら『この一瞬、最高かも』なんて話してると、野球観戦デートも女子会もアリだなって思える。\nSNSで気になるグルメ見つけて、実際に食べてみると感動倍増！次は何食べようってワクワクが止まらない☺️\nあなたのおすすめ神宮グルメもぜひ教えて！保存して、次の観戦プランの参考にしてみてね🌸",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#神宮球場",
+    "#推し活女子",
+    "#一人観戦デビュー",
+    "#ホットドッグ部",
+    "#神宮ナイター",
+    "#おしゃれ女子会",
+    "#休日の過ごし方"
+  ],
+  "prompts": {
+    "kling": "A photorealistic, vertical 9:16, 10-15 second video shot on smartphone, featuring two stylish Japanese women in their 20s, wearing casual summer outfits with natural makeup and trendy accessories, seated together in the stands at Meiji Jingu Stadium during sunset. They laugh, take selfies, hold and eat ballpark hot dogs and fried chicken, and toast with cups of beer. The camera captures soft pastel tones—white, beige, pastel pink, and blue—while handheld movements accentuate the candid, emotional vibe. The stadium lights begin to glow as the scene unfolds.",
+    "veo": "0-5s: Handheld smartphone shot pans over Meiji Jingu Stadium stands at sunset, focusing on two Japanese women (20s) in trendy summer outfits, holding hot dogs and fries, sharing a spontaneous laugh. 5-10s: Close-up shots of them picking up their food, taking a bite, making happy expressions, and enjoying the taste. 10-15s: The friends raise their cups of beer for a gentle cheers, smile at each other, and in the background, the night stadium lights begin to come on. Soft pastel color grading, natural and emotional atmosphere throughout.",
+    "higgsfield": "Handheld vertical 9:16, gently moving between wide shots and medium close-ups. Start with a natural pan across the stadium seating at sunset, then push-in to the women as they smile and eat. Subtle tilt to capture their cheers with beer cups. Emphasize soft pastel color grading (white, beige, pink, blue), authentic textures, and the golden glow of evening stadium lights. Capture candid, real-life motion with no visible AI artifacts."
+  },
+  "videoFile": "videos/2026-09-17.mp4"
+}
