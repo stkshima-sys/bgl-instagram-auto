@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-18",
+  "category": "球場グルメ紹介",
+  "title": "PayPayドーム映えグルメ&ビールで乾杯リール企画",
+  "scene": "20代の女性二人がPayPayドームの観客席で明るく球場グルメを手にピース。ジューシーな唐揚げや映えスイーツをアップで見せ合いながら、笑顔で『かんぱーい！』。ナイター照明がきらめく中、ビールを片手に心から楽しむ瞬間をキャッチ。",
+  "caption": "『球場のグルメって最高にテンション上がらない？🍟✨今日はPayPayドームでみつけた、見た目もおしゃれな映えグルメを友達とシェアしてきました！一口食べるたびに美味しさで思わず笑顔に💓野球はもちろん、こうやってグルメを楽しむのも球場観戦の醍醐味だよね。ナイターの明かりの下で「かんぱーい！」ってすると、日常の疲れもリセットされる気がする…！一人観戦でも全然OKだし、勇気を出してまずはグルメを楽しみに来てみてほしいかも。みんなの推しグルメもあったら、ぜひコメントで教えてね🍦気になったら保存して次の観戦グルメリストに入れてね！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#PayPayドーム",
+    "#福岡グルメ",
+    "#ナイター観戦",
+    "#グルメ女子",
+    "#推し活女子",
+    "#おしゃれ観戦",
+    "#一人観戦デビュー"
+  ],
+  "prompts": {
+    "kling": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Two Japanese women in their 20s, natural makeup, stylish casual fashion, sitting in the PayPay Dome Fukuoka stands in the evening. They hold colorful stadium foods (fried chicken, parfait, fries), laugh, pose for a selfie, and clink plastic beer cups with a bright 'cheers'. Soft pastel color grading (white, beige, pastel pink, light blue), night stadium lights glowing, gentle depth of field, authentic candid moments. No text overlays, no AI artifacts.",
+    "veo": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion, soft pastel color grading. Cut 0-5s: Two Japanese women in their 20s sit together in PayPay Dome stands, smiling and showing off fried chicken and a pastel dessert close to the camera. Cut 5-10s: The camera captures them laughing, exchanging bites, taking a selfie, and chatting in a relaxed, friendly vibe. Cut 10-15s: They raise their beer cups for a 'kanpai' (cheers) moment under stadium night lights, faces glowing with happiness. No text overlays, no AI artifacts.",
+    "higgsfield": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, handheld camera with gentle slow pan across two Japanese women in their 20s at PayPay Dome stands; push-in to a close-up of hands holding stadium foods, then slow pull-out as they laugh and clink beer cups together. Pastel color grading (white, beige, pink, blue). No text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-09-18.mp4"
+}
