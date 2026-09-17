@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-17",
+  "slot": "evening",
+  "category": "球場グルメ",
+  "title": "球場映えグルメ7選🍓 写真もお腹も大満足",
+  "slides": [
+    {
+      "heading": "いま話題の球場映えスイーツ！",
+      "body": "可愛い見た目にきゅんとする球場スイーツが急増中🍦\n野球観戦がもっと楽しくなる名物をピックアップしたよ！"
+    },
+    {
+      "heading": "1. 神宮のいちごポップコーン",
+      "body": "神宮球場といえばこれ！\n淡いピンク色で写真映え抜群。甘すぎず、ぺろっと食べられる人気グルメ。\n売店は1塁側メインゲート近く🍓"
+    },
+    {
+      "heading": "2. 東京ドームのメロンパンアイス",
+      "body": "東京ドーム名物のメロンパンアイスは冷たいアイスと温かいパンが最高の組み合わせ✨\n3ゲート横の売店でゲットできるよ。"
+    },
+    {
+      "heading": "3. ZOZOマリンの海苔だく牛すじ丼",
+      "body": "海のそばならではの海苔たっぷり＆牛すじがとろける贅沢丼。\nお腹ペコペコな日のランチにおすすめ！\nライトスタンド奥の売店で販売中。"
+    },
+    {
+      "heading": "4. みんなでシェアしたいグルメも！",
+      "body": "フライドポテトや唐揚げなど、友達とシェアできる映えメニューも充実🍟\n推しカラーのドリンクもSNSにぴったり。"
+    },
+    {
+      "heading": "グルメは“食べる順番”も大事！",
+      "body": "試合開始前にスイーツ、5回裏でホットフードが定番コース。\n混雑時間を避けて、快適に楽しもう♪"
+    },
+    {
+      "heading": "気になるお値段＆選び方",
+      "body": "映え重視ならスイーツ＆ドリンクで1,000円前後。\nがっつりご飯系は1,200円〜。\n売店MAPは各球場アプリで事前チェックがおすすめ！"
+    }
+  ],
+  "caption": "球場って「美味しいもの、正直あまり期待してなかった…」って思ったことありませんか？実は今、各球場で映えるグルメがどんどん登場していて、野球観戦の楽しみが一気に広がってるんです！\n\n今回は、推し活や友達との観戦にもぴったりな、写真映えグルメを厳選しました。観戦前にスイーツでテンション上げたり、5回裏にはあったかフードでほっと一息するのもおすすめです。\n\n「これ気になる！」「今度絶対食べたい！」と思ったメニューがあれば、ぜひコメントやシェアで教えてね🧁\n\n次の観戦の計画に役立てたい人は保存も忘れずに◎\n",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#球場スイーツ",
+    "#おしゃれ観戦",
+    "#推し活女子",
+    "#球場映え",
+    "#東京ドームグルメ",
+    "#神宮球場",
+    "#一人観戦"
+  ],
+  "coverImagePrompt": "Japanese women in their 20s enjoying baseball at a stadium in Japan, eating pastel-colored desserts and snacks, group of smiling friends, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-09-17_evening/01_cover.jpg",
+    "media/carousel/2026-09-17_evening/02_slide.jpg",
+    "media/carousel/2026-09-17_evening/03_slide.jpg",
+    "media/carousel/2026-09-17_evening/04_slide.jpg",
+    "media/carousel/2026-09-17_evening/05_slide.jpg",
+    "media/carousel/2026-09-17_evening/06_slide.jpg",
+    "media/carousel/2026-09-17_evening/07_slide.jpg",
+    "media/carousel/2026-09-17_evening/08_slide.jpg",
+    "media/carousel/2026-09-17_evening/09_cta.jpg"
+  ]
+}
