@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-18",
+  "slot": "evening",
+  "category": "球場紹介",
+  "title": "首都圏おすすめ球場5選！推し活女子の保存版",
+  "slides": [
+    {
+      "heading": "1. 東京ドームの推しポイント",
+      "body": "雨でも安心な全天候型✨ドーム内は広々で、グルメやショップも充実。\n初心者さんでも迷わず楽しめちゃうよ。推しの試合日はテンションUP！"
+    },
+    {
+      "heading": "2. 神宮球場は夜風が最高",
+      "body": "神宮外苑の緑や夜風が気持ちいい！\n座席からグラウンドまで近くて、一体感を感じやすいのが魅力。\n帰り道のカフェも要チェック☕️"
+    },
+    {
+      "heading": "3. ZOZOマリンスタジアム",
+      "body": "海がすぐそこ！夕焼けの景色と共に観戦できる特別感💙\n潮風を感じながら、スタジアムならではのグルメも楽しんで♪"
+    },
+    {
+      "heading": "4. 横浜スタジアム周辺スポット",
+      "body": "観戦前後は中華街や元町でご飯やショッピングも。\n開放感あるスタジアムで、推しとの時間がもっと特別に。"
+    },
+    {
+      "heading": "5. 一人観戦も安心ポイント",
+      "body": "どの球場も女性一人でも入りやすくて安心。\n座席の選び方や帰り道の寄り道スポットをチェックして、推し活デビューもばっちり！"
+    }
+  ],
+  "caption": "首都圏の球場、どこが自分に合うか迷うよね…！今回は、野球女子目線で“アクセス＆周辺も楽しい”おすすめ球場をまとめてみたよ⚾️ 東京ドームの快適さ、神宮球場の夜風、ZOZOマリンの海風や、横浜スタジアム周辺の寄り道スポットなど…観戦しながら「ここ行ってみたい！」って思えるポイント、全部紹介してるよ。\n\n一人で行くのが不安な子も、座席の雰囲気や行き帰りの楽しみ方を知っておくと一気にハードル下がるかも☺️ みんなの“推し球場”はどこ？気になる球場があったらコメントで教えてね。\n\n保存して、次の観戦プランの参考にしてみて！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#一人観戦",
+    "#球場巡り",
+    "#神宮球場",
+    "#東京ドーム",
+    "#横浜スタジアム",
+    "#ZOZOマリン",
+    "#推し活"
+  ],
+  "coverImagePrompt": "A group of stylish Japanese women in their 20s enjoying a baseball game at a Japanese stadium, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-09-18_evening/01_cover.jpg",
+    "media/carousel/2026-09-18_evening/02_slide.jpg",
+    "media/carousel/2026-09-18_evening/03_slide.jpg",
+    "media/carousel/2026-09-18_evening/04_slide.jpg",
+    "media/carousel/2026-09-18_evening/05_slide.jpg",
+    "media/carousel/2026-09-18_evening/06_slide.jpg",
+    "media/carousel/2026-09-18_evening/07_cta.jpg"
+  ]
+}
