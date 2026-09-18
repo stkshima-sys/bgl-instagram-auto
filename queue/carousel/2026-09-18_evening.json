@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-18",
+  "slot": "evening",
+  "category": "観戦コーデ",
+  "title": "夏の球場観戦コーデ7選",
+  "slides": [
+    {
+      "heading": "球場コーデ、悩むよね…",
+      "body": "「暑さ対策しても可愛くしたい！」\n「どんな服が浮かないかな？」\nそんなお悩み、全部まとめて解決しちゃいます💡"
+    },
+    {
+      "heading": "涼しさ×可愛さはTシャツで",
+      "body": "推しTシャツやロゴTは通気性も◎\nパンツもスカートも合わせやすくて、動きやすいのがポイント！\n大きめを選ぶと冷房対策にも。"
+    },
+    {
+      "heading": "球場別！気温差に注意",
+      "body": "ドームは冷房強めなので、\n薄手のカーデをバッグに入れておくと安心。\n屋外は日焼け＆帽子、屋内は羽織りが正解☀️🧢"
+    },
+    {
+      "heading": "バッグの中身チェック",
+      "body": "チケット・モバイルバッテリー・ハンカチは鉄板！\nうちわや冷感スプレーも意外と必須。荷物は斜めがけやリュックが人気だよ🎒"
+    },
+    {
+      "heading": "NGコーデもちらっと紹介",
+      "body": "ヒール・大きなアクセ・短すぎるスカートは注意。\n長時間座るから、カジュアル＆リラックス重視がおすすめ。\nみんなのあるあるもぜひ教えて！"
+    },
+    {
+      "heading": "推しカラーで気分上げて",
+      "body": "小物やネイルでさりげなく推し色を取り入れると\n気分も上がるし、写真映えもバッチリ💅\n自分らしい観戦コーデを楽しんでみてね！"
+    }
+  ],
+  "caption": "「明日、何着て球場行こう…」って悩むことない？私も毎回コーデに迷うタイプだから、これを見れば絶対安心の観戦ファッションをまとめたよ！推しTシャツに快適パンツ、屋内なら羽織りもの、屋外は帽子や日焼け対策…持ち物までしっかりチェックして、快適さと可愛さの両立しよ。逆にNGコーデもやんわり紹介してるから「これ私やっちゃってた！」って共感してもらえるかも😂\n\nあなたの観戦コーデのこだわりや、持っていく定番アイテムも、ぜひコメントで教えてね！この投稿が役立ったら、保存して今度の観戦の参考にしてね🩵",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#球場ファッション",
+    "#推し活女子",
+    "#夏コーデ",
+    "#ドーム観戦",
+    "#球場バッグ",
+    "#涼しい服装",
+    "#球場あるある",
+    "#女子観戦"
+  ],
+  "coverImagePrompt": "A photorealistic image of Japanese women in their 20s enjoying a summer baseball game at a Japanese ballpark, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-09-18_evening/01_cover.jpg",
+    "media/carousel/2026-09-18_evening/02_slide.jpg",
+    "media/carousel/2026-09-18_evening/03_slide.jpg",
+    "media/carousel/2026-09-18_evening/04_slide.jpg",
+    "media/carousel/2026-09-18_evening/05_slide.jpg",
+    "media/carousel/2026-09-18_evening/06_slide.jpg",
+    "media/carousel/2026-09-18_evening/07_slide.jpg",
+    "media/carousel/2026-09-18_evening/08_cta.jpg"
+  ]
+}
