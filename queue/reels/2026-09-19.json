@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-19",
+  "category": "推し活動画",
+  "title": "推しユニでPayPayドーム推し活Day",
+  "scene": "PayPayドームの観客席で、20代女性がユニフォーム姿で座って笑顔。友達とうちわやタオルを掲げて推し選手を全力応援。周囲の熱気やナイター照明、ピンクや水色のグッズがやさしく映えるエモーショナルな雰囲気。",
+  "caption": "「今日は絶対勝ってほしい！」そんな気持ちで友達とPayPayドームへ。ユニフォームを着て、タオルや手作りうちわを持つだけで、自然とテンションUP🏟️💕初対面の人も隣で盛り上がってくれる、一体感がやっぱり好きだな〜。試合の流れにドキドキしたり、推しの応援歌で声を合わせたり、気づけば“推し活”が私の日常に。座席ごとにいろんなコーデや持ち物も見れるから、次はどんなふうに楽しもう…って考えるのもまた楽しい。観戦は一人でも最高だけど、誰かと分かち合う瞬間もすごくエモい。みんなの“推し活スタイル”もぜひ教えてほしいな😉保存して、次の観戦の参考にしてみてね！",
+  "hashtags": [
+    "#野球女子",
+    "#推し活",
+    "#球場コーデ",
+    "#観戦スタイル",
+    "#PayPayドーム",
+    "#ホークス女子",
+    "#観戦グッズ",
+    "#スポーツ女子",
+    "#ナイター観戦",
+    "#うちわ応援"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, two Japanese women in their 20s at PayPay Dome Fukuoka, sitting in baseball stadium stands at night, wearing pastel-toned baseball jerseys (white, pink, light blue), holding fans and towels with their favorite player's name, waving and smiling, cheering in an emotional atmosphere, surrounded by vibrant night game crowd, soft handheld camera with gentle pastel color grading, natural reactions and candid friendship moments. No overlays, no visible AI artifacts.",
+    "veo": "vertical 9:16, photorealistic, smartphone-filmed look, soft pastel color grading. 0-5s: Close-up on a Japanese woman in her 20s in a pastel baseball jersey sitting in PayPay Dome stands, smiling and waving a towel; friends beside her hold colorful fans and cheer. 5-10s: Pull-back shot showing several young women together, raising uchiwa fans and towels high, excitement and unity with the crowd around, faces glowing under night stadium lights. 10-15s: Warm cut to detail shots—hands gripping jerseys, shared laughter, pastel accessories glinting, capturing the emotional charge of 'oshi-katsu' and friendship.",
+    "higgsfield": "vertical 9:16, photorealistic, smartphone quality, handheld slow pan across two Japanese women in their 20s in pastel baseball jerseys at PayPay Dome stands, push-in to their smiling faces as they raise towels and fans, soft motion blur from night stadium lights, over-the-shoulder shot capturing the crowd's energy, gentle tilt as they wave and cheer, pastel pink and blue hues enhanced, no text, no AI traces."
+  },
+  "videoFile": "videos/2026-09-19.mp4"
+}
