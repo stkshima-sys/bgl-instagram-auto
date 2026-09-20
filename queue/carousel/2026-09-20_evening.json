@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-20",
+  "slot": "evening",
+  "category": "観戦コーデ",
+  "title": "夏の野球観戦コーデ5選！可愛さ×涼しさバランス術",
+  "slides": [
+    {
+      "heading": "涼しいけど可愛いって？",
+      "body": "夏の観戦コーデ、暑さ対策しつつ可愛さも大事だよね🌷\nダボっとTシャツ＋ミニバッグで、動きやすさとトレンドを両立しよ！"
+    },
+    {
+      "heading": "推しカラーでさりげアピール",
+      "body": "ユニフォームだけじゃなく、キャップやヘアアクセも推し色に🍧\nリンクコーデ感で写真映えもアップ！"
+    },
+    {
+      "heading": "持ち物コンパクト派の中身紹介",
+      "body": "ミニショルダーにはスマホ・お財布・日焼け止めは必須。\nハンディ扇風機やハンカチも入れて、熱中症対策も忘れずに！"
+    },
+    {
+      "heading": "NGコーデ、やりがち注意",
+      "body": "厚底サンダルやヒールは階段＆移動が大変…足元はぺたんこ推奨。\nカーディガンやストールで冷房対策もおしゃれに！"
+    },
+    {
+      "heading": "おすすめ球場別ポイント",
+      "body": "屋外球場は紫外線＆虫対策を。ドームなら冷房冷えに要注意。\n球場によってコーデのポイントが違うから、行く前チェックが大事だよ🌿"
+    },
+    {
+      "heading": "みんなの観戦コーデも教えて！",
+      "body": "「私の定番コーデはこれ！」や推し色グッズ、コメントでシェアしてね🥰\n気になったコーデは保存もお忘れなく！"
+    }
+  ],
+  "caption": "「何着ていけばいいの？」って毎回迷いがち…。夏の野球観戦コーデ、涼しさも可愛さも譲れないよね🌻\n\n暑さ対策にはダボTやミニショルダー、推し色アクセでさりげなく応援。持ち物もコンパクトにまとめて、球場ごとのポイントを押さえると失敗しない！逆に、厚底サンダルやヒールは意外と大変だから要注意。\n\n「これ持ってって正解だった！」や「NGコーデやっちゃった…」など、みんなのおすすめや体験もコメントで教えてね。観戦のたびに見返したくなるコーデまとめ、ぜひ保存して次の観戦の参考にしてね🍦\n\n#野球女子のあるある も大歓迎！",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#球場ファッション",
+    "#夏コーデ",
+    "#推し活女子",
+    "#球場初心者",
+    "#可愛いは正義",
+    "#野球好きな人と繋がりたい",
+    "#観戦あるある",
+    "#一人観戦女子"
+  ],
+  "coverImagePrompt": "Photorealistic, natural lighting, no text. A stylish Japanese woman in her 20s enjoying a baseball game at a Japanese baseball stadium in summer, holding a mini bag and wearing pastel casual clothes, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic.",
+  "images": [
+    "media/carousel/2026-09-20_evening/01_cover.jpg",
+    "media/carousel/2026-09-20_evening/02_slide.jpg",
+    "media/carousel/2026-09-20_evening/03_slide.jpg",
+    "media/carousel/2026-09-20_evening/04_slide.jpg",
+    "media/carousel/2026-09-20_evening/05_slide.jpg",
+    "media/carousel/2026-09-20_evening/06_slide.jpg",
+    "media/carousel/2026-09-20_evening/07_slide.jpg",
+    "media/carousel/2026-09-20_evening/08_cta.jpg"
+  ]
+}
