@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-20",
+  "category": "球場グルメ紹介",
+  "title": "横浜スタジアム・夜のごほうび球場グルメリール",
+  "scene": "夕暮れの横浜スタジアム。20代女性がベイスターズカラーのユニを着て、照明キラキラの観客席で名物シウマイやポテトを手に持ち笑顔。ビール片手に友だちと「乾杯」して、美味しそうに頬張るリアルな瞬間をスマホ撮影風で切り取る。",
+  "caption": "観戦の楽しさって、やっぱり球場グルメから始まる気がする🍟💕\n横浜スタジアムの夜は、ライトアップと潮風と美味しいものが最高のご褒美。シウマイやポテトを友だちとシェアしながら『乾杯！』ってする時間、本当に癒されるんだよね。\n一人観戦でも、好きなグルメ片手に気ままにのんびり過ごせるのも◎。\n野球好きな友だちと来るのも、推しと過ごす自分時間も、どっちもアリ。\n『横浜スタジアムで食べるならコレ！』っていうおすすめグルメ、みんなの推しもぜひコメントで教えてほしいな🥰\nこの投稿、今度の観戦に向けて保存しておくのもアリかも！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#ヨコハマスタジアム",
+    "#ベイスターズ",
+    "#シウマイ",
+    "#ビール好きな人と繋がりたい",
+    "#一人観戦デビュー",
+    "#推し活女子",
+    "#保存推奨"
+  ],
+  "prompts": {
+    "kling": "A photorealistic vertical 9:16 video, 10-15 seconds, shot with a smartphone handheld look. Show two Japanese women in their 20s, natural makeup, stylish like fashion magazine models, at Yokohama Stadium during a night game. Soft white, beige, pastel pink, and light blue tones. Start with them standing in the soft-lit stands at sunset, holding signature stadium foods like shumai and fries. One takes a bite, the other lifts a beer. They laugh and do a gentle 'cheers'. The background is full of glowing stadium lights and the lively crowd. Natural handheld camera, no AI artifacts or overlays.",
+    "veo": "Scene 1 (0-5s): Handheld shot pans across Yokohama Stadium at dusk, focusing on two fashionable Japanese women in their 20s in pastel casuals, holding stadium food (shumai, fries).\nScene 2 (5-10s): Medium shot — one woman takes a happy bite, the other raises her drink. They look at each other, smiling, capturing a candid, relaxed vibe. Stadium lights softly glow in the background.\nScene 3 (10-15s): Close-up — the two gently clink their drinks ('cheers'), laughing naturally. Camera softly blurs the background, emphasizing their expressions. No overlays, natural lighting.",
+    "higgsfield": "vertical 9:16, handheld camera with gentle pans and slow push-ins. Start with a pan of Yokohama Stadium’s evening stands, then push in to two stylish women in their 20s holding ballpark food. Camera follows as one takes a bite and the other lifts her beer; slow push-in on their 'cheers' moment, capturing natural smiles. Soft pastel color grading, realistic smartphone video look, no AI artifacts."
+  },
+  "videoFile": "videos/2026-09-20.mp4"
+}
