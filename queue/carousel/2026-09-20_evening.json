@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-20",
+  "slot": "evening",
+  "category": "球場グルメ",
+  "title": "写真映え球場グルメ5選🍓保存必須！",
+  "slides": [
+    {
+      "heading": "1. 神宮の“いちごけずり”",
+      "body": "暑い日のご褒美スイーツといえばコレ！\n苺そのままのフワフワ食感で、写真に撮ってもかわいい💕\n売店は1塁側コンコースの奥だよ。"
+    },
+    {
+      "heading": "2. 横浜スタジアムのBAYクレープ",
+      "body": "球場なのに本格クレープが食べられるって新鮮！\n色とりどりのフルーツでインスタ映え間違いなし🍌\n外野席近くの売店でGETできるよ。"
+    },
+    {
+      "heading": "3. 札幌ドームのメロンソフト",
+      "body": "北海道らしいジューシーなメロン×濃厚ソフトのパフェ風グルメ🍈\n映え感MAXでテンションあがる！\nグルメエリアを要チェック。"
+    },
+    {
+      "heading": "4. 京セラの“たこ焼きBOX”",
+      "body": "大阪らしいアツアツたこ焼きが食べやすいBOXで登場！\n推しカラーのBOXもあるかも？🎀\n1階中央売店で発見できるよ。"
+    },
+    {
+      "heading": "5. PayPayドームの“ホークスプリン”",
+      "body": "とろ〜り食感とパステルな見た目がかわいいプリン🍮\n価格も手頃だからおやつにぴったり。\nコンコースのホークスカフェでチェックしてみて！"
+    }
+  ],
+  "caption": "野球観戦って、球場でしか食べられないグルメがめっちゃ魅力的だよね☺️🍴今日紹介したのは、写真映えもしてSNSで自慢したくなる、各球場の絶品スイーツ＆フードたち。球場ごとにしか味わえないから、推し球場じゃなくてもぜひ一度はチャレンジしてみて！これ目当てに観戦に行く女子も多いから、友達とのシェアもおすすめ。みんなの推し球場グルメもぜひコメントで教えてね💬スワイプ保存で、次のお出かけの参考にしよう♪",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#インスタ映えグルメ",
+    "#推し活女子",
+    "#スイーツ好きな人と繋がりたい",
+    "#一人観戦デビュー",
+    "#球場スイーツ",
+    "#野球観戦初心者",
+    "#週末おでかけ"
+  ],
+  "coverImagePrompt": "A photorealistic, natural lighting image of a Japanese woman in her 20s enjoying baseball at a Japanese ballpark, holding a cute stadium dessert. She is dressed in soft pastel tones (white, beige, pastel pink, light blue), with a feminine Japanese fashion magazine aesthetic. There are no words or text in the image. Background shows the stands and a cheerful atmosphere. Soft, clean, magazine-style composition.",
+  "images": [
+    "media/carousel/2026-09-20_evening/01_cover.jpg",
+    "media/carousel/2026-09-20_evening/02_slide.jpg",
+    "media/carousel/2026-09-20_evening/03_slide.jpg",
+    "media/carousel/2026-09-20_evening/04_slide.jpg",
+    "media/carousel/2026-09-20_evening/05_slide.jpg",
+    "media/carousel/2026-09-20_evening/06_slide.jpg",
+    "media/carousel/2026-09-20_evening/07_cta.jpg"
+  ]
+}
