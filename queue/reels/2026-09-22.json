@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-22",
+  "category": "一人観戦Vlog風",
+  "title": "一人観戦Vlog｜ES CON FIELD HOKKAIDOの余韻",
+  "scene": "エスコンフィールドのゲートをワクワクしながら一人でくぐる自撮り視点→売店で迷いながらグルメやドリンクを選ぶアップ→観客席で球場の景色に癒されながら乾杯、試合後の帰り道で満たされた表情を映す。",
+  "caption": "「一人で球場、ちょっとドキドキだけど…思い切って行ってみたら、すっごく自由で自分のペースで楽しめた！🍹グルメ選びも、席に座る瞬間の高揚感も全部自分だけのもの。夕暮れのエスコンって本当にきれいで、“好き”をたくさん噛みしめられた1日だったなぁ🌇一人観戦って、意外と気楽で大人な時間。“誰かと”じゃなくても、私だけの推し活。あなたも、自分時間で野球を楽しんでみませんか？　#一人観戦デビュー 気になる人、ぜひコメントで教えてください♡保存して、気が向いた日に思い出してね。",
+  "hashtags": [
+    "#野球女子",
+    "#一人観戦",
+    "#EsConFieldHokkaido",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#北海道観戦",
+    "#推し活",
+    "#スタジアム女子",
+    "#ぼっち観戦",
+    "#自分時間"
+  ],
+  "prompts": {
+    "kling": "A photorealistic, natural handheld smartphone-shot video in vertical 9:16. Focus on a stylish Japanese woman in her 20s with natural makeup, wearing casual yet fashionable clothing, entering Es Con Field Hokkaido alone with excitement. She browses and buys food and drinks at a pastel-lit stadium shop, then sits in a softly lit seat, admiring the field and lifting her drink for a solo toast. The video ends with her walking out, glowing with satisfaction in the soft evening light. Soft pastel color grading in white, beige, pink, and light blue. No text overlays, no visible AI artifacts.",
+    "veo": "0-5s: Handheld POV shot entering Es Con Field Hokkaido’s entrance, capturing the lively stadium vibe and natural excitement of a Japanese woman in her 20s. 5-10s: Cut to close-up and medium shots of her thoughtfully selecting and buying pastel-colored drinks and snacks at a vibrant stadium shop, surrounded by soft white and beige lighting. 10-15s: She sits in her seat, does a relaxed solo cheers towards the field, smiles at the game, then is seen leaving after the match, glowing in the pastel-hued evening outside. No overlays, natural smartphone look, pastel tones.",
+    "higgsfield": "Handheld camera enters the stadium from a first-person perspective, panning towards shops with pastel snacks, then a gentle push-in as the woman raises her drink to toast alone in the audience. Shallow depth of field captures her relaxed expressions and the stadium lights in the soft dusk, ending with a slow handheld pullback as she happily walks out. Soft pastel colors throughout, natural lighting, realistic smartphone-shot movement."
+  },
+  "videoFile": "videos/2026-09-22.mp4"
+}
