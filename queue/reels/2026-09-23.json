@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-23",
+  "category": "推し活動画",
+  "title": "推しユニでTokyo Dome推し活Day",
+  "scene": "夕暮れの東京ドーム、女性が推し選手のユニフォームを着て笑顔で入場。スタンドでタオルやうちわを元気に掲げて仲間と盛り上がる様子。ナイター照明と歓声に包まれてエモい空間が広がる。",
+  "caption": "「一人で推し活、ちょっと勇気いるかも…」そんな風に思ったことありませんか？今日はTokyo Domeで推しユニを着て“自分の好き”を全力で楽しむ1日にしてみました🤍スタンドの熱気、友達と笑い合う瞬間、タオルやうちわを振るたびにどんどん気分も高まって。カメラ越しに映る自分も、なんだかいつもより可愛く見えちゃうかも✨　野球観戦って、推し活って、こんなに自由で楽しいんだって実感できる時間。あなたの推し活エピソードや、好きな応援グッズもぜひコメントで教えてほしいな！今日の思い出、保存してまた見返したくなるはず☺️",
+  "hashtags": [
+    "#野球女子",
+    "#推し活",
+    "#観戦コーデ",
+    "#東京ドーム",
+    "#ユニフォーム女子",
+    "#うちわアレンジ",
+    "#一人観戦",
+    "#ナイター観戦",
+    "#推しグッズ",
+    "#球場ライフ"
+  ],
+  "prompts": {
+    "kling": "A photorealistic 9:16 smartphone video, 10-15 seconds, of one or two Japanese women in their 20s entering Tokyo Dome at sunset, wearing cute pastel baseball uniforms and natural makeup. They smile, wave towels and hold up decorated fans in the stands, surrounded by a lively crowd. The camera captures candid, handheld close-ups of their excited faces, pastel-colored accessories, and the glowing night stadium; soft bokeh lights and a dreamy, emotional vibe. No text overlays, no artificial look.",
+    "veo": "0-5s: Handheld smartphone shot following a Japanese woman in her 20s as she walks into Tokyo Dome at sunset, wearing a pastel-colored baseball uniform and carrying a towel and custom fan. 5-10s: Cut to energetic close-ups of her in the stands, waving the towel and raising the fan, laughing with another woman as the crowd cheers around them; soft pastel and beige tones, stadium lights in the background. 10-15s: Slow handheld pan capturing both women looking up at the glowing night sky and stadium, faces lit by stadium lights, showing emotion and excitement.",
+    "higgsfield": "Vertical 9:16, 10-15 seconds. Start with a handheld push-in following a Japanese woman in her 20s approaching Tokyo Dome at dusk. Transition to handheld shots in the stands, gentle pans and close-ups as she and a friend wave towels and fans, smiling and reacting to the crowd energy. End with a handheld, slight upward tilt capturing the emotional atmosphere and the glow of the night stadium; all in a soft pastel color palette, warm and natural, smartphone-style footage."
+  },
+  "videoFile": "videos/2026-09-23.mp4"
+}
