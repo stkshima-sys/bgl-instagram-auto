@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-24",
+  "category": "観戦コーデ",
+  "title": "Es Con Fieldで着回し観戦コーデ5DAYS",
+  "scene": "Es Con Field Hokkaidoのコンコース。ナチュラルメイクの20代女性がパステルカラーの観戦コーデで登場。観客席や売店、コンコースを歩きながら全身コーデを友達と見せ合い、夕暮れの球場で笑顔を見せる。",
+  "caption": "『何を着て行けばいいかわからない…』そんな時に参考にしてほしい、Es Con Fieldでの観戦コーデ🏟️🤍　今日は着回ししやすいホワイト×パステルピンクのリンクコーデでお出かけ。球場のコンコースやスタンドで、さりげなく可愛く映えるのが嬉しいポイント！実は、球場って寒暖差があるから、羽織りやライトアウターが1枚あると本当に助かるんだよね。友達と色違いで合わせても、写真が一気に華やかになるよ✨　『推しカラーでコーデしたことある？』『おしゃれ重視派？応援重視派？』あなたの観戦コーデこだわりもぜひコメントで教えてね。保存して次の観戦の参考にもしてみて！",
+  "hashtags": [
+    "#観戦コーデ",
+    "#野球女子",
+    "#EsConField",
+    "#おしゃれさんと繋がりたい",
+    "#一人観戦デビュー",
+    "#着回しコーデ",
+    "#推し活女子",
+    "#球場ファッション",
+    "#北海道観戦",
+    "#スタジアムコーデ"
+  ],
+  "prompts": {
+    "kling": "A vertical 9:16, 10-15 second photorealistic clip, smartphone-shot look, of two natural-looking Japanese women in their 20s wearing white and pastel pink chic, casual outfits, walking and chatting together inside Es Con Field Hokkaido baseball stadium. Begin with a full body shot on the stadium concourse, showing their coordinated outfits, then follow them as they walk past a concession stand, laughing naturally. End with a slow handheld pan to the stands at sunset, capturing their smiles and the soft pastel color grading. No text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot look, Japanese women in their 20s at Es Con Field Hokkaido. 0-5s: Full body shot of two women posing and adjusting pastel pink and white outfits on the stadium concourse, showing their details. 5-10s: Handheld tracking shot as they walk together past a concession stand, pointing at food, candidly laughing. 10-15s: Slow pan to the outfield and stands at golden hour, both women looking at each other and then to the camera with soft smiles. Soft pastel tones, natural handheld movement, no overlays or AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic and smartphone-shot look. Two Japanese women in their 20s at Es Con Field Hokkaido, dressed in soft white and pastel pink outfits. Start with a handheld push-in as they pose for a full body shot in the stadium concourse, then transition to a walking pan following them as they move past a concession stand and laugh together. Finish with a gentle handheld pan to the sunset-lit stands, capturing the emotional, soft color vibe. No text, no obvious AI artifacts."
+  },
+  "videoFile": "videos/2026-09-24.mp4"
+}
