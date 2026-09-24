@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-25",
+  "category": "球場グルメ紹介",
+  "title": "甲子園で楽しむ、球場グルメ＆乾杯リール",
+  "scene": "夕暮れの甲子園スタンドで、おしゃれな20代女子が笑顔で名物の焼きそばと唐揚げを手に持つ。友達とビールを掲げて乾杯＆ひとくち頬張る瞬間、素の笑顔がはじける。球場のざわめきやナイター照明の雰囲気が、自然体の可愛さを引き立てる。",
+  "caption": "『球場グルメって、やっぱり特別だよね🍺✨』\n\n最初はちょっと緊張しても、甲子園に来ると自然と笑顔になっちゃう。今日の相棒は焼きそばと唐揚げ！手に持って写真撮ってみたり、大きめのひと口食べてみたり…そんな何気ない瞬間も、友達といるとあっという間に最高の思い出になるから不思議。\n\nビールで乾杯したときの夕暮れのスタンド、照明がついていく感じがエモすぎてつい保存したくなる…。観戦初心者さんも、一人観戦デビューしたい人も、グルメ片手に野球のある暮らし始めてみない？次の観戦、どの球場グルメ食べたい？ぜひコメントで教えてね！保存もお忘れなく🥰",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#甲子園グルメ",
+    "#女子の推し活",
+    "#推し活女子",
+    "#夕暮れの球場",
+    "#ナイター観戦",
+    "#一人観戦デビュー",
+    "#焼きそばと唐揚げ"
+  ],
+  "prompts": {
+    "kling": "A photorealistic 9:16 handheld smartphone video of two stylish Japanese women in their twenties, natural makeup and casual-feminine outfits, standing in the stands of Koshien Stadium in the evening. Soft pastel color grading with highlights in white, beige, pale pink and blue. They smile as one holds yakisoba, the other karaage in paper trays; both raise plastic cups of beer for a casual toast. Candid, fun, relaxed atmosphere as they take a bite, exchange looks, and the stadium lights softly glow in the background. No overlays or visible AI artifacts.",
+    "veo": "0-5s: Handheld vertical shot as two Japanese women in their twenties, in soft pastel-colored casual outfits, pick up yakisoba and karaage from a vendor stand at Koshien Stadium during sunset, with the crowd and lights building in the background.\n5-10s: Close, spontaneous shot as they walk to their seats, smile and raise plastic cups of beer for a toast, pastel pink sky and stadium lights starting to shine. \n10-15s: Intimate, over-the-shoulder shot as one takes a big bite of yakisoba and both laugh, illuminated by the gentle evening stadium glow—energetic, friendly, and authentic.",
+    "higgsfield": "Handheld vertical smartphone-style camera, gentle natural panning as two 20s Japanese women walk with stadium food at Koshien. Slow push-in as they sit and toast beer, light shake for realism. Quick focus pull onto one woman biting yakisoba, ending with a soft tilt up capturing their laughter and the glowing evening stadium lights."
+  },
+  "videoFile": "videos/2026-09-25.mp4"
+}
