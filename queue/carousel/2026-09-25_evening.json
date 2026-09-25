@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-25",
+  "slot": "evening",
+  "category": "推し活",
+  "title": "推し選手応援グッズ7選♡保存版",
+  "slides": [
+    {
+      "heading": "1. ユニフォーム着こなし",
+      "body": "推しのユニフォームはやっぱり鉄板！\nオーバーサイズでゆるっと着たり、\nスカート合わせで大人可愛くもできるよ♡"
+    },
+    {
+      "heading": "2. 推しカラーネイル",
+      "body": "球場でも目立つ指先は推し色で！\nワンポイントシールやラメもおすすめ✨\n写真映えするから友達に自慢したくなる♪"
+    },
+    {
+      "heading": "3. 手作りうちわ＆ボード",
+      "body": "名前や背番号をデコるだけでOK！\n100均のシールやリボンでプチアレンジ。\n自分だけの推しうちわで気分UP♡"
+    },
+    {
+      "heading": "4. 推しカラー小物で統一",
+      "body": "バッグ・タオル・キャップなど\n小物を推しカラーに統一すると一気に可愛い！\nさりげなくアピールできるのも嬉しいポイント🎀"
+    },
+    {
+      "heading": "5. 収納アイディアでお部屋すっきり",
+      "body": "使った後のグッズはカゴや\nクリアケースでまとめて収納！\n推しコーナーを作ると毎日テンション上がるよ♪"
+    },
+    {
+      "heading": "6. チームロゴ入りアクセ",
+      "body": "ピアスやヘアピンも実は豊富！\nさりげないロゴが大人カワイイ♡\n観戦だけじゃなく普段使いもできちゃう。"
+    },
+    {
+      "heading": "7. 推しの写真、どう飾る？",
+      "body": "お気に入りの選手写真は\nミニフレームやフォトガーランドに。\n観戦の思い出をお部屋でも楽しもう！"
+    }
+  ],
+  "caption": "推し活って、観戦だけじゃなくて毎日の楽しみのひとつだよね♡「このグッズ可愛い！」って友達に言われると、つい嬉しくなっちゃう。ユニやうちわ、アクセまで…実は工夫次第でもっと楽しめるアイテムがたくさんあるんだ♪\n\n全部揃えるのは大変だけど、ひとつずつ集めていくのも推し活の醍醐味かも。\n「私はこんなグッズ使ってるよ！」っていうのがあったら、ぜひコメント欄で教えてね！推し活仲間のアイディアも知りたいな。\n\nこの投稿、あとで見返す時のためにもぜひ保存しておいてね📱",
+  "hashtags": [
+    "#野球女子",
+    "#推し活",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推しグッズ",
+    "#うちわデコ",
+    "#野球観戦初心者",
+    "#自作うちわ",
+    "#おしゃれ女子",
+    "#女子野球部"
+  ],
+  "coverImagePrompt": "A photorealistic natural shot of a stylish Japanese woman in her 20s enjoying a baseball game at a Japanese stadium, holding cute fan-made goods and wearing pastel-colored fashion. Soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-09-25_evening/01_cover.jpg",
+    "media/carousel/2026-09-25_evening/02_slide.jpg",
+    "media/carousel/2026-09-25_evening/03_slide.jpg",
+    "media/carousel/2026-09-25_evening/04_slide.jpg",
+    "media/carousel/2026-09-25_evening/05_slide.jpg",
+    "media/carousel/2026-09-25_evening/06_slide.jpg",
+    "media/carousel/2026-09-25_evening/07_slide.jpg",
+    "media/carousel/2026-09-25_evening/08_slide.jpg",
+    "media/carousel/2026-09-25_evening/09_cta.jpg"
+  ]
+}
