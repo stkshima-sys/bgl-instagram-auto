@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-26",
+  "category": "観戦コーデ",
+  "title": "神宮球場コーデ着回しday&night",
+  "scene": "日中の明治神宮球場コンコースで、20代の日本人女性がピンクのカーデ＋ワンピのコーデで全身をスマホで鏡越しに紹介。夕方に球場ライトが灯る中、同じワンピースに水色のパーカー＆キャップを重ねたナイターアレンジコーデにチェンジし、友達と笑顔で並ぶ。最後は観客席で2人で乾杯、球場の雰囲気に溶け込む柔らかな色合いが印象的。",
+  "caption": "「球場コーデ、どうしたらいい？」って迷うよね💭今日は神宮球場で着回し実践してみたよ！昼は淡いピンクカーデ×白ワンピでカフェみたいにふわっと可愛く、夜は同じワンピに水色パーカー＆キャップを重ねてナイター仕様にチェンジ✨汗かいてもサッと羽織れるのがポイント。球場って意外と肌寒いときもあるから、1枚羽織れるものがあると安心だよ。普段の服でもOKだけど、推しカラーをちょっと入れると気分も上がる⤴️みんなのおすすめ観戦コーデは？ぜひコメントで教えて！保存して次の観戦コーデの参考にもしてね🤍",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#明治神宮球場",
+    "#推し活",
+    "#着回しコーデ",
+    "#球場ファッション",
+    "#女子旅",
+    "#一人観戦デビュー",
+    "#大人可愛い",
+    "#球場ライフ"
+  ],
+  "prompts": {
+    "kling": "A photorealistic 9:16 handheld smartphone video of two stylish Japanese women in their 20s at Meiji Jingu Stadium. The first scene: one woman stands in the stadium concourse during the day, showing her pink cardigan and white dress outfit in a mirror selfie style, smiling gently. Cut to sunset: she layers a pastel blue hoodie and baseball cap over the same dress, now walking with a friend along the concourse, both laughing and turning to camera. Final shot: the two women clink drinks in the stands under evening stadium lights, soft pastel tones throughout.",
+    "veo": "0-5s: Soft pastel shot of a Japanese woman in her 20s, using her phone for a mirror selfie in Meiji Jingu Stadium’s concourse, wearing a pink cardigan over a white dress, gently twirling to show the look. 5-10s: Scene transitions to late afternoon, same woman puts on a pastel blue hoodie and cap, meets her friend (also early 20s), they laugh and walk together along the stadium with stadium lights beginning to glow. 10-15s: Both sit in the stands, surrounded by other fans, softly lit by evening lights, and clink drinks, smiling to camera, with beige and pastel pink tones.",
+    "higgsfield": "Handheld, natural smartphone movement, starting with a slow handheld pan across the concourse to the woman’s full-body mirror pose, then a gentle push-in as she changes into the evening look. Handheld follow as she joins her friend, ending with a stable handheld shot as they clink drinks in the seats, all in soft pastel color grading."
+  },
+  "videoFile": "videos/2026-09-26.mp4"
+}
