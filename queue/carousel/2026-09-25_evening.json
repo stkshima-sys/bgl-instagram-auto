@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-25",
+  "slot": "evening",
+  "category": "観戦コーデ",
+  "title": "夏の球場観戦コーデ7選｜可愛く快適に！",
+  "slides": [
+    {
+      "heading": "涼しさ重視のTシャツコーデ",
+      "body": "薄手＆ゆるめのTシャツは汗ばむ球場の味方！\n推しカラーで気分もUP。\n日焼け対策にキャップやカーデも必須だよ🌞"
+    },
+    {
+      "heading": "小さめショルダーが大活躍",
+      "body": "荷物は最小限が鉄則！\nスマホ、ミニ財布、日焼け止め、ハンカチをIN。\n透明バッグなら球場ルールにも◎"
+    },
+    {
+      "heading": "羽織りものは必須アイテム",
+      "body": "冷房ガンガンの屋内球場や夜の風対策に\n薄手のカーデやパーカーを1枚持っておくと安心。\nひざ掛けにも使えて便利だよ！"
+    },
+    {
+      "heading": "スニーカーorサンダルどっち派？",
+      "body": "階段多めのスタジアムは歩きやすさが大事。\n疲れにくいスニーカー派が多いけど、\n涼しさ重視ならローヒールサンダルもアリ👟"
+    },
+    {
+      "heading": "意外とあるNGコーデ例",
+      "body": "ヒールや厚底靴は移動が大変。\nリュックは混雑時に邪魔になりがち。\n露出多めは冷房＆日焼けで後悔しがちなので注意！"
+    },
+    {
+      "heading": "みんなのバッグの中身覗き見👀",
+      "body": "汗ふきシート、日焼け止め、\nミニ扇風機、推し選手のタオル…\nあなたの必需品、何？コメントで教えてね！"
+    },
+    {
+      "heading": "推しカラー小物で気分UP",
+      "body": "普段使いのコーデでもバッグやキャップなど\nどこかに推しカラーを取り入れると、\n写真映え＆テンションも上がるよ🎀"
+    }
+  ],
+  "caption": "「球場コーデって実は悩むよね…」そんな経験、誰でもあるはず！今回は夏のナイターやデーゲーム観戦にぴったりな、可愛くて快適な観戦コーデ術をまとめました。荷物はできるだけ少なく、でも推しカラーはしっかり取り入れて、日焼け＆冷房対策も忘れずに…など、友達にも教えたくなるヒントがたくさん。ヒールや露出多めは「観戦あるあるNG」なので要注意！みんなの『球場バッグの中身』やおすすめグッズもコメントでぜひ教えてください☺️保存して、次の観戦の参考にしてね。",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#球場ファッション",
+    "#推し活女子",
+    "#一人観戦",
+    "#デーゲーム",
+    "#ナイター",
+    "#球場持ち物",
+    "#カジュアルコーデ",
+    "#夏コーデ"
+  ],
+  "coverImagePrompt": "A photorealistic image of a stylish Japanese woman in her 20s enjoying a baseball game at a Japanese stadium, wearing feminine summer casual pastel fashion (white, beige, pastel pink, light blue), holding a small shoulder bag, soft pastel tones, fashion magazine aesthetic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-09-25_evening/01_cover.jpg",
+    "media/carousel/2026-09-25_evening/02_slide.jpg",
+    "media/carousel/2026-09-25_evening/03_slide.jpg",
+    "media/carousel/2026-09-25_evening/04_slide.jpg",
+    "media/carousel/2026-09-25_evening/05_slide.jpg",
+    "media/carousel/2026-09-25_evening/06_slide.jpg",
+    "media/carousel/2026-09-25_evening/07_slide.jpg",
+    "media/carousel/2026-09-25_evening/08_slide.jpg",
+    "media/carousel/2026-09-25_evening/09_cta.jpg"
+  ]
+}
