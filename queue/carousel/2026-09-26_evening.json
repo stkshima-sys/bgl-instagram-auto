@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-26",
+  "slot": "evening",
+  "category": "初心者ガイド",
+  "title": "野球観戦初心者のための失敗しない5つのコツ",
+  "slides": [
+    {
+      "heading": "1. チケットはどこで買う？",
+      "body": "公式サイトやコンビニ、アプリでも買えるよ✨\n席によって値段や雰囲気が違うから、気分に合わせて選ぶのも楽しい！"
+    },
+    {
+      "heading": "2. 座席の選び方ポイント",
+      "body": "初めてなら内野席が安心♪全体が見渡せて初心者にもおすすめ！\n推しチーム側や、女子ひとりでも過ごしやすい場所もチェック。"
+    },
+    {
+      "heading": "3. ルールはざっくりでOK",
+      "body": "全部覚える必要なし！\n「三振＝アウト」「ホームラン＝盛り上がる」くらいでも十分楽しめるよ😉"
+    },
+    {
+      "heading": "4. マナーってどんな感じ？",
+      "body": "席移動は攻撃が終わったタイミングで。周りに迷惑をかけないだけで十分😊\n応援も自分のペースでOKだよ。"
+    },
+    {
+      "heading": "5. 持ち物リストをチェック！",
+      "body": "チケット・小さいバッグ・飲み物・タオル・日焼け止めはマスト。\n推しグッズやカーデもあると気分UP！忘れ物ないかお家で再チェックしてね。"
+    }
+  ],
+  "caption": "初めての野球観戦、何から準備すればいいか迷うよね…⚾️\n実は、全部完璧にしなくても大丈夫！チケットの買い方や、座席の選び方、ルールもざっくりでOK。\n「一人だと不安」「マナーって厳しい？」そんな悩みも、ちょっとしたコツや持ち物リストでふっと軽くなるはず💕\n今日まとめた初心者ガイド、友達とシェアしたり、初観戦前に見返すのもおすすめ。\n「私の初観戦エピソード」や「よく使うグッズ」ぜひコメントで教えてね！\n気になったらぜひ保存して、いつでも見返せるようにしておこう🫶",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#初心者ガイド",
+    "#一人観戦",
+    "#球場デビュー",
+    "#推し活",
+    "#球場グルメ",
+    "#観戦マナー",
+    "#野球観戦",
+    "#推し活女子"
+  ],
+  "coverImagePrompt": "a group of Japanese women in their 20s enjoying a baseball game at a Japanese stadium, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-09-26_evening/01_cover.jpg",
+    "media/carousel/2026-09-26_evening/02_slide.jpg",
+    "media/carousel/2026-09-26_evening/03_slide.jpg",
+    "media/carousel/2026-09-26_evening/04_slide.jpg",
+    "media/carousel/2026-09-26_evening/05_slide.jpg",
+    "media/carousel/2026-09-26_evening/06_slide.jpg",
+    "media/carousel/2026-09-26_evening/07_cta.jpg"
+  ]
+}
