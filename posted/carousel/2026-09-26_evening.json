@@ -2,51 +2,43 @@
   "date": "2026-09-26",
   "slot": "evening",
   "category": "初心者ガイド",
-  "title": "初観戦女子のための持ち物リスト7選",
+  "title": "野球観戦初心者のための失敗しない5つのコツ",
   "slides": [
     {
-      "heading": "1. チケット&スマホ",
-      "body": "入場に必須なのがチケット。\n紙でもスマホでもOKだけど、充電切れ対策でモバイルバッテリーもあると安心だよ📱"
+      "heading": "1. チケットはどこで買う？",
+      "body": "公式サイトやコンビニ、アプリでも買えるよ✨\n席によって値段や雰囲気が違うから、気分に合わせて選ぶのも楽しい！"
     },
     {
-      "heading": "2. 小さめバッグが便利",
-      "body": "両手が開くショルダーやリュックがおすすめ。\n屋台グルメや応援グッズもサッと出せるサイズ感がベスト🎒"
+      "heading": "2. 座席の選び方ポイント",
+      "body": "初めてなら内野席が安心♪全体が見渡せて初心者にもおすすめ！\n推しチーム側や、女子ひとりでも過ごしやすい場所もチェック。"
     },
     {
-      "heading": "3. 飲み物・ウェットティッシュ",
-      "body": "熱中症対策にお水やお茶はマスト。\nグルメを食べる時のウェットティッシュもあると女子力アップかも♪"
+      "heading": "3. ルールはざっくりでOK",
+      "body": "全部覚える必要なし！\n「三振＝アウト」「ホームラン＝盛り上がる」くらいでも十分楽しめるよ😉"
     },
     {
-      "heading": "4. タオル&羽織もの",
-      "body": "日差し対策や夜の冷え込みに、タオルやカーディガンが大活躍。\n夏は日焼け止めも忘れずに！"
+      "heading": "4. マナーってどんな感じ？",
+      "body": "席移動は攻撃が終わったタイミングで。周りに迷惑をかけないだけで十分😊\n応援も自分のペースでOKだよ。"
     },
     {
-      "heading": "5. 推し活グッズ",
-      "body": "ユニフォームやタオル、応援ボード…\n“推し”のグッズがあるだけで気分MAX✨\n忘れず持っていこう！"
-    },
-    {
-      "heading": "6. 現金・ICカードも",
-      "body": "屋台や売店は現金のみのことも。\n小銭やICカードも用意しておくと安心だよ💡"
-    },
-    {
-      "heading": "7. 初観戦だからこそ",
-      "body": "野球ルールのミニガイドや場内マップをスマホで保存しておくと安心。\n不安なことがあっても大丈夫、みんな最初は初心者◎"
+      "heading": "5. 持ち物リストをチェック！",
+      "body": "チケット・小さいバッグ・飲み物・タオル・日焼け止めはマスト。\n推しグッズやカーデもあると気分UP！忘れ物ないかお家で再チェックしてね。"
     }
   ],
-  "caption": "初めての野球観戦、「何持っていけばいいの？」って意外と悩むよね💭\nチケットやスマホ、推しグッズはもちろん、熱中症対策や急な気温変化への備えも大切。会場は現金のみの売店も多いから、現金やICカードもあると安心だよ！\n初観戦だからこそ、場内マップや野球ルールのミニガイドもスマホに保存しておくと、席迷子や“今のプレー何？”問題も減るかも。\n\nみんなの「これ忘れがち！」な持ち物や、推し活アイテムもぜひコメントで教えてね☺️\n困った時はこの投稿を保存して見返してみて♡",
+  "caption": "初めての野球観戦、何から準備すればいいか迷うよね…⚾️\n実は、全部完璧にしなくても大丈夫！チケットの買い方や、座席の選び方、ルールもざっくりでOK。\n「一人だと不安」「マナーって厳しい？」そんな悩みも、ちょっとしたコツや持ち物リストでふっと軽くなるはず💕\n今日まとめた初心者ガイド、友達とシェアしたり、初観戦前に見返すのもおすすめ。\n「私の初観戦エピソード」や「よく使うグッズ」ぜひコメントで教えてね！\n気になったらぜひ保存して、いつでも見返せるようにしておこう🫶",
   "hashtags": [
     "#野球女子",
     "#観戦コーデ",
-    "#球場グルメ",
-    "#推し活",
+    "#初心者ガイド",
     "#一人観戦",
-    "#野球初心者",
-    "#観戦準備",
-    "#応援グッズ",
-    "#お出かけ準備",
-    "#日常を可愛く"
+    "#球場デビュー",
+    "#推し活",
+    "#球場グルメ",
+    "#観戦マナー",
+    "#野球観戦",
+    "#推し活女子"
   ],
-  "coverImagePrompt": "photorealistic, natural lighting, no text, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, young Japanese women in their 20s happily preparing for a baseball game in a Japanese stadium, holding tickets and cute bags",
+  "coverImagePrompt": "a group of Japanese women in their 20s enjoying a baseball game at a Japanese stadium, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
   "images": [
     "media/carousel/2026-09-26_evening/01_cover.jpg",
     "media/carousel/2026-09-26_evening/02_slide.jpg",
@@ -54,8 +46,6 @@
     "media/carousel/2026-09-26_evening/04_slide.jpg",
     "media/carousel/2026-09-26_evening/05_slide.jpg",
     "media/carousel/2026-09-26_evening/06_slide.jpg",
-    "media/carousel/2026-09-26_evening/07_slide.jpg",
-    "media/carousel/2026-09-26_evening/08_slide.jpg",
-    "media/carousel/2026-09-26_evening/09_cta.jpg"
+    "media/carousel/2026-09-26_evening/07_cta.jpg"
   ]
 }
