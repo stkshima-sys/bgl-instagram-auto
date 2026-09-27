@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-28",
+  "category": "球場グルメ紹介",
+  "title": "Tokyo Dome女子のぷち贅沢！映え球場グルメと乾杯リール",
+  "scene": "夕方のTokyo Dome、観客席で20代女性2人が球場グルメ（ソフトクリーム＆唐揚げ）を手に笑顔で見せ合う。片手に持ったビールで「乾杯」で盛り上がる瞬間。手元アップや自然なスマホ揺れで日常感・エモさ全開。",
+  "caption": "『野球観戦＝ビールとグルメ！』って思うけど、実際に行くと友達と盛り上がっちゃうんだよね🍦🍗\n\n今日はTokyo Domeで友達と定番のソフトクリーム＆唐揚げをシェアしながら、ナイター直前のわくわく時間✨「こんなに美味しく感じるのって、球場マジックかも！？」「冷たいビールで乾杯した瞬間が最高すぎた…」と笑い合ってる自分たちに、なんだか元気をもらえた夜。\n\n女子同士で行くと、つい写真も撮りたくなるし、はしゃいでるだけで気持ちが明るくなる。野球詳しくなくても、グルメ目当てでも全然OK！\n\n「あなたが球場で食べてみたいグルメ」もぜひコメントで教えてね♡保存して、次の観戦の参考に✎",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#TokyoDome",
+    "#観戦コーデ",
+    "#ナイター女子会",
+    "#ソフトクリーム部",
+    "#ビールで乾杯",
+    "#おしゃれ観戦",
+    "#友達とお出かけ",
+    "#保存必須"
+  ],
+  "prompts": {
+    "kling": "A photorealistic 9:16 video, 10-15 seconds, shot handheld on a smartphone, of two stylish Japanese women in their 20s sitting in the stands at Tokyo Dome at dusk. Scene starts with them showing off ballpark food (soft serve ice cream and fried chicken) up close to the camera and laughing. One woman raises a cold beer and they clink glasses, smiling naturally. Lighting is soft with pastel pink, white, and light blue tones, audience and stadium in soft focus behind them, no overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, soft pastel color grading. 0-5s: Two Japanese women in their 20s walk the Tokyo Dome concourse, smiling, holding soft serve ice cream and fried chicken, handheld camera follows casually. 5-10s: Sitting in their seats, they show their food to the camera and laugh together, stadium and crowd blurred softly in background. 10-15s: They clink their beers in a joyful 'cheers' motion, capturing a natural, spontaneous moment, sunlight and stadium lights giving a gentle evening glow.",
+    "higgsfield": "Handheld camera, slight natural shake, gentle push-in as two Japanese women in their 20s sit in Tokyo Dome stands, showing their ballpark food close-up and then panning to their faces as they laugh. Smooth pan over to their hands as they clink beers, pulling back to capture their joyful reaction, color grade in white, pastel pink, and light blue, no overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-09-28.mp4"
+}
