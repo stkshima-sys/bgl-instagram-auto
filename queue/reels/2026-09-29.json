@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-29",
+  "category": "観戦コーデ",
+  "title": "たった1枚で着回す！東京ドーム観戦コーデ3DAYS",
+  "scene": "20代女性が東京ドームのコンコースで3パターンの観戦コーデを披露。友達とワイワイ自撮りしたり、観客席でキャップをかぶりポーズ。最後は夕暮れの球場で映える全身ショット。",
+  "caption": "「観戦って、どんな服がいいの？」そんな悩み、私も最初はめっちゃあった！今日は“着回し”で楽しむ東京ドーム観戦コーデ3daysを紹介するよ。1枚のシンプルな白シャツワンピを、推しカラーのキャップやトート、パールアクセでアレンジ。球場の明るい照明やカジュアルな売店の雰囲気に、少しきれいめアイテムをプラスするだけで、ぐっとオシャレ見え。コンコースで友達と写真を撮ったり、推しグッズ片手にわくわくする瞬間…観戦って単なるスポーツじゃなくて“私の日常のごほうび”かも。みんなはどんなコーデで野球場に行きたい？コメントで教えてね！保存して、次の観戦の参考にしてみて🧢💖",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#東京ドーム",
+    "#着回しコーデ",
+    "#推し活女子",
+    "#球場ファッション",
+    "#おしゃれ女子",
+    "#スポーツ観戦",
+    "#球場コーデ",
+    "#ベースボールガールズ"
+  ],
+  "prompts": {
+    "kling": "A photorealistic, vertical 9:16, 10-15s video in the style of a smartphone-shot reel. Show two Japanese women in their 20s at Tokyo Dome: first, walking together in the soft-lit stadium concourse wearing pastel fashion, casually chatting and smiling; then, each reveals a different baseball game-day outfit (white shirt dress, pastel cap, stylish tote, subtle accessories) while playfully posing for full-body shots near the field and food stalls; finally, their joyful faces as they twirl or laugh in evening stadium light. Soft beige, pink and powder blue tones, all handheld and lively, no text overlays, with real-life background details like other fans and stadium lights.",
+    "veo": "Scene 1 (0-5s): Two Japanese women in their 20s walk through the Tokyo Dome concourse, dressed in soft pastel-toned field-ready fashion, laughing as they check their phones and swing their tote bags. Scene 2 (5-10s): Quick cuts of each showing off their unique game-day styling (white shirt dress, pastel cap, accessories), posing for full-body shots near the stands and food stalls. Scene 3 (10-15s): Close, emotional handheld shots at sunset or under stadium lights as they smile, do a little spin, and hold up their team goods. Color grading: soft white, beige, pastel pink and blue. No overlays, realistic details.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot look. Handheld panning of two Japanese women walking together in Tokyo Dome concourse (soft pastel outfits), then gradual push-in on each as they show different outfit details and pose near stadium food stalls. Handheld circling shot in the evening light as they laugh, spin, and enjoy the stadium vibe. Natural ambient sound, soft color palette. No text overlays."
+  },
+  "videoFile": "videos/2026-09-29.mp4"
+}
