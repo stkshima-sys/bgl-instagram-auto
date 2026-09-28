@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-28",
+  "slot": "evening",
+  "category": "一人観戦",
+  "title": "一人観戦が楽しくなる7つのコツ",
+  "slides": [
+    {
+      "heading": "1. おすすめは外野席💺",
+      "body": "外野席は応援が盛り上がるから、\n一人でもワクワクできるよ！\n実はおひとり様も多いから安心。"
+    },
+    {
+      "heading": "2. やってみてほしい“気まま観戦”",
+      "body": "好きなタイミングで球場グルメやグッズも楽しめる♪\n自分のペースなので全然気楽！"
+    },
+    {
+      "heading": "3. 持ち物は“身軽”が正解🎒",
+      "body": "荷物は最小限でOK。\nおすすめは小さめバッグ＋レジャーシート。\n温度調節できる羽織も便利だよ。"
+    },
+    {
+      "heading": "4. 実は“一人観戦女子”多い！",
+      "body": "最初はドキドキだけど、\n行ってみると女性の一人観戦、\n案外たくさん見かけて安心かも。"
+    },
+    {
+      "heading": "5. 周りを気にしなくて大丈夫",
+      "body": "一人だと浮きそう…と思いがちだけど、\nみんな試合や推しに夢中！\n誰も気にしてないから大丈夫。"
+    },
+    {
+      "heading": "6. ひとりこそ“推し活”がはかどる",
+      "body": "席で写真を撮ったり、\n推しグッズを眺めたり…\n自分だけの楽しみ方を満喫できるよ。"
+    },
+    {
+      "heading": "7. 気軽に始めてみて♡",
+      "body": "一回行くと「え、意外と平気！」ってなる。\n一人観戦デビュー、\nこの春こそ始めてみない？"
+    }
+  ],
+  "caption": "「一人で野球観戦って、ハードル高そう…」って思ったことある？実は一人観戦、意外と楽しい＆安心なんだよ！\n\n外野席はおひとり様女子多めで、周りも自分の世界に夢中。持ち物も身軽がちょうどよくて、好きな時にグルメや推し活もできちゃう。私も最初はドキドキだったけど「逆に気が楽かも？」ってなったタイプ！\n\n一人だからこその楽しみ方、ぜひ体験してみてほしいな♡ この投稿を「保存」して、次回行くときの参考にしてね！\n\nみんなは一人観戦、したことある？感想やおすすめの座席もコメントで教えてね！",
+  "hashtags": [
+    "#野球女子",
+    "#一人観戦",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#推し活",
+    "#野球観戦初心者",
+    "#おひとりさま女子",
+    "#外野席デビュー",
+    "#春のお出かけ",
+    "#球場で会おう"
+  ],
+  "coverImagePrompt": "A photorealistic, natural lighting photo of a Japanese baseball stadium in the evening, featuring a stylish Japanese woman in her 20s enjoying a solo game. She is dressed in soft pastel tones (white, beige, pastel pink, light blue), embodying a feminine Japanese fashion magazine aesthetic. Soft pastel tones, cheerful, natural scene, no text.",
+  "images": [
+    "media/carousel/2026-09-28_evening/01_cover.jpg",
+    "media/carousel/2026-09-28_evening/02_slide.jpg",
+    "media/carousel/2026-09-28_evening/03_slide.jpg",
+    "media/carousel/2026-09-28_evening/04_slide.jpg",
+    "media/carousel/2026-09-28_evening/05_slide.jpg",
+    "media/carousel/2026-09-28_evening/06_slide.jpg",
+    "media/carousel/2026-09-28_evening/07_slide.jpg",
+    "media/carousel/2026-09-28_evening/08_slide.jpg",
+    "media/carousel/2026-09-28_evening/09_cta.jpg"
+  ]
+}
