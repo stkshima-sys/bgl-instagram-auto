@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-29",
+  "slot": "evening",
+  "category": "球場グルメ",
+  "title": "写真映え球場グルメ7選🍦🍟",
+  "slides": [
+    {
+      "heading": "神宮の「青のクリームソーダ」",
+      "body": "神宮球場の名物！鮮やかなブルーが可愛すぎて、つい写真を撮っちゃう🍹\n売店は外野エリアのライト側にあるよ。"
+    },
+    {
+      "heading": "東京ドーム「ジャイアンツプレート」",
+      "body": "ジャイアンツのロゴ入り！SNSでこのプレートを見かけたことある人も多いはず。\n1,200円・22ゲート近くで販売中。"
+    },
+    {
+      "heading": "横浜の「ベイスターズドーナツ」",
+      "body": "ふわふわの生地にチームカラーのアイシングが映える🍩\n内野3塁側コンコースでGETできるよ！"
+    },
+    {
+      "heading": "ZOZO「カラフルレモネード」",
+      "body": "暑い日にはカラフルなレモネードが大人気🍋\nスタンド近くのドリンクブースでチェックしてみて！"
+    },
+    {
+      "heading": "甲子園「黒カレー＆ピンクソーセージ」",
+      "body": "黒カレーの上にピンクのトッピングが最高に映える🍛\nアルプススタンド裏の売店限定のレアグルメ。"
+    },
+    {
+      "heading": "PayPayドーム「ホークスロール」",
+      "body": "ふんわり卵＆チキンのロールサンド。片手で食べられて観戦の合間にもピッタリ🥪\n一塁側中央売店にて。"
+    },
+    {
+      "heading": "球場グルメのおすすめ食べ順",
+      "body": "最初に映えスイーツ→メイン→ドリンクで流れがスムーズ✨\n行列グルメは開場直後が狙い目だよ！"
+    }
+  ],
+  "caption": "球場って、正直グルメも楽しみのひとつだよね🍟🍦最近はSNS映えする可愛いメニューがたくさんあって、どこから食べようか迷っちゃう…！各球場でしか味わえない名物や売店の場所、値段の目安もまとめたよ。観戦しながら美味しく、しかも写真も可愛く残せるグルメは、思い出作りにもぴったり。\nみんなの推しグルメや、実際に食べてよかった球場メニューもぜひコメントで教えてほしいな💬\n「行きたい！」って思ったら、保存して次の観戦の参考にしてね♡",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#女子野球",
+    "#推し活",
+    "#球場スイーツ",
+    "#神宮球場",
+    "#東京ドーム",
+    "#球場巡り",
+    "#映えグルメ"
+  ],
+  "coverImagePrompt": "A group of Japanese women in their 20s enjoying stadium food at a Japanese baseball stadium, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-09-29_evening/01_cover.jpg",
+    "media/carousel/2026-09-29_evening/02_slide.jpg",
+    "media/carousel/2026-09-29_evening/03_slide.jpg",
+    "media/carousel/2026-09-29_evening/04_slide.jpg",
+    "media/carousel/2026-09-29_evening/05_slide.jpg",
+    "media/carousel/2026-09-29_evening/06_slide.jpg",
+    "media/carousel/2026-09-29_evening/07_slide.jpg",
+    "media/carousel/2026-09-29_evening/08_slide.jpg",
+    "media/carousel/2026-09-29_evening/09_cta.jpg"
+  ]
+}
