@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-29",
+  "slot": "evening",
+  "category": "初心者ガイド",
+  "title": "初心者向け！観戦デビュー7つのコツ",
+  "slides": [
+    {
+      "heading": "1.チケットの買い方は意外と簡単",
+      "body": "公式サイトやアプリで気軽に購入できるよ！\n当日はスマホだけで入場もOK👌\nコンビニ発券も使えるから安心♪"
+    },
+    {
+      "heading": "2.座席選びは迷わなくて大丈夫",
+      "body": "初めはバックネット裏や内野席がオススメ。\n野球全体が見えやすいし、初心者でも楽しめるよ！\n最前列でなくても充分楽しい✨"
+    },
+    {
+      "heading": "3.最低限のルールだけ知っておこう",
+      "body": "「3アウトで攻守交代」「ホームランは最高」\nこの2つを覚えておけば、十分観戦できる！\n難しく考えなくて大丈夫だよ😊"
+    },
+    {
+      "heading": "4.観戦マナーって何が必要？",
+      "body": "立ち上がる時や応援は周りの人に配慮しよう。\n席を立つ時はイニング間がベスト！\nゴミは分別して捨ててね。"
+    },
+    {
+      "heading": "5.観戦の持ち物リスト",
+      "body": "・飲み物と軽食\n・タオル、カーディガン（寒暖差対策）\n・小さめバッグ、モバイルバッテリーが便利🧢"
+    },
+    {
+      "heading": "6.ひとり観戦も実は楽しい！",
+      "body": "自分のペースでグルメや写真を満喫できるよ。\n推しカラーの服やグッズで気分UP！\n思い切ってデビューしてみて🐻"
+    },
+    {
+      "heading": "7.迷ったら公式スタッフに聞く",
+      "body": "困った時は現地のスタッフが親切だから安心！\n気軽に声をかけてみて。\nみんな初心者デビューを応援してるよ。"
+    }
+  ],
+  "caption": "「野球観戦って難しそう…」って思ってたけど、実は初心者でも全然大丈夫！\nチケットもスマホで簡単ゲット。座席は迷ったら内野やバックネット裏が推し。ルールも「攻守交代」と「ホームラン」だけ知ってればOKだから、とりあえず行ってみてほしい🌸\n観戦マナーも難しくないし、持ち物だって日常のカバン＋αで大丈夫。ひとり観戦だからこそ楽しめる瞬間もあるよ！\n\n「初めての時にこれが知りたかった！」って思うことをまとめてみました。気になることや自分だけの初心者エピソード、コメントでシェアしてね💬\n保存しておけば、いざ観戦デビューの日にも安心だよ🧡",
+  "hashtags": [
+    "#野球女子",
+    "#初心者ガイド",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#一人観戦",
+    "#観戦デビュー",
+    "#観戦マナー",
+    "#推し活女子",
+    "#野球観戦初心者",
+    "#休日の過ごし方"
+  ],
+  "coverImagePrompt": "A group of Japanese women in their 20s enjoying a baseball game at a Japanese stadium, laughing, holding snacks and drinks, wearing casual feminine outfits in soft pastel tones (white, beige, pastel pink, light blue). Photorealistic, natural lighting, feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-09-29_evening/01_cover.jpg",
+    "media/carousel/2026-09-29_evening/02_slide.jpg",
+    "media/carousel/2026-09-29_evening/03_slide.jpg",
+    "media/carousel/2026-09-29_evening/04_slide.jpg",
+    "media/carousel/2026-09-29_evening/05_slide.jpg",
+    "media/carousel/2026-09-29_evening/06_slide.jpg",
+    "media/carousel/2026-09-29_evening/07_slide.jpg",
+    "media/carousel/2026-09-29_evening/08_slide.jpg",
+    "media/carousel/2026-09-29_evening/09_cta.jpg"
+  ]
+}
