@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-30",
+  "slot": "evening",
+  "category": "観戦コーデ",
+  "title": "夏の球場観戦コーデ7選！涼しさ×可愛さの最適解",
+  "slides": [
+    {
+      "heading": "日中観戦はリネンワンピ",
+      "body": "汗ばむ昼観戦は、リネン素材のワンピースが大正解☀️\n風通しもよくて涼しいし、動きやすさも抜群だよ♪\n推しカラーのカーデと合わせるのもおすすめ！"
+    },
+    {
+      "heading": "ナイターは薄手シャツをON",
+      "body": "夏の夜は意外と冷えるから、薄手シャツやパーカーを羽織るのが安心。\n球場で体温調節しやすいスタイルが、実は正解✨"
+    },
+    {
+      "heading": "バッグの中身はこれ！",
+      "body": "日焼け止め、汗拭きシート、帽子、冷感タオルは必需品。\n小さめバッグでも入るようにミニサイズをセレクトしてるよ🎒"
+    },
+    {
+      "heading": "足元はフラット推し",
+      "body": "階段の多い球場はスニーカーやぺたんこサンダルが楽ちん！\n厚底より安定感重視で、長時間でも疲れにくいタイプが◎"
+    },
+    {
+      "heading": "やんわりNGコーデ",
+      "body": "ヒール・大ぶりアクセ・露出多めは意外と不便かも…！\n球場の椅子、階段、突然の雨でも安心な服だとさらに楽しめるよ☂️"
+    },
+    {
+      "heading": "帽子＆タオルで推しアピ",
+      "body": "キャップやタオルは、推しカラーや球団ロゴ入りを選ぶだけで一気に気分UP💓\n周りとさりげなくリンクもしやすいのでおすすめ！"
+    }
+  ],
+  "caption": "「何着ていけばいいの？」って球場観戦前、毎回ちょっと迷わない？🔄\n\n夏の球場コーデは、涼しさ＆可愛さのバランスがほんと大事！昼はリネンワンピ、夜は薄手シャツ、足元はぺたんこ。バッグの中身やさりげない推しカラー合わせ…実は小技ポイントが多いんだよね。\n\nうっかりヒールやアクセ盛りすぎは、実際行くと「やっちゃった！」ってなりがちだから注意かも。\n\nみんなのおすすめ観戦コーデや、球場での失敗談もぜひコメントしてね🧢\n迷いがちなコーデは保存して、次の観戦で役立ててみて！",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#球場ファッション",
+    "#推し活女子",
+    "#一人観戦",
+    "#夏コーデ",
+    "#球場スタイル",
+    "#推しカラーコーデ",
+    "#野球観戦初心者",
+    "#バッグの中身公開"
+  ],
+  "coverImagePrompt": "photorealistic, natural lighting, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, a real Japanese woman in her 20s enjoying a baseball game at a stadium in Japan, summer outfit, smiling, holding a small bag, stylish but casual, no text",
+  "images": [
+    "media/carousel/2026-09-30_evening/01_cover.jpg",
+    "media/carousel/2026-09-30_evening/02_slide.jpg",
+    "media/carousel/2026-09-30_evening/03_slide.jpg",
+    "media/carousel/2026-09-30_evening/04_slide.jpg",
+    "media/carousel/2026-09-30_evening/05_slide.jpg",
+    "media/carousel/2026-09-30_evening/06_slide.jpg",
+    "media/carousel/2026-09-30_evening/07_slide.jpg",
+    "media/carousel/2026-09-30_evening/08_cta.jpg"
+  ]
+}
