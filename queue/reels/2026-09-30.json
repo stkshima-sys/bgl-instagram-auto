@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-30",
+  "category": "球場グルメ紹介",
+  "title": "PayPayドーム球場グルメ3連発！エモ乾杯リール",
+  "scene": "1人or女友達とPayPayドームの観客席。明るい夕暮れ、売店でグルメを選ぶ表情にワクワク感。観戦シートでホットドッグ・唐揚げ・ビールを持ち、笑顔で乾杯。ひと口食べて“おいしい！”と幸せそうに眺め合う。",
+  "caption": "「球場グルメって、なんでこんなに特別なの？」\n\nPayPayドームのグルメは、王道ホットドッグや揚げたて唐揚げ、そしてキンキンのビールまで…推し選手を応援しながら、ついつい手が伸びちゃうんだよね。夕暮れのドームで、友達と『乾杯！』ってする瞬間は最高にエモい時間♡ 忙しい毎日だけど、こうやって球場で息抜きする日って自分にとってご褒美みたい。\n\n一人観戦も実はハードル低め！美味しいグルメがあれば誰でも楽しめちゃうよ。みんなの“推し球場グルメ”もぜひコメントで教えてね。\n\nこの投稿は保存して、次の観戦グルメ計画に活用しちゃおう🍟🍻",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#PayPayドーム",
+    "#ホークス女子",
+    "#観戦コーデ",
+    "#ビール女子",
+    "#推し活",
+    "#ドーム飯",
+    "#一人観戦",
+    "#エモい瞬間"
+  ],
+  "prompts": {
+    "kling": "A photorealistic, vertical 9:16, 10-15s smartphone-style video showing one or two Japanese women in their 20s at Fukuoka's PayPay Dome baseball stadium. First, they stand in front of a food stall, deciding and ordering typical stadium snacks like hot dogs and fried chicken. Then, the camera follows them as they walk back to their seats in the softly-lit sunset. In the stands, they hold up hot dogs and cups of beer, making a fun 'cheers' gesture, smiling naturally. One of them takes a big bite with a delighted expression. Soft pastel palette—whites, beiges, pastel pink, pale blue—natural handheld motion, no text overlays, realistic crowd and stadium atmosphere, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic smartphone-shot video. 0-5s: Two Japanese women in their 20s stand at a colorful food stall inside PayPay Dome, excitedly choosing and picking up hot dogs and fried chicken, sunset light streaming in. 5-10s: POV as they return to their seats, soft pastel colors, lively crowd in background. 10-15s: The friends sit in the stands, smile, hold up snacks and beers, do a cheerful 'cheers', take a bite, laugh, and glance at each other—capturing an emotional, real-life moment. No overlays, natural handheld motion, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot style. Start with handheld pan at a food stall in PayPay Dome—focus on Japanese women in their 20s selecting and paying for snacks. Smooth handheld walk with gentle push-in as they walk through the concourse back to their seats. Final shot: subtle handheld push-in as they sit, lift their drinks and snacks for a 'cheers', one takes a bite, both laugh naturally, soft pastel color grading, no text overlays, authentic stadium background, no AI artifacts."
+  },
+  "videoFile": "videos/2026-09-30.mp4"
+}
