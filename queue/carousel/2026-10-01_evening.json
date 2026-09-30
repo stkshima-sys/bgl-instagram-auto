@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-01",
+  "slot": "evening",
+  "category": "推し活",
+  "title": "推し活がもっと楽しくなる！応援グッズ収納アイデア7選",
+  "slides": [
+    {
+      "heading": "1. かわいくまとめる収納ポーチ",
+      "body": "推し選手の缶バッジやアクキーは収納ポーチが便利✨\n透明タイプなら中身が見えてワクワク♪\nバッグに忍ばせていつでも推しと一緒！"
+    },
+    {
+      "heading": "2. ユニフォームは畳み方がカギ",
+      "body": "ユニの畳み方を工夫すると、しわにならずにバッグにイン。\n小さく畳んでポーチに入れる人も多いよ💡\n球場でもサッと着替えられて◎"
+    },
+    {
+      "heading": "3. 推しうちわはファイル保存が人気",
+      "body": "大事なうちわや応援ボード、クリアファイルで保存する派も多数！\n折れやすい部分はマスキングテープで補強が安心だよ。"
+    },
+    {
+      "heading": "4. スッキリ収納は無印グッズも活用",
+      "body": "細かいグッズは無印の小物ケースや引き出しが神アイテム。\nラベリングしておくと迷子にならないよ👀"
+    },
+    {
+      "heading": "5. 見せて飾る“推し棚”アレンジ",
+      "body": "お部屋に“推し棚”をつくるのもおすすめ。\n推しカラーの布やフレームでディスプレイすると気分もUP↑\n推しへの愛、溢れちゃう☺️"
+    },
+    {
+      "heading": "6. 遠征や球場用には仕分けバッグ",
+      "body": "遠征・観戦デーは仕切り付きバッグが大活躍！\nチケットやグッズをキレイに分けて持ち歩けるから、忘れ物対策にも👌"
+    },
+    {
+      "heading": "7. SNS映えも叶う収納アイディア",
+      "body": "お気に入りのグッズは透明ボックスやカゴに♪\n毎日見えて癒されるし、写真に撮ってシェアするのも楽しいよ📸"
+    }
+  ],
+  "caption": "「推しグッズ、気づけばどんどん増えて収納迷子…」そんな経験、あるあるじゃない？笑\n今日は推し活がもっと楽しくなる、みんなの収納アイデアを7つ集めてみたよ！ポーチやファイル、無印のケース、推し棚アレンジまで…自分に合った方法で大切なグッズを可愛く守ろう。\nもしおすすめの収納法や、これ良かったよ〜ってグッズがあればコメントで教えてね！\nみんなのアイディアを参考にして、推し活をもっと快適にしちゃおう🌸\n保存しておけば、次の整理のときに役立つはず✨",
+  "hashtags": [
+    "#野球女子",
+    "#推し活",
+    "#推しグッズ収納",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#一人観戦",
+    "#応援グッズ",
+    "#無印収納",
+    "#女子野球部",
+    "#推し活あるある"
+  ],
+  "coverImagePrompt": "photorealistic, natural lighting, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, Japanese baseball stadium, 20s Japanese women enjoying game, cute casual outfits, no text",
+  "images": [
+    "media/carousel/2026-10-01_evening/01_cover.jpg",
+    "media/carousel/2026-10-01_evening/02_slide.jpg",
+    "media/carousel/2026-10-01_evening/03_slide.jpg",
+    "media/carousel/2026-10-01_evening/04_slide.jpg",
+    "media/carousel/2026-10-01_evening/05_slide.jpg",
+    "media/carousel/2026-10-01_evening/06_slide.jpg",
+    "media/carousel/2026-10-01_evening/07_slide.jpg",
+    "media/carousel/2026-10-01_evening/08_slide.jpg",
+    "media/carousel/2026-10-01_evening/09_cta.jpg"
+  ]
+}
