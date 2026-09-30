@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-01",
+  "category": "球場の景色",
+  "title": "ナイター照明と夕暮れ、Tokyo Domeで感じる“好き”の瞬間",
+  "scene": "東京ドームのスタンド席で、夕暮れからナイターへと変わる瞬間を、20代女性が友達とわくわくしながら眺める。ほんのりピンクと水色の空に球場のライトが灯り、スマホ片手に自撮りや景色撮影を楽しむ。売店で買ったカフェ風ドリンクを手に、「やっぱり野球観戦って特別」と微笑む表情も。",
+  "caption": "夕焼けからナイターの光に包まれる時間、なんだか一番エモいかも…✨\n東京ドームのスタンドに座って、友達と話しながらふと見上げたら、パステルカラーの空がキラキラのライトに変わる瞬間に出会えました。売店で買ったカフェみたいなドリンク片手に、推しのユニフォームを着て「ここに来て良かった」って思える時間。\n実は、一人で観戦デビューも考えてたけど、こんな景色なら勇気出して来てみるのもアリかもって思いました。😌\nあなたが感動した球場の景色、ぜひコメントで教えてください！保存して、次の観戦プランの参考にもしてね。",
+  "hashtags": [
+    "#野球女子",
+    "#球場のある暮らし",
+    "#観戦コーデ",
+    "#東京ドーム",
+    "#ナイターの魔法",
+    "#推し活",
+    "#球場グルメ",
+    "#スタンドの景色",
+    "#エモい瞬間",
+    "#保存したくなる"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Two Japanese women in their twenties, casually stylish, are sitting together in the stands at Tokyo Dome. The scene starts at sunset with pastel pink and blue sky, transitioning to night as stadium lights turn on. They take selfies, capture the scenery with their smartphones, and smile while holding café-style drinks in soft beige and water blue tones. The atmosphere is emotional, gentle, with genuine laughs, capturing the magical transition from day to night with soft pastel color grading. No AI artifacts, no text overlays.",
+    "veo": "Vertical video, 9:16, 10-15 seconds, photorealistic and smartphone-shot look. \n0-5s: Two stylish Japanese women in their twenties sit in Tokyo Dome’s stands, gazing at the pastel pink and blue sunset sky, chatting and laughing.\n5-10s: Wide shot as the stadium lights turn on, the scene shifts softly from daylight to night, women taking a selfie and recording the scenery on their smartphones.\n10-15s: Close-up on their faces, softly illuminated by the lights, holding café-style drinks, smiling, and soaking in the emotional moment. Soft pastel color grading, handheld natural camera, no text overlays, no visible AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic. Handheld camera starts with a gentle pan across the Tokyo Dome stands at sunset, featuring two Japanese women in their twenties. The camera pushes in as they take selfies and laugh together, capturing the stadium lights turning on and the pastel transition of the sky. Subtle movements and gentle zooms highlight their natural expressions and the dreamy ballpark atmosphere. Soft pastel color grading, no AI artifacts, no text overlays."
+  },
+  "videoFile": "videos/2026-10-01.mp4"
+}
