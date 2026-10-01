@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-02",
+  "category": "球場の景色",
+  "title": "横浜スタジアムのナイター感動風景リール",
+  "scene": "夕暮れのYokohama Stadiumで、20代女性2人が観客席に座りながら、ピンクや水色がかった空とナイター照明が灯るスタジアムを見渡す。スマホでセルフィーやスタジアムを撮り合い、最後は立ち上がって静かにフィールドを眺める。",
+  "caption": "夕暮れからナイターに変わる横浜スタジアムって、なんだか特別な時間だよね🌇ライトアップされたグラウンド、空の色、そしてスタンドのざわざわ感。友達と一緒でも、一人でも、ここにいると“今この瞬間を大事にしたいな”って気持ちになるかも。\n\n野球のルールがまだ全部分からなくても大丈夫。美味しいグルメや可愛いユニ、そしてエモい景色を楽しむだけで、充分『好き』になれちゃう場所。夕方の空とナイターのコントラスト、最高すぎてつい写真ばっかり撮っちゃう📸\n\nあなたの“球場の思い出写真”はどんな瞬間？コメントで教えてね！気になる人は保存して、次の観戦のヒントに♡",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#横浜スタジアム",
+    "#ナイター観戦",
+    "#推し活",
+    "#一人観戦",
+    "#夕暮れ空",
+    "#エモい景色",
+    "#スタジアムライフ"
+  ],
+  "prompts": {
+    "kling": "A vertical 9:16, 10-15 second photorealistic video shot in a natural, handheld smartphone style at Yokohama Stadium during sunset transitioning to night. Two stylish Japanese women in their 20s with natural makeup, wearing casual pastel outfits, sit together in the stands. They laugh quietly, take selfies, then capture the illuminated field and pink-blue sky with their phones. The soft stadium lights glow, the camera gently pans across their faces and the scenery. The final seconds show both standing, gazing at the bright field, the city lights in the background, all in a soft pastel color grading. No overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, 10-15 seconds, natural smartphone look. 0-5s: Two Japanese women in their 20s walk up the stadium stairs to seats as the sky turns pastel pink and blue. 5-10s: Sitting in the stands, they take selfies together, then turn to capture the view of the illuminated Yokohama Stadium field and glowing lights. 10-15s: They stand, side-by-side, gazing at the field as night falls, soft city and stadium lights shining, handheld camera slowly zooms out to show the atmospheric scene. Soft pastel color grading, no overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, photorealistic, 10-15 seconds. Handheld camera follows two Japanese women in their 20s as they move up the stadium stairs and sit, softly panning from their faces to the sunset-lit Yokohama Stadium field. Camera gently push-ins as they take selfies, then slow pan to the illuminated diamond and pastel sky. Ends with a steady handheld wide shot of the two standing, viewing the glowing field. Soft, pastel color grading throughout, with natural crowd ambiance."
+  },
+  "videoFile": "videos/2026-10-02.mp4"
+}
