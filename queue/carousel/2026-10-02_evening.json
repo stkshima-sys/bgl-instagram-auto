@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-02",
+  "slot": "evening",
+  "category": "観戦コーデ",
+  "title": "季節別・球場観戦コーデ7選",
+  "slides": [
+    {
+      "heading": "春の神宮球場コーデ🌸",
+      "body": "日差しが心地いい春は、薄手パーカー×デニムでカジュアル可愛く。\n冷たい風対策にストールが便利！ベンチのひんやり感にもご注意。"
+    },
+    {
+      "heading": "夏のZOZOマリンは涼やかに",
+      "body": "暑さ対策はマスト！\nノースリーブワンピ＆キャップで爽やかさUP。\n日焼け止め＆冷感タオル、こまめな水分補給も忘れずに🍹"
+    },
+    {
+      "heading": "秋の東京ドームは重ね着で調節",
+      "body": "屋内球場でも、行き帰りは肌寒い日も。\nカーディガンや薄手アウターで脱ぎ着しやすく。\n足元はスニーカーが歩きやすさNo.1！"
+    },
+    {
+      "heading": "バッグの中身、何が正解？",
+      "body": "観戦必需品はミニポーチでまとめて。\n双眼鏡、モバイルバッテリー、ハンカチ、除菌シート、現金ちょっと。\n推しのタオルやグッズもお忘れなく♡"
+    },
+    {
+      "heading": "やりがちNGコーデに注意！",
+      "body": "ヒールや大きなバッグは疲れやすいかも。\n白スカートはベンチ汚れに要注意！\n肩出し＆極端な露出は日焼け・冷房対策が必要だよ◎"
+    },
+    {
+      "heading": "夜観戦のプチ防寒術🧥",
+      "body": "夏でも夜は肌寒いことも。カーデやストールを丸めてバッグへ。\n野外球場はスマートに羽織れるものが救世主。気温差で体調崩さないように！"
+    },
+    {
+      "heading": "可愛い＆楽ちんが正解！",
+      "body": "“おしゃれも観戦も楽しみたい”が本音だよね。\n自分らしいカラーや小物で気分を上げて、球場時間を思いきり満喫しよう♪"
+    }
+  ],
+  "caption": "「明日観戦だけど、何着て行こう…」って悩んだことない？\n球場や季節によって、コーデや持ち物の正解って意外とバラバラ。今回は“涼しさ・暖かさ・可愛さ”を全部叶える観戦コーデのコツを、球場ごとにまとめてみたよ！バッグの中身や、やりがちなNG例も紹介。普段着でも、推しカラーをさりげなく取り入れるだけで気分が上がるから不思議♡\nみんなの観戦コーデのこだわりも、ぜひコメントで教えてね！\nこの投稿は保存して、次の観戦前に参考にしてみて。\n",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#球場ファッション",
+    "#推し活女子",
+    "#一人観戦デビュー",
+    "#球場持ち物リスト",
+    "#カジュアルコーデ",
+    "#季節別コーデ",
+    "#女子会観戦",
+    "#野球観戦初心者"
+  ],
+  "coverImagePrompt": "A photorealistic, natural lighting photograph of a group of Japanese women in their 20s enjoying a baseball game at a stadium in Japan, wearing cute and stylish spring and summer outfits. Soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, no text.",
+  "images": [
+    "media/carousel/2026-10-02_evening/01_cover.jpg",
+    "media/carousel/2026-10-02_evening/02_slide.jpg",
+    "media/carousel/2026-10-02_evening/03_slide.jpg",
+    "media/carousel/2026-10-02_evening/04_slide.jpg",
+    "media/carousel/2026-10-02_evening/05_slide.jpg",
+    "media/carousel/2026-10-02_evening/06_slide.jpg",
+    "media/carousel/2026-10-02_evening/07_slide.jpg",
+    "media/carousel/2026-10-02_evening/08_slide.jpg",
+    "media/carousel/2026-10-02_evening/09_cta.jpg"
+  ]
+}
