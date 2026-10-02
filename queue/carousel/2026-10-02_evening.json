@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-02",
+  "slot": "evening",
+  "category": "一人観戦",
+  "title": "一人観戦の楽しみ方＆安心ポイント7選",
+  "slides": [
+    {
+      "heading": "実はハードル低め！",
+      "body": "一人観戦、意外とみんなやってるんだよね😊\n最初の一歩だけ勇気がいるけど、その後は自分のペースで楽しめるよ！"
+    },
+    {
+      "heading": "おすすめ座席はここ！",
+      "body": "内野席やバックネット裏なら\n女性や1人観戦の人も多くて安心。\n見やすくて球場全体の雰囲気も楽しめるよ⚾"
+    },
+    {
+      "heading": "持ち物リストで安心感UP",
+      "body": "飲みもの＆ひざ掛け必須！\n日焼け止め・モバイルバッテリー・ウェットティッシュもあると便利。\n身軽さ重視で失敗知らず🎒"
+    },
+    {
+      "heading": "自分だけの観戦タイム",
+      "body": "好きな時にグルメ探索したり、写真撮ったり、推し選手に全集中できるのが一人観戦の醍醐味♡\n誰にも遠慮せず自由に過ごせる！"
+    },
+    {
+      "heading": "周りも一人観戦女子多いかも",
+      "body": "実は一人で来てる女性、\nけっこう見かける！\n「私だけ…？」と気にしなくて大丈夫👌野球好き同士、自然と仲間感も"
+    },
+    {
+      "heading": "困った時はスタッフさんへ",
+      "body": "球場スタッフはみんな優しいから、\n迷子や困ったときはすぐに声をかけてOK。\n初めての一人観戦も心配なし☺️"
+    },
+    {
+      "heading": "一歩踏み出すと世界が広がる！",
+      "body": "最初のドキドキも、球場の雰囲気やプレーを感じた瞬間に吹き飛ぶよ。\n新しい推し活の形、ぜひ体験してみて♪"
+    }
+  ],
+  "caption": "「一人で球場行くの、ちょっと勇気いる…」そんな気持ち、めっちゃ分かる！でも実は、一人観戦って本当に楽しいんです♡おすすめ座席や持ち物、意外と平気な理由をまとめました。\n\n自分のペースでご飯を食べたり、写真を撮ったり、推し選手をじっくり見たり…。一人だと自由すぎて、球場が一気に居場所になるから不思議。内野席やバックネット裏は女性も多くて、安心感も抜群！持ち物さえしっかりしていれば快適そのもの。ひざ掛けとモバイルバッテリーは本当に便利です。\n\n周りをよく見ると一人で観戦してる女性、意外と多いかも。球場スタッフさんも優しいし、困ったことがあればすぐ頼って大丈夫。\n\nみんなの一人観戦エピソードもぜひコメントで教えてほしいな。保存して、今度のお休みや推し活計画に役立ててね✨",
+  "hashtags": [
+    "#野球女子",
+    "#一人観戦",
+    "#初観戦",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#推し活",
+    "#ぼっち観戦",
+    "#観戦初心者",
+    "#野球観戦デビュー",
+    "#女性の推し活"
+  ],
+  "coverImagePrompt": "A photorealistic image of a real-life Japanese woman in her 20s enjoying a baseball game at a Japanese stadium, surrounded by soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-10-02_evening/01_cover.jpg",
+    "media/carousel/2026-10-02_evening/02_slide.jpg",
+    "media/carousel/2026-10-02_evening/03_slide.jpg",
+    "media/carousel/2026-10-02_evening/04_slide.jpg",
+    "media/carousel/2026-10-02_evening/05_slide.jpg",
+    "media/carousel/2026-10-02_evening/06_slide.jpg",
+    "media/carousel/2026-10-02_evening/07_slide.jpg",
+    "media/carousel/2026-10-02_evening/08_slide.jpg",
+    "media/carousel/2026-10-02_evening/09_cta.jpg"
+  ]
+}
