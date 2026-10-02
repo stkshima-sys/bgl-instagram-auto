@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-03",
+  "category": "球場グルメ紹介",
+  "title": "横浜スタジアムで絶対食べたい！エモ球場グルメ3選",
+  "scene": "女友達2人が横浜スタジアムのコンコースでグルメ片手に自撮り。観客席でホットドッグをかじる瞬間、ナイター照明の下でビールと乾杯して笑顔。夕暮れの外野席でグルメを見せ合いながら語り合うエモいシーンも。",
+  "caption": "「球場グルメってテンション上がるよね！🍔✨」\n野球観戦の日は、グラウンドの熱気だけじゃなくてグルメも楽しみのひとつ。横浜スタジアムで絶対食べてほしい、おしゃれで映える球場グルメを紹介します。大きなホットドッグや、カラフルなスイーツ、冷たいビール…友達と「何食べる？」って相談しながら選ぶ時間も楽しいよね。観客席で一口ほおばった瞬間、「やっぱり球場飯って最高かも」って思うはず。人混みの中でも、ふとした瞬間がエモくて、もっと野球観戦が好きになるかも。あなたのおすすめ球場グルメは？ぜひコメントで教えてね！保存して、次の観戦の参考にしてみて🩵",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#横浜スタジアム",
+    "#観戦コーデ",
+    "#推し活",
+    "#グルメ旅",
+    "#一人観戦デビュー",
+    "#ナイトゲーム",
+    "#おしゃれ女子",
+    "#ビール女子"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Two Japanese women in their 20s, casual and stylish, holding hot dogs and colorful drinks in the concourse of Yokohama Stadium. They walk, laugh, and take a selfie video together, then sit in the seats and clink their beer cups, enjoying food during a sunset-night game transition. Soft pastel white, beige, pink, and blue tones, no AI artifacts, no text overlays.",
+    "veo": "0-5s: Two fashionable Japanese women in their 20s walk through Yokohama Stadium's concourse with signature stadium food in hand, smiling and holding snacks up to the camera, filmed by a friend. 5-10s: In the stands, one woman takes a bite of a giant hot dog as her friend captures the moment on her phone; they both cheer, then laugh. 10-15s: The sky glows with sunset and stadium lights as they raise their drinks for a cheerful beer toast, the camera softly pushes in on their happy, natural expressions. Soft pastel color grading throughout.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot look. Start with handheld walking shot following two Japanese women in their 20s through the concourse, then slow pan as they present food to the camera. Push-in close-up on eating moment in the stands, then a gentle pan and tilt up as they toast beers under pastel stadium lights. Natural handheld camera motions, soft pastel tones, no AI artifacts."
+  },
+  "videoFile": "videos/2026-10-03.mp4"
+}
