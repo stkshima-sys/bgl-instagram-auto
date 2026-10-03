@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-04",
+  "category": "球場グルメ紹介",
+  "title": "PayPayドーム映えグルメ3選＆乾杯リール",
+  "scene": "1. 観客席でナチュラルな20代女性が明るくグルメを手にするカット。2. 球場の売店前や通路でグルメやビールを友達と見せ合い、食べたり乾杯する瞬間。3. 夕暮れ〜ナイターのやわらかい光の中で笑顔が映える、リアルでエモーショナルな横顔や手元クローズアップ。",
+  "caption": "野球観戦といえば、やっぱり球場グルメは外せない🍟🍦PayPayドームの“映えグルメ”を片手に、推しカラーコーデで友達と乾杯する時間って、最高のご褒美かも。初めての一人観戦や、友達と一緒でも、ふわっとした球場の高揚感の中で食べるフードやビールは、なんでこんなに美味しいんだろう…？売店で迷ってる時間すらワクワクしちゃうし、『このあと何食べようかな？』って考えるのも楽しい。みんなのおすすめ球場グルメ、ぜひコメントで教えてね！あとで迷わないように、保存も忘れずに🫶",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#PayPayドーム",
+    "#推し活",
+    "#野球観戦",
+    "#ビールと乾杯",
+    "#休日の過ごし方",
+    "#おしゃれ女子",
+    "#友達とシェア"
+  ],
+  "prompts": {
+    "kling": "vertical 9:16, 10-15s, photorealistic, smartphone-shot style, two Japanese women in their 20s at PayPay Dome Fukuoka, natural makeup, stylish outfits in pastel pink and beige, first shot: seated in the stadium stands, holding a colorful gourmet snack with both hands and smiling; second: walking together on the concourse, pausing at a food stall, showing food and holding up beers; third: at sunset during a night game, gently clinking beer cups with laughter, soft bokeh lights in background, closeups of hands and candid smiling faces, soft pastel color grading, no text overlays, handheld camera with slight natural shake.",
+    "veo": "vertical 9:16, photorealistic, smartphone-shot look, pastel color grading throughout. 0-5s: Two Japanese women in their 20s sit in PayPay Dome stands, holding and presenting a signature gourmet snack with big smiles, candid closeup. 5-10s: In the stadium concourse, they walk to a vendor, choose and show off snacks, closeups on colorful food and friendly glances. 10-15s: As night falls, side angle closeup of them clinking beer cups with soft laughter, illuminated by stadium lights, emotional and natural hand/face shots; no AI artifacts.",
+    "higgsfield": "vertical 9:16, 10-15s, photorealistic, smartphone-shot, two Japanese women in their 20s at a baseball stadium, natural pastel color tones. Start with handheld static shot of one woman holding and showing off a ballpark snack in the stands; slow pan as she looks at her friend, then both walk in the concourse, camera tracks slightly behind; push-in to hands as they hold up beer and snacks, finally ending with a closeup pan of their faces and hands as they toast at dusk, soft bokeh stadium lighting."
+  },
+  "videoFile": "videos/2026-10-04.mp4"
+}
