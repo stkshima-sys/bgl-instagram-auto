@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-05",
+  "category": "球場グルメ紹介",
+  "title": "横浜スタジアムの映えグルメと乾杯リール",
+  "scene": "夕暮れの横浜スタジアム、観客席で20代女性が笑顔で球場グルメ（例: ウィンナードッグ）を手に持ち、自撮り。次にグルメをほおばる瞬間のアップ。ラストは友達とビールでかわいく乾杯、幻想的なナイター照明が背景。",
+  "caption": "野球観戦の楽しみって、試合だけじゃないよね。横浜スタジアムのグルメ、ぜんぶ可愛いし美味しいし、つい写真撮っちゃう📸✨今日はウィンナードッグとクラフトビールで乾杯してきました！屋外ならではの開放感と、友達やひとり観戦の特別な時間、最高すぎる…！しかも球場限定メニューも多いから、毎回ちょっとしたご褒美気分なんだ。観戦初心者の子も、まずはグルメ目当てでOKだと思う🍴迷うくらいフードが豊富だからこそ、あなたの推し球場グルメも教えてほしいな♪\n\n保存して、次の観戦の参考にしてね！コメントでみんなのおすすめも待ってます☺️",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#横浜スタジアム",
+    "#推し活",
+    "#ビール女子",
+    "#横浜グルメ",
+    "#野球観戦",
+    "#スタグル",
+    "#女子会"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Scene at Yokohama Stadium in the evening: Two stylish Japanese women in their 20s, natural makeup, wearing soft pastel fashion. First, one holds a hot dog with a big smile, showing it to camera (front close shot); next, she takes a playful bite with a cute, candid expression; last, both women raise plastic cups of beer and clink them in a fun cheers against softly glowing stadium lights in the blurry background. Soft beige, white, pastel pink, and baby blue tones. No text overlays, no visible AI artifacts.",
+    "veo": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-video look, soft pastel grading. Cut 0-5s: Close-up of a Japanese woman in her 20s sitting in Yokohama Stadium stands at sunset, holding a sausage dog and smiling at the camera, background full of bokeh lights and cheering crowd. Cut 5-10s: She brings the hot dog closer and takes a bite, playful laugh, camera slightly shakes for realism. Cut 10-15s: She and her friend both raise plastic beer cups and toast with a soft 'cheers', stadium night lights twinkling behind them. All handheld, lively, and natural.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, Japanese women in their 20s at Yokohama Stadium. Opening with a slight handheld push-in towards a woman holding a hot dog and smiling; handheld over-the-shoulder as she takes a bite; then a gentle pan and tilt as she joins her friend for a soft-focus, glowing beer toast, stadium lights blooming in the background. Pastel, luminous tones throughout."
+  },
+  "videoFile": "videos/2026-10-05.mp4"
+}
