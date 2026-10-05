@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-05",
+  "slot": "evening",
+  "category": "球場グルメ",
+  "title": "写真映え球場グルメ7選🍦",
+  "slides": [
+    {
+      "heading": "1. 神宮・プリンパフェ",
+      "body": "とろけるプリン×生クリームの贅沢パフェ🍮\n見た目も映えで、観戦前のテンションUP！\n1塁側「SweetSpot」でGETできるよ"
+    },
+    {
+      "heading": "2. 札幌ドーム・白いとうきびアイス",
+      "body": "北海道限定コーンアイス🌽\n淡い黄色がかわいくて、インスタで大人気！\n場内売店「きたキッチン」をチェック"
+    },
+    {
+      "heading": "3. 甲子園・レモネードスカッシュ",
+      "body": "暑い日にぴったり、爽やかドリンク🍋\nレモンスライス入りで持つだけで映え！\n3塁側「Tigers Deli」"
+    },
+    {
+      "heading": "4. 横浜・ベイスターズソフト",
+      "body": "青×白のチームカラーソフト🍦\nミルク感たっぷりで、青い部分はラムネ味！\n球場入口付近「ベイ飯屋台」"
+    },
+    {
+      "heading": "5. PayPayドーム・いちごクレープ",
+      "body": "クリームもりもりのいちごクレープ🍓\nボリュームたっぷりで満足度◎\n「スイーツワゴン」エリアで見つかるよ"
+    },
+    {
+      "heading": "6. 名古屋・味噌カツサンド",
+      "body": "名古屋名物を球場でパクリ！\nおしゃれなBOX入りで写真映え♪\n3塁側「ドラゴンズキッチン」"
+    },
+    {
+      "heading": "7. 京セラ・フルーツたっぷりサンド",
+      "body": "色とりどりのフルーツがぎゅっと詰まったサンド🍑🍇\n甘さ控えめクリームでぺろり！\n「Cafe Ballpark」で販売中"
+    }
+  ],
+  "caption": "球場のグルメって、つい写真を撮りたくなっちゃうよね🍧✨\n今日は編集部おすすめ“写真映え”球場グルメを7つ集めてみました！どれも味はもちろん、手に持つだけで気分が上がる可愛さ。\n観戦デートや女友達との思い出作り、一人観戦のごほうびタイムにもピッタリ🥤\n行く球場によってしか食べられない限定メニューも多いから、推し活ついでの“ご当地グルメ旅”感覚で楽しんでみるのもアリだよ♡\n「この前これ食べたよ！」や「この球場のグルメおすすめ！」など、みんなの推し球場グルメもコメントで教えてね！\n気になるグルメは、あとで見返せるように保存しておくと便利だよ🍦",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#写真映えグルメ",
+    "#推し活女子",
+    "#ひとり観戦",
+    "#球場スイーツ",
+    "#球場巡り",
+    "#グルメ旅",
+    "#限定メニュー"
+  ],
+  "coverImagePrompt": "Japanese baseball stadium during sunset, 20s Japanese women enjoying colorful sweets and drinks, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-10-05_evening/01_cover.jpg",
+    "media/carousel/2026-10-05_evening/02_slide.jpg",
+    "media/carousel/2026-10-05_evening/03_slide.jpg",
+    "media/carousel/2026-10-05_evening/04_slide.jpg",
+    "media/carousel/2026-10-05_evening/05_slide.jpg",
+    "media/carousel/2026-10-05_evening/06_slide.jpg",
+    "media/carousel/2026-10-05_evening/07_slide.jpg",
+    "media/carousel/2026-10-05_evening/08_slide.jpg",
+    "media/carousel/2026-10-05_evening/09_cta.jpg"
+  ]
+}
