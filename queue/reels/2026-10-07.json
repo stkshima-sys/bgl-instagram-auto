@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-07",
+  "category": "一人観戦Vlog風",
+  "title": "一人観戦Vlog＠ES CON Field HOKKAIDO｜最初の一歩は意外と楽しい",
+  "scene": "入場ゲートをくぐり、ワクワクと少しのドキドキが入り混じる。売店で可愛いスイーツを手に取り、ゆっくり観客席へ。野球場の広がりやライトに包まれながら、ひとり乾杯。帰り道のライトアップと余韻、優しい夜風を感じる。",
+  "caption": "『一人で球場って、ちょっと勇気いるかも？』\nそんな気持ち、私も最初は同じだったけど、実際に来てみたら案外居心地がよくてびっくり。ドキドキしながら入場して、売店で迷いながらデザート選んで、席についた瞬間からもう“私だけの特等席”。推しカラーの服を着て、グラウンドの広さをひとり占め。誰かと来る楽しさもいいけど、一人ならではの自由さや、静かなワクワクもすごく好きだなって思う。\n試合前にこっそり乾杯して、試合の余韻を感じながら帰り道は自分をご褒美するような温かさ。もし迷ってるなら、まずは一歩だけ踏み出してみてほしい。球場で感じたドキドキ、きっと素敵な思い出になるはず🥰\n一人観戦の楽しさ、あなたはどの瞬間に感じる？よかったらコメントで教えてね🫶\nこの投稿、保存しておいてね！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#一人観戦デビュー",
+    "#ESCONField",
+    "#北海道野球",
+    "#推し活女子",
+    "#ナイト観戦",
+    "#球場Vlog",
+    "#ひとり時間"
+  ],
+  "prompts": {
+    "kling": "A Japanese woman in her 20s, with natural makeup and stylish casual clothing in pastel pink and beige, enters ES CON Field Hokkaido alone. She walks through the ticket gate with a slight smile, glancing around with curiosity. Inside, she stops at a sweets stand, picking out a cute dessert with a thoughtful, happy expression. She makes her way up the stadium steps to her seat, sits down, and gazes at the brightly-lit field, taking in the night view. She holds up her drink and quietly toasts to herself. The video ends with her softly lit by stadium lights as she walks through the concourse towards the exit, enjoying the calm energy of the night. Filmed vertically, handheld smartphone style, soft pastel color grading, no overlays.",
+    "veo": "0-5s: Handheld view as a Japanese woman in her 20s enters the ES CON Field Hokkaido gates alone, showing natural curiosity and excitement, pastel pink and beige clothing popping against stadium architecture. 5-10s: She stops at a colorful sweets stand, chooses a dessert with a gentle smile, then walks to her seat; camera follows as she sits down and looks at the illuminated field. 10-15s: She raises her drink for a quiet solo 'cheers', smiles softly, and walks through softly lit concourses towards the exit, the night lights and gentle crowd noise in the background. Vertical 9:16, smartphone-shot, photorealistic, soft pastel color grading, no AI artifacts.",
+    "higgsfield": "Handheld vertical smartphone camera follows a Japanese woman in her 20s as she walks through the ES CON Field Hokkaido gates (push-in), pans to her at a sweets stand picking a dessert (slow pan and slight push), follows her to a seat (tracking shot, soft focus on pastel outfit), quick cut to her viewpoint over the field. Camera push-in as she raises her drink for a solo toast, then slow handheld walk (tracking) through the softly illuminated concourse at night. Pastel, natural, magazine-style lighting."
+  },
+  "videoFile": "videos/2026-10-07.mp4"
+}
