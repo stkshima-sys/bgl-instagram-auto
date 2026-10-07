@@ -1,52 +1,44 @@
 {
   "date": "2026-10-07",
   "slot": "evening",
-  "category": "一人観戦",
-  "title": "一人観戦が楽しくなる7つのヒント",
+  "category": "球場グルメ",
+  "title": "絶対食べたい！写真映え球場スイーツ5選",
   "slides": [
     {
-      "heading": "一人観戦、ほんとは怖くない！",
-      "body": "「一人で球場って浮かないかな？」って思うけど、実は全然大丈夫😊\n意外とおひとりさま女子、多いんだよ〜！"
+      "heading": "1. 神宮名物！いちご氷",
+      "body": "たっぷりのふわふわかき氷に\n甘〜いいちごシロップがかかった大人気スイーツ🍓\n売店「GARDEN KITCHEN」でゲットできるよ！"
     },
     {
-      "heading": "おすすめ座席はここ！",
-      "body": "迷ったら内野席の上段が安心💺\n全体が見渡せて、推しもばっちり。\n周りにひとり観戦の人もちらほら♪"
+      "heading": "2. 札幌ドームの白い恋人ソフト",
+      "body": "北海道限定の濃厚ミルクソフト🍦\n見た目も可愛い白いカップでインスタ映え抜群！\n2階スイーツ売店で購入できる◎"
     },
     {
-      "heading": "ひとり時間の過ごし方",
-      "body": "推し選手をじっくり観察したり、球場グルメを味わったり。\nSNS用の写真をいっぱい撮るのも楽しいよ📸"
+      "heading": "3. 京セラのチュロスセット",
+      "body": "サクサクのチュロスとチョコソースの相性が最高💕\n京セラドーム2階フードコートで食べられるよ。\n食後やおやつにぴったり！"
     },
     {
-      "heading": "あると安心な持ち物リスト",
-      "body": "日焼け止め、ウェットティッシュ、タンブラー、スマホ充電器は必須！\nひざ掛けや小さめバッグも便利。"
+      "heading": "4. ZOZOの球団ロゴクッキー",
+      "body": "マリーンズのロゴがプリントされたクッキー🍪\nパステルカラーで友達と写真撮りたくなる可愛さ！\n1塁側売店にあるよ"
     },
     {
-      "heading": "一人観戦が「平気」な理由",
-      "body": "観戦に夢中になれるから、途中で寂しさゼロ！\n球場の空気と盛り上がりが仲間みたいに感じるかも☺️"
-    },
-    {
-      "heading": "自分だけの楽しみ方を見つけて",
-      "body": "「今日は何食べよう？」「どのシートが好き？」\n誰にも気をつかわず、自由に楽しめるのが一人観戦の最大の魅力！"
-    },
-    {
-      "heading": "明日、一人で行ってみない？",
-      "body": "小さな一歩で、野球観戦がもっと楽しくなるよ。\n保存して、次の観戦の参考にしてね♡"
+      "heading": "5. マツダの濃厚ジェラート",
+      "body": "広島ならではのフレーバーが揃った\nなめらかジェラート🩷\nメインゲート横の「ジェラート工房」で味わってみて"
     }
   ],
-  "caption": "「一人で球場に行くのって、ちょっと勇気がいるよね…」って思ってた私も、初めて行った日からやみつきに！周りを気にせず推しの応援や球場グルメ、自分だけの時間を存分に楽しめるのが、一人観戦の魅力。座席選びや持ち物、過ごし方のちょっとしたコツを知ってるだけで、ぐっと気軽になるよ。ひとり観戦デビューしたよ！って人も、これからチャレンジしてみたい人も、あなたの「一人観戦あるある」やオススメの楽しみ方をぜひコメントで教えてね☺️\n次の観戦のために、この投稿を保存しておいてくれたら嬉しいな♡",
+  "caption": "球場って、野球だけじゃなくスイーツも本気なんだよね…！観戦の合間に食べたい映えグルメ、みんなはどれ食べたい？🍦🍓チームごとにしか味わえない限定スイーツや、とにかく写真におさめたくなる可愛さにきゅんとしちゃう。友達や推しメンバーとシェアするのも、一人でのんびり味わうのも最高の時間。自分へのごほうびにもぴったりだよ✨\n\n「このスイーツ食べたことある！」「他にもおすすめある？」など、コメントで教えてもらえると嬉しいな😊 気になる人は、保存しておいて、次の観戦の参考にしてね！",
   "hashtags": [
     "#野球女子",
-    "#一人観戦",
     "#球場グルメ",
     "#観戦コーデ",
-    "#推し活",
-    "#初観戦",
-    "#おすすめ座席",
-    "#ぼっち観戦",
-    "#観戦初心者",
-    "#野球観戦"
+    "#球場スイーツ",
+    "#神宮球場",
+    "#札幌ドーム",
+    "#京セラドーム",
+    "#ZOZOマリン",
+    "#マツダスタジアム",
+    "#推し活女子"
   ],
-  "coverImagePrompt": "a photorealistic, natural lighting image of a Japanese woman in her 20s enjoying a baseball game alone at a Japanese stadium, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "coverImagePrompt": "A photorealistic, natural lighting photo of a stylish Japanese woman in her 20s enjoying a sweet snack at a baseball stadium in Japan. She is wearing soft pastel tones (white, beige, pastel pink, light blue), embodying a feminine Japanese fashion magazine aesthetic. Surroundings are lively but relaxed, with no text, and a soft, airy atmosphere.",
   "images": [
     "media/carousel/2026-10-07_evening/01_cover.jpg",
     "media/carousel/2026-10-07_evening/02_slide.jpg",
@@ -54,8 +46,6 @@
     "media/carousel/2026-10-07_evening/04_slide.jpg",
     "media/carousel/2026-10-07_evening/05_slide.jpg",
     "media/carousel/2026-10-07_evening/06_slide.jpg",
-    "media/carousel/2026-10-07_evening/07_slide.jpg",
-    "media/carousel/2026-10-07_evening/08_slide.jpg",
-    "media/carousel/2026-10-07_evening/09_cta.jpg"
+    "media/carousel/2026-10-07_evening/07_cta.jpg"
   ]
 }
