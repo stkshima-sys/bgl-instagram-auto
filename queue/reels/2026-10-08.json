@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-08",
+  "category": "推し活動画",
+  "title": "推し活がもっと楽しくなる♡ナゴヤドームの推し応援女子リール",
+  "scene": "夕方のバンテリンドーム名古屋、観客席で20代女性2人が推し選手のユニフォーム姿で並んで座り、笑顔でタオルやうちわを掲げて応援。スタンドの熱気やライトのきらめき、心が弾む雰囲気をスマホで自撮りしながら撮影。最後に2人でカメラに向かってピース、わくわくとした余韻を残す。",
+  "caption": "誰かを本気で応援する時間って、意外と自分のパワーにもなったりするよね。推しのユニフォームを着て、タオルやうちわを持って、一緒に叫んだり笑ったりできる球場の空気。ちょっと背伸びした観戦コーデも、推しカラーのアイテムも、全部『私だけの推し活』の一部。友達と一緒でも、一人でも、スタンドに座った瞬間だけは“今日”しか味わえない特別な時間になる。思い切って応援グッズを持って行くと、きっと球場でしか味わえない熱気や一体感を感じられるはず。あなたはどんな推し活スタイルが好き？\n\nこの動画、気になったら保存して次の観戦のヒントにしてね♡ 推し活体験もぜひコメントで教えてほしいな！",
+  "hashtags": [
+    "#野球女子",
+    "#推し活",
+    "#球場コーデ",
+    "#バンテリンドーム",
+    "#観戦スタイル",
+    "#うちわデザイン",
+    "#応援女子",
+    "#スタジアムライフ",
+    "#観戦初心者",
+    "#SaveYourMoment"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, natural handheld smartphone-shot look. Two Japanese women in their 20s, softly smiling, wearing pastel-accented baseball jerseys and casual trendy clothing, sit in the stands at Vantelin Dome Nagoya during early evening. They wave pastel-colored towels and decorative fans, occasionally looking at each other and then at the camera, capturing the lively crowd atmosphere behind them. Warm stadium lights and soft focus create a dreamy vibe. Final shot: both girls make peace signs and laugh toward the camera, all in gentle pastel tones and natural lighting.",
+    "veo": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, Japanese women in their 20s at Vantelin Dome Nagoya, soft pastel color grading. \n0-5s: Close-up of two Japanese women in pastel-accented baseball jerseys, sitting side by side in the stands, excitedly waving towels and fans, with evening stadium lights in the background. \n5-10s: Cut to them from the front, self-filming as they smile, gently cheer, and gesture with their hands, capturing the energy of the surrounding crowd and the glowing stadium. \n10-15s: Both women turn to the camera, make peace signs, and laugh, the crowd and field softly blurred, ending on a warm, emotional note.",
+    "higgsfield": "Vertical 9:16, photorealistic, authentic smartphone-shot style. Start with a handheld slow pan from side to front as two Japanese women in pastel jerseys wave towels and fans in the stands at Vantelin Dome Nagoya. Subtle handheld motion as the camera pushes in for a closer shot of their faces as they smile and cheer. Finish with a handheld movement as both do a peace sign and laugh, capturing the glowing stadium lights and lively crowd in soft pastel tones."
+  },
+  "videoFile": "videos/2026-10-08.mp4"
+}
