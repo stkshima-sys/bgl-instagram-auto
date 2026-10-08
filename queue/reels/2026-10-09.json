@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-09",
+  "category": "球場グルメ紹介",
+  "title": "東京ドームで乾杯！ときめき球場グルメ女子会",
+  "scene": "東京ドームの観客席で20代女性が人気のグルメ（唐揚げ＆ビール）を手に持ち、笑顔で見せる。友達と乾杯し、おいしそうに頬張るシーン。ナイター照明とパステルカラーの服装がやわらかく映える。",
+  "caption": "ひとりでも友達とでも、野球観戦ってやっぱり特別な時間🍺✨球場で食べるグルメはなんでこんなに美味しいんだろう…？今日は東京ドームの定番・ジューシーな唐揚げ＆野球観戦にぴったりのビールで乾杯。夕暮れの球場って、ちょっとエモいよね。周りが盛り上がる中で、誰かと一緒にグルメをシェアしたり、推しの話で盛り上がる時間はまさに最高のリフレッシュ。『一人で行くの怖いかも…』って思ってたけど、グルメ片手に観戦したら、もう“おひとり様”でも全然平気だったり😂みんなは球場で絶対食べたいグルメある？ぜひコメントで教えてね！気になった人は“保存”して、次の観戦の参考にしてみて🍟",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#東京ドーム",
+    "#野球観戦デート",
+    "#おひとりさま観戦",
+    "#推し活女子",
+    "#野球好きな人と繋がりたい",
+    "#球場グルメ部",
+    "#週末の過ごし方"
+  ],
+  "prompts": {
+    "kling": "A photorealistic, vertical (9:16) 10-15 second handheld smartphone video at Tokyo Dome in the evening. Two stylish Japanese women in their 20s, soft makeup, natural hair, pastel casual outfits, sitting together in the stadium seats. One girl holds a container of karaage and a glass of beer, showing them to the camera with a big smile. The two friends lightly toast their beers, laugh, and take a bite together, enjoying the lively atmosphere with out-of-focus stadium lights in the background. Soft, dreamy color grading featuring white, beige, light pink, and blue. No text or AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot. Scene 1 (0-5s): Close-up of two 20-something Japanese women in pastel outfits holding karaage and beer, smiling and showing them to the camera, stadium night lights in background. Scene 2 (5-10s): Medium shot as the friends clink their beers together in a gentle toast, laughing naturally. Scene 3 (10-15s): One girl takes a bite of karaage, they glance at each other and laugh, cozy handheld motion, soft pastel lighting.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot. Begin with a gentle push-in on two Japanese women in their 20s sitting in Tokyo Dome seats, holding karaage and beer. Use handheld motion with soft shake as the camera pans slightly to capture their smiles and the subtle glimmer of stadium lights behind. Slight push-in as they clink their glasses and take a bite, capturing their laughter and casual gestures. Pastel color grading, cozy evening vibe, no overlays."
+  },
+  "videoFile": "videos/2026-10-09.mp4"
+}
