@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-10",
+  "slot": "evening",
+  "category": "一人観戦",
+  "title": "初めての一人観戦7つのコツ",
+  "slides": [
+    {
+      "heading": "1人観戦って勇気いる？",
+      "body": "「一人で球場行くの、ちょっと不安…」そんな気持ち、すごくわかる！\nでも実は、行ってみると意外と大丈夫だったりするんだよね🍦"
+    },
+    {
+      "heading": "おすすめ座席はココ！",
+      "body": "初めてなら通路側やバックネット裏が安心。\n出入りしやすくて、周りも観戦慣れしてる人が多いから心強いよ！"
+    },
+    {
+      "heading": "持っていくと安心なもの",
+      "body": "ミニバッグにお財布・ハンカチ・飲み物・スマホはマスト。\nクッションやカーディガンがあると快適さUP✨"
+    },
+    {
+      "heading": "ひとり観戦の過ごし方",
+      "body": "グルメを楽しめるし、推し選手をじっくり眺められる！\n写真も撮り放題だから、SNSにもアップできちゃう💕"
+    },
+    {
+      "heading": "意外と“ぼっち”じゃない！",
+      "body": "実は一人観戦してる女性、多いんだよね。\nみんなそれぞれのペースで楽しんでるから、気にしなくて大丈夫😊"
+    },
+    {
+      "heading": "帰りも自分ペースでOK",
+      "body": "混雑したら早めに出たり、ゆっくり余韻に浸ったり。\n誰にも遠慮せず、気ままに過ごせるのが一人観戦の特権！"
+    },
+    {
+      "heading": "次はあなたの番かも♪",
+      "body": "「最初はドキドキしたけど、行ってみたらすごく楽しかった！」\nっていう声、多いんだよ。\n今季、思い切って一人観戦デビューしてみない？"
+    }
+  ],
+  "caption": "一人で球場行くのって、最初はすごくハードル高く感じるよね。でも実は行ってみると、意外と「全然平気だった！」って思う人がほとんど。\n\n座席選びや持ち物、ひとりならではの楽しみ方までコツを知れば、怖さはグッと減るはず。特に女性の一人観戦も増えてて、「推しを自由にじっくり堪能できる」「周りを気にせずグルメも写真も思うまま」って声が多いんだ🧢\n\n今回は、私やフォロワーさんの実体験もまじえた「一人観戦がちょっとラクになるコツ」をまとめてみました。\n\nあなたの「一人観戦あるある」や不安だったこと、ぜひコメントで教えてね💬保存して、初めての観戦の時に見返してくれると嬉しいな！",
+  "hashtags": [
+    "#野球女子",
+    "#一人観戦",
+    "#推し活",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#初観戦",
+    "#ぼっち観戦",
+    "#球場デビュー",
+    "#観戦初心者",
+    "#野球好きな人と繋がりたい"
+  ],
+  "coverImagePrompt": "A photorealistic natural lighting photo of a Japanese woman in her 20s enjoying a baseball game alone at a Japanese stadium. She is smiling, holding a drink or snack, and dressed in soft pastel tones (white, beige, pastel pink, light blue). The aesthetic is feminine, gentle, and reminiscent of a high-end Japanese fashion magazine. Soft pastel background, no text.",
+  "images": [
+    "media/carousel/2026-10-10_evening/01_cover.jpg",
+    "media/carousel/2026-10-10_evening/02_slide.jpg",
+    "media/carousel/2026-10-10_evening/03_slide.jpg",
+    "media/carousel/2026-10-10_evening/04_slide.jpg",
+    "media/carousel/2026-10-10_evening/05_slide.jpg",
+    "media/carousel/2026-10-10_evening/06_slide.jpg",
+    "media/carousel/2026-10-10_evening/07_slide.jpg",
+    "media/carousel/2026-10-10_evening/08_slide.jpg",
+    "media/carousel/2026-10-10_evening/09_cta.jpg"
+  ]
+}
