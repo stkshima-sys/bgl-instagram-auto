@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-10",
+  "category": "観戦コーデ",
+  "title": "神宮球場で着回し！観戦コーデ3DAYS",
+  "scene": "夕暮れの神宮球場コンコースで、20代女性が推しカラーのカーディガン＆ワンピの全身コーデを楽しげに披露。観客席で友達と写真を撮り合ったり、売店前でスニーカーをさりげなく見せるカット。観戦後、球場をバックに三日分のコーデを並べて見せて締め。",
+  "caption": "「何を着ていけばいいかわからない…」そんな風に迷ったこと、ありませんか？神宮球場はカジュアルだけどおしゃれも楽しみたいから、今日の観戦コーデは推しカラーのカーデ＋ワンピ＋スニーカーでまとめてみました🤍\n\nコンコースのふわっとした光と、芝生のグリーンがコーデを引き立ててくれるのも密かにお気に入りポイント🌿日焼け・冷え対策の薄手アウターや、座席でも楽ちんなワンピは本当に便利！\n\n「野球観戦って、実はコーデ考えるだけでワクワクするかも？」って感じた今日。みんなはどんな“球場ファッション”してる？コメントで教えてね♡ 保存して次の観戦の参考にも！",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#大人カジュアル",
+    "#推し活ファッション",
+    "#神宮球場",
+    "#着回しコーデ",
+    "#一人観戦デビュー",
+    "#女子会スタイル",
+    "#夏コーデ",
+    "#球場おしゃれ"
+  ],
+  "prompts": {
+    "kling": "A photorealistic vertical 9:16 video, 10-15 seconds, smartphone-shot look. Two Japanese women in their 20s wearing pastel pink and beige baseball game outfits (cardigan, dress, sneakers), standing on the concourse of Meiji Jingu Stadium at sunset. The first scene: one girl, natural makeup, shows her full outfit confidently, spinning and smiling. Second scene: both women taking pictures of each other in the stadium stands with a blurred crowd and green field in the background. Final scene: the girls line up their outfits and laugh, with soft pastel lighting and natural handheld camera movement. No text, no AI glitches.",
+    "veo": "Vertical 9:16, 10-15 seconds, photorealistic, soft pastel color grading. 0-5s: Close-up of a Japanese woman in her 20s arranging her pastel pink cardigan and beige dress on the Meiji Jingu Stadium concourse, handheld camera, soft sunset light. 5-10s: Medium shot as the woman meets a friend, both pose and take photos of each other's outfits in the stands; playful, relaxed, with glimpses of the field. 10-15s: Wide shot of both girls standing side by side, each showing off three days of creative outfit combinations, laughing with the stadium’s architecture softly blurred in the background. No overlays or AI artifacts.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot look. Start with a handheld slow pan across a Japanese woman in her 20s in pastel outfit, then a smooth push-in as she twirls and showcases her full outfit. Quick tilt down to her sneakers. Handheld transition shot as she joins her friend; brief pan as both take each other’s photos in the seats. Pull-back handheld shot at the end as the girls line up their looks in front of the ballpark backdrop, soft pastel color grading throughout."
+  },
+  "videoFile": "videos/2026-10-10.mp4"
+}
