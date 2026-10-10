@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-11",
+  "category": "観戦コーデ",
+  "title": "春夏おすすめ観戦コーデ3パターン in Es Con Field",
+  "scene": "Es Con Fieldの明るいコンコースで、爽やかな笑顔の20代女性が全身コーディネートを披露。推しカラーのキャップ＆ユニ×デニム、パステルワンピ×トート、白トップス×ベージュスカートの3パターン着回し。夕暮れの球場外で、友達と並んで記念撮影の後ろ姿を映してエモさを演出。",
+  "caption": "「野球観戦ってどんな服で行けばいいの…？」そんな悩み、めっちゃわかる！実はEs Con Fieldって意外と映えるし、着回ししやすいんだよね🍧 今回は推しカラー小物をアクセントにした春夏コーデを3パターン紹介。1人観戦もOKなナチュラルコーデ、友達とリンクコーデ、おしゃれカジュアルまで揃えてみたよ！球場は歩くから、靴は疲れないものが正解◎ 夕方の球場は空が本当にキレイだから、ベージュや水色のやわらかい色がおすすめ🎀 みんなの観戦コーデもぜひコメントで教えてね！保存して次のお出かけコーデの参考にもしてみて💡",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#EsConField",
+    "#球場ファッション",
+    "#推し活女子",
+    "#春夏コーデ",
+    "#一人観戦デビュー",
+    "#メジャー女子",
+    "#ベースボールガール",
+    "#おしゃれさんと繋がりたい"
+  ],
+  "prompts": {
+    "kling": "A photorealistic vertical video (9:16, 10-15s) shot in a natural, smartphone style at Es Con Field Hokkaido. Capture a Japanese woman in her 20s with natural makeup, soft pastel color-grading (white, beige, pastel pink, light blue). She tries on and shows off three casual but fashionable baseball game outfits: 1) pastel blue cap and jersey with denim, 2) pastel pink dress with a white tote, 3) white top with beige skirt. The scene starts with her smiling and posing in the concourse, transitions to a walking shot, and ends as she and a friend (both women, 20s) look out at the sunset-lit field, from behind. Handheld, natural movements, close and medium shots, no text overlays, no visible AI artifacts.",
+    "veo": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look, Japanese women in their 20s at Es Con Field Hokkaido, soft pastel color grading (white, beige, pastel pink, light blue). Cut 0-5s: Close-up of a smiling woman in pastel blue cap and jersey with denim, posing in the bright concourse. Cut 5-10s: She changes into a pastel pink dress and white tote, then to a white top and beige skirt, spinning playfully. Cut 10-15s: She and a friend walk out to the ballpark exterior at golden hour, then pause for a back-view shot as the stadium lights begin to glow. All performance and camera moves are natural, handheld, no text overlays, no AI artifacts.",
+    "higgsfield": "vertical video (9:16), 10-15 seconds, photorealistic, soft pastel color grading (white, beige, pastel pink, light blue). Japanese woman in her 20s at Es Con Field Hokkaido, modeling three stylish and casual baseball outfits. Start with a handheld medium push-in as she poses, then a walking handheld pan as she changes outfits, ending on a handheld pull-back tracking shot of her and a friend at sunset from behind. Keep camera motion smooth and organic, all handheld, no text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-10-11.mp4"
+}
