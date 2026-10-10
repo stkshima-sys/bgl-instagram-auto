@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-11",
+  "slot": "evening",
+  "category": "球場グルメ",
+  "title": "インスタ映え球場グルメ7選",
+  "slides": [
+    {
+      "heading": "1. 神宮のいちごけずり🍓",
+      "body": "フワフワの削りいちごに練乳がとろ〜り。\n甘酸っぱくて見た目もキュート！\n売店は外野の「Gショップ」近くにあるよ。"
+    },
+    {
+      "heading": "2. 東京ドームのグルメバーガー🍔",
+      "body": "分厚いパティ＆カラフルなピクルスが映える！\n値段は1,000円前後でボリューミー。\n21ゲート横「Ball Park Store」へGO。"
+    },
+    {
+      "heading": "3. 横浜スタジアムのレモネード",
+      "body": "キラキラのレモンが入ったカップが超映え。\nさっぱり飲みやすくて夏の観戦にぴったり！\n各売店で買えるよ✨"
+    },
+    {
+      "heading": "4. 甲子園名物・甲子園カレー🍛",
+      "body": "昔ながらの味わいがクセになる定番。\n球場カレーは意外と写真映え！\n1塁側の「カレースタンド」をチェック。"
+    },
+    {
+      "heading": "5. バンテリンドームのカラフルソーダ🍹",
+      "body": "パステルカラーのソーダがゆめかわ映え！\n味も色ごとに違って楽しい。\n「DRAGON’S CAFE」内で限定販売。"
+    },
+    {
+      "heading": "6. 秋の球場スイートポテト",
+      "body": "秋限定で登場するほくほくスイーツ。\n見た目も可愛い＆ほっと和める味♫\n売店の季節メニューも狙い目。"
+    },
+    {
+      "heading": "7. 札幌ドームのジンギスカン串",
+      "body": "北海道気分を味わえるご当地グルメ。\n写真を撮っても映えるし、片手で食べやすい！\n外野スタンド下のワゴンで。"
+    }
+  ],
+  "caption": "「球場って、どこも唐揚げとビールだけ…？」って思ってたら大間違い！実はインスタ映えも狙える、カラフルで可愛いグルメがたくさんあるんだよ✨\n\n今回は人気球場で見つけた“写真を撮らずにいられない”グルメ達をまとめてみたよ。推しの試合観戦と一緒に、グルメ巡りするのも超楽しい！\n\nみんなのおすすめ球場グルメもぜひコメントで教えてね💬 お友達にもシェアして、次の観戦の参考にしちゃおう。\n\n気になった人は「保存」して、現地で迷わずゲットしよ🍴",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#推し活",
+    "#インスタ映えグルメ",
+    "#一人観戦女子",
+    "#神宮球場",
+    "#ドーム飯",
+    "#映えフード",
+    "#野球観戦初心者"
+  ],
+  "coverImagePrompt": "A photorealistic image of a fashionable Japanese woman in her 20s enjoying food in a baseball stadium in Japan. She holds a colorful, Instagrammable snack (like a parfait or burger) and looks happy and relaxed. Soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, natural lighting, no text.",
+  "images": [
+    "media/carousel/2026-10-11_evening/01_cover.jpg",
+    "media/carousel/2026-10-11_evening/02_slide.jpg",
+    "media/carousel/2026-10-11_evening/03_slide.jpg",
+    "media/carousel/2026-10-11_evening/04_slide.jpg",
+    "media/carousel/2026-10-11_evening/05_slide.jpg",
+    "media/carousel/2026-10-11_evening/06_slide.jpg",
+    "media/carousel/2026-10-11_evening/07_slide.jpg",
+    "media/carousel/2026-10-11_evening/08_slide.jpg",
+    "media/carousel/2026-10-11_evening/09_cta.jpg"
+  ]
+}
