@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-12",
+  "category": "観戦コーデ",
+  "title": "東京ドームで着回し観戦コーデ3days",
+  "scene": "球場コンコースで20代女性が友達と全身コーディネートを見せ合いながら歩く。明るい日差しとパステルカラーのコーデが映える。最後は観客席から球場全体を眺めて、笑顔でピース。",
+  "caption": "「何着て行けばいいか分からない…」野球観戦ビギナーさんにこそ見てほしい！東京ドームのコンコースを背景に、明るめカラーの観戦コーデを着回してみました⚾️👗 野球シャツ＋ワンピ×スニーカー、キャップ×ベージュパンツ×Tシャツ、さらっと羽織れるカーデは夜の冷え対策にも◎。球場ならではの高揚感と、いつもの自分らしさ、どっちも大切にしたいから…“推しカラー”をほんのり取り入れるのもおすすめだよ🎀 これから観戦デビューする人も、ぜひ参考にしてみて！あなたの観戦コーデもコメントで教えてね。気になったら保存して、次の観戦のヒントにしよ💡",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#球場ファッション",
+    "#東京ドーム",
+    "#着回しコーデ",
+    "#推し活",
+    "#一人観戦",
+    "#春夏コーデ",
+    "#女子ライフ",
+    "#カジュアルコーデ"
+  ],
+  "prompts": {
+    "kling": "A vertical 9:16, 10-15s photorealistic video, natural handheld smartphone style. Two Japanese women in their 20s, dressed in pastel and beige casual baseball game outfits, walk side by side in the bright, soft-lit concourse of Tokyo Dome. They happily show each other their outfits, twirling or striking playful poses by the corridor railings. The camera moves naturally with them as they head to the seating area and pause, one making a peace sign with a shy smile, the dusk light softly illuminating their faces. Soft pastel color grading, no text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, smartphone quality, no AI artifacts. 0-5s: Two stylish Japanese women (20s) in pastel and beige outfits walk and chat in the open, softly-lit concourse of Tokyo Dome, camera tracking their full-body looks. 5-10s: POV switches to each woman showing off their outfit details—cap, cardigan, tote, sneakers—playful gestures, natural smiles, pastel backgrounds. 10-15s: They reach the stands, glance over the field with excitement, make a peace sign toward the camera as the evening stadium lights glow, capturing warm, authentic energy.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot look. Begin with handheld tracking shot following two Japanese women in their 20s as they walk through Tokyo Dome's pastel-toned concourse; camera pans to capture their coordinated outfits. Use push-in motion as one woman twirls to show her full look, then slowly pull back as they reach the stands. Final pause with steady handheld as they pose smiling, peace sign, soft stadium lights creating an emotional, friendly vibe. No overlays, soft pastel color grading, natural handheld feel."
+  },
+  "videoFile": "videos/2026-10-12.mp4"
+}
