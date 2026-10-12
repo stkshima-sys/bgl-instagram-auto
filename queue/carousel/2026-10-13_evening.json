@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-13",
+  "slot": "evening",
+  "category": "一人観戦",
+  "title": "一人観戦がもっと楽しくなる7つのコツ",
+  "slides": [
+    {
+      "heading": "一人観戦って実は楽しい！",
+      "body": "「一人って寂しいかも…」と思いきや、意外と気楽で自由✨\n好きなタイミングで球場を巡ったり、食べたいグルメも全部自由！"
+    },
+    {
+      "heading": "おすすめの座席はここ！",
+      "body": "迷ったら「内野の通路側」がおすすめ。\n出入りしやすくて安心だし、景色も見やすいよ🥰\n一人席やペアシートも意外と使い勝手◎"
+    },
+    {
+      "heading": "一人時間の過ごし方いろいろ",
+      "body": "試合に集中するのも良し、球場グルメを堪能するのも良し。\n観戦ノートをつけたり、推し活フォトを撮るのもおすすめ❤"
+    },
+    {
+      "heading": "持っていくと安心グッズ",
+      "body": "スマホ用バッテリー、レジャーシート、ミニバッグがあると便利。\n推しタオルやサコッシュも一人観戦女子の定番アイテムだよ！"
+    },
+    {
+      "heading": "一人観戦、実は「平気」説",
+      "body": "周りも意外と一人観戦多め。\n最初はドキドキするけど、行ってみると「全然大丈夫だった！」って人がほとんどだよ😊"
+    },
+    {
+      "heading": "コメント欄であなたの体験もシェアしてね",
+      "body": "みんなの一人観戦エピソードやおすすめの過ごし方、ぜひ教えてほしいな！\n女子の「あるある」トークで盛り上がろう🧢"
+    }
+  ],
+  "caption": "「一人で野球観戦、ちょっと勇気がいるかも…」そんな気持ち、すごくわかる！でも実は一人観戦って、自由に動けて自分のペースで楽しめる最高の時間なんです。おすすめ座席や、気楽な過ごし方、あると便利なアイテムなど、初めてでも不安になりにくいコツをまとめました。\n\n実際に行ってみると、周りも一人観戦の人が多くて「全然平気だった！」って声もたくさん。美味しいグルメや推し選手の応援も、全部自分のタイミングでできちゃいます。\n\nみんなはどんな一人観戦の思い出がある？コメント欄でシェアしてくれたら嬉しいです。保存して、次の観戦の参考にしてね⚾️✨",
+  "hashtags": [
+    "#野球女子",
+    "#一人観戦",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#ぼっち観戦",
+    "#野球観戦初心者",
+    "#推し活女子",
+    "#野球デビュー",
+    "#観戦あるある",
+    "#野球好きと繋がりたい"
+  ],
+  "coverImagePrompt": "photorealistic, natural lighting, no text, a 20-something Japanese woman enjoying a baseball game alone at a Japanese stadium, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic",
+  "images": [
+    "media/carousel/2026-10-13_evening/01_cover.jpg",
+    "media/carousel/2026-10-13_evening/02_slide.jpg",
+    "media/carousel/2026-10-13_evening/03_slide.jpg",
+    "media/carousel/2026-10-13_evening/04_slide.jpg",
+    "media/carousel/2026-10-13_evening/05_slide.jpg",
+    "media/carousel/2026-10-13_evening/06_slide.jpg",
+    "media/carousel/2026-10-13_evening/07_slide.jpg",
+    "media/carousel/2026-10-13_evening/08_cta.jpg"
+  ]
+}
