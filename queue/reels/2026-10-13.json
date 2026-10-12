@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-13",
+  "category": "初心者の一日",
+  "title": "初めてのエスコンで“野球女子デビュー”した日",
+  "scene": "キックオフ前、ちょっと緊張しながら球場に入る20代女性。観客席で揺れる応援グッズと優しい笑顔。ナイター照明が灯る中、ワクワクと余韻が残る帰り道の背中。",
+  "caption": "「ひとり観戦、ちょっと勇気いったけど…意外とできたかも！」\n今日は思い切ってエスコンフィールドで初めてのプロ野球観戦。最初は入り口でドキドキしてたけど、ふわっと広がるグラウンドに一瞬でテンションUP。可愛い応援グッズやSNSで見かけた名物グルメも楽しみながら、自然と周りの熱気に溶け込めた自分にちょっとびっくり。ナイターのライトで照らされたフィールドは本当にキレイで、最初の一歩を踏み出してよかったなって思えた一日でした。同じ気持ちになったことがある人いたら、ぜひコメントで教えてね！この体験、保存して次の観戦の参考にもどうぞ😊",
+  "hashtags": [
+    "#野球女子",
+    "#観戦初心者",
+    "#エスコンフィールド",
+    "#球場グルメ",
+    "#一人観戦",
+    "#観戦コーデ",
+    "#推し活女子",
+    "#今日の思い出",
+    "#友達にシェアしたい",
+    "#野球観戦デビュー"
+  ],
+  "prompts": {
+    "kling": "A Japanese woman in her 20s, wearing casual pastel-colored fashion and light makeup, walks into Es Con Field Hokkaido for the first time, looking a bit nervous but excited. She takes a slow handheld selfie video as she enters the stadium, then is shown sitting in the stands, softly waving a team towel with a warm, genuine smile as the lights start to come on for a night game. Final shot is a dreamy handheld back view as she walks along the softly lit concourse at dusk, blending in with the gentle excitement of the crowd. Filmed in vertical 9:16, 10-15s, photorealistic, soft pastel color grading, smartphone-shot look, natural handheld motion, no text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, soft pastel color grading. \n0-5s: Close-up of a Japanese woman in her 20s, wearing casual pastel fashion, taking a deep breath and stepping into Es Con Field Hokkaido’s entrance, holding her phone up for a selfie. \n5-10s: Medium handheld shot of her in the stands, smiling and gently waving a small team towel, surrounded by other fans and pastel stadium colors as the sun sets and the floodlights come on. \n10-15s: Slow handheld follow shot from behind as she walks through the softly illuminated concourse, looking content and sending a message on her phone, with the lively yet cozy stadium atmosphere around her. No text overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic, soft pastel tones, smartphone-shot look. First, handheld camera follows a Japanese woman in her 20s as she enters Es Con Field Hokkaido, capturing her slight nerves and excitement. Camera does a gentle push-in as she sits and waves her team towel, smiling naturally in the stands under evening lighting. Final scene: handheld pan and over-the-shoulder shot as she walks through the softly glowing concourse, blending her silhouette with the crowd, evoking a dreamy, emotional vibe. No text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-10-13.mp4"
+}
