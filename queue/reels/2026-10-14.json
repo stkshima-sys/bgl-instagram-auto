@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-14",
+  "category": "球場グルメ紹介",
+  "title": "横浜スタジアム・推しグルメで乾杯リール",
+  "scene": "横浜スタジアムのコンコースで人気の球場グルメを持って笑顔で歩く女性。観客席でグルメを頬張り、友達とビールで乾杯。夕暮れのスタンドで幸せそうな表情と球場の空気感を切り取る。",
+  "caption": "一人で観戦する日も、友達と一緒の日も…球場グルメがあるだけで、野球観戦がもっと特別な時間になる🍽️✨\n横浜スタジアムの名物「ベイスターズドッグ」と冷えたビールは、やっぱり外せないよね！コンコースを歩きながら“今日はどれ食べよう？”って悩むのも楽しい。\n夕暮れに染まる客席で頬張るグルメは、不思議とどれも美味しく感じるから不思議。ビールで乾杯したら、野球のある日常がもっと好きになるかも🍺\n“推しグルメ”に出会えた瞬間、また来たくなる理由になる…そんな小さな幸せを、これからもたくさん集めたいな。\nあなたの球場グルメの推しもぜひコメントで教えてください！気になったら保存して、次の観戦の参考にしてね♡",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#横浜スタジアム",
+    "#観戦コーデ",
+    "#推し活",
+    "#ベイスターズ",
+    "#グルメ旅",
+    "#夏のおでかけ",
+    "#映えグルメ",
+    "#ビール女子"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Two fashionable Japanese women in their 20s, one with medium-length straight hair, the other with a soft ponytail, wearing casual pastel-toned outfits. Start with them smiling and holding popular Yokohama Stadium gourmet food and beer while walking through the stadium concourse. Capture them sitting in the stands, taking a bite of a stadium hot dog with a joyful expression, then clinking their beers together as the evening sky glows behind them. Soft pastel color grading, no text overlays, candid and authentic, no AI artifacts.",
+    "veo": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion, Japanese women in their 20s at Yokohama Stadium, soft pastel color grading, no text overlays, no AI artifacts. 0-5s: Two casually-dressed Japanese women walk along the stadium concourse, smiling and holding gourmet food like a stadium hot dog and beer; close-up on food in their hands. 5-10s: Sitting together in the stands, one takes a bite of the hot dog, both laugh, then raise their beers. 10-15s: Cheers with beers as the warm evening sunlight filters over the crowd, lingering on their relaxed, happy expressions and the soft colors of the stands.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look. Start with a handheld walk-through shot along the stadium concourse following two Japanese women in their 20s holding gourmet food and beer, then push-in to a close up of them sitting in the stands, capturing the moment one takes a bite and both toast with their drinks. Pan gently to reveal the evening sky and glowing lights, emphasizing soft pastel color grading, candid smiles, and a natural atmosphere."
+  },
+  "videoFile": "videos/2026-10-14.mp4"
+}
