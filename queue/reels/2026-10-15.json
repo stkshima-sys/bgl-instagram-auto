@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-15",
+  "category": "一人観戦Vlog風",
+  "title": "一人で楽しむ甲子園ナイト観戦Vlog",
+  "scene": "甲子園のゲートをくぐる手元視点から、売店でドリンクとフードを選ぶ自然な横顔。席に座って乾杯、自分だけの時間を噛みしめる。試合後の球場のライトと帰り道、余韻たっぷりの一人観戦のエモーショナルな瞬間で締める。",
+  "caption": "「一人で野球観戦って、ちょっとハードル高い…？」そう思ってたけど、実際に甲子園に足を踏み入れたら意外と平気かも。売店でフードを迷いながら選んで、スタンドで夕暮れの空を眺めながら一息。誰かと来るのもいいけど、自分だけのペースで好きな瞬間を楽しめるのも一人観戦の特権かも🍹✨ 一人だから気になることや感じたことも、全身で味わえる。今日は球場のライトと、帰り道の余韻まで全部しっかり記憶に残す日。みんなは一人観戦、アリ派？ナシ派？ コメントで教えてね！保存して、次の観戦の参考にしてね💡",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#一人観戦デビュー",
+    "#甲子園ナイター",
+    "#推し活女子",
+    "#球場Vlog",
+    "#夏の思い出",
+    "#観戦初心者",
+    "#スポーツ観戦"
+  ],
+  "prompts": {
+    "kling": "A vertical 9:16, 10-15s photorealistic video with a soft pastel (white, beige, pastel pink, light blue) color palette, shot in a natural smartphone style with gentle handheld motion. Begin with a POV shot of a Japanese woman in her 20s passing through Koshien Stadium’s entrance, then a side angle as she chooses food and drinks at a busy yet cozy stadium shop. Cut to her sitting in the stands at sunset, smiling gently as she holds up a drink for a solo cheers, surrounded by softly lit crowd. End with an intimate, emotionally warm scene of her walking alone along the illuminated concourse, stadium lights glowing in the background. No text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, soft pastel color grading, natural smartphone-shot look. 0-5s: POV of a 20s Japanese woman walking through Koshien Stadium entrance, ticket in hand. 5-10s: Handheld shot as she selects food and a pastel drink at the ballpark shop, then transitions to her sitting down at her seat with the sun setting, smiling softly and toasting alone. 10-15s: Close-up of her relaxed expression, then a handheld back shot as she slowly strolls the stadium concourse post-game, basking in the gentle evening light. No overlays, no visible AI signatures.",
+    "higgsfield": "Vertical 9:16, photorealistic, soft pastel color palette. Handheld camera walking motion entering Koshien gate (POV), slow handheld pan as she scans snacks at the shop, gentle push-in as she sits and drinks at her seat with sunset backlighting, lingering handheld over-the-shoulder as she exits into the softly illuminated evening concourse. No overlays or AI artifacts."
+  },
+  "videoFile": "videos/2026-10-15.mp4"
+}
