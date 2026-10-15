@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-15",
+  "slot": "evening",
+  "category": "球場グルメ",
+  "title": "インスタ映え球場グルメ7選",
+  "slides": [
+    {
+      "heading": "1. 名物はやっぱりコレ！",
+      "body": "球場ごとの「ここでしか食べられない」メニューってワクワクしない？\nスタグル探しが観戦の楽しみのひとつだよね🍔"
+    },
+    {
+      "heading": "2. 可愛すぎる映えスイーツ",
+      "body": "球団カラーのカップ入りアイスや推し選手プリントのクレープなど、\n思わずカメラを向けたくなるスイーツもチェック！🍦"
+    },
+    {
+      "heading": "3. みんな大好き肉グルメ",
+      "body": "球場といえばジューシーな唐揚げやロングポテト。\n行列の売店は美味しさの証♡\nシェアしても楽しいよ。"
+    },
+    {
+      "heading": "4. 値段＆売店マップのコツ",
+      "body": "意外と失敗しがちなのが買うタイミング。\n人気メニューは早めGETが正解！\n入口近くより奥の売店が穴場かも。"
+    },
+    {
+      "heading": "5. グルメのおすすめ順🍴",
+      "body": "まずは名物→メイン→スイーツの順が満足度高め。\n飲み物は売店が混むので、並ぶ前に早めに買うのもコツだよ！"
+    },
+    {
+      "heading": "6. 明日行きたくなる理由",
+      "body": "野球観戦=グルメ旅♡\nお腹も心も大満足な1dayに。\n次の推し観戦は、気になるメニューで決めるのもアリかも！"
+    },
+    {
+      "heading": "7. あなたの推しグルメは？",
+      "body": "「ここの○○は絶対食べてほしい！」ってメニュー、\nコメントでシェアしてね！\n食べたい人同士で盛り上がろう🍟"
+    }
+  ],
+  "caption": "球場ごとのグルメ、全部制覇したくなるよね！一人観戦でも友達とでも、野球場のスタンドグルメって特別感があって最高。今日は「インスタ映えする球場グルメ7選」をまとめたよ。名物やスイーツ、肉系グルメまで、写真や値段、売店の穴場も紹介してるから、次の観戦プラン作りの参考になるはず♡「球場グルメのおすすめ順」や「買い方のコツ」も載せてるので、初めての人も安心して楽しめちゃう。\nあなたの推しグルメもぜひコメントで教えてね！保存して、次のお出かけに役立ててもらえたら嬉しいな。",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#推し活",
+    "#ぼっち観戦",
+    "#球場スイーツ",
+    "#スタグル",
+    "#インスタ映えグルメ",
+    "#野球観戦デート",
+    "#週末プラン"
+  ],
+  "coverImagePrompt": "A group of Japanese women in their twenties enjoying baseball at a Japanese stadium, holding snacks and smiling, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-10-15_evening/01_cover.jpg",
+    "media/carousel/2026-10-15_evening/02_slide.jpg",
+    "media/carousel/2026-10-15_evening/03_slide.jpg",
+    "media/carousel/2026-10-15_evening/04_slide.jpg",
+    "media/carousel/2026-10-15_evening/05_slide.jpg",
+    "media/carousel/2026-10-15_evening/06_slide.jpg",
+    "media/carousel/2026-10-15_evening/07_slide.jpg",
+    "media/carousel/2026-10-15_evening/08_slide.jpg",
+    "media/carousel/2026-10-15_evening/09_cta.jpg"
+  ]
+}
