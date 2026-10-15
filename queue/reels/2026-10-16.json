@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-16",
+  "category": "観戦コーデ",
+  "title": "ES CON FIELDで春の推し活観戦コーデ着回し",
+  "scene": "球場コンコースで20代女性がふんわりパステルなコーデで全身ショット→仲間とセルフィーで盛り上がる→観客席でワクワクの表情＆投球を見守る姿。夕暮れの柔らかい光とナチュラル感がポイント。",
+  "caption": "『球場って、何を着て行けばいいのか迷う…』そんな声、よく聞くよね。私も最初は不安だったけど、春はパステルカラーのスウェットやデニム、推しカラーのバッグを合わせるだけで一気に気分もUP！ES CON FIELDの広いコンコースは、全身コーデ撮るのにも最高なんだよね。足元はスニーカーで歩きやすく、羽織りはマスト。今日のマイ推しポイントは、球場カラーに合わせたライトブルーのキャップ♪友だちとお揃いコーデも楽しいけど、一人観戦でも『好き』を着て自分らしく楽しめるのが野球女子流。あなたの観戦コーデもぜひコメントで教えてね！気になったら保存して、次の球場コーデの参考にしよう💡",
+  "hashtags": [
+    "#観戦コーデ",
+    "#野球女子",
+    "#球場ファッション",
+    "#推し活女子",
+    "#エスコンフィールド",
+    "#春コーデ",
+    "#球場デート",
+    "#一人観戦女子",
+    "#おしゃれ女子",
+    "#コーデ保存"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, natural smartphone-shot look, handheld motion. Japanese women in their 20s wearing pastel-toned casual baseball game outfits, shooting full-body shots at the ES CON FIELD Hokkaido concourse with soft beige and pastel pink hues. One poses for outfit pics, another joins for a friends selfie. Then, cut to them smiling and excited in the stands at sunset as stadium lights glow in the background. No text overlays, no AI artifacts, just natural, candid, and fashion-magazine-like.",
+    "veo": "0-5s: A Japanese woman in her 20s in pastel spring casuals stands at the ES CON FIELD concourse, showing her full outfit, looking happy and relaxed. 5-10s: Friend joins for a quick selfie, both laughing naturally, with the stadium interior softly out of focus. 10-15s: Cut to them in the stands, capturing the sunset and stadium lights behind as they watch the game, showing excitement and warm expressions. Camera moves smoothly and naturally, keeping a realistic smartphone-shot style, with soft pastel color grading throughout.",
+    "higgsfield": "vertical 9:16, total 10-15s, photorealistic, natural smartphone-shot look. Start with handheld full-body pan from shoes to head as a Japanese woman poses in pastel baseball casuals at ES CON FIELD concourse. Transition to a handheld push-in for a candid selfie moment with a friend. End with a slow handheld pan capturing both women in the stands against the sunset-lit field, natural lighting and gentle handheld camera motion throughout, soft white, beige and pastel pink tones."
+  },
+  "videoFile": "videos/2026-10-16.mp4"
+}
