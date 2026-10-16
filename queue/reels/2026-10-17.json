@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-17",
+  "category": "一人観戦Vlog風",
+  "title": "一人観戦Vlog｜ナゴヤドームで休日リセット",
+  "scene": "ドーム外から入場、売店でグルメ&ドリンクを買う、観客席で乾杯しながらグラウンドを見渡す。試合後、夕暮れのドーム外を歩く余韻たっぷりのエモい後ろ姿。全編ナチュラルな目線＆スマホ撮影風。",
+  "caption": "「一人で野球観戦、実はめっちゃアリかも」そんな気分でナゴヤドームに行ってきました。最初はちょっと緊張…でも、グルメを選ぶ時間とか、座席からの景色、好きなタイミングでパシャリできる自由さが最高！売店でピンクのドリンクを買って、ふわっとした気持ちで乾杯。一人でもこんなに楽しいんだって気づける瞬間がたくさん。試合後、夕暮れに染まるドームを背景に歩く帰り道も絶好の余韻タイムでした♡ 一人観戦の魅力、ぜひ体験してみて！あなたの一人観戦エピソードもコメントで聞かせてね。保存して、次のおでかけの参考にもどうぞ！",
+  "hashtags": [
+    "#野球女子",
+    "#一人観戦",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#ナゴヤドーム",
+    "#休日の過ごし方",
+    "#推し活女子",
+    "#初観戦",
+    "#球場デート",
+    "#大人女子"
+  ],
+  "prompts": {
+    "kling": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion, start with a Japanese woman in her 20s walking towards the Vantelin Dome Nagoya entrance in soft daylight, cut to her standing in line and picking up a pastel-colored drink and snack at a stadium food stand, then show her finding her seat in the stands, sitting and raising the drink with a gentle smile, the background filled with soft stadium lights and a pastel crowd, finish with her walking slowly under the evening sky outside the dome, her back to the camera, soft pastel color grading, stylish natural outfit, no text overlays, no AI artifacts.",
+    "veo": "vertical 9:16, photorealistic, smartphone-shot look, Japanese woman in her 20s at Vantelin Dome Nagoya, soft pastel color grading, 0-5s: Handheld tracking shot as she enters the dome gates and glances at the building in awe. 5-10s: Medium close-up as she buys a cute pastel drink and snacks at a food stand, then POV of her sitting and raising her cup with joyful eyes towards the field. 10-15s: Wide angle from behind, walking alone outside the dome at sunset, soft breeze, emotional backlight, reflecting on the day. No text overlays, no AI artifacts.",
+    "higgsfield": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion throughout. Start with a gentle handheld pan as a Japanese woman in her 20s walks towards the Vantelin Dome Nagoya entrance. Subtle push-in as she selects a pastel drink and snack at the concession. Handheld over-the-shoulder as she takes her seat, then soft focus push-in on her raising her drink towards the field. Finish with a steady handheld following shot of her back as she walks outside at dusk, soft pastel light, no text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-10-17.mp4"
+}
