@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-17",
+  "slot": "evening",
+  "category": "球場グルメ",
+  "title": "インスタ映え球場グルメ7選",
+  "slides": [
+    {
+      "heading": "球場グルメ、どれ食べる？",
+      "body": "野球観戦の楽しみといえばやっぱりグルメ！\nおしゃれで映えるメニュー、どれから食べる？\n今夜は保存して次の観戦計画に🍟"
+    },
+    {
+      "heading": "1. 神宮名物・いちご練乳かき氷",
+      "body": "甘党女子に大人気！\n映え度も最高なピンクのふわふわかき氷。\n3塁側売店でGETできるよ🍓"
+    },
+    {
+      "heading": "2. 東京ドーム・チュロスソフト",
+      "body": "サックサクのチュロス×アイスの最強コラボ。\nシェアもおすすめ。\n22ゲート横「ドームスイーツ」売店で！"
+    },
+    {
+      "heading": "3. 横浜スタジアム・ベイスターズドッグ",
+      "body": "球場限定の青いソースが話題！\nSNSでもよく見る名物ホットドッグ。\nライト側「BAYSIDE KITCHEN」へ🐶"
+    },
+    {
+      "heading": "4. 仙台・ずんだシェイク",
+      "body": "東北楽天ファン女子の定番ドリンク。\nクリーミーで甘くて美味しいよ。\n球場入口すぐの売店で買える！"
+    },
+    {
+      "heading": "5. みんなが食べてた！映えグルメ",
+      "body": "他にも、唐揚げBOXやカラフルなフルーツサンドなど\n歩いてるだけで誘惑だらけ…\n迷ったら「売店めぐり」がおすすめだよ🍴"
+    },
+    {
+      "heading": "球場グルメの食べ方POINT",
+      "body": "行列は試合開始前がねらい目！\n食べる順番は「冷たい→温かい」が快適。\n友達とシェアして色々楽しもう♪"
+    }
+  ],
+  "caption": "球場グルメの誘惑、わかる人いる？🥺野球観戦って、席に着く前から「今日は何食べよう？」ってワクワクしちゃうよね。\n今回は、SNSでも話題の映える球場グルメを厳選！神宮のかき氷やドームのチュロス、ベイスターズドッグetc…それぞれ場所や味も違うから、一球場ずつ制覇したくなる♡\n混みやすい売店は、試合開始前や5回裏あたりが空いてるタイミング。できたてをゆっくり味わう時間も観戦の醍醐味かも。\n\nみんなのおすすめ球場グルメもぜひ教えて！コメントで推しメニューや美味しかったエピソード待ってます。\n「保存」して、次の観戦の参考にしよ🍴✨",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#インスタ映えグルメ",
+    "#一人観戦女子",
+    "#推し活",
+    "#神宮球場グルメ",
+    "#東京ドーム",
+    "#ベイスターズドッグ",
+    "#野球観戦初心者"
+  ],
+  "coverImagePrompt": "A photorealistic, natural lighting photo of a 20-something Japanese woman enjoying ballpark food at a Japanese baseball stadium, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, casual stylish outfit, cafe-like mood, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-10-17_evening/01_cover.jpg",
+    "media/carousel/2026-10-17_evening/02_slide.jpg",
+    "media/carousel/2026-10-17_evening/03_slide.jpg",
+    "media/carousel/2026-10-17_evening/04_slide.jpg",
+    "media/carousel/2026-10-17_evening/05_slide.jpg",
+    "media/carousel/2026-10-17_evening/06_slide.jpg",
+    "media/carousel/2026-10-17_evening/07_slide.jpg",
+    "media/carousel/2026-10-17_evening/08_slide.jpg",
+    "media/carousel/2026-10-17_evening/09_cta.jpg"
+  ]
+}
