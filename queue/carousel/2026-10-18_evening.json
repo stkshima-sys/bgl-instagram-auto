@@ -1,44 +1,52 @@
 {
   "date": "2026-10-18",
   "slot": "evening",
-  "category": "球場グルメ",
-  "title": "映えすぎ！球場スイーツ5選",
+  "category": "推し活",
+  "title": "推し活がもっと楽しくなる7つのコツ",
   "slides": [
     {
-      "heading": "カラフルアイスin東京ドーム",
-      "body": "野球観戦の定番といえば、ドームのアイスクリーム🍦ピンクやブルーのカラフルコーンが写真映え！友達と色違いで並べて撮るのもおすすめ。"
+      "heading": "1. 推し選手グッズで気分UP",
+      "body": "ユニフォームやタオルを身につけるだけで、テンションが一気に上がるよ！\n自分だけの“推し活コーデ”を見つけてみて🧢"
     },
     {
-      "heading": "神宮名物！レモネードソーダ",
-      "body": "青空×レモンの爽やかカラーは絶対映え💛暑い日はシュワシュワ感が最高！スタンド横の売店でGETできるよ。"
+      "heading": "2. 可愛いユニフォーム着こなし",
+      "body": "インナーやパンツをパステル系で合わせると一気に今っぽく。\nスカート＆スニーカーもおすすめ♡"
     },
     {
-      "heading": "横浜のベイスターズワッフル",
-      "body": "チームロゴ入りのワッフルは推しアピにも◎\n甘さ控えめ×もちもち生地がポイント！スタジアム2階のカフェにあるよ。"
+      "heading": "3. オリジナルうちわ・ボード作り",
+      "body": "100均アイテムで推し色のうちわやボードをカスタム！\n友達と一緒に作るのも楽しいよ🎨"
     },
     {
-      "heading": "甲子園のいちごパフェ",
-      "body": "フルーツたっぷり＆ボリューミーなパフェは女子人気No.1🍓観戦しながらちょっと贅沢な気分になれちゃう！"
+      "heading": "4. グッズ収納はおしゃれに",
+      "body": "アクスタや缶バッジは、推し色のボックスやポーチでまとめて。\n並べて飾るとインテリアにもなるよ！"
     },
     {
-      "heading": "名古屋のやきいもソフト",
-      "body": "やきいも×ソフトクリームが新感覚！ほんのり温かいお芋とひんやりアイスのバランスがクセになる…売り場は3塁側だよ。"
+      "heading": "5. SNSで推し活仲間とつながる",
+      "body": "観戦レポや推し活アイデアをシェアして、同じ選手推しさんと仲良くなるきっかけに！\n応援がもっと楽しくなる♪"
+    },
+    {
+      "heading": "6. 一人でも楽しめる応援方法",
+      "body": "一人観戦の日は推し活ノートに記録をつけるのもおすすめ。\n自分だけの“推し活ヒストリー”になるよ📔"
+    },
+    {
+      "heading": "7. 明日の観戦に小さなワクワクを",
+      "body": "好きなヘアアクセやリップでさりげなく推しカラーを投入。\n小さなことで気分が上がるから、明日も楽しみになるはず！"
     }
   ],
-  "caption": "「野球観戦＝ビールとおつまみ」だけじゃない！球場ごとに個性たっぷりの“映えスイーツ”が揃ってるの、知ってた？🍓アイスやカラフルドリンクはもちろん、限定パフェや和スイーツまで…思わず写真を撮りたくなるメニューばかり。\n友達同士でシェアしたり、推し色コーデに合わせるのも楽しいよ！みんなのお気に入りや、他に気になる球場スイーツがあったらコメントで教えてね。保存して、次回の観戦プランに役立ててね✨",
+  "caption": "推し活って、ちょっと工夫するだけで毎日がもっとワクワクするよね！ユニフォームコーデやうちわ作り、推しグッズの収納まで…みんなの「推し活あるある」、分かる〜って人も多いはず🥰 どんな応援スタイルでも、自分が楽しいのが一番♪\n\nあなたの推し活のこだわりもぜひコメントで教えてね！保存して、次の推し活の参考にしてもらえたらうれしいな❤",
   "hashtags": [
     "#野球女子",
-    "#球場グルメ",
-    "#球場スイーツ",
-    "#観戦コーデ",
     "#推し活",
-    "#東京ドーム",
-    "#神宮球場",
-    "#横浜スタジアム",
-    "#甲子園",
-    "#グルメ女子"
+    "#観戦コーデ",
+    "#うちわ作り",
+    "#グッズ収納",
+    "#一人観戦",
+    "#推しグッズ",
+    "#球場ファッション",
+    "#応援ボード",
+    "#野球観戦初心者"
   ],
-  "coverImagePrompt": "A group of 20-something Japanese women enjoying baseball at a stadium in Japan, holding colorful sweets and drinks, natural photorealistic style, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "coverImagePrompt": "A photorealistic image of Japanese women in their 20s enjoying a lively baseball game at a Japanese stadium, wearing pastel-themed (white, beige, pastel pink, light blue) feminine outfits, holding cute baseball goods. Soft pastel tones, natural lighting, Japanese fashion magazine aesthetic, photorealistic, no text",
   "images": [
     "media/carousel/2026-10-18_evening/01_cover.jpg",
     "media/carousel/2026-10-18_evening/02_slide.jpg",
@@ -46,6 +54,8 @@
     "media/carousel/2026-10-18_evening/04_slide.jpg",
     "media/carousel/2026-10-18_evening/05_slide.jpg",
     "media/carousel/2026-10-18_evening/06_slide.jpg",
-    "media/carousel/2026-10-18_evening/07_cta.jpg"
+    "media/carousel/2026-10-18_evening/07_slide.jpg",
+    "media/carousel/2026-10-18_evening/08_slide.jpg",
+    "media/carousel/2026-10-18_evening/09_cta.jpg"
   ]
 }
