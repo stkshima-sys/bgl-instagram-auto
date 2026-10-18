@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-18",
+  "slot": "evening",
+  "category": "球場グルメ",
+  "title": "映えすぎ！球場スイーツ5選",
+  "slides": [
+    {
+      "heading": "カラフルアイスin東京ドーム",
+      "body": "野球観戦の定番といえば、ドームのアイスクリーム🍦ピンクやブルーのカラフルコーンが写真映え！友達と色違いで並べて撮るのもおすすめ。"
+    },
+    {
+      "heading": "神宮名物！レモネードソーダ",
+      "body": "青空×レモンの爽やかカラーは絶対映え💛暑い日はシュワシュワ感が最高！スタンド横の売店でGETできるよ。"
+    },
+    {
+      "heading": "横浜のベイスターズワッフル",
+      "body": "チームロゴ入りのワッフルは推しアピにも◎\n甘さ控えめ×もちもち生地がポイント！スタジアム2階のカフェにあるよ。"
+    },
+    {
+      "heading": "甲子園のいちごパフェ",
+      "body": "フルーツたっぷり＆ボリューミーなパフェは女子人気No.1🍓観戦しながらちょっと贅沢な気分になれちゃう！"
+    },
+    {
+      "heading": "名古屋のやきいもソフト",
+      "body": "やきいも×ソフトクリームが新感覚！ほんのり温かいお芋とひんやりアイスのバランスがクセになる…売り場は3塁側だよ。"
+    }
+  ],
+  "caption": "「野球観戦＝ビールとおつまみ」だけじゃない！球場ごとに個性たっぷりの“映えスイーツ”が揃ってるの、知ってた？🍓アイスやカラフルドリンクはもちろん、限定パフェや和スイーツまで…思わず写真を撮りたくなるメニューばかり。\n友達同士でシェアしたり、推し色コーデに合わせるのも楽しいよ！みんなのお気に入りや、他に気になる球場スイーツがあったらコメントで教えてね。保存して、次回の観戦プランに役立ててね✨",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#球場スイーツ",
+    "#観戦コーデ",
+    "#推し活",
+    "#東京ドーム",
+    "#神宮球場",
+    "#横浜スタジアム",
+    "#甲子園",
+    "#グルメ女子"
+  ],
+  "coverImagePrompt": "A group of 20-something Japanese women enjoying baseball at a stadium in Japan, holding colorful sweets and drinks, natural photorealistic style, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-10-18_evening/01_cover.jpg",
+    "media/carousel/2026-10-18_evening/02_slide.jpg",
+    "media/carousel/2026-10-18_evening/03_slide.jpg",
+    "media/carousel/2026-10-18_evening/04_slide.jpg",
+    "media/carousel/2026-10-18_evening/05_slide.jpg",
+    "media/carousel/2026-10-18_evening/06_slide.jpg",
+    "media/carousel/2026-10-18_evening/07_cta.jpg"
+  ]
+}
