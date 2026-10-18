@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-18",
+  "category": "球場グルメ紹介",
+  "title": "甲子園グルメ女子のエモナイター乾杯リール",
+  "scene": "夕暮れの甲子園、ふわっとしたナチュラルな雰囲気の20代女性が観客席で話しながら球場グルメを手に持って紹介。ホットドッグを一口食べて幸せそうな笑顔。ラストは友達とビールで乾杯、球場のナイター照明が映り込む。",
+  "caption": "「球場グルメって、なんでこんなに特別なんだろう？」\n甲子園のスタンドから見える夕焼け、手にした名物ホットドッグと冷えたビール。友達と一緒に「美味しい〜！」って笑い合うあの時間、最高すぎる☺️🍺一口食べただけで、なんだか毎日の疲れもふっと消える気がするんだよね。野球は詳しくなくても、こういうワクワクが詰まってるから、観戦デビューの人にもおすすめ！みんなはどの球場グルメが一番好き？ぜひコメントで教えてね♡ 気になった人は保存して次の観戦の参考にしてみて！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#甲子園グルメ",
+    "#グルメ旅",
+    "#推し活女子",
+    "#一人観戦デビュー",
+    "#ナイター女子",
+    "#友達とおでかけ",
+    "#夏の思い出"
+  ],
+  "prompts": {
+    "kling": "A photorealistic vertical smartphone-shot video, 10-15 seconds, at Koshien Stadium during sunset and early night game. Two Japanese women in their twenties, fashionable and natural makeup, sitting in the stands. Shot begins with one smiling and holding up a hot dog and stadium food, chatting with her friend and showing the food to the camera. She takes a bite, laughs, then both women raise their beers and toast, with the glowing baseball stadium lights in the background. Soft white, beige, pastel pink and blue color tones, natural handheld camera movement, no overlays or AI artifacts.",
+    "veo": "0-5s: Close-up handheld shot of two stylish Japanese women in their twenties at Koshien Stadium, sitting in the stands as the sun sets. One holds up a hot dog with a bright smile, the other holds a cup of beer, pastel colors glowing softly.\n5-10s: The woman takes a happy bite of her hot dog, then laughs with her friend, stadium sounds and crowd in the background, natural light and bokeh from the evening sky.\n10-15s: Both women raise their beers and do a gentle cheers, camera slightly zooms out to reveal the illuminated field and iconic lights of the stadium, capturing a relaxed girls-night mood. All scenes shot vertically, smartphone-style, with authentic handheld feel.",
+    "higgsfield": "Vertical, 10–15 seconds. Start with handheld close-up as a 20s Japanese woman holds up a hot dog and laughs to her friend, pan slowly to include the second woman holding a beer. As she takes a bite, gently push-in to capture her happy expression. Pull back for final scene: both friends raise their beers in a toast, slight camera shake like a phone held by a friend, warm stadium lights and sunset pastel sky in background. Soft lighting, pastel color grading, no overlays or AI look."
+  },
+  "videoFile": "videos/2026-10-18.mp4"
+}
