@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-20",
+  "category": "一人観戦Vlog風",
+  "title": "はじめての一人観戦Vlog＠バンテリンドームナゴヤ",
+  "scene": "夕方のバンテリンドーム外観をスマホで撮影しながら入場。売店でかわいいドリンクやスイーツを手にワクワクしつつ座席へ。観戦席で乾杯して、試合後の夜道をエモく歩きながら今日の思い出を噛みしめる一人称視点。",
+  "caption": "『一人で球場行くの、ちょっと勇気いるかも…』そんな風に思ってたけど、実際やってみると意外と大丈夫。今日は自分のペースで、自由にバンテリンドームを満喫してきたよ！売店のスイーツもドリンクも、誰にも気を使わずにゆっくり選べるし、席に着いた瞬間からワクワクが止まらない🌸観戦中に周りの女子のコーデを観察しちゃうのも一人観戦の楽しみ方のひとつ。試合の余韻に浸りながら帰る道も、なんだか心地いい。『一人だけど、全然寂しくない！』この感覚、共感できる人いるかな？一人観戦、少しでも気になってる人の背中を押せたらうれしいです。保存やコメントで、あなたの球場デビューのエピソードもぜひ教えてね🩷",
+  "hashtags": [
+    "#野球女子",
+    "#一人観戦",
+    "#バンテリンドーム",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#ぼっち観戦",
+    "#推し活女子",
+    "#休日の過ごし方",
+    "#エモい瞬間",
+    "#名古屋女子"
+  ],
+  "prompts": {
+    "kling": "A vertical 9:16, 10-15 second photorealistic sequence shot on a smartphone: a Japanese woman in her 20s walking toward Vantelin Dome Nagoya in the soft evening light, filming herself in selfie mode as she enters the stadium with a relaxed smile. She stops at a pastel-colored concession stand, gently picks up a cute drink and dessert, and happily carries them to her seat. The camera switches to her point of view as she sits, raises her drink for a solo toast surrounded by softly-lit crowds. The final shots show her strolling through the softly lit concourse and out into the night, soaking in the afterglow of the game. Soft pastel tones of white, beige, pink, and blue dominate, with natural handheld motion and no overlays or AI artifacts.",
+    "veo": "0-5s: Handheld selfie shot from a Japanese woman in her 20s as she walks toward Vantelin Dome Nagoya in the golden hour, the stadium visible in the background, gentle anticipation on her face. 5-10s: She films herself buying a pastel-colored drink and dessert at a stylish concession stand, then transitions to her point of view as she sits at her stadium seat, crowd and field softly blurred. 10-15s: POV of her lifting her drink for a solo toast; then, scenes of her leisurely walking alone along the softly-lit concourse and exiting into the night, taking a deep breath and smiling, bathed in pastel lights. Soft, natural smartphone look throughout.",
+    "higgsfield": "Start with gentle handheld walking motion following a Japanese woman in her 20s approaching the stadium; switch to pan as she enters, then push-in on her at the concession stand selecting food. Transition to a steady handheld shot at her seat for a POV solo toast, slight camera shake for realism. End with a slow handheld follow as she walks out through the softly-lit concourse into the night, soft pastel color grading, natural light, and no text or AI artifacts."
+  },
+  "videoFile": "videos/2026-10-20.mp4"
+}
