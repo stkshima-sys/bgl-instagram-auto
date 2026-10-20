@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-21",
+  "category": "球場の景色",
+  "title": "エモい甲子園の夕暮れ、ナイターの魔法",
+  "scene": "甲子園スタジアムのスタンドで20代女性2人が夕焼け空とナイター照明に包まれて並んで座る。彼女たちはスマホで球場全景を撮影し合い、観客席の灯りやワクワクする表情をアップで映す。最後はベージュやパステルカラーの球場全景がじんわり映り、自然な笑顔で「また来たいね」と話す。",
+  "caption": "夕暮れの甲子園スタジアム、ナイターの照明が点き始めるあの瞬間って、なんだか胸がキュンとしちゃう。球場全体が淡いピンクやブルーに染まって、ちょっと非日常な世界にいるみたい…！友達と並んで座って「これぞ青春かも」なんて思いながら、スマホで景色を撮るのも楽しい時間のひとつ。野球のルールがわからなくても、こういう雰囲気だけでも十分満たされるのが球場の魅力だよね。『一緒に行く人いないかも』って不安だった私も、いざ来てみたら自然と心がほぐれて大満足！次はどこの球場に行こうかな？みんなの推し球場や素敵な風景の体験談、コメントで教えてくれるとうれしいな♡保存して、今度の観戦計画にもぜひ使ってね！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#甲子園",
+    "#ナイター観戦",
+    "#推し活女子",
+    "#夕暮れスタジアム",
+    "#野球観戦のある暮らし",
+    "#エモい瞬間",
+    "#一人観戦デビュー"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, natural smartphone-shot look. Two stylish Japanese women in their 20s, soft natural makeup, casual but feminine fashion, sit in Koshien Stadium stands at sunset. They take photos of the glowing field and each other. Camera captures handheld moments of their smiles, soft pink-blue sky, and warm stadium lights turning on. Subtle handheld pans and close-ups, pastel tone, warm crowd atmosphere, no AI artifacts, no text.",
+    "veo": "Scene breakdown (vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look): 0-5s: Handheld shot as two Japanese women in their 20s sit closely in the Koshien Stadium stands, sunset sky behind them, softly laughing and pointing to the glowing field. 5-10s: Close-up as they take photos of the stadium and each other, capturing the pastel pink and blue sky and the lights turning on, gentle focus on their happy expressions and stylish outfits. 10-15s: Wide handheld pan across the softly lit crowd and stadium, warm and emotional mood, with the women looking out over the field, a gentle smile exchanged, pastel tones throughout.",
+    "higgsfield": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-style handheld camera. Start with handheld push-in on two 20s Japanese women sitting in Koshien Stadium stands at sunset, then gentle pan following their gaze across the glowing pastel-lit field. Quick handheld close-up as they take photos and smile. End with slow handheld zoom-out capturing the stadium bathed in soft evening and stadium lights, natural crowd ambience, pastel color grading, no overlays or AI look."
+  },
+  "videoFile": "videos/2026-10-21.mp4"
+}
