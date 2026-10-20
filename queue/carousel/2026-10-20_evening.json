@@ -1,44 +1,44 @@
 {
   "date": "2026-10-20",
   "slot": "evening",
-  "category": "一人観戦",
-  "title": "一人観戦が楽しくなる5つのコツ",
+  "category": "球場グルメ",
+  "title": "写真映え球場スイーツ5選🍓",
   "slides": [
     {
-      "heading": "実はハードル低め！",
-      "body": "「一人で球場行くのって勇気いるよね…」そんなイメージ、実は半分ウソかも。\n行ってみたら意外と周りも一人多いんです🥰"
+      "heading": "1. みんな大好きいちごパフェ",
+      "body": "神宮球場の定番・いちごパフェは、たっぷりのフルーツとクリームたっぷりで見た目も可愛い♡\n1,000円／スタンド売店ですぐチェック！"
     },
     {
-      "heading": "おすすめの座席選び",
-      "body": "一人観戦ビギナーさんには、通路側や端の席がおすすめ！\nトイレも行きやすいし、周りを気にせずゆったりできます✨"
+      "heading": "2. 東京ドームのカラフルアイス",
+      "body": "カップも見た目も映えるレインボーアイスはSNSでも大人気✨\n東京ドームのグッズ売店近くで食べられるよ♪"
     },
     {
-      "heading": "一人観戦の過ごし方",
-      "body": "グルメをじっくり味わったり、気になるプレーを自分のペースでチェック！\n誰にも気を使わず、推し活に没頭できる時間が最高です🍧"
+      "heading": "3. ズムスタ限定！カープシュー",
+      "body": "広島・マツダスタジアム限定のカープシューは野球ボール型でキュン💕\n売店「カープ飯」でGETできるよ。"
     },
     {
-      "heading": "持ち物リストをチェック",
-      "body": "必要最低限でOK！スマホ、エコバッグ、羽織りもの、ウェットティッシュがあれば安心。\n暑さ・寒さ対策だけは忘れずに🥤"
+      "heading": "4. 京セラドームのフルーツサンド",
+      "body": "ふわふわパン×カラフルフルーツが可愛い！\n京セラ2階コンコース「カフェルパ」がおすすめ。"
     },
     {
-      "heading": "みんなけっこう一人です！",
-      "body": "一人観戦、やってみるとほんとに大丈夫。\n「自分だけ浮く？」なんて不安になるけど、案外気楽でハマるかも👀"
+      "heading": "5. バンテリンのソフトクリーム",
+      "body": "ナゴヤドーム（バンテリン）の濃厚ソフトは王道だけど外せない！\n押しカラーのトッピングでカスタマイズも♡"
     }
   ],
-  "caption": "「一人で球場行くのってちょっと勇気いる…」そんな風に思っている人、実は多いよね。\nでも実際に行ってみると、思っていたよりも一人観戦の女子って多いんです！おすすめ座席や持ち物、過ごし方を知っておけば、不安がグッと減るはず。\n推し活もグルメも、誰にも気を使わず自分ペースで楽しめるのが一人観戦のいいところ。\nちょっとでも「やってみたいかも」と思ったら、ぜひ保存してみてね！\nみんなの『ひとり観戦エピソード』もコメントで教えてもらえたら嬉しいです🌸",
+  "caption": "球場で「これ食べたい！」ってなる映えスイーツ、つい気になっちゃうよね🍦💗\n今回は野球女子に人気の“写真映え”球場スイーツを5つまとめてみたよ！\n推し活や友達とシェアしても、一人観戦のご褒美にもぴったり。どこで買えるか＆値段もプチ解説付きだから、観戦の日に迷わなくてすむかも。\nみんなが好きな球場スイーツや、食べた写真もぜひコメントで教えてね！保存も忘れずに🥰\n",
   "hashtags": [
     "#野球女子",
-    "#一人観戦",
     "#球場グルメ",
     "#観戦コーデ",
-    "#ぼっち観戦",
-    "#推し活初心者",
-    "#推し活女子",
-    "#球場ライフ",
-    "#女性向けメディア",
-    "#野球観戦デビュー"
+    "#スイーツ好きな人と繋がりたい",
+    "#推し活記録",
+    "#女子会スポット",
+    "#球場映え",
+    "#神宮球場",
+    "#東京ドームグルメ",
+    "#観戦初心者"
   ],
-  "coverImagePrompt": "A photorealistic, natural lighting image of a stylish Japanese woman in her 20s enjoying a baseball game in a Japanese stadium, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, candid moment, no text",
+  "coverImagePrompt": "photorealistic Japanese women in their 20s enjoying baseball at a Japanese stadium, holding colorful sweets and drinks, soft pastel tones (white, beige, pastel pink, light blue), feminine fashion magazine aesthetic, natural lighting, no text",
   "images": [
     "media/carousel/2026-10-20_evening/01_cover.jpg",
     "media/carousel/2026-10-20_evening/02_slide.jpg",
