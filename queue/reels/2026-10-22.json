@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-22",
+  "category": "一人観戦Vlog風",
+  "title": "一人観戦Vlog｜PayPayドームで女子の休日",
+  "scene": "福岡PayPayドーム前でワクワクしながら入場。売店でドリンクとフードを選ぶ手元や表情。座席に着いて乾杯、夕暮れのナイター照明と一人観戦の余韻を感じながら帰路。",
+  "caption": "『一人で野球観戦って、やっぱり不安かも…？』そんな気持ち、私も最初すごく分かる🥺でも実際に勇気を出してPayPayドームに足を運んでみたら、ワクワクしながら入場して、好きなグルメをじっくり選んで、お気に入りの席でふうっと深呼吸。隣を気にせず自由に推しの応援もできて、少しずつ一人時間を楽しむ余裕が生まれてきた自分にびっくりしたんだ。帰り道、夕焼けのドームを見上げながら“また来よう”って、ちょっとだけ自分に自信が持てるようになったかも。みんなは一人観戦、どう思う？初観戦の思い出や一人で感じたこと、ぜひコメントで教えてね！このVlogが勇気のきっかけになったら嬉しいです🌸 #保存推奨 ",
+  "hashtags": [
+    "#野球女子",
+    "#一人観戦",
+    "#球場グルメ",
+    "#PayPayドーム",
+    "#観戦コーデ",
+    "#野球観戦デビュー",
+    "#福岡おでかけ",
+    "#推し活女子",
+    "#野球ライフ",
+    "#保存したくなる投稿"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Japanese woman in her 20s, natural makeup and stylish pastel casual wear, arriving solo at PayPay Dome Fukuoka. Shots of her walking through stadium entrance with excitement, close-up of her hands choosing food and drinks at the concession stand, then happily carrying her tray. She finds her seat in the stands, smiles, and holds up her drink for a solo toast against the backdrop of softly lit evening stadium and pastel sky. Final shot: slow walk out of the stadium, gentle lighting, looking back at the glowing dome with a content expression. Soft white, beige, pastel pink, and blue color grading. No text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, natural handheld style, smartphone-shot look. 0-5s: Japanese woman in her 20s, natural makeup, stylish pastel outfit, walks up to PayPay Dome with anticipation, handheld. 5-10s: Close-ups of her hands choosing cute snacks and drinks at a concession stand, happy expression, followed by carrying the tray to her seat; soft pastel color grading. 10-15s: She sits down in the stands, shows a gentle smile, holds up her drink for a solo cheers, camera gently push-in on her face as the background transitions to evening lights, then a slow walk leaving the dome, glancing back at the softly glowing stadium. No text overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot look, Japanese woman in her 20s, natural makeup, pastel casual fashion. Handheld camera pans as she walks to PayPay Dome entrance; transition to steady handheld push-in and close-up shots of her hands and face selecting and picking up food at the concession stand. Handheld tracking shot as she walks to her seat, sitting down and raising her drink for a solo toast. Soft pan across her face illuminated by pastel-lit stadium lights. Final handheld wide shot follows her from behind as she walks out of the stadium, pausing to look at the dome under dusk sky. Soft, airy, pastel tones throughout. No text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-10-22.mp4"
+}
