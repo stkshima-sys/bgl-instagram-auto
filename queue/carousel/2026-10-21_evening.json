@@ -2,43 +2,51 @@
   "date": "2026-10-21",
   "slot": "evening",
   "category": "球場グルメ",
-  "title": "絶対映える！球場スイーツ5選",
+  "title": "インスタ映え球場グルメ7選🍦",
   "slides": [
     {
-      "heading": "1. 神宮のピンクソフト",
-      "body": "ふんわり可愛いピンク色のソフトクリーム🍦\n神宮球場の名物で、インスタでも人気♡\n売店は外野スタンド近くが穴場だよ！"
+      "heading": "球場グルメ、侮れない！",
+      "body": "野球観戦の楽しみはグルメにもあり♡\n今しか食べられない球場の「映え」メニュー、チェックしてる？\n友達に自慢したくなる絶品も集めました！"
     },
     {
-      "heading": "2. 甲子園のレモンケーキ",
-      "body": "爽やかレモンの香りと甘さが絶妙🍋\nボール型で見た目もキュート！\n1個350円、1塁側売店が一番すいてるかも。"
+      "heading": "1. 神宮名物・チュロス",
+      "body": "サクサクのチュロスは写真映え間違いなし🍩\nお値段は350円、売店は外野ゲート近く！\n観戦中の小腹タイムにぴったり✨"
     },
     {
-      "heading": "3. PayPayドームのチュロス",
-      "body": "カラフルシュガーがたっぷりのチュロスは\nドーム限定の映えスイーツ✨\n入り口近くのお店で早めにGETがおすすめ。"
+      "heading": "2. 東京ドーム・ジャイアンツドッグ",
+      "body": "ボリューミーなホットドッグは東京ドームの定番🌭\n700円、1階コンコースの売店でGET！\n片手で食べながら推しも応援できるよ"
     },
     {
-      "heading": "4. マリンのいちご大福",
-      "body": "旬のいちごが丸ごと入った贅沢大福🍓\n甘いもの好きは絶対チェックして！\nバックネット裏の和スイーツコーナーで♡"
+      "heading": "3. ZOZO・フルーツソーダ",
+      "body": "ZOZOマリンなら、カラフルなフルーツソーダがおすすめ🍹\n500円、球場内のカフェワゴンにて！\n暑い日も爽やか気分になれる"
     },
     {
-      "heading": "5. バンテリンドームの生プリン",
-      "body": "とろける食感がクセになる生プリン🥚\n小さな瓶が超写真映え！\n内野席のカフェブースですぐ売り切れるから注意！"
+      "heading": "4. 横浜・ベイスターズパフェ",
+      "body": "スイーツ好き必見！ベイスターズカラーのパフェも大人気🥣\n800円、BAYSTOREで販売中。\n応援タオルと一緒に撮ると可愛い♡"
+    },
+    {
+      "heading": "5. 食べる順番もコツ！",
+      "body": "最初にドリンクや軽めのおやつ→メイン→デザートが鉄板の流れ🍽️\n売店は混みやすいから早めに並ぶのがポイントだよ！"
+    },
+    {
+      "heading": "あなたの推しグルメ教えて！",
+      "body": "「これ美味しかった！」という球場グルメ、ぜひコメントでシェアしてね📩\n保存しておけば次の観戦がもっと楽しみに！"
     }
   ],
-  "caption": "球場で「これは絶対写真撮っちゃう！」ってなる、映えスイーツまとめてみたよ🍦🍓\n野球観戦って意外と甘いものが恋しくなるよね。球場によってスイーツの個性も色々で楽しい！しかも全部、友達とシェアしたくなる可愛さ。観戦しながら、ちょっとしたご褒美タイムにどうぞ♪\nみんなのお気に入り球場グルメや「これ食べてみたい！」って思ったものがあったら、ぜひコメントで教えてね☺️\n他にもおすすめスイーツがあれば、保存していつか行く時の参考にしてね！",
+  "caption": "野球観戦で毎回迷うのが、球場グルメ選び…！\nどれも美味しそうで、つい目移りしちゃうよね💭 今回は「インスタ映え」間違いなしの球場グルメを7つまとめました。チュロスやパフェ、カラフルなドリンクなど、どれもバエ確実🍦推し活しながら、可愛いグルメで気分もアップ！売店の場所や食べる順番も参考にしてみてね。\nみんなのおすすめ球場グルメも、コメント欄でぜひ教えてください☺️友達とシェアして、次の観戦計画に役立ててね！困ったときはこの投稿を保存しておけば安心♡",
   "hashtags": [
     "#野球女子",
     "#球場グルメ",
     "#観戦コーデ",
-    "#球場スイーツ",
-    "#推し活女子",
-    "#神宮球場",
-    "#甲子園グルメ",
-    "#ドームスイーツ",
     "#映えグルメ",
-    "#野球観戦日記"
+    "#インスタ映え",
+    "#推し活女子",
+    "#野球観戦",
+    "#一人観戦女子",
+    "#スタジアムグルメ",
+    "#ベイスターズ女子"
   ],
-  "coverImagePrompt": "20-something Japanese women enjoying sweets at a Japanese baseball stadium, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "coverImagePrompt": "A photorealistic, natural lighting photograph of Japanese women in their 20s enjoying baseball at a Japanese stadium, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic. No text.",
   "images": [
     "media/carousel/2026-10-21_evening/01_cover.jpg",
     "media/carousel/2026-10-21_evening/02_slide.jpg",
@@ -46,6 +54,8 @@
     "media/carousel/2026-10-21_evening/04_slide.jpg",
     "media/carousel/2026-10-21_evening/05_slide.jpg",
     "media/carousel/2026-10-21_evening/06_slide.jpg",
-    "media/carousel/2026-10-21_evening/07_cta.jpg"
+    "media/carousel/2026-10-21_evening/07_slide.jpg",
+    "media/carousel/2026-10-21_evening/08_slide.jpg",
+    "media/carousel/2026-10-21_evening/09_cta.jpg"
   ]
 }
