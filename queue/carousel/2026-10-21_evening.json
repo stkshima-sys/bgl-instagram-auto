@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-21",
+  "slot": "evening",
+  "category": "球場グルメ",
+  "title": "絶対映える！球場スイーツ5選",
+  "slides": [
+    {
+      "heading": "1. 神宮のピンクソフト",
+      "body": "ふんわり可愛いピンク色のソフトクリーム🍦\n神宮球場の名物で、インスタでも人気♡\n売店は外野スタンド近くが穴場だよ！"
+    },
+    {
+      "heading": "2. 甲子園のレモンケーキ",
+      "body": "爽やかレモンの香りと甘さが絶妙🍋\nボール型で見た目もキュート！\n1個350円、1塁側売店が一番すいてるかも。"
+    },
+    {
+      "heading": "3. PayPayドームのチュロス",
+      "body": "カラフルシュガーがたっぷりのチュロスは\nドーム限定の映えスイーツ✨\n入り口近くのお店で早めにGETがおすすめ。"
+    },
+    {
+      "heading": "4. マリンのいちご大福",
+      "body": "旬のいちごが丸ごと入った贅沢大福🍓\n甘いもの好きは絶対チェックして！\nバックネット裏の和スイーツコーナーで♡"
+    },
+    {
+      "heading": "5. バンテリンドームの生プリン",
+      "body": "とろける食感がクセになる生プリン🥚\n小さな瓶が超写真映え！\n内野席のカフェブースですぐ売り切れるから注意！"
+    }
+  ],
+  "caption": "球場で「これは絶対写真撮っちゃう！」ってなる、映えスイーツまとめてみたよ🍦🍓\n野球観戦って意外と甘いものが恋しくなるよね。球場によってスイーツの個性も色々で楽しい！しかも全部、友達とシェアしたくなる可愛さ。観戦しながら、ちょっとしたご褒美タイムにどうぞ♪\nみんなのお気に入り球場グルメや「これ食べてみたい！」って思ったものがあったら、ぜひコメントで教えてね☺️\n他にもおすすめスイーツがあれば、保存していつか行く時の参考にしてね！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#球場スイーツ",
+    "#推し活女子",
+    "#神宮球場",
+    "#甲子園グルメ",
+    "#ドームスイーツ",
+    "#映えグルメ",
+    "#野球観戦日記"
+  ],
+  "coverImagePrompt": "20-something Japanese women enjoying sweets at a Japanese baseball stadium, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic, photorealistic, natural lighting, no text",
+  "images": [
+    "media/carousel/2026-10-21_evening/01_cover.jpg",
+    "media/carousel/2026-10-21_evening/02_slide.jpg",
+    "media/carousel/2026-10-21_evening/03_slide.jpg",
+    "media/carousel/2026-10-21_evening/04_slide.jpg",
+    "media/carousel/2026-10-21_evening/05_slide.jpg",
+    "media/carousel/2026-10-21_evening/06_slide.jpg",
+    "media/carousel/2026-10-21_evening/07_cta.jpg"
+  ]
+}
