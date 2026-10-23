@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-23",
+  "slot": "evening",
+  "category": "球場グルメ",
+  "title": "インスタ映え球場グルメ7選♡保存版",
+  "slides": [
+    {
+      "heading": "1. 神宮のカラフルわたあめ",
+      "body": "ピンクやブルーのふわふわわたあめは、神宮球場の定番映えスイーツ♡\n甘さ控えめ＆写真映えで、観戦SNAPにぴったり！\n売店「SWEET STAND」でGETできるよ。"
+    },
+    {
+      "heading": "2. 東京ドームのビッグチュロス",
+      "body": "東京ドームで大人気のチュロスは、1本が超ビッグサイズ！\nシナモンやチョコ味など種類いろいろ。\nコンコースの専用カートで販売中🍫"
+    },
+    {
+      "heading": "3. 横浜スタジアムのレインボーかき氷",
+      "body": "暑い日の定番、カラフルなレインボーかき氷は夏観戦の必需品！\n氷の上にシロップの虹をオン🌈\n外野売店エリアで気軽に買えるよ。"
+    },
+    {
+      "heading": "4. 甲子園のたこ焼きプレート",
+      "body": "甲子園といえばやっぱりたこ焼き！\n熱々&とろとろで、見た目も◎。\n球場内の「たこ焼きスタンド」をチェックしてみてね。"
+    },
+    {
+      "heading": "5. PayPayドームのパフェソーダ",
+      "body": "フルーツたっぷり＆ソーダの上にアイスがのった新感覚ドリンク♡\n見た目の可愛さでSNSでも話題！\n「SWEET CAFE」で販売中。"
+    },
+    {
+      "heading": "6. 楽天モバイルパークの牛タン串",
+      "body": "仙台名物の牛タン串は、女子にも大人気！\nジューシーで食べ応えあり。\n内野コンコース中央付近の売店でゲットできるよ🥩"
+    },
+    {
+      "heading": "7. おすすめの食べる順番",
+      "body": "甘い→しょっぱい→甘いの順で食べると満足感アップ♡\nまずはスイーツ、その後に軽食やお肉系、最後にまたスイーツでしめるのがベストだよ。"
+    }
+  ],
+  "caption": "「どの球場グルメ食べるか迷うよね！」\nSNSで“映え”る球場グルメを7つまとめました♡\n神宮のカラフルわたあめや、東京ドームのビッグチュロス、横浜のレインボーかき氷など…実際に食べて本当に可愛かったものだけを厳選！\n売店の場所や、スイーツ→フード→スイーツの満足ルートもご紹介。\n推し活にも一人観戦にもおすすめのメニューばかりなので、次の観戦の参考にしてみてね🍧\n「このグルメ知ってた！」「他にもおすすめあったらコメントで教えて♪」など、みなさんの推しグルメもぜひ教えてほしいです！\n保存して、次の観戦プランに役立ててね♡",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#球場スイーツ",
+    "#インスタ映えグルメ",
+    "#一人観戦",
+    "#推し活女子",
+    "#神宮球場",
+    "#ドーム飯",
+    "#野球観戦初心者"
+  ],
+  "coverImagePrompt": "photorealistic, natural lighting, no text, Japanese women in their 20s enjoying baseball at a Japanese stadium, soft pastel tones (white, beige, pastel pink, light blue), feminine Japanese fashion magazine aesthetic",
+  "images": [
+    "media/carousel/2026-10-23_evening/01_cover.jpg",
+    "media/carousel/2026-10-23_evening/02_slide.jpg",
+    "media/carousel/2026-10-23_evening/03_slide.jpg",
+    "media/carousel/2026-10-23_evening/04_slide.jpg",
+    "media/carousel/2026-10-23_evening/05_slide.jpg",
+    "media/carousel/2026-10-23_evening/06_slide.jpg",
+    "media/carousel/2026-10-23_evening/07_slide.jpg",
+    "media/carousel/2026-10-23_evening/08_slide.jpg",
+    "media/carousel/2026-10-23_evening/09_cta.jpg"
+  ]
+}
