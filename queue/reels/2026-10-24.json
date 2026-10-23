@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-24",
+  "category": "観戦コーデ",
+  "title": "甲子園おしゃれ観戦コーデ3パターン着回しリール",
+  "scene": "甲子園のコンコースで、20代女性が今日の観戦コーデをスマホで友達に自撮りするように紹介。全身鏡の前でコーデチェンジの瞬間を早送り風に撮影。球場の夕暮れやライトアップを背景に、友達と笑い合う自然なワンシーンで締め。",
+  "caption": "「野球観戦、服装どうしよう…？」そんな悩み、結構あるよね。今日は甲子園で実際に着てきた“観戦コーデ”を3パターン紹介！Tシャツ×デニムの定番も、推しカラーの小物で可愛さUP♡ワンピースにキャップを合わせた女の子っぽコーデも、意外と球場にぴったりなんだよ。最後はライトアップされたスタンドで友達とパシャリ。どのコーデが好き？一人観戦派さんも仲間と来る日も、コーデ次第で気分も変わるよね！保存して次の観戦コーデの参考にしてみて🧢 コメントで「球場定番コーデ」もぜひ教えて！",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#球場ファッション",
+    "#甲子園球場",
+    "#推しカラーコーデ",
+    "#一人観戦",
+    "#スタジアム女子",
+    "#コーデ着回し",
+    "#女子ライフ",
+    "#おしゃれ観戦"
+  ],
+  "prompts": {
+    "kling": "A photorealistic vertical video (9:16, 10-15s) of two stylish Japanese women in their 20s at Koshien Stadium. The video opens with the main girl standing in the stadium concourse, smiling and showing off her fan-inspired outfit in front of a full-length mirror. She does quick outfit changes (T-shirt and denim, feminine dress with cap, pastel color top) as if taking selfies. Lighting is soft with pastel pinks, beige, and whites highlighted. Background features stadium lights turning on as the sun sets. Final shot: the two friends laugh together, handheld camera moves naturally, no visible AI artifacts, no text overlays.",
+    "veo": "Cut 1 (0-5s): Main girl stands in Koshien Stadium concourse, holding her phone up, showing off her stylish baseball game outfit with a smile in a pastel-toned setting. Cut 2 (5-10s): Fast-paced transition as she quickly switches to 2 more coordinated looks, posing in front of a full-length mirror, emulating a social media try-on. Cut 3 (10-15s): Friends join her, all laughing and taking a selfie together in front of the stadium with sunset and stadium lights, soft pastel pink and blue hues, natural handheld camera feel.",
+    "higgsfield": "Vertical 9:16, 10-15s. Begin with a handheld pan from the stadium entrance to a young Japanese woman posing in the concourse. Push-in on the girl as she changes outfits in front of a mirror (timelapse effect), then a gentle handheld sweep as two friends join, laughing and taking selfies under the soft evening stadium lights. Ensure realistic lighting, pastel pink, beige, white, and blue tones, and a natural, smartphone-filmed atmosphere, no overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-10-24.mp4"
+}
