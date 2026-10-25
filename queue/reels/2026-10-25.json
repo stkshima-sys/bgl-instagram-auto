@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-25",
+  "category": "一人観戦Vlog風",
+  "title": "エスコンで一人観戦した日、ちょっと大人になれた気がした",
+  "scene": "エスコンフィールド北海道、秋の夕方。一人でチケットを手に入場ゲートをくぐる。売店で可愛いスイーツを買い、席でスタンドの景色を見ながら乾杯。自分だけの余韻と高揚感に包まれながら、夜の球場をあとにする。",
+  "caption": "「一人で野球観戦、実はちょっと憧れてたんだよね。」\n最初はちょっぴりドキドキだったけど、好きな服を着て、推しグルメを選んで、自分のタイミングでスタンドに座ると、なんだか自由でワクワクする！席に座って、目の前に広がる球場の景色を独り占めした瞬間、しあわせってこういうのかも…って思った。\nひとり乾杯した帰り道、今日の自分をちょっとだけ好きになれた気がしたよ。もし「ひとりって不安かも？」って迷ってる人がいたら、思い切って一歩踏み出してみてほしいな🍺\nみんなの“一人観戦エピソード”もぜひ教えて！この投稿、保存して次の観戦の参考にしてね✨",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#一人観戦",
+    "#エスコンフィールド",
+    "#推し活女子",
+    "#スタジアムライフ",
+    "#女子目線",
+    "#北海道お出かけ",
+    "#スポーツ観戦初心者"
+  ],
+  "prompts": {
+    "kling": "A 20s Japanese woman with natural makeup and stylish casual outfit, shot on smartphone, walks through the entrance gate of ES CON Field Hokkaido in the early evening. She smiles softly, buys a pastel-hued dessert and drink from a ballpark concession stand, then walks to her seat in the stands surrounded by soft lights and pastel colors. She sits alone, looking out over the field, takes a selfie with her drink, and breathes in the moment. The last shot shows her leaving the stadium with gentle night lights behind her. Camera is handheld, impressionistic, with soft color grading in white, beige, pastel pink and blue.",
+    "veo": "0-5s: A Japanese woman in her 20s, filmed vertically on a smartphone, approaches and walks through the entrance gate of ES CON Field Hokkaido in soft autumn light, looking a bit nervous but excited. 5-10s: She browses and buys a pastel ice cream or drink at a stylish concession stand, then walks up the stairs to her solo seat as the field lights turn on. 10-15s: Sitting alone, she cheers quietly with her drink, takes a selfie, gazes at the glowing field, then walks out of the stadium into the night, with gentle, emotional lighting. All scenes have handheld, candid, photorealistic motion and pastel soft color tones.",
+    "higgsfield": "Start with a handheld camera tracking shot following a casually stylish Japanese woman entering ES CON Field Hokkaido. Use a gentle pan as she orders at the concession stand, then a smooth push-in as she finds her seat and sits down, showing her relaxed and smiling with a soft-focus background of the stadium. End with a handheld pan capturing her walking out into the softly lit night, with pastel tints and a natural, real-life smartphone-shot look."
+  },
+  "videoFile": "videos/2026-10-25.mp4"
+}
