@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-27",
+  "category": "球場グルメ紹介",
+  "title": "甲子園で写真映えグルメ3選＆乾杯リール",
+  "scene": "夕暮れの甲子園スタンドで、20代女性が球場グルメ（たこ焼き＆アイス）を笑顔で手に持ち紹介。友達とセルフィー風にビールで乾杯。ラストはグルメを一口食べる幸せそうなカット。",
+  "caption": "「この瞬間のために球場来てるかも」ってくらい、甲子園のグルメって特別🍦💕観戦前に売店巡りして、可愛いたこ焼きと、インスタで話題のパステルアイスをGET🐙✨ビールで乾杯する瞬間、球場のざわめきと一緒にワクワクが高まるんだよね。今日は初めて一人観戦で来たけど、推し活って意外と自分のご褒美タイムかも。甲子園ならではのグルメ、みんなのおすすめもぜひ教えてほしいな。どれ食べるか迷っちゃう人も、保存して次の観戦の参考にしてね！🥰\n\n#野球女子 #球場グルメ #観戦コーデ #甲子園 #たこ焼き #球場スイーツ #一人観戦 #推し活女子 #写真映えグルメ #ビール女子",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#甲子園",
+    "#たこ焼き",
+    "#球場スイーツ",
+    "#一人観戦",
+    "#推し活女子",
+    "#写真映えグルメ",
+    "#ビール女子"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, filmed in natural handheld smartphone style. Two fashionable Japanese women in their 20s (natural makeup, magazine-like casual style) stand in the stands at Koshien Stadium during golden hour. They excitedly show off pastel-colored ballpark food (takoyaki and a cute ice cream) to the camera, then clink plastic cups of beer together with authentic laughter, finishing with a close-up as one woman takes a happy bite of the food. Soft white, beige, pastel pink and sky blue tones throughout. Background: lively stadium crowd; no text, no visible AI artifacts.",
+    "veo": "Vertical 9:16, 10–15s, photorealistic, handheld smartphone look, Japanese baseball stadium. 0-5s: Two Japanese women in their 20s, stylish and natural, show takoyaki and pastel ice cream to camera, smiling in the stands with soft sunset lighting. 5-10s: Women laugh and clink plastic cups of beer, with lively Koshien crowd behind them, light bokeh. 10-15s: Close-up—one takes a joyful bite of food, the other looks on, warm ambient colors. Soft white, beige, pastel pink, and sky blue color palette, no text overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot, soft pastel grading. Scene: 2 Japanese women in their 20s at Koshien stadium, one holding takoyaki, the other pastel ice cream. Camera motion: handheld, casual pan across both women; push-in as they clink beer cups, capturing cheerful expressions; gentle rack focus to close-up as one takes a happy bite; natural stadium background, no overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-10-27.mp4"
+}
