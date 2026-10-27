@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-28",
+  "category": "球場グルメ紹介",
+  "title": "神宮球場グルメ3選：野球女子の幸せ瞬間",
+  "scene": "夕暮れの神宮球場、女性が観客席で名物グルメとビールを持って微笑む。売店でグルメを選ぶ楽しげなシーン。グルメを友達とシェアして乾杯、ふとした瞬間に心からの笑顔。",
+  "caption": "球場グルメって、野球観戦の楽しみのひとつだよね🍺🍟今日は神宮球場の女子ウケ間違いなしグルメをピックアップしてみたよ！観戦しながら片手で食べられる定番フードから、写真映えするスイーツまで、ついつい手が伸びちゃうものばかり。球場で乾杯するビールも、いつもより特別に感じるかも。友達とシェアしたり、一人で好きなものをゆっくり楽しんだり…その日の気分で選べるのも魅力✨野球観戦初心者でも、グルメ巡りからスタートしてみるのもおすすめ！あなたの神宮グルメNo.1は何？コメントで教えてね。気になったら保存して、次の観戦の参考にしてみて！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#神宮球場",
+    "#女子会",
+    "#推し活",
+    "#ビール女子",
+    "#一人観戦",
+    "#写真映えグルメ",
+    "#休日の過ごし方"
+  ],
+  "prompts": {
+    "kling": "A soft, photorealistic 9:16 vertical video showing two stylish Japanese women in their 20s at Meiji Jingu Stadium during sunset. In the first shot, they hold iconic stadium food and cold beer with genuine smiles, sitting in pastel-colored audience seats. Cut to a lively scene of one woman picking out food at a well-lit food stall, colors soft and natural. Finish with both women clinking beers and sharing fries, capturing a candid, happy moment. Handheld smartphone-shot feel, soft pastel color grading, no AI artifacts.",
+    "veo": "0-5s: Two fashionable Japanese women in their 20s walk through Meiji Jingu Stadium's bustling concourse, stopping at a popular food vendor, soft pastel tones. 5-10s: One woman receives a tray with signature stadium food, both laugh and head back to their seat, sun setting in the background. 10-15s: In the stands, they clink their beer cups, take a bite of food, and share a fun, heartwarming smile, all shot handheld in a photorealistic, candid style.",
+    "higgsfield": "Handheld camera walking through stadium concourse, gentle pan across food stall with pastel displays, push-in as women receive food. Jump cut to audience seats: handheld, slight tilt as friends raise beer and food, capturing natural reactions and laughter. Color grading in soft white, beige, pastel pink and blue tones, photorealistic, smartphone-shot style, no overlays."
+  },
+  "videoFile": "videos/2026-10-28.mp4"
+}
