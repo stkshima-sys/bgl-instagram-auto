@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-29",
+  "category": "球場グルメ紹介",
+  "title": "甲子園映えグルメ3選＆乾杯リール",
+  "scene": "甲子園の観客席で、20代女性が笑顔で大人気グルメ（焼きそば、唐揚げ、アイス）を手に持って見せる。友達とグルメを分け合ったり一口食べる瞬間をゆるく撮影。最後は球場ビールで乾杯＆ライトアップのエモい夕暮れを背景に、幸せそうな表情。",
+  "caption": "「やっぱり球場グルメって、観戦の楽しさを倍増させてくれるよね🍽️✨ 甲子園に来ると、つい定番の焼きそばや唐揚げを買っちゃうのは私だけじゃないはず…！友達と分け合いながら『どれが一番好き？』なんて話す時間も、すごく好き。ナイター照明が点いた瞬間、冷たいビールで乾杯するあの高揚感も最高だよね🍻 パステルカラーの空とグルメが映えるこの雰囲気、写真も動画も撮りたくなっちゃう。皆はどの球場グルメが推し？コメントで教えてね！この投稿、観戦前の参考に保存してね🫶",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#甲子園グルメ",
+    "#推し活女子",
+    "#ビール女子",
+    "#女子旅スポット",
+    "#おしゃれ観戦",
+    "#写真映えグルメ",
+    "#初観戦応援"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, soft pastel color grading, smartphone-shot look, two Japanese women in their 20s sitting in the stands at Koshien Stadium, holding and presenting classic ballpark foods (yakisoba, karaage, ice cream). Natural handheld camera, capturing candid smiles as they share and take bites. Last, they cheers with beers against the softly-lit evening sky, expressing relaxed happiness. No text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, no text overlays, no AI artifacts. 0-5s: Two Japanese women in their 20s at Koshien Stadium, taking a selfie while holding yakisoba and karaage, pastel colors glowing in sunset light. 5-10s: Close-up as they share bites, laughing naturally, camera moving between faces and food. 10-15s: Pull-back wide shot as they raise plastic cups of beer for a toast, evening stadium lights in the background, candid happy expressions.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot look, handheld camera; start with a gentle handheld pan across two Japanese women in their 20s in Koshien Stadium stands, holding yakisoba and karaage. Camera pushes in as they eat and laugh together, then slides back for a wide-angle shot of their beer toast against softly-lit night sky. Soft pastel color grading, no text, no AI artifacts."
+  },
+  "videoFile": "videos/2026-10-29.mp4"
+}
