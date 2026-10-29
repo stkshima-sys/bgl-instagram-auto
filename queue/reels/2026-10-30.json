@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-30",
+  "category": "推し活動画",
+  "title": "推し活女子のユニフォーム応援リール@バンテリンドーム",
+  "scene": "夕暮れのバンテリンドーム名古屋、ふんわりした照明の中でユニフォーム姿の2人組女子。タオルを掲げたりうちわを振って盛り上がり、観客席の熱気と女子たちの笑顔を切り取る。最後は夜空とスタジアムの光に包まれて小さくジャンプ、友達と語り合う瞬間をキャッチ。",
+  "caption": "友達とユニフォームで球場に来るだけで、普段とは違うワクワクがあふれるのって不思議だよね🩵\nバンテリンドーム名古屋のスタンドは、推しのタオルを掲げたり、うちわを振るだけで心がひとつになる瞬間がいっぱい！試合中はみんなで立ち上がって叫んだり、点が入った瞬間はハイタッチで知らない人とも一体感。ナイターの光と応援グッズのカラフルさが合わさると、推し活って最高にエモくなるんだなぁって実感しちゃう。\n一緒に来る人がいなくても、ちょっと勇気を出してスタンドに行けば“野球女子の仲間”が自然にできちゃうかも。\nあなたの推し活エピソードやおすすめの応援グッズ、ぜひコメントで教えてね！保存して次の観戦DAYの参考にしてみて✨",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#推し活",
+    "#バンテリンドーム",
+    "#ユニフォーム女子",
+    "#スタンドの熱気",
+    "#一人観戦デビュー",
+    "#ナイター観戦",
+    "#推しグッズ"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look. Two stylish Japanese women in their 20s, wearing pastel baseball uniforms (white, beige, pastel pink, light blue), standing in the stands of Vantelin Dome Nagoya at dusk. They cheer, wave towels and uchiwa fans with their favorite player's name, exchanging smiles and excited glances. The camera follows natural handheld pan and slight push-ins as they jump and celebrate a dramatic play, surrounded by a vibrant, emotional crowd. Soft, natural lighting and pastel color grading, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot look, soft pastel grading.\n0-5s: Golden hour at Vantelin Dome, two Japanese women in pastel uniforms walk up stadium stairs, laughing and looking at each other. \n5-10s: They stand in their seats, waving towels and uchiwa fans as the crowd cheers; the camera captures candid close-ups of their smiles and the energetic crowd around. \n10-15s: Under night stadium lights, the girls jump in sync, then turn to each other and share a joyful high five, with the glowing stadium as the backdrop. No overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot look. Start with a handheld pan following two Japanese women in pastel baseball uniforms as they enter the stands at Vantelin Dome Nagoya; push-in to capture their faces while cheering and waving towels; quick handheld movement as they lift their uchiwa fans and wave them at a dramatic moment; finish with a gentle pull-back showing the glowing stadium lights and the girls jumping together, all in soft pastel tones. No text, no AI feel."
+  },
+  "videoFile": "videos/2026-10-30.mp4"
+}
