@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-31",
+  "category": "球場の景色",
+  "title": "PayPayドームときめきナイターの景色リール",
+  "scene": "夕暮れどきのPayPayドーム、パステルカラーに染まる空と柔らかいナイター照明。観客席で微笑む20代女性がスマホでスタンドやグラウンドを撮影。ドーム内を友達と歩きながら高揚した表情、試合前の期待感とエモーショナルな空気を切り取る。",
+  "caption": "野球観戦の日って、球場に着いた瞬間から特別な時間が始まる気がする。夕暮れのPayPayドームは、空がピンクや水色に染まって、ナイターのライトがふんわり輝き出すこの瞬間が本当に好き🌇💙野球が詳しくなくても、この雰囲気やみんなのワクワクした空気だけで、何回でも来たくなるよね。今日は友達とだけど、一人で来ても癒されるし、球場の景色を見るだけでリフレッシュできるのも魅力かも。ドームでしか味わえない“非日常”、ぜひ体験してみてほしい！あなたが好きな球場の景色はどこ？コメントで教えてね♡ 保存して次の観戦の参考にどうぞ✨",
+  "hashtags": [
+    "#野球女子",
+    "#球場の景色",
+    "#PayPayドーム",
+    "#ナイター観戦",
+    "#球場デート",
+    "#推し活女子",
+    "#一人観戦デビュー",
+    "#観戦初心者",
+    "#福岡おでかけ",
+    "#球場思い出"
+  ],
+  "prompts": {
+    "kling": "A vertical 9:16, 10-15s photorealistic video shot with a smartphone look, featuring two Japanese women in their 20s sitting in the stands at PayPay Dome, Fukuoka. Soft pastel color grading with white, beige, pastel pink, and light blue tones, as the sun sets and gentle night stadium lights come on. One woman smiles and films the glowing field with her phone, while the other gazes at the sky, surrounded by a happy crowd. Natural, candid handheld camera movement. No text, no AI artifacts.",
+    "veo": "vertical, 9:16, 10-15 seconds, photorealistic, smartphone-shot look, soft pastel color grading. 0-5s: Closeup of Japanese woman in her 20s smiling, taking a deep breath while seated in the stands as the sunset colors fill the stadium behind her. 5-10s: Camera pans to her friend beside her, both holding smartphones and capturing the dreamy evening atmosphere—glowing lights, pastel sky, and excited crowd. 10-15s: Wide shot of both women standing, looking out over the field as the stadium lights illuminate, smiling and chatting naturally. No text overlays, no AI artifacts.",
+    "higgsfield": "vertical 9:16, 10-15s, photorealistic, soft pastel color grading. Start with a slow handheld push-in on a Japanese woman in her 20s sitting in PayPay Dome stands at sunset. Subtle handheld pan left to include her friend, both looking around and filming the scene with their smartphones. Quick overhead handheld tilt to capture the glowing dome lights and pastel sky, ending with a natural focus pull onto the women’s happy expressions. No text, no AI artifacts."
+  },
+  "videoFile": "videos/2026-10-31.mp4"
+}
