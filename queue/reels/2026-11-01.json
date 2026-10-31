@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-01",
+  "category": "球場の景色",
+  "title": "ナイターの甲子園、夕暮れシネマティック散歩",
+  "scene": "夕陽に染まる甲子園の外観をスマホでぱしゃり。スタンドでナイター照明が灯り始め、きらきらの観客席で女の子がわくわくした表情。売店のネオンと人の賑わい、ふと笑顔でこぼれる『来てよかった』の瞬間。",
+  "caption": "夕暮れの甲子園、ナイター開始直前。球場の外を歩いていると、オレンジ色に染まる空と外野スタンドのシルエットに、すでにドキドキしちゃう。初めてのひとり観戦でも、ナイターの優しい照明とスタンドのざわめきが、なんだか味方になってくれる気がするんだよね。球場の売店エリアでは、いろんなグルメやドリンクが並んでて、どれにしようか迷うのも楽しい時間。ふと立ち止まってスマホをかざしたら、友達に送りたくなるくらい“映え”な景色…♡ 一人でも、誰とでも、球場に来るたび新しい思い出ができるのが野球観戦のいいところだと思う。\n\nみんなはどんな球場の景色が好き？コメントで教えてね♪ 夕暮れナイターが気になったら、保存して次のおでかけの参考にしてみて！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#甲子園ナイター",
+    "#夕暮れスポット",
+    "#推し活女子",
+    "#おしゃれ球場",
+    "#スマホ撮り部",
+    "#エモ風景",
+    "#一人観戦デビュー"
+  ],
+  "prompts": {
+    "kling": "A photorealistic vertical 9:16 smartphone video of two stylish Japanese women in their 20s at Koshien Stadium at sunset. The video starts with a handheld slow walk outside the stadium, the sky glowing orange and pink, the iconic Koshien sign in soft focus. Cut to the two women sitting in the stands, softly lit by stadium lights starting to glow, their faces lit with anticipation and gentle smiles. Quick moving shots of colorful food stalls and neon lights, with people bustling around. The whole video has a soft pastel filter in white, beige, pastel pink and blue. Natural, believable handheld motion, no overlays, no AI artifacts.",
+    "veo": "Vertical 9:16 photorealistic smartphone-shot video, soft pastel color grading. 0-5s: Handheld establishing shot walking toward Koshien Stadium at sunset, orange and pink sky, white and pastel tones. 5-10s: Medium close-up of two Japanese women in their 20s sitting in the stands, softly lit by starting stadium lights, looking around with smiles, capturing the emotional atmosphere. 10-15s: Quick sequences of them exploring the food stalls and neon-lit concourse, ending with a POV 'snap' of the stadium glowing as night falls. Natural camera movement, no overlays, no AI artifacts.",
+    "higgsfield": "Photorealistic vertical 9:16 smartphone-style video at Koshien Stadium at sunset. Start with handheld pan walking outside the stadium, warm pastel sunset colors, then smooth push-in to two Japanese women sitting in the stands with soft stadium lighting on their faces, then a slow handheld sweep as they explore the lively food stalls and neon signs. Natural, unstaged feeling, soft white and pastel pink/blue color tones, no overlays, no visible AI artifacts."
+  },
+  "videoFile": "videos/2026-11-01.mp4"
+}
