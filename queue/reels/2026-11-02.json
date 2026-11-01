@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-02",
+  "category": "推し活動画",
+  "title": "推しユニで夏ナイター応援♡リアル球場推し活リール",
+  "scene": "夕暮れのES CON FIELD HOKKAIDOのスタンドで、20代女子2人が推し選手のユニフォーム姿で並んで座り、笑顔でタオルやうちわを掲げて応援。チア風に立ち上がって盛り上がるカットや、観客席の周りの熱気も映し出す。柔らかいパステルカラーの空気感で、リアルな“推し活”の高揚感が伝わる。",
+  "caption": "今日は大好きな推し選手のユニフォームで、夕暮れナイター観戦🌙✨スタンドに座るだけで、自然と心がワクワクしてくるのは『推し活』ならではの特権かも。みんなでタオルを掲げたり、うちわを振って思いきり応援してると、周りの熱気まで伝わってきて…！野球のルールがまだわからなくても、推しの名前を呼ぶだけで、会場とひとつになれる感覚が好き。ひとり観戦はもちろん、友達と一緒に盛り上がるのも、どちらも最高なんだよね。あなたの“推し活”の思い出もぜひコメントで教えてね！保存して次の観戦の参考にもしてみて🥰",
+  "hashtags": [
+    "#野球女子",
+    "#推し活",
+    "#観戦コーデ",
+    "#球場グルメ",
+    "#推しユニ",
+    "#ナイター観戦",
+    "#エスコンフィールド",
+    "#女子野球部",
+    "#一人観戦",
+    "#青春の一瞬"
+  ],
+  "prompts": {
+    "kling": "Two stylish Japanese women in their 20s, wearing trendy baseball uniforms and natural makeup, sit together in the sunset-lit stands of ES CON FIELD HOKKAIDO. They smile, laugh, and energetically wave team towels and decorative fans, occasionally standing up to cheer. The handheld smartphone camera pans around to capture the surrounding crowd's lively atmosphere and the pastel-pink and blue sky. The scene glows with soft, feminine magazine-like color grading—no overlays, realistic lighting, and gentle close-ups on the girls' emotional, joyful faces.",
+    "veo": "vertical 9:16, photorealistic, smartphone-shot look, Japanese women in their 20s at ES CON FIELD HOKKAIDO, soft pastel color grading, no text overlays, no AI artifacts. 0-5s: Two women in stylish uniforms and pastel accessories enter the stadium, selfie-style shots, excitement in their expressions. 5-10s: They sit in the crowd, waving towels and fans toward the field, shot from behind and side angles to show the bustling, colorful stands. 10-15s: Close-ups of their beaming faces as they cheer, intercut with quick shots of the crowd's energy, ending with the women exchanging happy glances under the night lights.",
+    "higgsfield": "Handheld camera motion with gentle panning across the stands, occasional push-in to close-ups of two Japanese women in pastel baseball uniforms cheering in the soft evening light at ES CON FIELD HOKKAIDO. Camera follows their hands as they wave towels and fans, sweeps to capture the crowd’s energy, and lingers on their joyful, authentic reactions. No AI artifacts, soft feminine color palette, natural magazine-like lighting throughout."
+  },
+  "videoFile": "videos/2026-11-02.mp4"
+}
