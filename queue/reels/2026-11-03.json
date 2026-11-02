@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-03",
+  "category": "観戦コーデ",
+  "title": "Es Con Field北海道・推し球団カラーカーデ着回しコーデ",
+  "scene": "夕方のEs Con Fieldコンコースで、20代女性が推しカラーのカーディガンを着て全身ショット。観戦前にスマホで自撮りしながら、球場を歩いたりベンチでおしゃれを見せる。最後に友達と笑い合いながらポーズする、柔らかな雰囲気。",
+  "caption": "『何着て行けばいいかわからない…』って、観戦初心者の頃いつも悩んでた！でも最近は、お気に入りの推しカラーのカーディガンを着るだけで、ぐっと気分が上がるし、写真映えもバッチリ。球場のコンコースで友達とコーデを見せ合うのも、観戦のひそかな楽しみのひとつだよね。Es Con Field北海道は広いから、スニーカーやパンツで動きやすさも重視。でも、カーデ羽織ると一気に“野球女子らしさ”が出ておすすめ！みんなは推しカラー、何色？コメントで教えてね💬 保存して、次の観戦コーデの参考にしてみて！✨",
+  "hashtags": [
+    "#観戦コーデ",
+    "#野球女子",
+    "#EsConField",
+    "#球場ファッション",
+    "#推し活女子",
+    "#20代女子の日常",
+    "#カーディガンコーデ",
+    "#コンコースショット",
+    "#球場おしゃれ",
+    "#保存したくなる"
+  ],
+  "prompts": {
+    "kling": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion, at Es Con Field Hokkaido, Japanese woman in her 20s, natural makeup, wearing a pastel-colored cardigan and casual pants, posing for a full body shot on the stadium concourse during golden hour. She casually takes selfies, walks and spins lightly to show her outfit, ending with a candid smile with her female friend beside her. Soft pastel color grading (white, beige, light pink, pale blue), lively and natural, no text overlays, no AI artifacts.",
+    "veo": "vertical 9:16, 10-15s total, photorealistic, smartphone-shot look, natural handheld motion, soft pastel color grading. 0-5s: Japanese woman in her 20s stands in Es Con Field Hokkaido concourse, shows a pastel cardigan outfit, shyly smiles at her phone for a selfie. 5-10s: She walks along the concourse, camera follows her movement, spins to show the full outfit, interacts with a friend. 10-15s: Both laugh and strike a cute pose together, ballpark seats and evening sky softly blurred in background. No text overlays. No AI artifacts.",
+    "higgsfield": "vertical 9:16, photorealistic, smartphone-shot look, handheld camera with slight shake, gentle push-in on the woman posing on concourse, then pan left as she walks, brief 360-degree turn to show outfit, push-in as she and her friend laugh and pose against ballpark lights. Soft pastel color grading (white, beige, pink, blue), natural lighting, ambient stadium crowd in background. No text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-11-03.mp4"
+}
