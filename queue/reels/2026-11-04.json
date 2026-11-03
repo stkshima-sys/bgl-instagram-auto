@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-04",
+  "category": "初心者の一日",
+  "title": "初めてのナゴヤドーム観戦、ドキドキから最高の思い出へ",
+  "scene": "1. ナゴヤドームの前でチケットとスマホを手に、少し緊張しながら微笑む20代女性。2. 球場のコンコースを歩き、売店で可愛いスイーツを選びながらわくわくした顔。3. 夕暮れのスタンドで歓声を感じながら写真を撮り、最後は友達と笑顔でピース。",
+  "caption": "『一人で初めてナゴヤドームに来てみた日』\n正直、駅から向かう時はちょっとドキドキ…。だけど、球場の中に入った瞬間、わくわくが勝って、可愛いグルメを選んだり、売店で悩んだりしてるうちに気付けばすっかり夢中に。\n夕暮れのスタンドで観戦してると、周りのみんなの声や空気感も新鮮で、一人でも全然寂しくなかった！球場って女子同士や一人でも全然楽しめる場所なんだなって実感💡\n『初めてひとり観戦行ったことある？』や、『初心者におすすめの持ち物ある？』など、ぜひコメントで教えてね！気になったら保存もどうぞ♡",
+  "hashtags": [
+    "#野球女子",
+    "#観戦デビュー",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#ナゴヤドーム",
+    "#一人観戦",
+    "#推し活女子",
+    "#初心者ガイド",
+    "#スポーツ観戦女子",
+    "#女子のお出かけ"
+  ],
+  "prompts": {
+    "kling": "A photorealistic vertical 9:16 video, 10-15 seconds, natural handheld smartphone motion. A stylish Japanese woman in her 20s with natural makeup stands excited in front of Vantelin Dome Nagoya, holding a ticket and smartphone. The camera follows her as she walks through the pastel-lit stadium concourse, browsing cute food at a colorful concession stand. She selects a pastel dessert, smiling shyly, and then moves to the stands where, in the soft evening light, she snaps photos and enjoys the lively baseball atmosphere with friends, ending with a candid laughing peace sign. Soft pastel color grading, gentle light, natural crowd background, no text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot look, natural handheld motion, soft pastel color grading. 0-5s: Japanese woman in her 20s, styled as in a fashion magazine, excited yet slightly nervous, posing for a selfie and holding a ticket in front of Vantelin Dome Nagoya. 5-10s: She enters the stadium, walks through the vibrant concourse, stops at a food stand with pastel decor, and chooses a cute dessert while chatting with a friend. 10-15s: Transition to the evening-lit seating area; she sits in the stands, soaks in the baseball game atmosphere, takes a photo of the field, and finishes with a joyful laugh and peace sign. No text overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot, soft pastel color grading. Start with handheld motion as the woman approaches and stands before Vantelin Dome Nagoya. Slight pan as she enters and walks through the concourse. Slow push-in as she chooses food at the pastel-decorated concession. Handheld tracking shot pulling back as she heads to her seat. Cut to a stationary shot with gentle handheld sway as she enjoys the sunset-lit game, then a candid pan to her laughing with a friend. No text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-11-04.mp4"
+}
