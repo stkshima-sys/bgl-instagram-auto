@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-05",
+  "category": "球場の景色",
+  "title": "ナイターに染まるエスコンの夕景",
+  "scene": "夕焼けでほんのり染まるエスコンフィールドの観客席で、20代女性がスマホ片手に景色にうっとり。スタンドから美しい球場全体を背景に、照明が灯り始める瞬間を笑顔で眺める。ラストは友達とアイコンタクトしながら、ゆっくり立ち上がってナイトゲームの始まりに胸が高鳴るシーン。",
+  "caption": "夕暮れの球場って、なんでこんなに特別な気持ちになるんだろう。ナイター照明が少しずつ灯りはじめて、エスコンフィールドが魔法みたいな雰囲気に包まれる時間。仕事帰りや週末、1人でも友達とでも、心がふわっと軽くなるこの瞬間が大好きです。\n\n「球場に行ってみたいけど、勇気が出ない」「1人って浮くのかな？」って不安な人も、こんな景色が待ってるなら思いきって来てみてほしいかも。野球のことがよくわからなくても、ただこの空気を全身で味わうだけで癒やされるよ☺️\n\nみんなはどんな球場の景色が好き？コメントで教えてね♡保存して、次の観戦の参考にもしてね！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#エスコンフィールド",
+    "#ナイター女子",
+    "#夕暮れの球場",
+    "#北海道女子",
+    "#一人観戦デビュー",
+    "#推し活記録",
+    "#球場ライフ"
+  ],
+  "prompts": {
+    "kling": "A photorealistic handheld vertical video, 10-15 seconds, showing two stylish Japanese women in their 20s sitting in the stands of Es Con Field Hokkaido during sunset. One woman admires the pastel-colored sky and softly lit field, capturing the view with her smartphone. The scene captures soft, dreamy lighting as stadium lights slowly turn on. Both women share a gentle glance, then stand excitedly as the game is about to begin. Soft white, beige, pastel pink, and light blue tones dominate. No text overlays, no AI artifacts.",
+    "veo": "0-5s: Close-up of a Japanese woman in her 20s sitting in the stands at Es Con Field Hokkaido, face lit by the pastel colors of sunset, looking dreamily towards the field. 5-10s: Wide shot showing both women as they enjoy the atmosphere, the stadium lights glowing against the evening sky, one taking a casual smartphone photo. 10-15s: Handheld shot as the women exchange a smile, stand up slowly together, and gaze at the field as the night game is set to begin. Soft pastel color grading, natural handheld feel, no text overlays, no AI artifacts.",
+    "higgsfield": "Handheld camera, starts with a gentle pan across sunset-lit stands at Es Con Field Hokkaido, push-in to two Japanese women in their 20s admiring the view, camera lingers on their natural smiles as stadium lights illuminate. Final shot gently tilts up with the women as they stand, showing the glowing field. Soft white, beige, pastel pink, and light blue dominate. Photorealistic, smartphone video look, no overlays or AI artifacts."
+  },
+  "videoFile": "videos/2026-11-05.mp4"
+}
