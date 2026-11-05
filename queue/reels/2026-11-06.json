@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-06",
+  "category": "球場グルメ紹介",
+  "title": "甲子園グルメで乾杯！野球観戦女子の幸せタイム",
+  "scene": "夕暮れの甲子園スタジアムで、20代女性が観客席に座り、名物の球場グルメ（焼きそばや唐揚げ、アイス最中など）をにこやかに手に持つ。美味しそうにひと口食べて笑顔になり、友達と冷えたビールで乾杯。パステルカラーを纏ったファッションがやさしく映えるエモーショナルなワンシーン。",
+  "caption": "野球観戦＝応援だけじゃなくて、グルメもめっちゃ楽しみな時間！今日は友達と甲子園で球場限定グルメを食べ比べ🍽️焼きそばの香りと唐揚げのジューシーさ…推しアイスを食べながら「やっぱ球場で食べると格別だよね」って盛り上がっちゃった🍦夜風を感じながら乾杯したビールも最高すぎた🥺野球初心者でもグルメ＆雰囲気だけで大満足できるのが球場の魅力かも。一人観戦も安心だし、誰かを誘ってシェアしたくなるこの気持ち…みんなのおすすめ球場グルメも教えて！コメント欄で語ろう✨ この投稿、保存して次の観戦の参考にしてね！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#甲子園グルメ",
+    "#観戦コーデ",
+    "#推し活女子",
+    "#一人観戦デビュー",
+    "#焼きそば好き",
+    "#ビールで乾杯",
+    "#野球観戦のある暮らし",
+    "#ベースボールガールズ"
+  ],
+  "prompts": {
+    "kling": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. At Koshien baseball stadium in Japan during a summer evening game, two stylish Japanese women in their 20s (natural makeup, pastel-toned outfits) are sitting in the stands. First, close up of one woman holding and showing off a tray with yakisoba, karaage, and ice cream monaka. Next, her taking a happy bite and smiling. Then, the women clink plastic cups of beer, laughing together as the stadium lighting glows softly behind them, pastel pink and beige outfits nicely visible. Natural, candid, no text overlays.",
+    "veo": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, soft pastel color grading, Japanese women in their 20s. 0-5s: Close-up of a Japanese woman in pastel fashion, sitting in Koshien stadium, holding up yakisoba and karaage with one hand, smiling at the camera as the background fills with stadium seats and soft golden light. 5-10s: Cut to her excitedly tasting the food, showing a genuine happy reaction, friend next to her also laughing and holding ice cream. 10-15s: Both women do a gentle cheers with beers, looking at each other, the night lights and pastel clothing making the moment feel emotional and real. No text overlays, no AI artifacts.",
+    "higgsfield": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, Japanese women in their 20s at Koshien stadium, evening. Handheld camera: Start with a slow handheld push-in on a woman holding yakisoba and karaage, then pan to her face as she eats, capturing her reaction. Quick handheld pan to her friend, both do a soft clink with beers, laugh, and look at the glowing field. Pastel color grading, no overlays, natural vibe."
+  },
+  "videoFile": "videos/2026-11-06.mp4"
+}
