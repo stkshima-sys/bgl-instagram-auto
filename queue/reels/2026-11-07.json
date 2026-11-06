@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-07",
+  "category": "推し活動画",
+  "title": "推しユニで叶える、球場エモ応援デイ",
+  "scene": "夕暮れのバンテリンドーム名古屋で推し選手のユニフォームを着た女性たちが、笑顔でタオルを掲げて応援。うちわを振ったり、スタンドの一体感に包まれて、お互いに写真を撮り合う。ナチュラルな笑顔と柔らかな色調で“推し活”のときめきを表現。",
+  "caption": "推しのユニフォームを着て、ドームに一歩踏み出すだけで気分がとってもあがるよね🥰✨ 今日は初めて一人で応援に来たけど、球場のスタンドは同じ推しカラーの女の子でいっぱい！うちわを持って、タオルを全力で掲げて…自然とみんなと一体感が生まれて、気づいたらすっごく楽しかった。夕暮れのナイター照明に照らされると、野球場がちょっと特別な場所に感じるのも推し活の醍醐味かも。『一人観戦って勇気いるかも…』って思ってたけど、同じ気持ちの女子がたくさんいるから安心してＯＫ！こういう推し活の日、みんなどんな瞬間にキュンとする？コメントで教えて＆気になったら保存してね💗",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#推し活",
+    "#バンテリンドーム",
+    "#推しユニ",
+    "#一人観戦デビュー",
+    "#うちわ応援",
+    "#女子スタンド",
+    "#エモ活",
+    "#野球観戦日記"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, shot as if handheld by a smartphone. Two Japanese women in their 20s, wearing pastel-toned baseball jerseys and natural makeup, are in the stands at Vantelin Dome Nagoya at dusk. They smile, wave team towels above their heads, and cheer with hand-held fans. The camera moves naturally to capture candid, emotional moments and friends taking photos of each other, with a soft pink and beige pastel color palette and real crowd energy in the background. No AI artifacts, no text overlays.",
+    "veo": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, soft pastel grading. 0-5s: Close-up of a Japanese woman in her 20s gently smiling as she puts on her pastel baseball jersey in the concourse, natural handheld. 5-10s: Medium shot as she joins another friend in the stands, both waving towels, holding uchiwa and cheering amid the lively crowd, camera pans to catch the energy. 10-15s: Golden hour/night lighting as they take a selfie together, laughing, with stadium lights and pastel tones reflecting on their faces, soft focus on background crowds. No AI artifacts, no text overlays.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot. Start with a handheld pan from the stadium crowd to a close-up of a Japanese woman in her 20s in a pastel baseball jersey smiling brightly. Push-in as she raises her towel and waves her uchiwa, then dolly right to reveal her friend joining, both cheering with the crowd. Soft pastel color grading, natural movement, no AI artifacts, no overlays."
+  },
+  "videoFile": "videos/2026-11-07.mp4"
+}
