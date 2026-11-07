@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-08",
+  "category": "初心者の一日",
+  "title": "初めてのPayPayドーム観戦ドキュメント",
+  "scene": "ドーム前で緊張した表情の女の子が一人で球場に到着。観戦グッズを手に入れてワクワクしながら席に向かい、試合が始まると溢れる笑顔で楽しむ姿。",
+  "caption": "はじめての一人野球観戦、ドキドキするけど一歩踏み出してみた日。最初は球場の空気にちょっと圧倒されて…座席までの道も心細かったけど、売店で推しカラーのユニフォームを選んだ瞬間から気分が上がっていくのが自分でも分かった！スタンドに座って、ピンクのドリンク片手に応援うちわを振ってたら、他の野球女子と目が合ってなんか安心…★ 試合が始まった瞬間、歓声とライトに包まれて“あ、来てよかったかも”って思えた夜。最初の一歩がちょっと不安でも、案外すぐ馴染めちゃうから大丈夫。皆さんの初観戦エピソードもぜひ教えてください！保存して、迷った時に見返してね。",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#一人観戦デビュー",
+    "#PayPayドーム",
+    "#初心者ガイド",
+    "#観戦のある暮らし",
+    "#推し活女子",
+    "#保存推奨",
+    "#野球観戦あるある"
+  ],
+  "prompts": {
+    "kling": "vertical 9:16, 10-15s, photorealistic, looks like smartphone video, Japanese woman in her early 20s with natural makeup and casual stylish clothes, arriving at PayPay Dome, Fukuoka. She walks alone toward the entrance, pauses nervously, then smiles while picking out a pastel pink team towel at the goods stand. Final shot: she sits in her seat at sunset, stadium lights glowing, holding a colorful drink, eyes sparkling with excitement. Soft pastel color grading, handheld movement, no overlays, no AI artifacts.",
+    "veo": "vertical 9:16, photorealistic, smartphone-shot look, soft pastel color grading. 0-5s: Japanese woman in her 20s, alone, arrives at PayPay Dome and takes a deep breath, looking a bit nervous. 5-10s: She browses goods at a stadium stand, smiles as she picks a pastel pink towel and holds it against her chest. 10-15s: She sits in her seat as the game begins, stadium lights and crowd around her, she sips a drink and her expression shifts to joy and excitement. No overlays, no AI artifacts.",
+    "higgsfield": "vertical 9:16, photorealistic, natural handheld camera. Opening: slow handheld push-in on a Japanese woman in her 20s standing at PayPay Dome entrance, slight nervous smile. Pan as she walks through the concourse, selects a pastel pink towel at a goods stand, and beams. Cut to handheld orbit around her in the stands, bathed in soft sunset and stadium lighting, holding a colorful drink, beaming with excitement. Soft pastel color palette, no overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-11-08.mp4"
+}
