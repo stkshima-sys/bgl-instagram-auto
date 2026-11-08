@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-09",
+  "category": "球場の景色",
+  "title": "神宮ナイター×夕暮れ女子のエモ風景リール",
+  "scene": "明治神宮球場のスタンドで、夕暮れからナイター点灯へ移り変わる瞬間をスマホで切り取る。パステルカラーの私服で友達と肩を寄せて座る20代女性たち。オレンジ〜紺に染まる空、スタンドのざわめき、ライトアップの瞬間まで、心がほっとする一連の風景。",
+  "caption": "夕暮れからナイターへの時間、明治神宮球場のスタンドは本当に魔法みたい。推しの試合を待ちながら、空の色がどんどん変わっていくのを眺めてるだけで、忙しい毎日が少しリセットされるような気がするんだよね☺️💡友達と『あの雲、ピンクになってる！』『もうすぐ照明つきそう！』って小さな発見を共有するのもすごく幸せ。野球が好きな人も、実はまだ行ったことない人も、神宮のこの景色は一度は体感してほしいかも。あなたのお気に入り球場の推し風景、ぜひコメントで教えてね！保存して、今度のお出かけ計画に役立てて🎀",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#神宮球場",
+    "#ナイター観戦",
+    "#夕暮れマジック",
+    "#推し活女子",
+    "#スポーツ観戦女子",
+    "#球場のある暮らし",
+    "#保存したくなる景色"
+  ],
+  "prompts": {
+    "kling": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. At Meiji Jingu Stadium during sunset turning into night. Two stylish Japanese women in their 20s, wearing pastel casual outfits, sitting close together in the stands. Camera captures the orange-pink sky, the city edge, the stadium lights flicking on, and their smiling, relaxed faces. Soft pastel color grading, no text overlays, no AI artifacts.",
+    "veo": "vertical 9:16, photorealistic, smartphone-shot look. 0-5s: Handheld shot gliding over the stands at Meiji Jingu Stadium, revealing two fashionable Japanese women in their 20s looking at the sunset sky, soft pastel colors. 5-10s: Close-up as the city begins to light up, stadium lights start to glow, the girls react with excitement and point up. 10-15s: Wide handheld shot as the stadium fully illuminates under the night sky, girls share a warm smile, the whole scene feels calm and magical.",
+    "higgsfield": "vertical 9:16, photorealistic, smartphone-shot look, natural handheld motion with gentle push-in. Start with handheld panning across the sunset stands, then medium handheld shot of two Japanese women in their 20s seated together, push-in to their faces as the stadium lights come on and the ambient lighting shifts to night. Soft pastel color grading, no text overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-11-09.mp4"
+}
