@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-10",
+  "category": "観戦コーデ",
+  "title": "神宮観戦のおしゃれコーデ3days着回しリール",
+  "scene": "明治神宮球場のコンコースで2人の20代女性がナチュラルな笑顔で全身コーデを紹介。日替わりで異なるアイテムを使い回し、球場グルメや観戦グッズもさりげなく手に持つ。夕暮れのやさしい光とパステルカラーコーデが柔らかく映えるエモいスマホ動画風。",
+  "caption": "「神宮デートや友達と観戦、一人でふらっと行く日…毎回コーデ悩まない？」\n実は“着回し力”さえ押さえれば、野球観戦もおしゃれに楽しめる！今回は実際に明治神宮球場で撮った3daysのリアルな観戦コーデを紹介。軽めのアウター＋ロゴT＋デニム、推しカラーのシャツワンピ、パステルカーディガン＋スカート…小物やバッグで雰囲気を変えるだけでも全然違うよ🌿 \n全身コーデはもちろん、球場グルメや観戦必須のグッズもさりげなく映してるので、これからの観戦コーデの参考にぜひ🤍 みんなはどんなコーデで行く？お気に入りの着回し術もコメントで教えてね！保存して次の観戦前のチェックリストに使ってね🧢",
+  "hashtags": [
+    "#野球女子",
+    "#観戦コーデ",
+    "#明治神宮球場",
+    "#着回しコーデ",
+    "#球場ファッション",
+    "#球場グルメ",
+    "#一人観戦",
+    "#推し活女子",
+    "#春夏コーデ",
+    "#おしゃれ女子"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15 seconds, photorealistic, smartphone-shot look. Two Japanese women in their 20s, soft natural makeup, stylish yet relaxed fashion in pastel colors. Filmed at Meiji Jingu Stadium's concourse with handheld camera work. They take turns showing off three different outfits, posing and twirling, smiling naturally. Color palette: white, beige, pastel pink, light blue. The evening sunlight creates a soft, emotional scene. One holds a baseball snack, the other a team cap and tote bag. No AI artifacts, no text overlays.",
+    "veo": "Vertical 9:16, photorealistic, smartphone-shot, pastel color tones. \n0-5s: Two Japanese women in their 20s stand on Meiji Jingu Stadium's concourse, smiling and chatting, camera slowly pushes in. \n5-10s: Quick outfit changes—cut to each showing a new stylish look, twirling or adjusting hats/bags, showing off pastel and light denim pieces. \n10-15s: Both walk and laugh together, one holds a stadium snack, the other waves a cap; the evening light glows softly. Handheld and natural camera motion throughout, no overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic, smartphone-style footage. Two Japanese women in their 20s at Meiji Jingu Stadium's concourse. Handheld camera, occasional slow pan and natural push-in as they model three different pastel tone outfits. Camera tilts down for full-body shots, then up for reaction smiles. Color palette: soft beige, pastel pink, white, light blue. Subtle backlight from sunset, soft focus, real skin textures. No AI glitches or overlays."
+  },
+  "videoFile": "videos/2026-11-10.mp4"
+}
