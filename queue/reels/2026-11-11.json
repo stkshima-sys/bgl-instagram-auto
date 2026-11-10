@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-11",
+  "category": "一人観戦Vlog風",
+  "title": "一人観戦デビューヴログ＠エスコンで過ごす私だけの野球時間",
+  "scene": "エスコンのゲートをくぐる瞬間からワクワクの鼓動。売店で推しのドリンクとフードを手に取る、自然体な表情。観客席でひとり乾杯、試合後のライトアップを余韻にしながら駅へ歩く後ろ姿。",
+  "caption": "『一人で球場って、やっぱり緊張する？』…実は私も最初はそうだったけど、エスコンの入場ゲートくぐった瞬間、わくわくの方が勝っちゃった🍹売店で気になる限定ドリンクを自分のペースで選ぶ時間も、すっごく新鮮。座席に座ったら、推しカラー（私はパステルピンク♡）のグッズを並べて、ひとり乾杯！まわりにも一人観戦の女の子多くて安心したよ。試合後、ライトアップされた球場の出口を歩くとき、今日の特別な時間を思い出してほっこり。誰かと来るのもいいけど、一人で野球を楽しむ時間も、めっちゃおすすめ！次はどの球場行こうかな？一人観戦デビューの思い出、ぜひコメントで教えてね🫶 #保存推奨",
+  "hashtags": [
+    "#野球女子",
+    "#一人観戦",
+    "#球場グルメ",
+    "#エスコンフィールド",
+    "#観戦コーデ",
+    "#推し活女子",
+    "#野球観戦Vlog",
+    "#北海道おでかけ",
+    "#ベースボールガールズ",
+    "#今日の余韻"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion. Japanese woman in her 20s with natural makeup and stylish casual outfit enters Es Con Field Hokkaido alone, excitedly scanning digital ticket at the gate. She walks to a pastel-decorated food stand, thoughtfully chooses a colorful drink and snack, smiles as she pays. Cut to her sitting in the stands at sunset, surrounded by soft stadium lights, gently raising her drink for a solo 'kanpai' with a shy smile. Final shot: walking down softly lit exit pathway, pastel pink scarf swaying, stadium lights glowing in the background. Soft pastel color grading, white, beige, pastel pink, light blue tones. No text overlays, no AI artifacts.",
+    "veo": "Scene 1 (0-5s): Japanese woman in her 20s walks toward Es Con Field Hokkaido entrance in soft evening light, scans ticket with her smartphone, smiles nervously and enters. Scene 2 (5-10s): She browses a pastel-accented concession stand, selects a colorful drink and snack, and pays with a gentle nod. Scene 3 (10-15s): Sitting alone in the stands as stadium lights glow, she holds up her drink for a solo toast, then slow-motion shot of her walking from the stadium along an illuminated path, immersing in the evening afterglow. Smartphone-shot, photorealistic, soft pastel color grading, no overlays.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot look, soft pastel color grading. Start with handheld tracking shot following a Japanese woman in her 20s approaching and entering Es Con Field. Switch to a gentle handheld pan as she browses a concession stand and picks up a drink. Push-in shot as she sits solo in the stands, lifts her drink for a quiet toast. End with a handheld follow shot from behind as she walks down the softly-lit exit path, stadium lights creating a glowing bokeh. No overlays, no AI artifacts."
+  },
+  "videoFile": "videos/2026-11-11.mp4"
+}
