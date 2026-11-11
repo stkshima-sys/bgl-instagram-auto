@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-12",
+  "category": "一人観戦Vlog風",
+  "title": "甲子園で一人観戦Vlog｜私だけの野球時間",
+  "scene": "チケットを片手に甲子園のゲートをくぐる。売店でカラフルなドリンクを選び、大きなスタンドでワクワクしながら乾杯。試合後、夕暮れの帰り道で今日の余韻に浸る一人時間。",
+  "caption": "「誰かとじゃないと球場って行きづらいかも…」そんな風に思っていたけど、思い切って一人で甲子園へ。ドキドキしながらゲートをくぐった瞬間から、どこか特別な時間が始まった気がした。売店で迷って選んだカラフルなドリンク、スタンドに座って見上げたグラウンド、そして目の前に広がる景色。自分のペースで食べて、見て、感じて、気づけば夢中で“自分だけの野球時間”を楽しんでた。帰り道の夕焼けも、心にじんわり沁みてくる。一人観戦、すごくアリかも。みんなはどんな風に一人観戦を楽しんでる？コメントで教えてね☺️ 保存もぜひ！",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#甲子園",
+    "#一人観戦",
+    "#野球観戦デビュー",
+    "#スタジアム日記",
+    "#週末の過ごし方",
+    "#推し活",
+    "#暮らしを楽しむ"
+  ],
+  "prompts": {
+    "kling": "A vertical 9:16, 10-15 second photorealistic video with a natural smartphone-shot look and soft pastel grading. The subject is a stylish Japanese woman in her 20s, with natural makeup and casual-chic fashion, entering Koshien Stadium alone. She walks hand-held through the ticket gate with excitement, browses colorful drinks at a bustling concessions stand, then sits solo in the stands, holding her drink up for a self-toast, smiling at the vibrant field. The final moments follow her as she exits the stadium at dusk, the lights behind her and a gentle expression of dreamy satisfaction. No text overlays, no AI artifacts.",
+    "veo": "vertical 9:16, 10-15 seconds, photorealistic and smartphone-shot feel. 0-5s: A Japanese woman in her 20s approaches and enters Koshien Stadium alone, excitedly looking at her ticket, capturing her entry through the gate. 5-10s: She confidently walks through the lively concourse, buys a colorful drink at the concession stand, and finds her single seat in the stands, briefly holding her drink up in a self-cheers. 10-15s: After the game, she walks down the stadium steps as the sun sets, pausing at the exit to soak in the moment, softly smiling for the camera. Soft pastel white/beige/pink/blue tones, natural handheld motion, no overlays.",
+    "higgsfield": "Vertical 9:16, photorealistic, natural handheld smartphone camera. Begin with a slow push-in following a Japanese woman in her 20s as she walks toward the stadium gate; shift to a gentle pan as she explores the bustling concession area and selects a pastel drink; switch to a relaxed hand-held shot as she sits in the stands, cheers with her drink, and enjoys the field; finish with a dreamy tracking shot from behind as she exits through the stadium in the evening glow. Soft pastel color grading, no AI artifacts, no overlays."
+  },
+  "videoFile": "videos/2026-11-12.mp4"
+}
