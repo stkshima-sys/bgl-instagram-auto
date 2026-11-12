@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-13",
+  "category": "一人観戦Vlog風",
+  "title": "一人でも“好き”に浸れる野球観戦Vlog@バンテリンドーム",
+  "scene": "夕暮れのバンテリンドームに一人で入場し、ワクワクしながら売店でメニューを選ぶ。観客席でドリンク片手に乾杯、試合の雰囲気や歓声、帰り道の余韻までを自撮り＆目線ショットでエモく切り取る。『一人観戦ってこんなに楽しいんだ』と感じさせる映像構成。",
+  "caption": "「一人観戦ってハードル高そう…」私も最初はちょっとドキドキしちゃった。でも、バンテリンドームの開放感や、売店で自分のペースで好きなグルメを選ぶワクワク感。席に着いて、周りの応援やライトのきらめきに包まれると「来てよかった！」って思える🙆‍♀️ドリンクで自分に乾杯したり、ふとした瞬間に写真を撮ったり、自由な時間が心地いい。帰り道は今日の余韻にひたりながら、ちょっとだけ大人になった気持ちにも💕一人観戦、全然アリかも！みんなはどんな瞬間に“観戦の幸せ”を感じる？コメントで教えてね😊いいなって思ったら保存もしてもらえたらうれしいな！",
+  "hashtags": [
+    "#野球女子",
+    "#一人観戦",
+    "#球場グルメ",
+    "#バンテリンドーム",
+    "#観戦Vlog",
+    "#名古屋女子",
+    "#休日の過ごし方",
+    "#推し活女子",
+    "#ナゴヤドーム",
+    "#観戦コーデ"
+  ],
+  "prompts": {
+    "kling": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, Japanese woman in her 20s with natural makeup and casual stylish outfit, walking into Vantelin Dome Nagoya at sunset, handheld camera following behind her as she enters, then a smooth transition to her choosing food at a concession stand with soft pastel lighting, then sitting alone in the stadium stands holding a drink and smiling, candidly toasting the camera, capturing the glowing lights and lively crowd atmosphere, final shot is her walking alone through a softly lit concourse, with dreamy, airy pastel color grading, no text overlays, natural motion, no AI artifacts.",
+    "veo": "vertical 9:16, photorealistic, smartphone-shot look, soft pastel color grading, Japanese woman in her 20s at Vantelin Dome Nagoya. 0-5s: Close handheld shot following a casually-dressed young woman walking alone into the dome at sunset, looking around with anticipation. 5-10s: POV shot as she decides on a snack at the concession stand, hands exchanging food with the vendor, then a candid selfie-style shot finding her seat. 10-15s: Sitting in the stands, she holds up a drink toward the camera and smiles as stadium lights glow, ending with a gentle push-in of her walking alone through the evening-lit corridor, feeling content, no overlays, no AI artifacts.",
+    "higgsfield": "vertical 9:16, 10-15s, photorealistic, soft pastel color grading, natural smartphone look. Scene 1: Handheld follow shot (medium to close) as a Japanese woman in her 20s enters Vantelin Dome Nagoya. Scene 2: Handheld, quick pan left-right as she browses concession stand food. Scene 3: Handheld push-in as she sits alone in the stands, raises her drink for a casual toast, then a gentle pullback as she walks through a softly-lit concourse, relaxed and a little dreamy, focus on real human emotions, no overlays or AI artifacts."
+  },
+  "videoFile": "videos/2026-11-13.mp4"
+}
