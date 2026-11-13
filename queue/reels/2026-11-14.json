@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-14",
+  "category": "推し活動画",
+  "title": "甲子園スタンドで推し活エモリール",
+  "scene": "夕暮れの甲子園スタンドで、ユニフォーム姿の女の子たちが推しタオルやうちわを高く掲げて笑顔ではしゃぐ。熱気あふれる応援席と友達同士のアイコンタクト。ラストはナイター照明が灯るグラウンドを見つめる横顔のエモい引き。",
+  "caption": "「女子だけの推し活、やってみたいかも？」って思ったことある？実は、甲子園のスタンドって女の子同士でも、ひとりでも、全然浮かないんだよね。推しのユニフォーム着て、タオルを掲げて、大きな声で応援した瞬間、不思議と一体感が生まれて心まで熱くなる感じ！最初はちょっと勇気いるけど、隣の女の子もうちわ振ってて、自然と目が合って笑い合えるのが球場の魔法。青春って、別に学生時代だけじゃなくて、こんな推し活の中にもちゃんとあるんだなあって最近すごく感じる。みんなはどんな推し活してる？この動画が気になったら、保存してお友達にもシェアしてね。",
+  "hashtags": [
+    "#野球女子",
+    "#推し活",
+    "#観戦コーデ",
+    "#甲子園",
+    "#球場スタンド",
+    "#うちわ応援",
+    "#青春の瞬間",
+    "#球場の魔法",
+    "#女子会",
+    "#みんなの推し活"
+  ],
+  "prompts": {
+    "kling": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion, Japanese women in their 20s wearing cute baseball uniforms, holding towels and fan uchiwa, smiling and cheering energetically at Koshien Stadium stands during sunset and early night, pastel and soft color grading (white, beige, pastel pink, light blue), capture real crowd atmosphere, end with an emotional close-up side view of a girl looking at the stadium lights, no text overlays, no AI artifacts.",
+    "veo": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, Japanese women in their 20s at Koshien Stadium, pastel color grading. 0-5s: Two women put on their team jerseys and hold up colorful towels and uchiwa, laughing naturally, handheld camera, lively background. 5-10s: The crowd's excitement grows, the girls join in the chanting, exchanging glances and smiles, close-up of their hands waving towels, pan showing teammates nearby. 10-15s: As the stadium lights turn on, one girl gazes at the glowing field, emotional close-up on her side profile with soft background — no overlays, no AI artifacts.",
+    "higgsfield": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld camera throughout; begin with slight push-in on two Japanese women in their 20s in stadium stands, pan across crowd as they lift towels/uchiwa, follow with close-up shots of hands and faces, then soft pull-back showing emotional side view of girl watching the field under evening lights; pastel, soft color grading, no text, no AI artifacts."
+  },
+  "videoFile": "videos/2026-11-14.mp4"
+}
