@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-15",
+  "category": "一人観戦Vlog風",
+  "title": "ナゴヤドームで一人観戦、私だけの特別な時間",
+  "scene": "Vantelin Dome Nagoyaの正面ゲート前で、ちょっと緊張しつつ入場する女性。売店でフードやドリンクを選び、ワクワクしながら自分の席へ。座席で乾杯して観戦スタート、帰り道の夕暮れ空を見上げて余韻に浸る。",
+  "caption": "「一人で球場って大丈夫かな…？」って、実は私も最初はちょっとドキドキしてました。でも実際に来てみたら、自由に売店を巡って好きなグルメを選んだり、自分のペースで景色や応援を楽しめるのが最高なんです🍦✨みんなの熱気に混ざって大きな声で応援できるし、帰り道に今日の余韻をじっくり味わえる感じも、一人観戦ならでは。写真みたいな瞬間がどんどん増えていって、「また来よう」って思えます🩵ほんの少し勇気を出せば、新しい楽しみ方がきっと待ってるよ。みんなは一人観戦、挑戦したことある？感想やおすすめ球場グルメ、ぜひコメントで教えてね！保存もお忘れなく♪",
+  "hashtags": [
+    "#野球女子",
+    "#一人観戦",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#バンテリンドーム",
+    "#推し活女子",
+    "#休日の過ごし方",
+    "#名古屋おでかけ",
+    "#野球観戦初心者",
+    "#スポーツ女子"
+  ],
+  "prompts": {
+    "kling": "A naturalistic, vertical 9:16 smartphone-style video of a Japanese woman in her 20s, casual yet stylish, approaching the Vantelin Dome Nagoya entrance alone, looking slightly nervous but excited. Follow her as she walks inside, pauses at a food stand to choose snacks, then walks to her seat through the lively concourse. She sits down with a pastel drink, toasts to herself, then enjoys the baseball atmosphere with soft, warm stadium lights and gentle pastel color grading. The final shot shows her walking outside after the game, looking back at the dome under the evening sky, with a gentle smile. Soft focus, handheld motion, no AI artifacts.",
+    "veo": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look. 0-5s: A Japanese woman in her 20s approaches the Vantelin Dome Nagoya entrance alone, gently smiling, beige and pastel outfit, natural makeup, soft backlight. 5-10s: She navigates the bright, bustling concourse, buys a pastel-colored drink and snack at a food stand, walks to her seat, and sits down with a relieved expression. 10-15s: She toasts to herself, capturing an emotional moment under stadium lights, and later exits the dome, pausing under the pastel evening sky, content and reflective. Soft handheld camera, no text overlays, no AI artifacts.",
+    "higgsfield": "Vertical 9:16, photorealistic smartphone filming look. Start with a slow handheld push-in as a Japanese woman in her 20s walks toward the dome entrance, camera follows from behind at shoulder height. Cut to a hand-held pan as she explores the lively concourse and selects food at a stand. Then, a gentle, steady handheld shot as she walks to her seat and sits, followed by a soft push-in as she holds up her drink in a solo 'cheers' moment. Finish with a backward handheld tracking shot as she exits, pausing to look back at the dome under a pastel blue-pink dusk sky. Soft pastel grading throughout, no AI artifacts, no text."
+  },
+  "videoFile": "videos/2026-11-15.mp4"
+}
