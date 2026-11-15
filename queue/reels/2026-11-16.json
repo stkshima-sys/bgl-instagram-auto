@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-16",
+  "category": "推し活動画",
+  "title": "女の子の推し活ナイト in バンテリンドーム",
+  "scene": "夕暮れのバンテリンドームの外観から始まり、20代の女性2人がユニフォーム姿で笑顔でタオルやうちわを振って応援。スタンドの熱気と一体感の中で推し選手の登場に歓声を上げる様子を自然なスマホ撮影風で切り取る。",
+  "caption": "野球観戦って、実は女の子の推し活にもピッタリなんだよね。バンテリンドームのスタンドで、推しのユニフォームを着てタオルやうちわを全力で振る瞬間って、日常のモヤモヤもぜんぶ吹き飛ぶ！今日は友達とお気に入りのコーデで集合したけど、一人の時も自然と周りの熱気に溶け込めちゃうのが球場のいいところ。応援に夢中でつい泣きそうになったり、気づけば隣の人ともハイタッチしてたり…野球女子の推し活、最高にエモいかも。みんなの推し活エピソードもぜひ教えてね！この動画、ちょっとでも共感したら保存して次の推し活の参考にしてね⚾️💗",
+  "hashtags": [
+    "#野球女子",
+    "#推し活",
+    "#観戦コーデ",
+    "#バンテリンドーム",
+    "#一人観戦デビュー",
+    "#うちわ応援",
+    "#球場ライフ",
+    "#女子会",
+    "#ナイター観戦",
+    "#野球観戦初心者"
+  ],
+  "prompts": {
+    "kling": "Vertical 9:16 video, 10-15 seconds, photorealistic and natural smartphone-shot look. Two Japanese women in their 20s, natural makeup, stylish and casual, wearing team uniforms at Vantelin Dome Nagoya. First scene: sunset glow outside the dome, soft pastel color grading. Next, handheld camera moves with the girls walking through the concourse, laughing, then cheering in the stands—one raising a towel, the other waving an uchiwa, immersed in the atmosphere. The background is crowded but cozy, with warm stadium lighting and excited fans around. No text overlays, no AI artifacts.",
+    "veo": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, soft pastel color grading. 0-5s: Exterior of Vantelin Dome at sunset, handheld camera pans to two Japanese women in their 20s, fashionable, in team uniforms, approaching the entrance. 5-10s: Close-up as they walk through the lively concourse, smiling, showing matching towels and uchiwa, the crowd around them. 10-15s: In the stands at night, one girl raises a towel, the other waves an uchiwa, both cheer joyfully for their favorite player, surrounded by the vibrant crowd.",
+    "higgsfield": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot, soft pastel tones. Handheld camera starts with a medium pan across the sunset-lit Vantelin Dome. Push-in as two Japanese women in their 20s, in cute team uniforms, approach and enter the stadium. Cut to energetic handheld follow as they walk through the concourse, then push-in and slight tilt-up in the stands as they cheer—one swings a towel, the other waves an uchiwa. Realistic crowd, warm stadium lights, no overlays or AI artifacts."
+  },
+  "videoFile": "videos/2026-11-16.mp4"
+}
