@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-17",
+  "category": "球場グルメ紹介",
+  "title": "横浜スタジアムで食べたい！球場グルメとビールで乾杯リール",
+  "scene": "1人の20代女性が横浜スタジアムの観客席で、明るい笑顔で球場グルメを手に持ちカメラに見せる。グルメを一口食べて、思わず幸せそうな表情。夕暮れのスタンドでビールを手に上げて「カンパイ！」する、柔らかな光と会場の臨場感が伝わる映像。",
+  "caption": "「球場グルメって、なんでこんなに特別なんだろう？」\nひとり観戦でも、友達とでも、横浜スタジアムのグルメは絶対に外せない！今日は大人気のベイスターズ焼きそばと名物チュロスを片手に、試合開始前からもうワクワク。スタンドの心地いい風と、夕暮れに照らされる球場が最高のスパイスかも🍺✨一口食べるたびに『また来たい』って思う…その瞬間をみんなとシェアしたくて、今日はリールにしてみたよ。\n観戦初心者さんやひとり観戦デビューの方にも「球場で何食べよう？」って迷った時に参考になったら嬉しいな！あなたのおすすめグルメもコメントで教えてね。気になった人はぜひ保存して後でチェックしてみてください☺️",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#横浜スタジアム",
+    "#スタジアムごはん",
+    "#観戦コーデ",
+    "#ひとり観戦女子",
+    "#推し活",
+    "#ベイスターズ",
+    "#週末の過ごし方",
+    "#野球観戦デビュー"
+  ],
+  "prompts": {
+    "kling": "A photorealistic, handheld vertical video at Yokohama Stadium. A stylish Japanese woman in her 20s with natural makeup, wearing a soft pastel casual outfit, holds up a popular stadium gourmet snack (yakisoba or churros) and smiles at the camera in the stands. She takes a bite, savoring the taste. In the soft evening light, she raises a clear plastic cup of beer, looks at the camera, and cheers. Background includes out-of-focus stadium crowd, warm lighting, and a lively game-day atmosphere. Color palette is soft: white, beige, pastel pink and light blue, natural and inviting, no visible AI artifacts.",
+    "veo": "Vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion, soft pastel color grading. 0-5s: Close-up handheld shot of a Japanese woman in her 20s at Yokohama Stadium smiling and showing a gourmet snack to the camera. 5-10s: She takes a bite, looks happy and content, with the stadium scene softly blurred in the background. 10-15s: Medium shot as she raises a beer towards the camera, toasts 'kanpai' with a gentle laugh, bathed in sunset glow and stadium lights, no text overlays.",
+    "higgsfield": "Vertical 9:16, photorealistic, soft pastel tones. Start with a smooth handheld push-in on a Japanese woman in her 20s in the Yokohama Stadium stands, holding up stadium food and smiling. Transition to an over-the-shoulder handheld shot as she tastes the food and expresses delight. End with a handheld pan and slight tilt up as she raises her beer for a 'cheers' gesture in the warm evening light, with stadium atmosphere and crowd softly in the background, no visible AI artifacts, no overlays."
+  },
+  "videoFile": "videos/2026-11-17.mp4"
+}
