@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-18",
+  "category": "球場グルメ紹介",
+  "title": "エスコン球場グルメ女子旅リール",
+  "scene": "1人の20代女性がEs Con Field Hokkaidoの売店で人気の球場グルメ（ジンギスカン丼）を購入。観客席に座り、友達とパステルカラーのビールで乾杯＆笑顔で一口。夕暮れの球場にふんわり馴染むナチュラルな雰囲気。",
+  "caption": "野球観戦って、実はグルメ天国だって知ってた？🍴今日はエスコンフィールド北海道で、友達と“ジンギスカン丼”とカラフルなクラフトビールを片手に乾杯してきたよ！グラウンドを眺めながら、特別な一体感とワクワク感を感じる瞬間。球場ならではのご当地メニューって、なんだか旅気分も味わえて、つい保存したくなっちゃう。みんなはどんな球場グルメが好き？コメントで教えてね！気になる人はぜひ保存して、今度のお出かけの参考にしてみてね。",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#エスコンフィールド北海道",
+    "#グルメ旅",
+    "#ジンギスカン丼",
+    "#クラフトビール",
+    "#推し活",
+    "#おしゃれ女子",
+    "#休日の過ごし方"
+  ],
+  "prompts": {
+    "kling": "vertical 9:16, 10-15s, photorealistic, smartphone-shot look, natural handheld motion, two stylish Japanese women in their 20s at Es Con Field Hokkaido; one holds a bowl of lamb rice (jingisukan-don), both smile and clink pastel-colored beers, then take a bite, sitting in soft-lit stadium seats at sunset; soft pastel color grading emphasizing white, beige, pastel pink, and light blue tones, authentic crowd and lively atmosphere in the background, no text overlays, no AI artifacts.",
+    "veo": "vertical 9:16, photorealistic, smartphone-shot look, natural handheld motion, soft pastel tones. 0-5s: Close-up of a stylish Japanese woman (20s) happily receiving a jingisukan-don at Es Con Field Hokkaido's food stall. 5-10s: She joins her friend at pastel-colored stadium seats, they smile and clink pastel-hued beers together. 10-15s: Both women take a bite of the food, laughing in the soft glow of a sunset game, crowd in background; colors soft, natural, magazine-like.",
+    "higgsfield": "vertical 9:16, photorealistic, smartphone-shot look, two fashionable Japanese women in their 20s at Es Con Field Hokkaido. Camera: handheld, pans from food stall to seats, soft push-in as women toast pastel-colored beers; gentle shake as one takes a bite and the other laughs; soft pastel color tones with evening stadium lighting. No text overlays, no AI look."
+  },
+  "videoFile": "videos/2026-11-18.mp4"
+}
