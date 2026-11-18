@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-19",
+  "category": "一人観戦Vlog風",
+  "title": "一人観戦Vlog｜PayPayドームで“私だけの時間”を楽しむ",
+  "scene": "夕方のPayPayドーム外でチケットを手に入場ゲートに向かう。球場内の売店でフードやドリンクを選ぶ手元、ワクワクした表情。座席で球場を見渡しながら乾杯、打球音や歓声に包まれる瞬間。試合後、ドーム外の夜景を歩きながら余韻をかみしめる。",
+  "caption": "「一人で野球観戦…ちょっとハードル高いかも？」そんな不安、実は私も最初は感じてたんです😌\n\nだけど、PayPayドームの雰囲気って本当にあったかくて、売店もコーデも自分だけのペースで全部楽しめるのが実は一人観戦の特権！ドームの中を歩く時、推しタオルを握りしめながら“今日は自分のための日”って思っちゃいました。\n\nグルメ選びや座席での乾杯、そして帰り道の余韻…全部がちょっと大人なご褒美時間に変わる気がする。やっぱり、一人時間って大事だよね。\n\n「私も一人観戦してみたい！」って思った方、ぜひ感想や“やってみたいこと”コメントで教えてね♡ 保存もお忘れなく☺️",
+  "hashtags": [
+    "#野球女子",
+    "#一人観戦",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#PayPayドーム",
+    "#推し活",
+    "#福岡女子",
+    "#趣味時間",
+    "#休日の過ごし方",
+    "#野球観戦ライフ"
+  ],
+  "prompts": {
+    "kling": "A photorealistic vertical video (9:16, 10-15s) resembling casual smartphone footage, featuring a stylish Japanese woman in her 20s at PayPay Dome Fukuoka. She walks alone towards the stadium with a ticket in hand during golden hour, stops at a food stand to choose a cute snack and drink, then finds her seat in the pastel-lit stands. She looks around with a gentle smile, raises her drink for a solo cheers with the field view. After the game, she strolls outside under soft evening city lights, feeling the warm afterglow. Soft, pastel color palette (white, beige, pastel pink, light blue), natural handheld motion, realistic lighting, no text overlays, no AI artifacts.",
+    "veo": "Vertical, 9:16, photorealistic smartphone style. 0-5s: Close-up of a Japanese woman in her 20s, stylish and natural, entering PayPay Dome with a paper ticket; the dome's exterior glows in golden hour light. 5-10s: POV and side shots of her hands picking up colorful ballpark food and drinks at a lively stadium shop, her excited expression, then walking up to her seat. 10-15s: She sits alone in soft pastel-lit stands, smiles at the field, does a shy one-person cheers; after the game she walks outside in the night breeze, soaking in the stadium lights and quiet city atmosphere. No text overlays, handheld motion, soft pastel color grading.",
+    "higgsfield": "Vertical 9:16, photorealistic, smartphone-shot look. Sequence: 1) Handheld pan following a Japanese woman in her 20s as she walks toward PayPay Dome at sunset, ticket in hand; 2) Over-the-shoulder handheld shot as she browses and selects food/drinks at a stadium vendor, capturing subtle facial expressions; 3) Gentle handheld push-in as she sits solo in her seat, raises her drink in a small solo toast with the field behind; 4) Slow handheld tracking as she exits the stadium at night, city lights and her smile captured in soft pastel tones. No text or AI glitches."
+  },
+  "videoFile": "videos/2026-11-19.mp4"
+}
