@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-18",
+  "slot": "evening",
+  "category": "球場グルメ",
+  "title": "映えも満腹も♡東京ドームグルメ7選",
+  "slides": [
+    {
+      "heading": "まずは定番！ジャンボ唐揚げ",
+      "body": "東京ドームに行ったら外せないのが名物のジャンボ唐揚げ🍗\n熱々ジューシーで、片手で食べやすいのもポイント。迷ったらこれ！"
+    },
+    {
+      "heading": "写真映えNo.1！まるごとフルーツかき氷",
+      "body": "見た目も可愛いフルーツまるごとかき氷🍓🍋\n暑いナイター観戦の日にぴったり！売店は3塁側入口近くが穴場だよ。"
+    },
+    {
+      "heading": "ガッツリ派に♡牛カルビ丼",
+      "body": "しっかり食べたい日は牛カルビ丼がおすすめ！\nボリューム満点なのに1000円以下。\n売り切れ注意なので早めにチェックしてね。"
+    },
+    {
+      "heading": "女子人気◎マンゴースムージー",
+      "body": "マンゴースムージーは喉が渇いたときにぴったり♪\nさっぱりしててリピしてる人も多いよ。\n1塁側3階の売店で買えるよ🍹"
+    },
+    {
+      "heading": "小腹満たしに♡ロングポテト",
+      "body": "観戦しながらつまめるロングポテトは意外と人気！\n友達とシェアできる長さが可愛い。\n大きめカップで満足感あり🍟"
+    },
+    {
+      "heading": "食べる順番おすすめ💡",
+      "body": "最初はスナック系、試合中盤でがっつり系、\nデザートはラストにすると気分も満たされるよ♪\nみんなの食べ方も教えてほしいな！"
+    },
+    {
+      "heading": "売店の場所＆穴場情報",
+      "body": "人気メニューは売店によって混み具合が全然違う！\n外野席近くや上層階の売店は列が短め。\n時間をズラすのもコツ。"
+    }
+  ],
+  "caption": "球場グルメって、何食べるか悩むこと多くない？🍴\n今日は東京ドームで実際に食べて「映えも満腹も叶う」推しグルメを7つまとめてみたよ！定番から新作、売店の穴場情報や食べる順番まで…実は知るとめっちゃ観戦が楽しくなるんだよね。\nみんなの推しグルメもぜひコメントで教えてほしいな♡「次行くときはこれ食べよう」って思ったら保存してね！ #野球女子 の輪が広がりますように🌸\n\n⇒他の球場のグルメも今後紹介予定！お楽しみに。",
+  "hashtags": [
+    "#野球女子",
+    "#球場グルメ",
+    "#観戦コーデ",
+    "#東京ドーム",
+    "#おしゃれ女子",
+    "#食べ歩き",
+    "#一人観戦デビュー",
+    "#推し活ごはん",
+    "#友達とシェア",
+    "#野球観戦初心者"
+  ],
+  "coverImagePrompt": "Japanese women in their twenties enjoying food and baseball at Tokyo Dome stadium, casual feminine fashion, soft pastel tones (white, beige, pastel pink, light blue), photorealistic, natural lighting, Japanese fashion magazine aesthetic, no text",
+  "images": [
+    "media/carousel/2026-11-18_evening/01_cover.jpg",
+    "media/carousel/2026-11-18_evening/02_slide.jpg",
+    "media/carousel/2026-11-18_evening/03_slide.jpg",
+    "media/carousel/2026-11-18_evening/04_slide.jpg",
+    "media/carousel/2026-11-18_evening/05_slide.jpg",
+    "media/carousel/2026-11-18_evening/06_slide.jpg",
+    "media/carousel/2026-11-18_evening/07_slide.jpg",
+    "media/carousel/2026-11-18_evening/08_slide.jpg",
+    "media/carousel/2026-11-18_evening/09_cta.jpg"
+  ]
+}
