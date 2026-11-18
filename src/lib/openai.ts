@@ -4,8 +4,10 @@ import { env } from "../config/env.js";
 
 const client = new OpenAI({ apiKey: env.openaiApiKey });
 
-const TEXT_MODEL = "gpt-4.1";
-const IMAGE_MODEL = "gpt-image-1";
+// モデル廃止時は環境変数（GitHub Variables）で上書きできる
+// ※gpt-image-1は2026-10-23廃止 → gpt-image-2へ移行済み
+const TEXT_MODEL = process.env.OPENAI_TEXT_MODEL ?? "gpt-4.1";
+const IMAGE_MODEL = process.env.OPENAI_IMAGE_MODEL ?? "gpt-image-2";
 
 /**
  * JSONを返すチャット呼び出し。パース失敗時は1回リトライ。
