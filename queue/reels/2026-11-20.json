@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-20",
+  "category": "初心者の一日",
+  "title": "はじめての甲子園観戦ドキドキ1dayリール",
+  "scene": "1人で甲子園に向かう電車内で緊張した表情→観客席でユニを羽織りワクワクし始める→夕暮れのスタジアムで憧れのプレイを観て笑顔に変わる。リアルでちょっとエモいデイリースナップ風。",
+  "caption": "初めて一人で甲子園に行ってみた日。朝からドキドキして、電車の中では『大丈夫かな…』って不安いっぱい。でも、球場に着いた瞬間に開放感とかワクワクが一気に広がって、売店のにぎやかさや、スタンドの熱気に自然と気持ちが高まったよ🥺✨　ユニフォームを羽織って席に座った時、ちょっぴり勇気が出て『来てよかった！』って思えた。夕方、夕日に照らされるグラウンドや、好きな選手が全力プレーしてる姿にすごく感動して…なんだか日常から一歩踏み出せた気がしたな。初観戦、勇気いるけど、絶対その一歩が思い出になるから！\nみんなも初めての球場、一人ならではの楽しみ方はある？コメントで教えてね💕保存して次の観戦の参考にもどうぞ！",
+  "hashtags": [
+    "#野球女子",
+    "#観戦初心者",
+    "#一人観戦",
+    "#甲子園",
+    "#球場デビュー",
+    "#観戦コーデ",
+    "#ベースボールライフ",
+    "#女性のひとり時間",
+    "#推し活",
+    "#球場グルメ"
+  ],
+  "prompts": {
+    "kling": "A photorealistic vertical video, smartphone-shot look, 10-15s, showing two Japanese women in their 20s. First scene: one woman alone on a train, looking nervous, soft natural daylight, pastel tones. Cut to: same woman walking through Koshien Stadium concourse, eyes wide with excitement, surrounded by other fans and food stalls. Last scene: sitting in the stands at sunset, both women (or the same woman if alone) in casual-cute baseball outfit, smiling and cheering, soft handheld motion, cinematic shallow depth, no overlays, no AI artifacts.",
+    "veo": "vertical 9:16, photorealistic, soft pastel color grading, natural smartphone-shot look with handheld motion.\n0–5s: Japanese woman in her 20s on a train, looking out the window, visibly nervous, natural daylight, casual but stylish.\n5–10s: She walks through Koshien Stadium concourse, eyes sparkling, pausing to look at vendors and fans, takes a breath and smiles.\n10–15s: In the stands at sunset, she puts on a baseball jersey, claps and cheers, visibly happy and relaxed, the stadium lights glow softly.",
+    "higgsfield": "vertical 9:16, photorealistic, soft pastel color, smartphone-shot look. Scene 1: handheld tracking from front as Japanese woman in her 20s nervously rides train, looking out the window. Scene 2: slow handheld pan as she walks through stadium concourse, bright eyes, pastel crowd. Scene 3: handheld push-in from behind as she sits in the stands, puts on team jersey, then handheld close-up of her smiling under sunset stadium lights, atmosphere warm and dreamy."
+  },
+  "videoFile": "videos/2026-11-20.mp4"
+}
